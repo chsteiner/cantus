@@ -1,0 +1,1642 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Steiner, Christian (christian.steiner@uni-graz.at)</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>No publication statement</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A TEI file automatically converted from a XSLX file.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <head>all_feasts_seckau3</head>
+                <row n="1">
+                    <cell>Feast</cell>
+                    <cell>Cantus ID</cell>
+                    <cell>Commune</cell>
+                </row>
+                <row n="2">
+                    <cell>IN VIGILIA PENTECOSTES</cell>
+                    <cell>08077000</cell>
+                </row>
+                <row n="3">
+                    <cell>IN NOCTE PENTECOSTES</cell>
+                    <cell>08081000</cell>
+                </row>
+                <row n="4">
+                    <cell>IN DIE SANCTO PENTECOSTES</cell>
+                    <cell>08081000</cell>
+                </row>
+                <row n="5">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell>08082000</cell>
+                </row>
+                <row n="6">
+                    <cell>FERIA TERTIA</cell>
+                    <cell>08083000</cell>
+                </row>
+                <row n="7">
+                    <cell>FERIA QUARTA</cell>
+                    <cell>08084000</cell>
+                </row>
+                <row n="8">
+                    <cell>FERIA QUINTA</cell>
+                    <cell>08085000</cell>
+                </row>
+                <row n="9">
+                    <cell>FERIA SEXTA</cell>
+                    <cell>08086000</cell>
+                </row>
+                <row n="10">
+                    <cell>SABBATO POST PENTECOSTES</cell>
+                    <cell>08087000</cell>
+                </row>
+                <row n="11">
+                    <cell>IN FESTO SANCTISSIMAE ET INDIVIDUAE TRINITATIS</cell>
+                    <cell>09011000</cell>
+                </row>
+                <row n="12">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell>09012000</cell>
+                </row>
+                <row n="13">
+                    <cell>FERIA TERTIA</cell>
+                    <cell>09013000</cell>
+                </row>
+                <row n="14">
+                    <cell>DE SANCTA MARIA</cell>
+                    <cell>15081510</cell>
+                </row>
+                <row n="15">
+                    <cell>FERIA QUARTA ANTE SOLLEMNITATEM CORPORIS CHRISTI</cell>
+                    <cell>09014000</cell>
+                </row>
+                <row n="16">
+                    <cell>FERIA SEXTA</cell>
+                    <cell>09016000</cell>
+                </row>
+                <row n="17">
+                    <cell>DE SANCTO URBANO PAPAE ET MARTYRIS</cell>
+                    <cell>14052510</cell>
+                </row>
+                <row n="18">
+                    <cell>NICOMEDIS MARTYRIS</cell>
+                    <cell>14091530</cell>
+                </row>
+                <row n="19">
+                    <cell>MARCELLINI ET PETRI MARTYRUM</cell>
+                    <cell>14060200</cell>
+                </row>
+                <row n="20">
+                    <cell>ERASMI EPISCOPI ET MARTYRIS</cell>
+                    <cell>14060300</cell>
+                </row>
+                <row n="21">
+                    <cell>BONIFACII ET SOCIORUM EIUS</cell>
+                    <cell>14060500</cell>
+                </row>
+                <row n="22">
+                    <cell>PRIMI ET FELICIANI MARTYRUM</cell>
+                    <cell>14060900</cell>
+                </row>
+                <row n="23">
+                    <cell>BARNABAE APOSTOLI</cell>
+                    <cell>14061100</cell>
+                </row>
+                <row n="24">
+                    <cell>BASILIDIS CYRINI NABORIS ET NAZARII</cell>
+                    <cell>14061200</cell>
+                </row>
+                <row n="25">
+                    <cell>VITI MODESTI ET CRESCENTIAE MARTYRUM</cell>
+                    <cell>14061510</cell>
+                </row>
+                <row n="26">
+                    <cell>MARCI ET MARCELLIANI MARTYRUM</cell>
+                    <cell>14061800</cell>
+                </row>
+                <row n="27">
+                    <cell>GERVASI ET PROTASII MARTYRUM</cell>
+                    <cell>14061900</cell>
+                </row>
+                <row n="28">
+                    <cell>ALBANI MARTYRIS</cell>
+                    <cell>14062100</cell>
+                </row>
+                <row n="29">
+                    <cell>ACHACII ET SOCIORUM EIUS</cell>
+                    <cell>14062220</cell>
+                </row>
+                <row n="30">
+                    <cell>IN VIGILIA SANCTI IOANNIS BAPTISTAE</cell>
+                    <cell>14062300</cell>
+                </row>
+                <row n="31">
+                    <cell>DE SANCTO IOANNE BAPTISTA PRAECURSORIS DOMINI</cell>
+                    <cell>14062400</cell>
+                </row>
+                <row n="32">
+                    <cell>IOANNIS ET PAULI MARTYRUM</cell>
+                    <cell>14062600</cell>
+                </row>
+                <row n="33">
+                    <cell>DE SANCTO LEONE</cell>
+                    <cell>14062800</cell>
+                </row>
+                <row n="34">
+                    <cell>SABBATO POST FESTUM CORPORIS CHRISTI</cell>
+                    <cell>09017000</cell>
+                </row>
+                <row n="35">
+                    <cell>DOMINICA POST FESTUM CORPORIS CHRISTI</cell>
+                    <cell>09021010</cell>
+                </row>
+                <row n="36">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell>09022000</cell>
+                </row>
+                <row n="37">
+                    <cell>FERIA TERTIA</cell>
+                    <cell>09023000</cell>
+                </row>
+                <row n="38">
+                    <cell>FERIA QUARTA</cell>
+                    <cell>09024000</cell>
+                </row>
+                <row n="39">
+                    <cell>IN OCTAVA CORPORIS CHRISTI</cell>
+                    <cell>09025000</cell>
+                </row>
+                <row n="40">
+                    <cell>FERIA SEXTA POST OCTAVAM CORPORIS CHRISTI</cell>
+                    <cell>09026000</cell>
+                </row>
+                <row n="41">
+                    <cell>IN VIGILIA PETRI ET PAULI APOSTOLORUM</cell>
+                    <cell>14062810</cell>
+                </row>
+                <row n="42">
+                    <cell>DE SANCTO PETRO ET PAULO APOSTOLORUM</cell>
+                    <cell>14062900</cell>
+                </row>
+                <row n="43">
+                    <cell>DE COMMEMORATIONE SANCTI PAULI</cell>
+                    <cell>14063000</cell>
+                </row>
+                <row n="44">
+                    <cell>IN OCTAVA SANCTE IOANNIS BAPTISTAE</cell>
+                    <cell>14070100</cell>
+                </row>
+                <row n="45">
+                    <cell>DOMINICA SECUNDA POST FESTUM SANCTAE TRINITATIS</cell>
+                    <cell>09031000</cell>
+                </row>
+                <row n="46">
+                    <cell>IN FESTO VISITATIONIS BEATAE MARIAE VIRGINIS</cell>
+                    <cell>14070200</cell>
+                </row>
+                <row n="47">
+                    <cell>DE VISITATIONE BMV INFRA OCTAVAM</cell>
+                    <cell>14070208</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="48">
+                    <cell>DE VISITATIONE BMV INFRA OCTAVAM</cell>
+                    <cell>14070208</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="49">
+                    <cell>DE VISITATIONE BMV INFRA OCTAVAM</cell>
+                    <cell>14070208</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="50">
+                    <cell>IN OCTAVA APOSTOLORUM PETRI ET PAULI</cell>
+                    <cell>14070600</cell>
+                </row>
+                <row n="51">
+                    <cell>WILLIBALDI CONFESSORIS ET PONTIFICIS</cell>
+                    <cell>14070700</cell>
+                </row>
+                <row n="52">
+                    <cell>DE VISITATIONE BMV INFRA OCTAVAM</cell>
+                    <cell>14070208</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="53">
+                    <cell>DE SANCTO KILIANO ET EIUS SOCIORUM</cell>
+                    <cell>14070810</cell>
+                </row>
+                <row n="54">
+                    <cell>DE VISITATIONE BMV INFRA OCTAVAM</cell>
+                    <cell>14070208</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="55">
+                    <cell>IN OCTAVA VISITATIONIS BEATAE MARIAE</cell>
+                    <cell>14070900</cell>
+                </row>
+                <row n="56">
+                    <cell>IN FESTO SEPTEM FRATRUM</cell>
+                    <cell>14071000</cell>
+                </row>
+                <row n="57">
+                    <cell>IN TRANSLATIONE SANCTI BENEDICTI</cell>
+                    <cell>14071100</cell>
+                </row>
+                <row n="58">
+                    <cell>IN FESTO MARGARITAE VIRGINIS</cell>
+                    <cell>14072010</cell>
+                </row>
+                <row n="59">
+                    <cell>DE SANCTO HEINRICO IMPERATORE</cell>
+                    <cell>14071300</cell>
+                </row>
+                <row n="60">
+                    <cell>DOMINICA QUARTA POST FESTUM SANCTAE TRINITATIS</cell>
+                    <cell>09051000</cell>
+                </row>
+                <row n="61">
+                    <cell>IN FESTO DIVISIONIS APOSTOLORUM</cell>
+                    <cell>14071510</cell>
+                </row>
+                <row n="62">
+                    <cell>FERIA TERTIA POST QUARTAM DOMINICAM TRINITATIS</cell>
+                    <cell>09053000</cell>
+                </row>
+                <row n="63">
+                    <cell>DE SANCTO ALEXIO</cell>
+                    <cell>14071700</cell>
+                </row>
+                <row n="64">
+                    <cell>IN OCTAVA DIVAE MARGARITAE</cell>
+                    <cell>14072730</cell>
+                </row>
+                <row n="65">
+                    <cell>PRAXEDIS VIRGINIS</cell>
+                    <cell>14072100</cell>
+                </row>
+                <row n="66">
+                    <cell>DOMINICA QUINTA POST FESTUM TRINITATIS</cell>
+                    <cell>09061000</cell>
+                </row>
+                <row n="67">
+                    <cell>IN DIE SANCTAE MARIAE MAGDALENAE</cell>
+                    <cell>14072200</cell>
+                </row>
+                <row n="68">
+                    <cell>DE SANCTO APOLLINARE</cell>
+                    <cell>14072320</cell>
+                </row>
+                <row n="69">
+                    <cell>IN DIE SANCTAE CHRISTINAE VIRGINIS</cell>
+                    <cell>14072400</cell>
+                </row>
+                <row n="70">
+                    <cell>IN VIGILIA IACOBI APOSTOLI</cell>
+                    <cell>14072410</cell>
+                </row>
+                <row n="71">
+                    <cell>DE SANCTO IACOBO APOSTOLO</cell>
+                    <cell>14072500</cell>
+                </row>
+                <row n="72">
+                    <cell>DE SANCTA ANNA MATRIS MARIAE</cell>
+                    <cell>14072610</cell>
+                </row>
+                <row n="73">
+                    <cell>DE SANCTA MARTHA</cell>
+                    <cell>14072930</cell>
+                </row>
+                <row n="74">
+                    <cell>DE SANCTO PANTALEONE</cell>
+                    <cell>14072700</cell>
+                </row>
+                <row n="75">
+                    <cell>DOMINICA SEXTA POST TRINITATIS</cell>
+                    <cell>09071000</cell>
+                </row>
+                <row n="76">
+                    <cell>DE SANCTO FELICE</cell>
+                    <cell>14072920</cell>
+                </row>
+                <row n="77">
+                    <cell>ABDON ET SENNES</cell>
+                    <cell>14073000</cell>
+                </row>
+                <row n="78">
+                    <cell>AD VINCULA SANCTI PETRI</cell>
+                    <cell>14080100</cell>
+                </row>
+                <row n="79">
+                    <cell>DE SANCTO STEPHANO PAPA ET MARTYRE</cell>
+                    <cell>14080200</cell>
+                </row>
+                <row n="80">
+                    <cell>DE INVENTIONE SANCTI STEPHANI PROTOMARTYRIS</cell>
+                    <cell>14080300</cell>
+                </row>
+                <row n="81">
+                    <cell>DOMINICA SEPTIMA POST TRINITATIS</cell>
+                    <cell>09081000</cell>
+                </row>
+                <row n="82">
+                    <cell>DE SANCTO OSWALDO REGE ET MARTYRE</cell>
+                    <cell>14080510</cell>
+                </row>
+                <row n="83">
+                    <cell>IN DIE FESTO TRANFIGURATIONISTRANSFIGURATIONIS DOMINI</cell>
+                    <cell>14080600</cell>
+                </row>
+                <row n="84">
+                    <cell>DE SANCTA AFRA ATQUE SODALIUM EIUS</cell>
+                    <cell>14080500</cell>
+                </row>
+                <row n="85">
+                    <cell>DE SANCTO CYRIACO ET SOCIORUM EIUS</cell>
+                    <cell>14080800</cell>
+                </row>
+                <row n="86">
+                    <cell>IN VIGILIA LAURENTII</cell>
+                    <cell>14080910</cell>
+                </row>
+                <row n="87">
+                    <cell>DE SANCTO LAURENTIO</cell>
+                    <cell>14081000</cell>
+                </row>
+                <row n="88">
+                    <cell>DE SANCTO TIBURTIO</cell>
+                    <cell>14081100</cell>
+                </row>
+                <row n="89">
+                    <cell>DOMINICA OCTAVA POST TRINITATIS</cell>
+                    <cell>09091000</cell>
+                </row>
+                <row n="90">
+                    <cell>DE SANCTO HIPPOLYTO ET SOCIORUM EIUS</cell>
+                    <cell>14081300</cell>
+                </row>
+                <row n="91">
+                    <cell>DE SANCTO EUSEBIO</cell>
+                    <cell>14081400</cell>
+                </row>
+                <row n="92">
+                    <cell>IN FESTO ASSUMPTIONIS GLORIOSAE VIRGINIS MARIAE</cell>
+                    <cell>14081500</cell>
+                </row>
+                <row n="93">
+                    <cell>INFRA OCTAVAM ASSUMPTIONIS BMV</cell>
+                    <cell>14081508</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="94">
+                    <cell>KOMMENTAR</cell>
+                </row>
+                <row n="95">
+                    <cell>INFRA OCTAVAM ASSUMPTIONIS BMV</cell>
+                    <cell>14081508</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="96">
+                    <cell>DE OCTAVA DIVI LAURENTII</cell>
+                    <cell>14081630</cell>
+                </row>
+                <row n="97">
+                    <cell>SABBATO POST FESTUM ASSUMPTIONIS MARIAE</cell>
+                    <cell>14081508</cell>
+                </row>
+                <row n="98">
+                    <cell>DE SANCTO AGAPITO MARTYRE</cell>
+                    <cell>14081800</cell>
+                </row>
+                <row n="99">
+                    <cell>INFRA OCTAVAM ASSUMPTIONIS BMV</cell>
+                    <cell>14081508</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="100">
+                    <cell>DOMINICA NONA POST FESTUM SANCTAE TRINITATIS</cell>
+                    <cell>09101000</cell>
+                </row>
+                <row n="101">
+                    <cell>DE SANCTO MAGNO MARTYRE</cell>
+                    <cell>14081920</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="102">
+                    <cell>INFRA OCTAVAM ASSUMPTIONIS BMV</cell>
+                    <cell>14081508</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="103">
+                    <cell>INFRA OCTAVAM ASSUMPTIONIS BMV</cell>
+                    <cell>14081508</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="104">
+                    <cell>INFRA OCTAVAM ASSUMPTIONIS BMV</cell>
+                    <cell>14081508</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="105">
+                    <cell>DE OCTAVA ASSUMPTIONIS BEATAE MARIAE</cell>
+                    <cell>14082210</cell>
+                </row>
+                <row n="106">
+                    <cell>IN VIGILIA SANCTI BARTHOLOMAEI APOSTOLI</cell>
+                    <cell>14082320</cell>
+                </row>
+                <row n="107">
+                    <cell>DE SANCTO BARTHOLOMAEO APOSTOLO</cell>
+                    <cell>14082400</cell>
+                </row>
+                <row n="108">
+                    <cell>DOMINICA DECIMA POST TRINITATIS</cell>
+                    <cell>09111000</cell>
+                </row>
+                <row n="109">
+                    <cell>DE SANCTO RUFO MARTYRE</cell>
+                    <cell>14082820</cell>
+                </row>
+                <row n="110">
+                    <cell>DE SANCTO AUGUSTINO</cell>
+                    <cell>14082800</cell>
+                </row>
+                <row n="111">
+                    <cell>INFRA OCTAVAM SANCTI AUGUSTINI</cell>
+                    <cell>14082808</cell>
+                </row>
+                <row n="112">
+                    <cell>IN DECOLLATIONE SANCTI IOANNIS BAPTISTAE</cell>
+                    <cell>14082900</cell>
+                </row>
+                <row n="113">
+                    <cell>DE SANCTIS FELICE ET AUDACTOADAUCTO</cell>
+                    <cell>14083000</cell>
+                </row>
+                <row n="114">
+                    <cell>AEGIDII CONFESSORIS</cell>
+                    <cell>14090100</cell>
+                </row>
+                <row n="115">
+                    <cell>DOMINICA UNDECIMA POST TRINITATIS</cell>
+                    <cell>09121000</cell>
+                </row>
+                <row n="116">
+                    <cell>IN OCTAVA DIVI AUGUSTINI</cell>
+                    <cell>14090400</cell>
+                </row>
+                <row n="117">
+                    <cell>DE SANCTO MAGNO CONFESSORE</cell>
+                    <cell>14090610</cell>
+                </row>
+                <row n="118">
+                    <cell>DOMINICAM DUODECIMAM</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>Kommentar</cell>
+                </row>
+                <row n="119">
+                    <cell>DE NATIVITATE SANCTAE MARIAE VIRGINIS</cell>
+                    <cell>14090800</cell>
+                </row>
+                <row n="120">
+                    <cell>DOMINICA DUODECIMA POST TRINITATIS</cell>
+                    <cell>09131000</cell>
+                </row>
+                <row n="121">
+                    <cell>INFRA OCTAVAM NATIVITATIS BEATAE MARIAE</cell>
+                    <cell>14090800</cell>
+                </row>
+                <row n="122">
+                    <cell>INFRA OCTAVAM NATIVITATIS BEATAE MARIAE</cell>
+                    <cell>14090800</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="123">
+                    <cell>IN EXALTATIONE SANCTAE CRUCIS</cell>
+                    <cell>14091400</cell>
+                </row>
+                <row n="124">
+                    <cell>IN OCTAVA NATIVITATIS MARIAE</cell>
+                    <cell>14091510</cell>
+                </row>
+                <row n="125">
+                    <cell>DOMINICA TERTIADECIMA POST TRINITATIS</cell>
+                    <cell>09141000</cell>
+                </row>
+                <row n="126">
+                    <cell>IN DEDICATIONE ECCLESIAE</cell>
+                    <cell>12008000</cell>
+                </row>
+                <row n="127">
+                    <cell>DE SANCTIS COSMA ET DAMIANO</cell>
+                    <cell>14092700</cell>
+                </row>
+                <row n="128">
+                    <cell>IN FESTO SANCTI MICHAELIS ARCHANGELI</cell>
+                    <cell>14092900</cell>
+                </row>
+                <row n="129">
+                    <cell>DOMINICA DECIMA QUINTA POST TRINITATIS</cell>
+                    <cell>09161000</cell>
+                </row>
+                <row n="130">
+                    <cell>DE SANCTO HIERONYMO GLORIOSISSIMI DOCTORIS ECCLESIAE</cell>
+                    <cell>14093000</cell>
+                </row>
+                <row n="131">
+                    <cell>IN OCTAVA SANCTI RUPERTI</cell>
+                    <cell>14100130</cell>
+                </row>
+                <row n="132">
+                    <cell>DE SANCTO LEODEGARIO</cell>
+                    <cell>14100200</cell>
+                </row>
+                <row n="133">
+                    <cell>DE COMMEMORATIONE SANCTI CHRISTOPHORI</cell>
+                    <cell>14072510</cell>
+                </row>
+                <row n="134">
+                    <cell>DOMINICA DECIMA SEXTA POST TRINITATIS</cell>
+                    <cell>09171000</cell>
+                </row>
+                <row n="135">
+                    <cell>IN OCTAVA DIVI MICHAELIS ARCHANGELI</cell>
+                    <cell>14100610</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="136">
+                    <cell>DE SANCTO MARCO PAPA</cell>
+                    <cell>14100700</cell>
+                </row>
+                <row n="137">
+                    <cell>DIONYSII ET SOCIORUM EIUS</cell>
+                    <cell>14100900</cell>
+                </row>
+                <row n="138">
+                    <cell>GEREONIS ET SOCIORUM EIUS</cell>
+                    <cell>14101000</cell>
+                </row>
+                <row n="139">
+                    <cell>IN TRANSLATIONE SANCTI AUGUSTINI</cell>
+                    <cell>14101120</cell>
+                </row>
+                <row n="140">
+                    <cell>DE SANCTO MAXIMILIANO</cell>
+                    <cell>14101220</cell>
+                </row>
+                <row n="141">
+                    <cell>DOMINICA DECIMA SEPTIMA POST TRINITATIS</cell>
+                    <cell>09181000</cell>
+                </row>
+                <row n="142">
+                    <cell>DE SANCTO COLOMANO MARTYRE</cell>
+                    <cell>14101320</cell>
+                </row>
+                <row n="143">
+                    <cell>CALLISTI PAPAE</cell>
+                    <cell>14101400</cell>
+                </row>
+                <row n="144">
+                    <cell>DE SANCTO GALLO</cell>
+                    <cell>14101600</cell>
+                </row>
+                <row n="145">
+                    <cell>IN TRANSLATIONE SANCTAE MARTHAE</cell>
+                    <cell>14072930</cell>
+                </row>
+                <row n="146">
+                    <cell>DE SANCTO LUCA EVANGELISTA</cell>
+                    <cell>14101800</cell>
+                </row>
+                <row n="147">
+                    <cell>DE SANCTO IANUARIO ET EIUS SOCIORUM</cell>
+                    <cell>14101910</cell>
+                </row>
+                <row n="148">
+                    <cell>DOMINICA DECIMA OCTAVA POST TRINITATIS</cell>
+                    <cell>09191000</cell>
+                </row>
+                <row n="149">
+                    <cell>UNDECIM MILIUM VIRGINUM</cell>
+                    <cell>14102100</cell>
+                </row>
+                <row n="150">
+                    <cell>CRISPINI ET CRISPINIANI</cell>
+                    <cell>14102500</cell>
+                </row>
+                <row n="151">
+                    <cell>IN TRANSLATIONE SANCTI AMANDI EPISCOPI</cell>
+                    <cell>14102600</cell>
+                </row>
+                <row n="152">
+                    <cell>DOMINICA DECIMA NONA POST TRINITATIS</cell>
+                    <cell>09201000</cell>
+                </row>
+                <row n="153">
+                    <cell>IN VIGILIA SIMONIS ET IUDAE</cell>
+                    <cell>14102700</cell>
+                </row>
+                <row n="154">
+                    <cell>IN FESTO SIMONIS ET IUDAE APOSTOLORUM</cell>
+                    <cell>14102800</cell>
+                </row>
+                <row n="155">
+                    <cell>DE SANCTO WOLFGANGO</cell>
+                    <cell>14103130</cell>
+                </row>
+                <row n="156">
+                    <cell>IN FESTO OMNIUM SANCTORUM</cell>
+                    <cell>14110100</cell>
+                </row>
+                <row n="157">
+                    <cell>DE COMMEMORATIONE OMNIUM FIDELIUM DEFUNCTORUM</cell>
+                    <cell>14110220</cell>
+                </row>
+                <row n="158">
+                    <cell>INFRA OCTAVAM OMNIUM SANCTORUM</cell>
+                    <cell>14110108</cell>
+                </row>
+                <row n="159">
+                    <cell>DOMINICA VIGESIMA POST TRINITATIS</cell>
+                    <cell>09211000</cell>
+                </row>
+                <row n="160">
+                    <cell>SABBATO POST FESTUM OMNIUM SANCTORUM</cell>
+                    <cell>14110108</cell>
+                </row>
+                <row n="161">
+                    <cell>INFRA OCTAVAM OMNIUM SANCTORUM</cell>
+                    <cell>14110108</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="162">
+                    <cell>INFRA OCTAVAM OMNIUM SANCTORUM</cell>
+                    <cell>14110108</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="163">
+                    <cell>INFRA OCTAVAM OMNIUM SANCTORUM</cell>
+                    <cell>14110108</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="164">
+                    <cell>IN OCTAVA OMNIUM SANCTORUM</cell>
+                    <cell>14110810</cell>
+                </row>
+                <row n="165">
+                    <cell>DE SANCTO THEODORO</cell>
+                    <cell>14110910</cell>
+                </row>
+                <row n="166">
+                    <cell>MARTINI PAPAE</cell>
+                    <cell>14111010</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="167">
+                    <cell>DOMINICA VIGESIMA PRIMA</cell>
+                    <cell>09221000</cell>
+                </row>
+                <row n="168">
+                    <cell>IN FESTO SANCTI MARTINI EPISCOPI</cell>
+                    <cell>14111100</cell>
+                </row>
+                <row n="169">
+                    <cell>DE SANCTO EUSTACHIO ET SOCIORUM EIUS</cell>
+                    <cell>14110200</cell>
+                </row>
+                <row n="170">
+                    <cell>DE SANCTO BRICTIO</cell>
+                    <cell>14111300</cell>
+                </row>
+                <row n="171">
+                    <cell>DE SANCTO LEOPOLDO</cell>
+                    <cell>14111520</cell>
+                </row>
+                <row n="172">
+                    <cell>DE SANCTO OTHMARO</cell>
+                    <cell>14111600</cell>
+                </row>
+                <row n="173">
+                    <cell>DOMINICA VICESIMA SECUNDA POST TRINITATIS</cell>
+                    <cell>09231000</cell>
+                </row>
+                <row n="174">
+                    <cell>IN OCTAVA DIVI MARTINI EPISCOPI</cell>
+                    <cell>14111800</cell>
+                </row>
+                <row n="175">
+                    <cell>DE SANCTA ELISABETH</cell>
+                    <cell>14111900</cell>
+                </row>
+                <row n="176">
+                    <cell>LEONARDI CONFESSORIS</cell>
+                    <cell>14110610</cell>
+                </row>
+                <row n="177">
+                    <cell>IN FESTO PRAESENTATIONIS BEATAE MARIAE</cell>
+                    <cell>14112100</cell>
+                </row>
+                <row n="178">
+                    <cell>DE SANCTA CAECILIA</cell>
+                    <cell>14112200</cell>
+                </row>
+                <row n="179">
+                    <cell>DE SANCTO CLEMENTE</cell>
+                    <cell>14112300</cell>
+                </row>
+                <row n="180">
+                    <cell>DE SANCTO CHRYSOGONO</cell>
+                    <cell>14112400</cell>
+                </row>
+                <row n="181">
+                    <cell>DOMINICA VIGESIMA TERTIA</cell>
+                    <cell>09241000</cell>
+                </row>
+                <row n="182">
+                    <cell>DE SANCTA KATHARINA</cell>
+                    <cell>14112500</cell>
+                </row>
+                <row n="183">
+                    <cell>LINI PAPAE ET MARTYRIS</cell>
+                    <cell>14112600</cell>
+                </row>
+                <row n="184">
+                    <cell>IN DEPOSITIONE SANCTI VIRGILII EPISCOPI</cell>
+                    <cell>14112700</cell>
+                </row>
+                <row n="185">
+                    <cell>SATURNINI MARTYRIS</cell>
+                    <cell>14112900</cell>
+                </row>
+                <row n="186">
+                    <cell>IN VIGILIA DIVI ANDREAE</cell>
+                    <cell>14112920</cell>
+                </row>
+                <row n="187">
+                    <cell>INCIPIT PARS HIEMALIS TAM DE TEMPORE QUAM DE SANCTIS SECUNDUM ORDINEM ECCLESIAE SECCAVIENSIS</cell>
+                </row>
+                <row n="188">
+                    <cell>DE SANCTO ANDREA</cell>
+                    <cell>14113000</cell>
+                </row>
+                <row n="189">
+                    <cell>DOMINICA PRIMA IN ADVENTU DOMINI</cell>
+                    <cell>01011000</cell>
+                </row>
+                <row n="190">
+                    <cell>FERIA SECUNDA ET ALIIS PRIVATIS DIEBUS</cell>
+                    <cell>01012000</cell>
+                </row>
+                <row n="191">
+                    <cell>FERIA TERTIA</cell>
+                    <cell>01013000</cell>
+                </row>
+                <row n="192">
+                    <cell>DE BEATA VIRGINE INFRA ADVENTUM ET NATIVITATEM DOMINI</cell>
+                    <cell>15081510</cell>
+                </row>
+                <row n="193">
+                    <cell>FERIA QUARTA</cell>
+                    <cell>01014000</cell>
+                </row>
+                <row n="194">
+                    <cell>DE SANCTA BARBARA</cell>
+                    <cell>14120400</cell>
+                </row>
+                <row n="195">
+                    <cell>FERIA QUINTA</cell>
+                    <cell>01015000</cell>
+                </row>
+                <row n="196">
+                    <cell>DE SANCTO NICOLAO</cell>
+                    <cell>14120600</cell>
+                </row>
+                <row n="197">
+                    <cell>FERIA SEXTA</cell>
+                    <cell>01016000</cell>
+                </row>
+                <row n="198">
+                    <cell>IN OCTAVA SANCTI ANDREAE APOSTOLI</cell>
+                    <cell>14120710</cell>
+                </row>
+                <row n="199">
+                    <cell>IN CONCEPTIONE BEATAE MARIAE VIRGINIS</cell>
+                    <cell>14120800</cell>
+                </row>
+                <row n="200">
+                    <cell>SABBATO</cell>
+                    <cell>01017000</cell>
+                </row>
+                <row n="201">
+                    <cell>DOMINICA SECUNDA IN ADVENTU DOMINI</cell>
+                    <cell>01021000</cell>
+                </row>
+                <row n="202">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell>01022000</cell>
+                </row>
+                <row n="203">
+                    <cell>FERIA TERTIA</cell>
+                    <cell>01023000</cell>
+                </row>
+                <row n="204">
+                    <cell>DE SANCTO IOACHIMO</cell>
+                    <cell>14032010</cell>
+                </row>
+                <row n="205">
+                    <cell>FERIA QUARTA</cell>
+                    <cell>01024000</cell>
+                </row>
+                <row n="206">
+                    <cell>FERIA QUINTA</cell>
+                    <cell>01025000</cell>
+                </row>
+                <row n="207">
+                    <cell>DE SANCTA LUCIA</cell>
+                    <cell>14121300</cell>
+                </row>
+                <row n="208">
+                    <cell>FERIA SEXTA</cell>
+                    <cell>01026000</cell>
+                </row>
+                <row n="209">
+                    <cell>KOMMENTAR</cell>
+                </row>
+                <row n="210">
+                    <cell>SABBATO</cell>
+                    <cell>01027000</cell>
+                </row>
+                <row n="211">
+                    <cell>DOMINICA TERTIA IN ADVENTAIN ADVENTU DOMINI</cell>
+                    <cell>01031000</cell>
+                </row>
+                <row n="212">
+                    <cell>KOMMENTAR</cell>
+                </row>
+                <row n="213">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell>01032000</cell>
+                </row>
+                <row n="214">
+                    <cell>FERIA TERTIA</cell>
+                    <cell>01033000</cell>
+                </row>
+                <row n="215">
+                    <cell>FERIA QUARTA</cell>
+                    <cell>01034000</cell>
+                </row>
+                <row n="216">
+                    <cell>KOMMENTAR</cell>
+                </row>
+                <row n="217">
+                    <cell>FERIA QUINTA</cell>
+                    <cell>01035000</cell>
+                </row>
+                <row n="218">
+                    <cell>FERIA SEXTA</cell>
+                    <cell>01036000</cell>
+                </row>
+                <row n="219">
+                    <cell>KOMMENTAR</cell>
+                </row>
+                <row n="220">
+                    <cell>SABBATO QUATTUOR TEMPORUM</cell>
+                    <cell>01037009</cell>
+                </row>
+                <row n="221">
+                    <cell>SABBATO</cell>
+                    <cell>01037000</cell>
+                </row>
+                <row n="222">
+                    <cell>KOMMENTAR</cell>
+                </row>
+                <row n="223">
+                    <cell>QUARTA FERIA QUATTUOR TEMPORUM</cell>
+                    <cell>01034009</cell>
+                </row>
+                <row n="224">
+                    <cell>FERIA SEXTA QUATTUOR TEMPORUM</cell>
+                    <cell>01036009</cell>
+                </row>
+                <row n="225">
+                    <cell>SABBATO QUATTUOR TEMPORUM</cell>
+                    <cell>01037009</cell>
+                </row>
+                <row n="226">
+                    <cell>DE SANCTO THOMA APOSTOLO</cell>
+                    <cell>14122100</cell>
+                </row>
+                <row n="227">
+                    <cell>DOMINICA QUARTA IN ADVENTU DOMINI</cell>
+                    <cell>01041000</cell>
+                </row>
+                <row n="228">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell>01030009</cell>
+                </row>
+                <row n="229">
+                    <cell>IN VIGILIA VIGILIAE NATIVITATIS DOMINI</cell>
+                    <cell>02122400</cell>
+                </row>
+                <row n="230">
+                    <cell>IN SANCTA NOCTE NATIVITATIS DOMINI</cell>
+                    <cell>02122500</cell>
+                </row>
+                <row n="231">
+                    <cell>DE SANCTO STEPHANO PROTOMARTYRE</cell>
+                    <cell>02122600</cell>
+                </row>
+                <row n="232">
+                    <cell>DE SANCTO IOANNE APOSTOLO ET EVANGELISTA</cell>
+                    <cell>02122700</cell>
+                </row>
+                <row n="233">
+                    <cell>DE FESTO INNOCENTUM</cell>
+                    <cell>02122800</cell>
+                </row>
+                <row n="234">
+                    <cell>DOMINICA INFRA OCTAVAM NATIVITATIS DOMINI</cell>
+                    <cell>03021000</cell>
+                </row>
+                <row n="235">
+                    <cell>FERIA TERTIA A FESTO INNOCENTUM</cell>
+                    <cell>02123000</cell>
+                </row>
+                <row n="236">
+                    <cell>DE SANCTO SILVESTRO</cell>
+                    <cell>14123100</cell>
+                </row>
+                <row n="237">
+                    <cell>IN FESTO CIRCUMCISIONIS DOMINI</cell>
+                    <cell>02010100</cell>
+                </row>
+                <row n="238">
+                    <cell>IN OCTAVA DIVI STEPHANI PROTOMARTYRIS</cell>
+                    <cell>02010200</cell>
+                </row>
+                <row n="239">
+                    <cell>DE OCTAVA SANCTI IOANNIS APOSTOLI ET EVANGELISTAE</cell>
+                    <cell>02010300</cell>
+                </row>
+                <row n="240">
+                    <cell>DE OCTAVA SANCTORUM INNOCENTUM</cell>
+                    <cell>02010400</cell>
+                </row>
+                <row n="241">
+                    <cell>IN VIGILIA EPIPHANIAE DOMINI</cell>
+                    <cell>02010500</cell>
+                </row>
+                <row n="242">
+                    <cell>IN FESTO EPIPHANIAE DOMINI</cell>
+                    <cell>05010600</cell>
+                </row>
+                <row n="243">
+                    <cell>INFRA OCTAVAM EPIPHANIAE</cell>
+                    <cell>02010608</cell>
+                </row>
+                <row n="244">
+                    <cell>FERIA SECUNDA POST FESTUM EPIPHANIAE</cell>
+                    <cell>05002000</cell>
+                </row>
+                <row n="245">
+                    <cell>FERIA TERTIA A FESTO EPIPHANIAE DOMINI</cell>
+                    <cell>05003000</cell>
+                </row>
+                <row n="246">
+                    <cell>FERIA QUARTA A FESTO EPIPHANIAE</cell>
+                    <cell>05004000</cell>
+                </row>
+                <row n="247">
+                    <cell>FERIA QUINTA A FESTO EPIPHANIAE DOMINI</cell>
+                    <cell>05005000</cell>
+                </row>
+                <row n="248">
+                    <cell>FERIA SEXTA A FESTO EPIPHANIAE DOMINI</cell>
+                    <cell>05006000</cell>
+                </row>
+                <row n="249">
+                    <cell>SABBATO POST FESTUM EPIPHANIAE</cell>
+                    <cell>05007000</cell>
+                </row>
+                <row n="250">
+                    <cell>DOMINICA INFRA OCTAVAM EPIPHANIAE DOMINI</cell>
+                    <cell>05001000</cell>
+                </row>
+                <row n="251">
+                    <cell>IN OCTAVA EPIPHANIAE DOMINI</cell>
+                    <cell>05011300</cell>
+                </row>
+                <row n="252">
+                    <cell>FELICIS IN PINCIS</cell>
+                    <cell>14011410</cell>
+                </row>
+                <row n="253">
+                    <cell>DE BEATA VIRGINE INFRA NATIVITATEM ET PURIFICATIONEM</cell>
+                    <cell>15081530</cell>
+                </row>
+                <row n="254">
+                    <cell>DE SANCTO MARCELLO</cell>
+                    <cell>14011600</cell>
+                </row>
+                <row n="255">
+                    <cell>DE SANCTO ANTONIO</cell>
+                    <cell>14011700</cell>
+                </row>
+                <row n="256">
+                    <cell>PRISCAE VIRGINIS</cell>
+                    <cell>14011800</cell>
+                </row>
+                <row n="257">
+                    <cell>DOMINICA SECUNDA POST FESTUM EPIPHANIAE DOMINI</cell>
+                    <cell>05021000</cell>
+                </row>
+                <row n="258">
+                    <cell>IN FESTO SANCTORUM MARTYRUM SEBASTIANI ET FABIANI</cell>
+                    <cell>14012000</cell>
+                </row>
+                <row n="259">
+                    <cell>DE SANCTA AGNETE</cell>
+                    <cell>14012100</cell>
+                </row>
+                <row n="260">
+                    <cell>DE SANCTO VINCENTIO</cell>
+                    <cell>14012200</cell>
+                </row>
+                <row n="261">
+                    <cell>EMERENTIANAE VIRGINIS</cell>
+                    <cell>14012300</cell>
+                </row>
+                <row n="262">
+                    <cell>DE SANCTO TIMOTHEO</cell>
+                    <cell>14012400</cell>
+                </row>
+                <row n="263">
+                    <cell>IN CONVERSIONE SANCTI PAULI</cell>
+                    <cell>14012500</cell>
+                </row>
+                <row n="264">
+                    <cell>DE SANCTA AGNETE INFRA OCTAVAM</cell>
+                    <cell>14012800</cell>
+                </row>
+                <row n="265">
+                    <cell>DOMINICA ANTE SEPTUAGESIMAM QUAE EST ULTIMA POST EPIPHANIAE</cell>
+                    <cell>05061000</cell>
+                </row>
+                <row n="266">
+                    <cell>IN OCTAVA SANCTAE AGNETIS</cell>
+                    <cell>14012800</cell>
+                </row>
+                <row n="267">
+                    <cell>IN DOMINICA SEPTUAGESIMAE</cell>
+                    <cell>06011000</cell>
+                </row>
+                <row n="268">
+                    <cell>DE SANCTO IGNATIO</cell>
+                    <cell>14020110</cell>
+                </row>
+                <row n="269">
+                    <cell>IN FESTO PURIFICATIONIS SANCTAE MARIAE</cell>
+                    <cell>14020200</cell>
+                </row>
+                <row n="270">
+                    <cell>DE SANCTO BLASIO</cell>
+                    <cell>14020300</cell>
+                </row>
+                <row n="271">
+                    <cell>DE SANCTA AGATHA</cell>
+                    <cell>14020500</cell>
+                </row>
+                <row n="272">
+                    <cell>DE SANCTA DOROTHEA</cell>
+                    <cell>14020610</cell>
+                </row>
+                <row n="273">
+                    <cell>DE SANCTO AMANDO</cell>
+                    <cell>14020620</cell>
+                </row>
+                <row n="274">
+                    <cell>DE VENERATIONE BEATAE VIRGINIS INFRA SEPTUAGESIMAM ET PASCHA</cell>
+                    <cell>15081540</cell>
+                </row>
+                <row n="275">
+                    <cell>DOMINICA IN SEXAGESIMA</cell>
+                    <cell>06021000</cell>
+                </row>
+                <row n="276">
+                    <cell>DE SANCTA APOLLONIA</cell>
+                    <cell>14020900</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="277">
+                    <cell>DE SANCTA SCHOLASTICA</cell>
+                    <cell>14021000</cell>
+                </row>
+                <row n="278">
+                    <cell>DE SANCTO VALENTINO</cell>
+                    <cell>14021400</cell>
+                </row>
+                <row n="279">
+                    <cell>DOMINICA IN QUINQUAGESIMA</cell>
+                    <cell>06031000</cell>
+                </row>
+                <row n="280">
+                    <cell>DE SANCTA IULIANA</cell>
+                    <cell>14021600</cell>
+                </row>
+                <row n="281">
+                    <cell>FERIA SECUNDA POST DOMINICAM ESTO MIHI</cell>
+                    <cell>06032000</cell>
+                </row>
+                <row n="282">
+                    <cell>FERIA QUARTA IN CAPITE IEIUNII</cell>
+                    <cell>06034000</cell>
+                </row>
+                <row n="283">
+                    <cell>FERIA QUINTA IN CAPITE IEIUNII</cell>
+                    <cell>06035000</cell>
+                </row>
+                <row n="284">
+                    <cell>FERIA SEXTA</cell>
+                    <cell>06036000</cell>
+                </row>
+                <row n="285">
+                    <cell>SABBATO ANTE DOMINICAM INVOCAVIT</cell>
+                    <cell>06037000</cell>
+                </row>
+                <row n="286">
+                    <cell>IN CATHEDRA SANCTI PETRI</cell>
+                    <cell>14022200</cell>
+                </row>
+                <row n="287">
+                    <cell>DOMINICA PRIMA IN QUADRAGESIMA</cell>
+                    <cell>07011000</cell>
+                </row>
+                <row n="288">
+                    <cell>FERIATIS SECUNDA DIEBUS</cell>
+                    <cell>07012000</cell>
+                </row>
+                <row n="289">
+                    <cell>FERIA SECUNDA POST DOMINICAM INVOCAVIT</cell>
+                    <cell>07012000</cell>
+                </row>
+                <row n="290">
+                    <cell>DE SANCTO MATTHIA APOSTOLO</cell>
+                    <cell>14022400</cell>
+                </row>
+                <row n="291">
+                    <cell>FERIA TERTIA</cell>
+                    <cell>07013000</cell>
+                </row>
+                <row n="292">
+                    <cell>PERPETUAE ET FELICITATIS</cell>
+                    <cell>14030600</cell>
+                </row>
+                <row n="293">
+                    <cell>SABBATO ANTE DOMINICAM OCULI</cell>
+                    <cell>07017000</cell>
+                </row>
+                <row n="294">
+                    <cell>DOMINICA OCULI</cell>
+                    <cell>07021000</cell>
+                </row>
+                <row n="295">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell>07022000</cell>
+                </row>
+                <row n="296">
+                    <cell>FERIA SECUNDA POST OCULI</cell>
+                    <cell>07022000</cell>
+                </row>
+                <row n="297">
+                    <cell>FERIA TERTIA</cell>
+                    <cell>07023000</cell>
+                </row>
+                <row n="298">
+                    <cell>DE SANCTO GREGORIO</cell>
+                    <cell>14031200</cell>
+                </row>
+                <row n="299">
+                    <cell>FERIA QUARTA</cell>
+                    <cell>07024000</cell>
+                </row>
+                <row n="300">
+                    <cell>FERIA QUINTA</cell>
+                    <cell>07025000</cell>
+                </row>
+                <row n="301">
+                    <cell>FERIA SEXTA</cell>
+                    <cell>07026000</cell>
+                </row>
+                <row n="302">
+                    <cell>SABBATO</cell>
+                    <cell>07027000</cell>
+                </row>
+                <row n="303">
+                    <cell>DOMINICA LAETARE</cell>
+                    <cell>07041000</cell>
+                </row>
+                <row n="304">
+                    <cell>GERTRUDIS VIRGINIS</cell>
+                    <cell>14031700</cell>
+                </row>
+                <row n="305">
+                    <cell>FERIA SECUNDA POST LAETARE</cell>
+                    <cell>07042000</cell>
+                </row>
+                <row n="306">
+                    <cell>FERIA TERTIA</cell>
+                    <cell>07043000</cell>
+                </row>
+                <row n="307">
+                    <cell>FERIA QUARTA</cell>
+                    <cell>07044000</cell>
+                </row>
+                <row n="308">
+                    <cell>FERIA QUINTA</cell>
+                    <cell>07045000</cell>
+                </row>
+                <row n="309">
+                    <cell>FERIA SEXTA</cell>
+                    <cell>07046000</cell>
+                </row>
+                <row n="310">
+                    <cell>SABBATO POST DOMINICAM LAETARE</cell>
+                    <cell>07047000</cell>
+                </row>
+                <row n="311">
+                    <cell>DE SANCTO BENEDICTO</cell>
+                    <cell>14032100</cell>
+                </row>
+                <row n="312">
+                    <cell>DOMINICA IN PASSIONE DOMINI</cell>
+                    <cell>07051000</cell>
+                </row>
+                <row n="313">
+                    <cell>NOTA QUALITER CANTANDUM SIT PER ISTAM HEBDOMADAM CUM DE FERIA CANIMUS</cell>
+                </row>
+                <row n="314">
+                    <cell>FERIA SECUNDA POST DOMINICAM IUDICA</cell>
+                    <cell>07052000</cell>
+                </row>
+                <row n="315">
+                    <cell>FERIA TERTIA</cell>
+                    <cell>07053000</cell>
+                </row>
+                <row n="316">
+                    <cell>IN FESTO ANNUNTIATIONIS BEATAE MARIAE VIRGINIS</cell>
+                    <cell>14032500</cell>
+                </row>
+                <row n="317">
+                    <cell>FERIA QUARTA</cell>
+                    <cell>07054000</cell>
+                </row>
+                <row n="318">
+                    <cell>DE SANCTO AMBROSIO</cell>
+                    <cell>14040400</cell>
+                </row>
+                <row n="319">
+                    <cell>FERIA QUINTA</cell>
+                    <cell>07055000</cell>
+                </row>
+                <row n="320">
+                    <cell>DE SANCTO RUPERTO</cell>
+                    <cell>14032700</cell>
+                </row>
+                <row n="321">
+                    <cell>FERIA SEXTA</cell>
+                    <cell>07056000</cell>
+                </row>
+                <row n="322">
+                    <cell>SABBATO</cell>
+                    <cell>07057000</cell>
+                </row>
+                <row n="323">
+                    <cell>DOMINICA IN PALMIS</cell>
+                    <cell>07061000</cell>
+                </row>
+                <row n="324">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell>07062000</cell>
+                </row>
+                <row n="325">
+                    <cell>FERIA TERTIA</cell>
+                    <cell>07063000</cell>
+                </row>
+                <row n="326">
+                    <cell>FERIA QUARTA</cell>
+                    <cell>07064000</cell>
+                </row>
+                <row n="327">
+                    <cell>FERIA QUINTA MAIORIS HEBDOMADAE</cell>
+                    <cell>07065000</cell>
+                </row>
+                <row n="328">
+                    <cell>FERIA SEXTA IN NOCTE PARASCEVE</cell>
+                    <cell>07066000</cell>
+                </row>
+                <row n="329">
+                    <cell>ACTUS POST CONCIONEM IN DIE PARASCEVAE</cell>
+                    <cell>07066000</cell>
+                </row>
+                <row n="330">
+                    <cell>SABBATO SANCTO</cell>
+                    <cell>07067000</cell>
+                </row>
+                <row n="331">
+                    <cell>IN SANCTA NOCTE RESURRECTIONIS DOMINI</cell>
+                    <cell>08011000</cell>
+                </row>
+                <row n="332">
+                    <cell>FERIA SECUNDA PASCHAE</cell>
+                    <cell>08012000</cell>
+                </row>
+                <row n="333">
+                    <cell>FERIA TERTIA PASCHAE</cell>
+                    <cell>08013000</cell>
+                </row>
+                <row n="334">
+                    <cell>FERIA QUARTA</cell>
+                    <cell>08014000</cell>
+                </row>
+                <row n="335">
+                    <cell>FERIA QUINTA</cell>
+                    <cell>08015000</cell>
+                </row>
+                <row n="336">
+                    <cell>FERIA SEXTA</cell>
+                    <cell>08016000</cell>
+                </row>
+                <row n="337">
+                    <cell>SABBATO</cell>
+                    <cell>08017000</cell>
+                </row>
+                <row n="338">
+                    <cell>IN OCTAVA RESURRECTIONIS DOMINI</cell>
+                    <cell>08021000</cell>
+                </row>
+                <row n="339">
+                    <cell>TIBURTII ET VALERIANI</cell>
+                    <cell>14041400</cell>
+                </row>
+                <row n="340">
+                    <cell>AD MATUTURUMMATURUM OFFICIUM INFRA PASCHA ET ASCENSIONEM DOMINI</cell>
+                </row>
+                <row n="341">
+                    <cell>INFRA PASCHA ET ASCENSIONEM</cell>
+                </row>
+                <row n="342">
+                    <cell>SABBATO</cell>
+                    <cell>08027000</cell>
+                </row>
+                <row n="343">
+                    <cell>IN FESTO NOVEM LECTIONIBUS</cell>
+                </row>
+                <row n="344">
+                    <cell>DE BEATA VIRGINE INFRA PASCHA ET PENTECOSTEN</cell>
+                    <cell>15081580</cell>
+                </row>
+                <row n="345">
+                    <cell>QUANDO DE RESURRECTIONE NOVEM LECTIONES HABENTUR BREVIARIUM</cell>
+                </row>
+                <row n="346">
+                    <cell>IN FESTO LANCEAE ET CLAVORUM DOMINI</cell>
+                    <cell>08026010</cell>
+                </row>
+                <row n="347">
+                    <cell>DOMINICA SECUNDA</cell>
+                    <cell>08031000</cell>
+                </row>
+                <row n="348">
+                    <cell>DE RESURRECTIONE INFRA PASCHA ET ASCENSIONEM TRESIUM LECTIONESUM</cell>
+                </row>
+                <row n="349">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell>08032000</cell>
+                </row>
+                <row n="350">
+                    <cell>FERIA QUARTA DE RESURRECTIONE</cell>
+                    <cell>08034000</cell>
+                </row>
+                <row n="351">
+                    <cell>FERIA SEXTA DE RESURRECTIONE</cell>
+                    <cell>08036000</cell>
+                </row>
+                <row n="352">
+                    <cell>DE SANCTO GEORGIO</cell>
+                    <cell>14042300</cell>
+                </row>
+                <row n="353">
+                    <cell>DE SANCTO MARCO</cell>
+                    <cell>14042500</cell>
+                </row>
+                <row n="354">
+                    <cell>IN LAETANIA MAIORE</cell>
+                    <cell>08042500</cell>
+                </row>
+                <row n="355">
+                    <cell>DE SANCTO CLETO PAPA ET MARTYRE</cell>
+                    <cell>14042600</cell>
+                </row>
+                <row n="356">
+                    <cell>DOMINICA TERTIA POST FESTUM PASCHAE</cell>
+                    <cell>08041000</cell>
+                </row>
+                <row n="357">
+                    <cell>DE SANCTO VITALE</cell>
+                    <cell>14042800</cell>
+                </row>
+                <row n="358">
+                    <cell>DE NATIVITATE APOSTOLORUM PHILIPPI ET IACOBI</cell>
+                    <cell>14050100</cell>
+                </row>
+                <row n="359">
+                    <cell>DE INVENTIONE SANCTAE CRUCIS</cell>
+                    <cell>14050300</cell>
+                </row>
+                <row n="360">
+                    <cell>DE SANCTO FLORIANO</cell>
+                    <cell>14050400</cell>
+                </row>
+                <row n="361">
+                    <cell>DOMINICA QUARTA PASCHAE</cell>
+                    <cell>08051000</cell>
+                </row>
+                <row n="362">
+                    <cell>IN VIGILIA SANCTI IOANNIS ANTE PORTAM LATINAM</cell>
+                    <cell>14050500</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="363">
+                    <cell>DE SANCTO IOANNE ANTE PORTAM LATINAM</cell>
+                    <cell>14050600</cell>
+                </row>
+                <row n="364">
+                    <cell>GORDIANI ET EPIMACHI</cell>
+                    <cell>14051000</cell>
+                </row>
+                <row n="365">
+                    <cell>DOMINICA QUINTA PASCHAE</cell>
+                    <cell>08061000</cell>
+                </row>
+                <row n="366">
+                    <cell>PANCRATII ET SOCIORUM EIUS</cell>
+                    <cell>14051210</cell>
+                </row>
+                <row n="367">
+                    <cell>IN OCTAVA DEDICATIONIS CAPELLAE LICHTENSTAINER</cell>
+                    <cell>12008100</cell>
+                </row>
+                <row n="368">
+                    <cell>IN VIGILIA VIGILIAE ASCENSIONIS DOMINI</cell>
+                    <cell/>
+                </row>
+                <row n="369">
+                    <cell>IN ASCENSIONE DOMINI</cell>
+                    <cell>08065000</cell>
+                </row>
+                <row n="370">
+                    <cell>FERIA SEXTA POST ASCENSIONEM</cell>
+                    <cell>08066000</cell>
+                </row>
+                <row n="371">
+                    <cell>SABBATO</cell>
+                    <cell>08067000</cell>
+                </row>
+                <row n="372">
+                    <cell>DOMINICA POST ASCENSIONEM</cell>
+                    <cell>08071000</cell>
+                </row>
+                <row n="373">
+                    <cell>FERIA SECUNDA POST DOMINICAM ASCENSIONIS</cell>
+                    <cell>08072000</cell>
+                </row>
+                <row n="374">
+                    <cell>FERIA TERTIA</cell>
+                    <cell>08073000</cell>
+                </row>
+                <row n="375">
+                    <cell>FERIA QUARTA</cell>
+                    <cell>08074000</cell>
+                </row>
+                <row n="376">
+                    <cell>IN OCTAVA ASCENSIONIS DOMINI</cell>
+                    <cell>08075000</cell>
+                </row>
+                <row n="377">
+                    <cell>DE SANCTO URBANO</cell>
+                    <cell>14052510</cell>
+                </row>
+                <row n="378">
+                    <cell>IN VIGILIA VIGILIAE PENTECOSTES</cell>
+                    <cell>08077000</cell>
+                </row>
+                <row n="379">
+                    <cell>ORDO IN SABBATO SANCTO PENTECOSTES</cell>
+                </row>
+                <row n="380">
+                    <cell>ORDO DE DIEBUS ROGATIONUM</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="381">
+                    <cell>BREVIAMENTUM DE MATUTINIS ET ALIIS PRIVATIS OFFICIIS</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="382">
+                    <cell>IN DIE SANCTO PENTECOSTES</cell>
+                    <cell>08081000</cell>
+                </row>
+                <row n="383">
+                    <cell>FERIA SECUNDA PENTECOSTES</cell>
+                    <cell>08082000</cell>
+                </row>
+                <row n="384">
+                    <cell>FERIA TERTIA PENTECOSTES</cell>
+                    <cell>08083000</cell>
+                </row>
+                <row n="385">
+                    <cell>FERIA QUARTA</cell>
+                    <cell>08084000</cell>
+                </row>
+                <row n="386">
+                    <cell>MATURUM OFFICIUM ALIQUIBUS DIEBUS</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="387">
+                    <cell>CORPORIS CHRISTI</cell>
+                    <cell>09015000</cell>
+                </row>
+                <row n="388">
+                    <cell/>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>
