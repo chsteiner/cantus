@@ -1,0 +1,427 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Steiner, Christian (christian.steiner@uni-graz.at)</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>No publication statement</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A TEI file automatically converted from a XSLX file.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table>
+                <head>all_horae_seckau3</head>
+                <row n="1">
+                    <cell>Ad primas vesperas</cell>
+                    <cell>V</cell>
+                </row>
+                <row n="2">
+                    <cell>Ad completorium</cell>
+                    <cell>C</cell>
+                </row>
+                <row n="3">
+                    <cell>Ad nocturnum</cell>
+                    <cell>M</cell>
+                </row>
+                <row n="4">
+                    <cell>Ad laudes</cell>
+                    <cell>L</cell>
+                </row>
+                <row n="5">
+                    <cell>Ad primam</cell>
+                    <cell>P</cell>
+                </row>
+                <row n="6">
+                    <cell>Ad tertiam</cell>
+                    <cell>T</cell>
+                </row>
+                <row n="7">
+                    <cell>Ad aspersionem</cell>
+                    <cell>ASP</cell>
+                </row>
+                <row n="8">
+                    <cell>Ad processionem</cell>
+                    <cell>PRO</cell>
+                </row>
+                <row n="9">
+                    <cell>Ad officium</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="10">
+                    <cell>Ad sextam</cell>
+                    <cell>S</cell>
+                </row>
+                <row n="11">
+                    <cell>Ad nonam</cell>
+                    <cell>N</cell>
+                </row>
+                <row n="12">
+                    <cell>In secundis vesperis</cell>
+                    <cell>V2</cell>
+                </row>
+                <row n="13">
+                    <cell>Ad matutinum</cell>
+                    <cell>M</cell>
+                </row>
+                <row n="14">
+                    <cell>Ad omnes horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row n="15">
+                    <cell>Ad missam</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="16">
+                    <cell>Ad secundas vesperas</cell>
+                    <cell>V2</cell>
+                </row>
+                <row n="17">
+                    <cell>Ad horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row n="18">
+                    <cell>Laudes</cell>
+                    <cell>L</cell>
+                </row>
+                <row n="19">
+                    <cell>officium</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="20">
+                    <cell>nona</cell>
+                    <cell>N</cell>
+                </row>
+                <row n="21">
+                    <cell>Completorii</cell>
+                    <cell>C</cell>
+                </row>
+                <row n="22">
+                    <cell>Completorium</cell>
+                    <cell>C</cell>
+                </row>
+                <row n="23">
+                    <cell>Ad matutinas</cell>
+                    <cell>M</cell>
+                </row>
+                <row n="24">
+                    <cell>Tertia et sexta</cell>
+                    <cell>D</cell>
+                </row>
+                <row n="25">
+                    <cell>Ad vesperas</cell>
+                    <cell>V</cell>
+                </row>
+                <row n="26">
+                    <cell>laudes</cell>
+                    <cell>L</cell>
+                </row>
+                <row n="27">
+                    <cell>Ad horas Ad primam</cell>
+                    <cell>P</cell>
+                </row>
+                <row n="28">
+                    <cell>prior missa</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="29">
+                    <cell>Ante processionem</cell>
+                    <cell>PRO</cell>
+                </row>
+                <row n="30">
+                    <cell>Ad summum officium</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="31">
+                    <cell>Ad sextam et nonam</cell>
+                    <cell>D</cell>
+                </row>
+                <row n="32">
+                    <cell>Officium summum</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="33">
+                    <cell>missa</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="34">
+                    <cell>In primis vesperis</cell>
+                    <cell>V</cell>
+                </row>
+                <row n="35">
+                    <cell>Diurnum officium</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="36">
+                    <cell>prior officium</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="37">
+                    <cell>summum officium</cell>
+                    <cell>MI</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="38">
+                    <cell>sexta</cell>
+                    <cell>S</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="39">
+                    <cell>Ad laudes Ad horas</cell>
+                    <cell>D</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="40">
+                    <cell>Ad missam Ad officium</cell>
+                    <cell>MI</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="41">
+                    <cell>Horae</cell>
+                    <cell>D</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="42">
+                    <cell>Missa</cell>
+                    <cell>MI</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="43">
+                    <cell>Maturum officium</cell>
+                    <cell>MI</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="44">
+                    <cell>missam priorem</cell>
+                    <cell>MI</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="45">
+                    <cell>SumumSummum officium</cell>
+                    <cell>MI</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="46">
+                    <cell>Ad mat Ad officium</cell>
+                    <cell>MI</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="47">
+                    <cell>Ad cursus</cell>
+                    <cell>D</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="48">
+                    <cell>in laudibus</cell>
+                    <cell>L</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="49">
+                    <cell>Secunda vespera</cell>
+                    <cell>V2</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="50">
+                    <cell>Super laudes</cell>
+                    <cell>L</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="51">
+                    <cell>ad nocturnum</cell>
+                    <cell>M</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="52">
+                    <cell>Ad com Ad matutinum</cell>
+                    <cell>M</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="53">
+                    <cell>Prima et tertia</cell>
+                    <cell>D</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="54">
+                    <cell>ante secundas vesperas</cell>
+                    <cell>V</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="55">
+                    <cell>sacrum</cell>
+                    <cell>MI</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="56">
+                    <cell>ad horas</cell>
+                    <cell>D</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row n="57">
+                    <cell>tertia et sexta</cell>
+                    <cell>D</cell>
+                </row>
+                <row n="58">
+                    <cell>Pro maturo officio</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="59">
+                    <cell>ad matutinum</cell>
+                    <cell>M</cell>
+                </row>
+                <row n="60">
+                    <cell>ad laudes</cell>
+                    <cell>L</cell>
+                </row>
+                <row n="61">
+                    <cell>missae</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="62">
+                    <cell>officium summum</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="63">
+                    <cell>Pro maturo</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="64">
+                    <cell>Ad missam in galli cantu</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="65">
+                    <cell>officium de aurora</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="66">
+                    <cell>maturum officium</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="67">
+                    <cell>Ante secundas vesperas</cell>
+                    <cell>V2</cell>
+                </row>
+                <row n="68">
+                    <cell>Ad primam Ad horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row n="69">
+                    <cell>Ad maturum officium</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="70">
+                    <cell>Maturum</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="71">
+                    <cell>Officium</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="72">
+                    <cell>ad vesperas</cell>
+                    <cell>V</cell>
+                </row>
+                <row n="73">
+                    <cell>Ad laudes et horas</cell>
+                    <cell>L</cell>
+                </row>
+                <row n="74">
+                    <cell>MatuturumMaturum officium</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="75">
+                    <cell>Sub nona</cell>
+                    <cell>N</cell>
+                </row>
+                <row n="76">
+                    <cell>Ad processionem Ad tertiam</cell>
+                    <cell>T</cell>
+                </row>
+                <row n="77">
+                    <cell>Ad laudes et ad horas</cell>
+                    <cell>L</cell>
+                </row>
+                <row n="78">
+                    <cell>Ad summam missam</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="79">
+                    <cell>ad missam</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="80">
+                    <cell>Vesperae</cell>
+                    <cell>V</cell>
+                </row>
+                <row n="81">
+                    <cell>Processio ad fontem</cell>
+                    <cell>PRO</cell>
+                </row>
+                <row n="82">
+                    <cell>Ad officium summum</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="83">
+                    <cell>processio ad fontem</cell>
+                    <cell>PRO</cell>
+                </row>
+                <row n="84">
+                    <cell>Ad fontem</cell>
+                    <cell>PRO</cell>
+                </row>
+                <row n="85">
+                    <cell>processio</cell>
+                    <cell>PRO</cell>
+                </row>
+                <row n="86">
+                    <cell>Ante primas vesperas</cell>
+                    <cell>V</cell>
+                </row>
+                <row n="87">
+                    <cell>Nona</cell>
+                    <cell>N</cell>
+                </row>
+                <row n="88">
+                    <cell>Ad maturum</cell>
+                    <cell>MI</cell>
+                </row>
+                <row n="89">
+                    <cell>De processione</cell>
+                    <cell>PRO</cell>
+                </row>
+                <row n="90">
+                    <cell>Matutinale officium</cell>
+                    <cell>M</cell>
+                </row>
+                <row n="91">
+                    <cell>maturum</cell>
+                    <cell>MI</cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>

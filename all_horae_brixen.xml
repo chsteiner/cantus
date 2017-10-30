@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+    <head>horae</head>
+    <row n="1">
+        <cell>Horae</cell>
+        <cell>ID</cell>
+    </row>
+    <row n="2">
+        <cell>Ad vesperas</cell>
+        <cell>V</cell>
+    </row>
+    <row n="3">
+        <cell>Ad completorium</cell>
+        <cell>C</cell>
+    </row>
+    <row n="4">
+        <cell>Ad matutinas</cell>
+        <cell>M</cell>
+    </row>
+    <row n="5">
+        <cell>Ante laudes</cell>
+        <cell>L</cell>
+    </row>
+    <row n="6">
+        <cell>Ad laudes</cell>
+        <cell>L</cell>
+    </row>
+    <row n="7">
+        <cell>Ad primam</cell>
+        <cell>P</cell>
+    </row>
+    <row n="8">
+        <cell>Ad tertiam</cell>
+        <cell>T</cell>
+    </row>
+    <row n="9">
+        <cell>Ad processionem</cell>
+        <cell>P</cell>
+    </row>
+    <row n="10">
+        <cell>Ad missam</cell>
+        <cell>MI</cell>
+    </row>
+    <row n="11">
+        <cell>Ad sextam</cell>
+        <cell>S</cell>
+    </row>
+    <row n="12">
+        <cell>In secunda vespera</cell>
+        <cell>V2</cell>
+    </row>
+    <row n="13">
+        <cell>Laudes</cell>
+        <cell>L</cell>
+    </row>
+    <row n="14">
+        <cell>Ad cursus</cell>
+        <cell>D</cell>
+    </row>
+    <row n="14">
+        <cell>Ad cursus laudes</cell>
+        <cell>D</cell>
+    </row>
+    <row n="14">
+        <cell>Ad cursus laudes.</cell>
+        <cell>D</cell>
+    </row>
+    <row n="15">
+        <cell>Ad horas laudes.</cell>
+        <cell>D</cell>
+    </row>
+    <row n="16">
+        <cell>Missa</cell>
+        <cell>MI</cell>
+    </row>
+    <row n="17">
+        <cell>Laudes.</cell>
+        <cell>L</cell>
+    </row>
+    <row n="17">
+        <cell>In secunda vespera laudes.</cell>
+        <cell>V2</cell>
+    </row>
+    <row n="18">
+        <cell>Sabbato ad vesperas</cell>
+        <cell>V</cell>
+    </row>
+    <row n="19">
+        <cell>Processio</cell>
+        <cell>PRO</cell>
+    </row>
+    <row n="20">
+        <cell>Ad horas</cell>
+        <cell>D</cell>
+    </row>
+    <row n="21">
+        <cell>In matutinis</cell>
+        <cell>M</cell>
+    </row>
+    <row n="22">
+        <cell>Officium</cell>
+        <cell>MI</cell>
+    </row>
+    <row>
+        <cell role="horae">Ad missam officium</cell>
+        <cell>MI</cell>
+    </row>
+    <row n="23">
+        <cell>Ad laudes.</cell>
+        <cell>L</cell>
+    </row>
+    <row n="24">
+        <cell>In die ad missam</cell>
+        <cell>MI</cell>
+    </row>
+    <row n="25">
+        <cell>Ad nonam</cell>
+        <cell>N</cell>
+    </row>
+    <row n="26">
+        <cell>Ad missam in primo gallicinio</cell>
+        <cell>MI</cell>
+    </row>
+    <row n="27">
+        <cell>In primo mane</cell>
+        <cell>MI</cell>
+    </row>
+    <row n="28">
+        <cell>Ad publicam missam</cell>
+        <cell>MI</cell>
+    </row>
+    <row n="29">
+        <cell>Ad Horam</cell>
+        <cell>D</cell>
+    </row>
+    <row n="30">
+        <cell>In laudibus</cell>
+        <cell>L</cell>
+    </row>
+    <row n="31">
+        <cell>Ad horas laudes</cell>
+        <cell>D</cell>
+    </row>
+    <row n="32">
+        <cell>Ad missam.</cell>
+        <cell>MI</cell>
+    </row>
+    <row n="34">
+        <cell>Ad matutinas.</cell>
+        <cell>M</cell>
+    </row>
+    <row n="35">
+        <cell>Completorium</cell>
+        <cell>C</cell>
+    </row>
+    <row n="36">
+        <cell>Sexta</cell>
+        <cell>S</cell>
+    </row>
+    <row n="37">
+        <cell>In die sancto ad missam</cell>
+        <cell>MI</cell>
+    </row>
+    <row n="38">
+        <cell>Vespera</cell>
+        <cell>V</cell>
+    </row>
+    <row>
+        <cell role="horae">Ad matutinas laudes</cell>
+        <cell>M</cell>
+    </row>
+    <row n="39">
+        <cell>Laudibus</cell>
+        <cell>L</cell>
+    </row>
+    <row>
+        <cell role="horae">In matutinis laudibus</cell>
+        <cell>M</cell>
+    </row>
+    <row n="40">
+        <cell>Post tertiam</cell>
+        <cell>T</cell>
+    </row>
+    <row n="41">
+        <cell>Ad Aspersionem</cell>
+        <cell>ASP</cell>
+    </row>
+    <row n="42">
+        <cell>Prior missa</cell>
+        <cell>MI</cell>
+    </row>
+</table>
