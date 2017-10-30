@@ -7,68 +7,82 @@
           <pb n="1r" xml:id="PAC.001r"></pb>
                Incipit ordo sive breviarium de ecclesiasticis observationibus quomodo legendum vel canendum sit per circulum anni.</title>
         <title type="short">Seckau</title>
-        <title type="citation">Der 'Liber Ordinarius' Graz Universitätsbibliothek 208</title>
-        <!-- verschiedene verantwortlichkeiten für digitale resource: Objektbezogen -->
+        <title type="citation">Der &apos;Liber Ordinarius&apos; Graz Universitätsbibliothek 208</title>
+        
         <respStmt>
           <resp>editor</resp>
           <persName>
-            <forename>Thomas</forename><surname>Csanády</surname>
+            <forename>Thomas</forename>
+            <surname>Csanády</surname>
           </persName>
         </respStmt>
         <respStmt>
           <resp>transcription</resp>
           <persName>
-            <forename>Thomas</forename><surname>Csanády</surname>
+            <forename>Thomas</forename>
+            <surname>Csanády</surname>
           </persName>
         </respStmt>
         <respStmt>
           <resp>contribution</resp>
           <persName>
-            <forename>Gionata</forename><surname>Brusa</surname>
+            <forename>Gionata</forename>
+            <surname>Brusa</surname>
           </persName>
           <persName>
-            <forename>Antonius</forename><surname>Widmann</surname>
+            <forename>Antonius</forename>
+            <surname>Widmann</surname>
           </persName>
         </respStmt>
         <respStmt>
           <resp>digital processing, text-modelling</resp>
           <persName>
-            <forename>Christian</forename><surname>Steiner</surname>
+            <forename>Christian</forename>
+            <surname>Steiner</surname>
           </persName>
         </respStmt>
       </titleStmt>
       <publicationStmt>
         <publisher>
-          <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/ikm/home/">Österreichische Akademie der Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung Musikwissenschaft</orgName>
+          <orgName corresp="https://www.oeaw.ac.at/ikm/home/" ref="http://d-nb.info/gnd/1043809171">Österreichische Akademie der Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung Musikwissenschaft</orgName>
         </publisher>
         <authority>
-          <orgName ref="http://d-nb.info/gnd/1137284463" corresp="https://informationsmodellierung.uni-graz.at">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName></authority>
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
         <distributor>
-          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName></distributor>
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0">Creative Commons BY-NC-ND 3.0</licence>
         </availability>
         <date when="2017">2017</date>
         <idno type="PID">o:cantus.seckau1.pac</idno>
       </publicationStmt>
-      <!-- nicht objektbezogen; fürs gesamte Projekt-->
+      
       <seriesStmt>
         <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network - semantisch erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
         <title ref="http://gams.uni-graz.at/cantus" xml:lang="en">Cantus Network - a semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan province.</title>
         <respStmt>
           <resp>Projektleitung</resp>
-          <persName><forename>Franz</forename><forename>Karl</forename><surname>Praßl</surname>
+          <persName>
+            <forename>Franz</forename>
+            <forename>Karl</forename>
+            <surname>Praßl</surname>
           </persName>
-          <persName><forename>Robert</forename><surname>Klugseder</surname>
+          <persName>
+            <forename>Robert</forename>
+            <surname>Klugseder</surname>
           </persName>
         </respStmt>
         <respStmt>
           <resp>Mitarbeiter</resp>
           <persName>
-            <forename>Gionata</forename><surname>Brusa</surname>
+            <forename>Gionata</forename>
+            <surname>Brusa</surname>
           </persName>
           <persName>
-            <forename>Christian</forename><surname>Steiner</surname>
+            <forename>Christian</forename>
+            <surname>Steiner</surname>
           </persName>
         </respStmt>
         <respStmt>
@@ -81,18 +95,19 @@
           <orgName>Österreichische Akademie der Wissenschaften: Digital Humanities. Langzeitprojekte zum kulturellen Erbe</orgName>
         </respStmt>
       </seriesStmt>
-      <!--objektbezogen-->
+      
       <sourceDesc>
         <msDesc>
           <msIdentifier>
             <altIdentifier>
-              <placeName>Augustinerchorherrenstift Seckau<date from="1180" to="1200">Ende 12. Jh.</date></placeName>
+              <placeName>Augustinerchorherrenstift Seckau<date from="1180" to="1200">Ende 12. Jh.</date>
+              </placeName>
               <idno>A-Gu Cod. 208</idno>
             </altIdentifier>
           </msIdentifier>
         </msDesc>
         <list type="secondary_sources">
-          <item/>
+          <item></item>
         </list>
       </sourceDesc>
     </fileDesc>
@@ -129,7 +144,9 @@
         <p xml:lang="de">Die zweite Quelle ist der etwa 150-170 Jahre jüngere Seckauer <hi rend="italic">Liber Ordinarius</hi> A-Gu 756 aus dem Jahr 1345. Diese Handschrift wurde 2009 im Rahmen einer Dissertation an der Kunstuniversität Graz unter dem Titel „Der Seckauer Liber ordinarius von 1345 (A-Gu 756) – Edition und Kommentar“ von Inga Behrendt vorgestellt und bietet einen Einblick in die vielgestaltige Liturgie des mittelalterlichen Augustiner Chorherrenstiftes im 14. Jahrhundert. Der Codex ist eine erweiterte Abschrift des älteren <hi rend="italic">Liber Ordinarius</hi> Ms 208 mit einem beigebundenen Cantionar, das liturgisches Eigen- und volkssprachiges Liedgut aus Seckau verzeichnet. Die Dissertation bietet ein Incipitverzeichnis dieses liturgischen Anhangs und erstmalig eine Besprechung der linienlosen Notation (adiastematische Neumen) aus dem 14. Jahrhundert in Seckau.</p>
         <ab type="head">Codex Graz, Univ.-Bibl., Ms 1566 (Seckau 3)</ab>
         <p xml:lang="de">Der dritte <hi rend="italic">Liber Ordinarius</hi> A-Gu 1566 ist die jüngste der drei Handschriften. Der Codex stammt aus dem letzten Jahrzehnt des 16. Jahrhunderts (zwischen 1692 und 1600) und gewährt Einblick in die mehr als 250 Jahre kontinuierliche liturgische und musikalische Entwicklung der Seckauer Liturgie nach der Verschriftlichung durch Ms 756. Auch er wurde im Rahmen einer 2016 abgeschlossenen Dissertation von Réka Miklós bearbeitet. Der <hi rend="italic">Liber Ordinarius</hi> gilt als eines der <hi rend="bold">spätesten Beispiele seiner Art</hi> und steht an der Schwelle zu den liturgisch-musikalischen Umwälzungen im Gefolge des Konzils von Trient. Es handelt sich somit um die letzte Dokumentation <hi rend="bold">Seckauer Eigenliturgie</hi> vor der Übernahme des römischen Ritus im Jahre 1600.</p>
-        <p><hi rend="italic">von Thomas Csanády</hi></p>
+        <p>
+          <hi rend="italic">von Thomas Csanády</hi>
+        </p>
         <p>
           <ref target="/o:cantus.seckau3/sdef:TEI/get?mode=view:edition&amp;locale=de">Zum <hi rend="italic">Liber Ordinarius</hi> Seckau 3.</ref>
         </p>
@@ -449,8 +466,8 @@
       <graphic mimeType="image/jpeg" url="file:///A-Gu208-48r.jpg" xml:id="IMG.048r"></graphic>
     </surface>
     <surface start="#PAC.048v">
-      <graphic mimeType="image/jpeg" url="file:///A-Gu208-48v.jpg" xml:id="IMG.048v"></graphic>   
- </surface>
+      <graphic mimeType="image/jpeg" url="file:///A-Gu208-48v.jpg" xml:id="IMG.048v"></graphic>
+    </surface>
     <surface start="#PAC.049r">
       <graphic mimeType="image/jpeg" url="file:///A-Gu208-49r.jpg" xml:id="IMG.049r"></graphic>
     </surface>
@@ -495,8 +512,8 @@
     </surface>
     <surface start="#PAC.056r">
       <graphic mimeType="image/jpeg" url="file:///A-Gu208-56r.jpg" xml:id="IMG.056r"></graphic>
-    </surface>
-    <surface start="#PAC.056v">
+    </surface>   
+ <surface start="#PAC.056v">
       <graphic mimeType="image/jpeg" url="file:///A-Gu208-56v.jpg" xml:id="IMG.056v"></graphic>
     </surface>
     <surface start="#PAC.057r">
