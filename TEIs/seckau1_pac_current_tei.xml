@@ -102,7 +102,7 @@
             <altIdentifier>
               <placeName>Augustinerchorherrenstift Seckau<date from="1180" to="1200">Ende 12. Jh.</date>
               </placeName>
-              <idno>A-Gu Cod. 208</idno>
+              <idno n="A-Gu Cod. 208">Graz, Universitätsbibliothek, Cod. 408</idno>
             </altIdentifier>
           </msIdentifier>
         </msDesc>
@@ -138,7 +138,7 @@
         <p xml:lang="de">Der älteste Seckauer <hi rend="italic">Liber Ordinarius</hi> A-Gu 208 ist eine unauffällige, nicht ganz vollständig erhaltene romanische Pergamenthandschrift (12./13. Jahrhundert), die zum größten Teil von einer einzigen Hand, die sich auch in weiteren Codices der Seckauer Bibliothek findet, geschrieben wurde. Der Codex, dessen Incipit ihn als „ORDO siue Breuiarium de ecclesiasticis obseruationibus quomodo legendum vel canendum sit per circulum anni“ (Ms. 208, fol. 1r) ausweist, vermerkt auf seinen 46 Folien in Kurzform die Liturgie einer regulierten Kanonikergemeinschaft. Er wurde in späterer Zeit (16./17. Jahrhundert) mit einem papierenen Anhang vereint, der liturgische Gesangsteile, notiert in römischer Quadratnotation, überliefert (Ms 208, foll. 47-70).</p>
         <p xml:lang="de">Die im Grazer Handschriftenkatalog als „Directorium liturgicum Salisburgense ad usum ecclesiae collegiatae Seccoviensis“ beschriebene Quelle überliefert in ihrer Anlageform liturgische Gewohnheiten aus dem Raum der mittelalterlichen <hi rend="bold">Diözese Passau</hi> und wurde erst im Nachhinein durch eine sehr geübte, klein schreibende Hand überarbeitet und für den liturgischen Gebrauch von Seckau adaptiert. Das „neue“ Formular enthält sowohl Elemente der Passauer als auch der Salzburger Liturgie und kann als <hi rend="bold">Mischform</hi> beider Liturgiefamilien betrachtet werden.</p>
         <p>
-          <ref target="/o:cantus.seckau1.pac/sdef:TEI/get?mode=view:edition&amp;locale=de">Zum <hi rend="italic">Liber Ordinarius</hi> Seckau 1.</ref>
+          <ref target="/o:cantus.seckau1.pac/sdef:TEI/get?mode=view:edition&amp;locale=de" rendition="editorial view">Zum <hi rend="italic">Liber Ordinarius</hi> Seckau 1.</ref>
         </p>
         <ab type="head">Codex Graz, Univ.-Bibl., Ms 756 (Seckau 2)</ab>
         <p xml:lang="de">Die zweite Quelle ist der etwa 150-170 Jahre jüngere Seckauer <hi rend="italic">Liber Ordinarius</hi> A-Gu 756 aus dem Jahr 1345. Diese Handschrift wurde 2009 im Rahmen einer Dissertation an der Kunstuniversität Graz unter dem Titel „Der Seckauer Liber ordinarius von 1345 (A-Gu 756) – Edition und Kommentar“ von Inga Behrendt vorgestellt und bietet einen Einblick in die vielgestaltige Liturgie des mittelalterlichen Augustiner Chorherrenstiftes im 14. Jahrhundert. Der Codex ist eine erweiterte Abschrift des älteren <hi rend="italic">Liber Ordinarius</hi> Ms 208 mit einem beigebundenen Cantionar, das liturgisches Eigen- und volkssprachiges Liedgut aus Seckau verzeichnet. Die Dissertation bietet ein Incipitverzeichnis dieses liturgischen Anhangs und erstmalig eine Besprechung der linienlosen Notation (adiastematische Neumen) aus dem 14. Jahrhundert in Seckau.</p>
@@ -148,7 +148,7 @@
           <hi rend="italic">von Thomas Csanády</hi>
         </p>
         <p>
-          <ref target="/o:cantus.seckau3/sdef:TEI/get?mode=view:edition&amp;locale=de">Zum <hi rend="italic">Liber Ordinarius</hi> Seckau 3.</ref>
+          <ref target="/o:cantus.seckau3/sdef:TEI/get?mode=view:edition&amp;locale=de" rendition="editorial view">Zum <hi rend="italic">Liber Ordinarius</hi> Seckau 3.</ref>
         </p>
       </abstract>
     </profileDesc>
