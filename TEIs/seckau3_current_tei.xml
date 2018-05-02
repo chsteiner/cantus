@@ -1,6 +1,6 @@
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
-  <teiHeader>
+  <teiHeader xml:id="seckau3">
     <fileDesc>
       <titleStmt>
         <title>
@@ -90,7 +90,7 @@
           </msIdentifier>
         </msDesc>
         <list type="secondary_sources">
-          <item/>
+          <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-Gu17/manifest"/>
         </list>
       </sourceDesc>
     </fileDesc>
