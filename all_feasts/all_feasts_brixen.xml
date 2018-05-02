@@ -57,14 +57,17 @@
                 <row n="10">
                     <cell>KALENDAS DECEMBRIS CANDIDI MARTYRIS</cell>
                     <cell ana="CDB">14120110</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="11">
                     <cell>II. NONAS DECEMBRIS BARBARAE VIRGINIS</cell>
                     <cell ana="CDB">14120400</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="12">
                     <cell>VIII. IDUS DECEMBRIS NICOLAI EPISCOPI</cell>
                     <cell ana="CDB">14120600</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="13">
                     <cell>OCTAVA SANCTI ANDREAE APOSTOLI</cell>
@@ -73,10 +76,12 @@
                 <row n="14">
                     <cell>VI. IDUS DECEMBRIS ZENONIS EPISCOPI ET CONFESSORIS</cell>
                     <cell ana="CDB">14120820</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="15">
                     <cell>III. IDUS DECEMBRIS DAMASI PAPAE</cell>
                     <cell ana="CDB">14121100</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="16">
                     <cell>IN SECUNDA DOMINICA</cell>
@@ -165,6 +170,7 @@
                 <row n="37">
                     <cell>IN VIGILIA BEATI THOMAE APOSTOLI</cell>
                     <cell ana="CDB">14122200</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="38">
                     <cell>DOMINICA IIII.</cell>
@@ -217,6 +223,7 @@
                 <row n="50">
                     <cell>PRIDIE KALENDAS IANUARII SILVESTRI PAPAE</cell>
                     <cell ana="CDB">14123100</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="51">
                     <cell>KOMMENTAR</cell>
@@ -281,6 +288,7 @@
                 <row n="66">
                     <cell>DE SANCTO FELICE PRESBYTERO</cell>
                     <cell ana="CDB">14011410</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="67">
                     <cell>KOMMENTAR</cell>
@@ -305,10 +313,12 @@
                 <row n="72">
                     <cell>MARCELLI PAPAE</cell>
                     <cell ana="CDB">14011600</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="73">
                     <cell>PRISCAE VIRGINIS</cell>
                     <cell ana="CDB">14011800</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="74">
                     <cell>FABIANI ET SEBASTIANI</cell>
@@ -329,14 +339,17 @@
                 <row n="78">
                     <cell>DE SANCTO VINCENTIO</cell>
                     <cell ana="CDB">14012200</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="79">
                     <cell>EMERENTIANAE VIRGINIS</cell>
                     <cell ana="CDB">14012300</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="80">
                     <cell>TIMOTHEI APOSTOLI</cell>
                     <cell ana="CDB">14012400</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="81">
                     <cell>IN CONVERSIONE SANCTI PAULI</cell>
@@ -345,6 +358,7 @@
                 <row n="82">
                     <cell>POLYCARPI MARTYRIS</cell>
                     <cell ana="CDB">14012600</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="83">
                     <cell>IN OCTAVA SANCTAE AGNETIS</cell>
@@ -353,6 +367,7 @@
                 <row n="84">
                     <cell>BRIGIDAE VIRGINIS</cell>
                     <cell ana="CDB">14020100</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="85">
                     <cell>IN PURIFICATIONE SANCTAE MARIAE</cell>
@@ -365,6 +380,7 @@
                 <row n="87">
                     <cell>BLASII EPISCOPI ET MARTYRIS</cell>
                     <cell ana="CDB">14020300</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="88">
                     <cell>DE SANCTA AGATHA</cell>
@@ -377,14 +393,17 @@
                 <row n="90">
                     <cell>SCOLASTICAE VIRGINIS</cell>
                     <cell ana="CDB">14021000</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="91">
                     <cell>VALENTINI MARTYRIS</cell>
                     <cell ana="CDB">14021400</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="92">
                     <cell>IULIANAE VIRGINIS ET MARTYRIS</cell>
                     <cell ana="CDB">14021600</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="93">
                     <cell>IN CATHEDRA SANCTI PETRI</cell>
@@ -393,6 +412,7 @@
                 <row n="94">
                     <cell>IN VIGILIA SANCTI MATTHIAE</cell>
                     <cell ana="CDB">14022310</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="95">
                     <cell>KOMMENTAR</cell>
@@ -401,10 +421,12 @@
                 <row n="96">
                     <cell>WALBURGAE VIRGINIS</cell>
                     <cell ana="CDB">14022500</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="97">
                     <cell>PERPETUAE ET FELICITATIS</cell>
                     <cell ana="CDB">14030600</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="98">
                     <cell>GREGORII PAPAE</cell>
@@ -413,10 +435,12 @@
                 <row n="99">
                     <cell>GERTRUDIS VIRGINIS</cell>
                     <cell ana="CDB">14031700</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="100">
                     <cell>BENEDICTI ABBATIS</cell>
                     <cell ana="CDB">14032100</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="101">
                     <cell>IN ANNUNTIATIONE SANCTAE MARIAE</cell>
@@ -425,10 +449,12 @@
                 <row n="102">
                     <cell>CASTULI MARTYRIS</cell>
                     <cell ana="CDB">14032610</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="103">
                     <cell>RUPERTI CONFESSORIS</cell>
                     <cell ana="CDB">14092420</cell>
+                    <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="104">
                     <cell>KOMMENTAR</cell>
