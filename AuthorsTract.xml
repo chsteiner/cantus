@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Gionata Brusa</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>No publication statement</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>A TEI file automatically converted from a XSLX file.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <list type="traktate">
+                <item xml:id="Durandus">
+                    <bibl>
+                        <title>Rationale Divinorum Officiorum</title>
+                        <author>Guillelmus Durandus</author>
+                        <editor>Anselme DAVRIL - Timothy M. THIBODEAU</editor>
+                        <placeName>Turnout</placeName>
+                        <date>195-2000</date>
+                        <series>CChr.CM 140,140A-B</series>
+                    </bibl>
+                </item>
+                <item xml:id="Beleth">
+                    <bibl>
+                        <title>Summa de ecclesiasticis officiis</title>
+                        <author>Iohannes Beleth</author>
+                        <editor>Heribertus DOUTEIL</editor>
+                        <placeName>Turnout</placeName>
+                        <date>1976</date>
+                        <series>CChr.CM 41-41A</series>
+                    </bibl>
+                </item>
+                <item xml:id="Bernold">
+                    <bibl>
+                        <title>Micrologus de ecclesiasticis observationibus</title>
+                        <author>Bernold von St. Blasien</author>
+                        <editor></editor>
+                        <placeName></placeName>
+                        <date></date>
+                        <series>PL 151, 973-1022</series>
+                    </bibl>
+                </item>
+                <item xml:id="ChroniconVenetum">
+                    <bibl>
+                        <title>Chronicon Venetum</title>
+                        <author>Ioannes Diaconus Venetus</author>
+                        <editor>PERTZ</editor>
+                        <placeName>Hannover</placeName>
+                        <date>1846</date>
+                        <series>MGH.SS VII, 4-38</series>
+                    </bibl>
+                </item>
+                <item xml:id="LibQuare">
+                    <bibl>
+                        <title>Liber Quare</title>
+                        <author></author>
+                        <editor>Georg Polycarp GOETZ</editor>
+                        <placeName>Turnhout</placeName>
+                        <date>1983</date>
+                        <series>CChr.CM 60</series>
+                    </bibl>
+                </item>
+                <item xml:id="Gregorius">
+                    <bibl>
+                        <title>Registrum Epistolarum</title>
+                        <author>Gregorius I papa</author>
+                        <editor>Paul EWAN - Ludo M. HARTMANN</editor>
+                        <placeName>Berlin</placeName>
+                        <date>1891-99</date>
+                        <series>MGH.Ep I-II</series>
+                    </bibl>
+                </item>
+                <item xml:id="Isidorus">
+                    <bibl>
+                        <title>Sententiarum libri tres</title>
+                        <author>Isidorus von Sevilla</author>
+                        <editor>Pierre CAZIER</editor>
+                        <placeName>Turnhout</placeName>
+                        <date>1998</date>
+                        <series>CCHr.SL 111</series>
+                    </bibl>
+                </item>
+                <item xml:id="LibConv">
+                    <bibl>
+                        <title>Libellus de conversione Bogoariorum et Carantanorum</title>
+                        <author></author>
+                        <editor>Georg Heinrich PERTZ</editor>
+                        <placeName>Hannover</placeName>
+                        <date>1854</date>
+                        <series>MGH.SS XI</series>
+                    </bibl>
+                </item>
+                <item xml:id="Rupert">
+                    <bibl>
+                        <title>Liber de divinis officiis</title>
+                        <author>Rupert von Deutz</author>
+                        <editor>Rhaban HAACKE</editor>
+                        <placeName>Turnhout</placeName>
+                        <date>1967</date>
+                        <series>CChr.CM 7</series>
+                    </bibl>
+                </item>
+                <item xml:id="Amalarius">
+                    <bibl>
+                        <title>De ecclesiasticis officiis</title>
+                        <author>Amalarius von Metz</author>
+                        <editor>Jean Michel HANNSENS</editor>
+                        <placeName>Città del Vaticano</placeName>
+                        <date>1948-50</date>
+                        <series>Studi e Testi 138-140</series>
+                    </bibl>
+                </item>
+                <item xml:id="Beda">
+                    <bibl>
+                        <title>Homiliarum libri tres</title>
+                        <author>Beda</author>
+                        <editor>David HURST - John FRAIPONT</editor>
+                        <placeName>Turnhout</placeName>
+                        <date>1955</date>
+                        <series>CChr.SL 122</series>
+                    </bibl>
+                </item>
+                <item xml:id="Sichard">
+                    <bibl>
+                        <title>Mitrale sive Summa de officiis</title>
+                        <author>Sichard von Cremona</author>
+                        <editor>Lorenz WEINRICH</editor>
+                        <placeName>Turnhout</placeName>
+                        <date>2008</date>
+                        <series>CChr.CM 228</series>
+                    </bibl>
+                </item>
+                <item xml:id="ConcAgath">
+                    <bibl>
+                        <title>Concilium Agathense</title>
+                        <author></author>
+                        <editor>Charles MUNIER</editor>
+                        <placeName>Turnhout</placeName>
+                        <date>2008</date>
+                        <series>CChr.SL 228 (=Concilia Galliae 314-506)</series>
+                    </bibl>
+                </item>
+                <item xml:id="ConcGerund">
+                    <bibl>
+                        <title>Concilium Gerundense</title>
+                        <author></author>
+                        <editor></editor>
+                        <placeName></placeName>
+                        <date></date>
+                        <series>PL 84,314-316</series>
+                    </bibl>
+                </item>
+                <item xml:id="GregoriusVII">
+                    <bibl>
+                        <title>Regula canonica</title>
+                        <author>Gregorius VII papa</author>
+                        <editor>Jean MORIN</editor>
+                        <placeName></placeName>
+                        <date>1901</date>
+                        <series>Revue bénédictine 18, 177-183</series>
+                    </bibl>
+                </item>
+            </list>
+        </body>
+    </text>
+</TEI>
