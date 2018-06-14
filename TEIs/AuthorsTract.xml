@@ -46,6 +46,16 @@
                         <series>PL 151, 973-1022</series>
                     </bibl>
                 </item>
+                <item xml:id="ChroniconVenetum">
+                    <bibl>
+                        <title>Chronicon Venetum</title>
+                        <author>Ioannes Diaconus Venetus</author>
+                        <editor>PERTZ</editor>
+                        <placeName>Hannover</placeName>
+                        <date>1846</date>
+                        <series>MGH.SS VII, 4-38</series>
+                    </bibl>
+                </item>
                 <item xml:id="LibQuare">
                     <bibl>
                         <title>Liber Quare</title>
