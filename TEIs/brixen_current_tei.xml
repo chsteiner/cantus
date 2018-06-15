@@ -83,6 +83,158 @@
         <list type="secondary_sources">
           <item/>
         </list>
+        <list type="traktate">
+          <item xml:id="Durandus">
+            <bibl>
+              <title>Rationale Divinorum Officiorum</title>
+              <author>Guillelmus Durandus</author>
+              <editor>Anselme DAVRIL - Timothy M. THIBODEAU</editor>
+              <placeName>Turnout</placeName>
+              <date>195-2000</date>
+              <series>CChr.CM 140,140A-B</series>
+            </bibl>
+          </item>
+          <item xml:id="Beleth">
+            <bibl>
+              <title>Summa de ecclesiasticis officiis</title>
+              <author>Iohannes Beleth</author>
+              <editor>Heribertus DOUTEIL</editor>
+              <placeName>Turnout</placeName>
+              <date>1976</date>
+              <series>CChr.CM 41-41A</series>
+            </bibl>
+          </item>
+          <item xml:id="Bernold">
+            <bibl>
+              <title>Micrologus de ecclesiasticis observationibus</title>
+              <author>Bernold von St. Blasien</author>
+              <editor></editor>
+              <placeName></placeName>
+              <date></date>
+              <series>PL 151, 973-1022</series>
+            </bibl>
+          </item>
+          <item xml:id="ChroniconVenetum">
+            <bibl>
+              <title>Chronicon Venetum</title>
+              <author>Ioannes Diaconus Venetus</author>
+              <editor>PERTZ</editor>
+              <placeName>Hannover</placeName>
+              <date>1846</date>
+              <series>MGH.SS VII, 4-38</series>
+            </bibl>
+          </item>
+          <item xml:id="LibQuare">
+            <bibl>
+              <title>Liber Quare</title>
+              <author></author>
+              <editor>Georg Polycarp GOETZ</editor>
+              <placeName>Turnhout</placeName>
+              <date>1983</date>
+              <series>CChr.CM 60</series>
+            </bibl>
+          </item>
+          <item xml:id="Gregorius">
+            <bibl>
+              <title>Registrum Epistolarum</title>
+              <author>Gregorius I papa</author>
+              <editor>Paul EWAN - Ludo M. HARTMANN</editor>
+              <placeName>Berlin</placeName>
+              <date>1891-99</date>
+              <series>MGH.Ep I-II</series>
+            </bibl>
+          </item>
+          <item xml:id="Isidorus">
+            <bibl>
+              <title>Sententiarum libri tres</title>
+              <author>Isidorus von Sevilla</author>
+              <editor>Pierre CAZIER</editor>
+              <placeName>Turnhout</placeName>
+              <date>1998</date>
+              <series>CCHr.SL 111</series>
+            </bibl>
+          </item>
+          <item xml:id="LibConv">
+            <bibl>
+              <title>Libellus de conversione Bogoariorum et Carantanorum</title>
+              <author></author>
+              <editor>Georg Heinrich PERTZ</editor>
+              <placeName>Hannover</placeName>
+              <date>1854</date>
+              <series>MGH.SS XI</series>
+            </bibl>
+          </item>
+          <item xml:id="Rupert">
+            <bibl>
+              <title>Liber de divinis officiis</title>
+              <author>Rupert von Deutz</author>
+              <editor>Rhaban HAACKE</editor>
+              <placeName>Turnhout</placeName>
+              <date>1967</date>
+              <series>CChr.CM 7</series>
+            </bibl>
+          </item>
+          <item xml:id="Amalarius">
+            <bibl>
+              <title>De ecclesiasticis officiis</title>
+              <author>Amalarius von Metz</author>
+              <editor>Jean Michel HANNSENS</editor>
+              <placeName>Città del Vaticano</placeName>
+              <date>1948-50</date>
+              <series>Studi e Testi 138-140</series>
+            </bibl>
+          </item>
+          <item xml:id="Beda">
+            <bibl>
+              <title>Homiliarum libri tres</title>
+              <author>Beda</author>
+              <editor>David HURST - John FRAIPONT</editor>
+              <placeName>Turnhout</placeName>
+              <date>1955</date>
+              <series>CChr.SL 122</series>
+            </bibl>
+          </item>
+          <item xml:id="Sichard">
+            <bibl>
+              <title>Mitrale sive Summa de officiis</title>
+              <author>Sichard von Cremona</author>
+              <editor>Lorenz WEINRICH</editor>
+              <placeName>Turnhout</placeName>
+              <date>2008</date>
+              <series>CChr.CM 228</series>
+            </bibl>
+          </item>
+          <item xml:id="ConcAgath">
+            <bibl>
+              <title>Concilium Agathense</title>
+              <author></author>
+              <editor>Charles MUNIER</editor>
+              <placeName>Turnhout</placeName>
+              <date>2008</date>
+              <series>CChr.SL 228 (=Concilia Galliae 314-506)</series>
+            </bibl>
+          </item>
+          <item xml:id="ConcGerund">
+            <bibl>
+              <title>Concilium Gerundense</title>
+              <author></author>
+              <editor></editor>
+              <placeName></placeName>
+              <date></date>
+              <series>PL 84,314-316</series>
+            </bibl>
+          </item>
+          <item xml:id="GregoriusVII">
+            <bibl>
+              <title>Regula canonica</title>
+              <author>Gregorius VII papa</author>
+              <editor>Jean MORIN</editor>
+              <placeName></placeName>
+              <date>1901</date>
+              <series>Revue bénédictine 18, 177-183</series>
+            </bibl>
+          </item>
+        </list>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -503,8 +655,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.01011000.P.8" n="P">Ad processionem</label></ab>
-          <ab>
-            <seg xml:id="place.adsanctamMariam.01011000.P.3" ana="#place">ad sanctam Mariam</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctamMariam.01011000.P.3" ana="#place">sanctam Mariam</seg>
             <seg xml:id="incipit.01011000.P.101" ana="#RPP" type="incipit"><phr type="neume">Missus est Gabriel</phr></seg>. Ad introitum <seg xml:id="place.capellae.01011000.P.4" ana="#place">capellae</seg>
             <seg xml:id="incipit.01011000.P.102" ana="#AP" type="incipit"><phr type="neume">Ingressus angelus</phr></seg>. <seg xml:id="incipit.01011000.P.103" ana="#VS" type="incipit"><phr type="neume">Spiritus sanctus</phr></seg>. <seg xml:id="incipit.01011000.P.104" ana="#OR" type="incipit">Deus qui de beatae Mariae</seg>. In reditu <seg xml:id="incipit.01011000.P.105" ana="#RPP" type="incipit"><phr type="neume">Laetentur</phr> caeli</seg>.</ab>
         </div> 
@@ -733,8 +885,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.01021000.PRO.44" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctumIoannem.01021000.PRO.5" ana="#place">ad sanctum Ioannem</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctumIoannem.01021000.PRO.5" ana="#place">sanctum Ioannem</seg>
             <seg xml:id="incipit.01021000.PRO.225" ana="#RPP" type="incipit"><phr type="neume">Egredietur dominus de Samaria</phr></seg>. In introitu ecclesiae <seg xml:id="incipit.01021000.PRO.226" ana="#RPP" type="incipit">Rex noster</seg>. <seg xml:id="incipit.01021000.PRO.227" ana="#VS" type="incipit">Fuit homo missus</seg>. Oratio de sancto Ioanne. In exitu <seg xml:id="incipit.01021000.PRO.228" ana="#RPP" type="incipit"><phr type="neume">Ecce dominus veniet</phr></seg>.</ab>
         </div>
         <div type="time:1">
@@ -882,8 +1034,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.01031000.PRO.70" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctumIoannem.01031000.PRO.8" ana="#place">ad sanctum Ioannem</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctumIoannem.01031000.PRO.8" ana="#place">sanctum Ioannem</seg>
             <seg xml:id="incipit.01031000.PRO.306" ana="#RPP" type="incipit"><phr type="neume">Bethlehem</phr> civitas</seg>. In introitu <seg xml:id="place.capellae.01031000.PRO.9" ana="#place">capellae</seg>
             <seg xml:id="incipit.01031000.PRO.307" ana="#AP" type="incipit"><phr type="neume">Tu es</phr> qui venturus</seg>. Versus et collecta de sancto Ioanne. In reditu <seg xml:id="incipit.01031000.PRO.308" ana="#RPP" type="incipit"><phr type="neume">Ecce dominus ve</phr>niet</seg>.</ab>
         </div>
@@ -1138,8 +1290,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.01041000.PRO.112" n="PRO">Processio</label></ab>
-          <ab>
-            <seg xml:id="place.adsanctamMariam.01041000.PRO.10" ana="#place">ad sanctam Mariam</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctamMariam.01041000.PRO.10" ana="#place">sanctam Mariam</seg>
             <seg xml:id="incipit.01041000.PRO.560" ana="#RPP" type="incipit"><phr type="neume">Non auferetur</phr></seg> et <seg xml:id="incipit.01041000.PRO.561" ana="#RPP" type="incipit"><phr type="neume">Virgo Israel</phr></seg>. In introitu <seg xml:id="place.capellae.01041000.PRO.11" ana="#place">capellae</seg>
             <seg xml:id="incipit.01041000.PRO.562" ana="#AP" subtype="supplied" type="incipit"><phr type="neume">Prophetae sancti praedicaverunt</phr></seg>. In reditu <seg xml:id="incipit.01041000.PRO.563" ana="#RPP" type="incipit"><phr type="neume">Intuemini</phr></seg>.</ab>
         </div>
@@ -1308,7 +1460,7 @@
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.nocdb.N.140" n="N">Ad nonam</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.N.845" ana="#HY" type="incipit">A solis ortu</seg>. <seg xml:id="incipit.nocdb.N.846" ana="#HV" subtype="supplied" type="incipit">Enixa est</seg>. <seg xml:id="incipit.nocdb.N.847" ana="#HV" subtype="supplied" type="incipit">Gloria tibi</seg>. <seg xml:id="incipit.nocdb.N.848" ana="#AN" type="incipit">Hodie intacta</seg>. <seg xml:id="incipit.nocdb.N.849" ana="#CP" type="incipit">Apparuit gratia</seg>. <seg xml:id="incipit.nocdb.N.850" ana="#RB" type="incipit">Benedictus qui venit</seg>. <seg xml:id="incipit.nocdb.N.851" ana="#RV" type="incipit">Deus dominus</seg>. <seg xml:id="incipit.nocdb.N.852" ana="#VS" type="incipit">Ipse invocabit me</seg>. <seg xml:id="incipit.nocdb.N.853" ana="#OR" type="incipit">Concede quaesumus</seg>.</ab>
+            <seg xml:id="incipit.nocdb.N.845" ana="#HY" type="incipit">A solis ortu</seg>. <seg xml:id="incipit.nocdb.N.846" ana="#HV" subtype="supplied" type="incipit">Enixa est</seg>. <seg xml:id="incipit.nocdb.N.847" ana="#HV" subtype="supplied" type="incipit">Gloria tibi</seg>. <seg xml:id="incipit.nocdb.N.848" ana="#AN" type="incipit">Hodie intacta</seg>. <seg xml:id="incipit.nocdb.N.849" ana="#CP" type="incipit">Apparuit gratia</seg>. <seg xml:id="incipit.nocdb.N.850" ana="#RB" type="incipit">Benedictus qui venit</seg>. <seg xml:id="incipit.nocdb.N.851" ana="#RV" type="incipit">Deus dominus</seg>. <seg xml:id="incipit.nocdb.N.852" ana="#VS" type="incipit">Ipse invocavit me</seg>. <seg xml:id="incipit.nocdb.N.853" ana="#OR" type="incipit">Concede quaesumus</seg>.</ab>
         </div>
       </div>
       <div>
@@ -1345,8 +1497,8 @@
        </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.02122600.PRO.146" n="PRO">Processio</label></ab>
-          <ab>
-            <seg xml:id="place.adsanctumStephanum.02122600.PRO.13" ana="#place">ad sanctum Stephanum</seg>, quae fieri debet cum candelis et plenariis absque cruce secundum quod habemus in ordine romano. Et est ratio ne noviter natus crucem expavescat. <seg xml:id="function.Diaconi.02122600.PRO.9" ana="#function">Diaconi</seg> induti dalmaticis festum sancti Stephani sicut habet consuetudo celebrent, et in processione praecedant, et cantent <seg xml:id="incipit.02122600.PRO.870" ana="#SE" subtype="supplied" type="incipit">Promissa mundo gaudia</seg>. <seg xml:id="incipit.02122600.PRO.871" ana="#RPP" type="incipit">Patefactae sunt</seg>. <seg xml:id="incipit.02122600.PRO.872" ana="#RV" type="incipit">Vidit beatus Stephanus</seg>. <seg xml:id="incipit.02122600.PRO.873" ana="#VS" type="incipit">Gloria et honore</seg>. <seg xml:id="incipit.02122600.PRO.874" ana="#AM" type="incipit">Stephanus autem</seg>. <seg xml:id="incipit.02122600.PRO.875" ana="#OR" type="incipit">Da nobis quaesumus domine imitari</seg>. <seg xml:id="incipit.02122600.PRO.876" ana="#BD" subtype="supplied" type="incipit">Benedicamus</seg> quale volueris.</ab>
+          <ab> ad 
+            <seg xml:id="place.sanctumStephanum.02122600.PRO.13" ana="#place">sanctum Stephanum</seg>, quae fieri debet cum candelis et plenariis absque cruce secundum quod habemus in ordine romano. Et est ratio ne noviter natus crucem expavescat. <seg xml:id="function.Diaconi.02122600.PRO.9" ana="#function">Diaconi</seg> induti dalmaticis festum sancti Stephani sicut habet consuetudo celebrent, et in processione praecedant, et cantent <seg xml:id="incipit.02122600.PRO.870" ana="#SE" subtype="supplied" type="incipit">Promissa mundo gaudia</seg>. <seg xml:id="incipit.02122600.PRO.871" ana="#RPP" type="incipit">Patefactae sunt</seg>. <seg xml:id="incipit.02122600.PRO.872" ana="#RV" type="incipit">Vidit beatus Stephanus</seg>. <seg xml:id="incipit.02122600.PRO.873" ana="#VS" type="incipit">Gloria et honore</seg>. <seg xml:id="incipit.02122600.PRO.874" ana="#AM" type="incipit">Stephanus autem</seg>. <seg xml:id="incipit.02122600.PRO.875" ana="#OR" type="incipit">Da nobis quaesumus domine imitari</seg>. <seg xml:id="incipit.02122600.PRO.876" ana="#BD" subtype="supplied" type="incipit">Benedicamus</seg> quale volueris.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.02122600.C.147" n="C">Ad completorium</label></ab>
@@ -1547,7 +1699,7 @@
         <div type="time:1">
           <ab ana="#head" type="supplied"><label xml:id="office.02123100.M.180" n="M">Ad matutinas</label></ab>
           <ab>
-            <seg xml:id="incipit.02123100.M.1031" ana="#AN" type="incipit">Homo natus</seg> cum antiphonis reliquis et psalmis. <seg xml:id="incipit.02123100.M.1032" ana="#VS" type="incipit">Ipse invocabit</seg>. Sermo de nativitate legitur. Responsorium septimum, octavum nonum de historia <seg xml:id="incipit.02123100.M.1033" ana="#RP" subtype="supplied" type="incipit">Ecce agnus</seg>.</ab>
+            <seg xml:id="incipit.02123100.M.1031" ana="#AN" type="incipit">Homo natus</seg> cum antiphonis reliquis et psalmis. <seg xml:id="incipit.02123100.M.1032" ana="#VS" type="incipit">Ipse invocavit</seg>. Sermo de nativitate legitur. Responsorium septimum, octavum nonum de historia <seg xml:id="incipit.02123100.M.1033" ana="#RP" subtype="supplied" type="incipit">Ecce agnus</seg>.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.02123100.L.181" n="L">Laudes</label></ab>
@@ -1580,7 +1732,7 @@
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.nocdb.L.184" n="L">Laudes</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.L.1050" ana="#AN" type="incipit">Genuit puerpera</seg> sola tantum. <seg xml:id="incipit.nocdb.L.1051" ana="#PS" type="incipit">Dominus regnavit</seg>. Capitulum de dominica. <seg xml:id="incipit.nocdb.L.1052" ana="#VS" type="incipit">Ipse invocabit me</seg>. <seg xml:id="incipit.nocdb.L.1053" ana="#AB" type="incipit">Dum medium silentium</seg>. <seg xml:id="incipit.nocdb.L.1054" ana="#OR" rend="#CL" type="incipit">Omnipotens sempiterne deus dirige</seg>. Suffragia ut supra.</ab>
+            <seg xml:id="incipit.nocdb.L.1050" ana="#AN" type="incipit">Genuit puerpera</seg> sola tantum. <seg xml:id="incipit.nocdb.L.1051" ana="#PS" type="incipit">Dominus regnavit</seg>. Capitulum de dominica. <seg xml:id="incipit.nocdb.L.1052" ana="#VS" type="incipit">Ipse invocavit me</seg>. <seg xml:id="incipit.nocdb.L.1053" ana="#AB" type="incipit">Dum medium silentium</seg>. <seg xml:id="incipit.nocdb.L.1054" ana="#OR" rend="#CL" type="incipit">Omnipotens sempiterne deus dirige</seg>. Suffragia ut supra.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.nocdb.D.185" n="D">Ad cursus</label></ab>
@@ -2424,7 +2576,7 @@
           <ab ana="#head"><label xml:id="office.14020200.P.320" n="P">Ad processionem</label></ab>
           <ab>
             <seg xml:id="incipit.14020200.P.1685" ana="#AP" type="incipit">Ave gratia plena</seg>. <seg xml:id="incipit.14020200.P.1686" ana="#AP" type="incipit">Adorna thalamum</seg>. In <seg xml:id="place.capellasanctaeMariae.14020200.P.20" ana="#place">capella sanctae Mariae</seg>
-            <seg xml:id="function.cantores.14020200.P.31" ana="#function">cantores</seg> incipiant <seg xml:id="incipit.14020200.P.1687" ana="#AP" type="incipit">Responsum accepit</seg> et a <seg xml:id="function.clero.14020200.P.32" ana="#function">clero</seg> canatur et neumas <seg xml:id="function.cantores.14020200.P.33" ana="#function">cantores</seg> <seg xml:id="incipit.14020200.P.1688" ana="#AP" corresp="#./preceding-sibling::AP[1]" subtype="supplied" type="incipit">on</seg>. In reditu <seg xml:id="incipit.14020200.P.1689" ana="#RPP" type="incipit">Gaude Maria</seg>. <seg xml:id="incipit.14020200.P.1690" ana="#RV" type="incipit">Gabrielem archangelum</seg> usque <seg xml:id="place.adsanctumStephanum.14020200.P.21" ana="#place">ad sanctum Stephanum</seg>. Quo finito <seg xml:id="place.chorum.14020200.P.22" ana="#place">chorum</seg> ascendant cantantes <seg xml:id="incipit.14020200.P.1691" ana="#AP" type="incipit">Cum inducerent</seg>. Cantata antiphona <seg xml:id="function.sacerdos.14020200.P.34" ana="#function">sacerdos</seg> orationem solitam dicat.</ab>
+            <seg xml:id="function.cantores.14020200.P.31" ana="#function">cantores</seg> incipiant <seg xml:id="incipit.14020200.P.1687" ana="#AP" type="incipit">Responsum accepit</seg> et a <seg xml:id="function.clero.14020200.P.32" ana="#function">clero</seg> canatur et neumas <seg xml:id="function.cantores.14020200.P.33" ana="#function">cantores</seg> <seg xml:id="incipit.14020200.P.1688" ana="#AP" corresp="#./preceding-sibling::AP[1]" subtype="supplied" type="incipit">on</seg>. In reditu <seg xml:id="incipit.14020200.P.1689" ana="#RPP" type="incipit">Gaude Maria</seg>. <seg xml:id="incipit.14020200.P.1690" ana="#RV" type="incipit">Gabrielem archangelum</seg> usque ad <seg xml:id="place.sanctumStephanum.14020200.P.21" ana="#place">sanctum Stephanum</seg>. Quo finito <seg xml:id="place.chorum.14020200.P.22" ana="#place">chorum</seg> ascendant cantantes <seg xml:id="incipit.14020200.P.1691" ana="#AP" type="incipit">Cum inducerent</seg>. Cantata antiphona <seg xml:id="function.sacerdos.14020200.P.34" ana="#function">sacerdos</seg> orationem solitam dicat.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.14020200.MI.321" n="MI">Ad missam</label></ab>
@@ -2826,8 +2978,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.06011000.PRO.381" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctamMariam.06011000.PRO.28" ana="#place">ad sanctam Mariam</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctamMariam.06011000.PRO.28" ana="#place">sanctam Mariam</seg>
             <seg xml:id="incipit.06011000.PRO.1997" ana="#RPP" type="incipit">Formavit igitur</seg>. <seg xml:id="incipit.06011000.PRO.1998" ana="#AP" type="incipit">Alma redemptoris</seg>. In reditu <seg xml:id="incipit.06011000.PRO.1999" ana="#RPP" type="incipit">Ubi est Abel</seg>.</ab>
         </div>
         <div type="time:1">
@@ -2893,8 +3045,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.06021000.PRO.391" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctamMariam.06021000.PRO.30" ana="#place">ad sanctam Mariam</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctamMariam.06021000.PRO.30" ana="#place">sanctam Mariam</seg>
             <seg xml:id="incipit.06021000.PRO.2036" ana="#RPP" type="incipit">Dum deambularet</seg>. <seg xml:id="incipit.06021000.PRO.2037" ana="#RPP" type="incipit">In sudore vultus</seg>. <seg xml:id="incipit.06021000.PRO.2038" ana="#AP" type="incipit">Ave magnifica</seg>. In reditu <seg xml:id="incipit.06021000.PRO.2039" ana="#RPP" type="incipit">Ubi est Abel</seg>.</ab>
         </div>
         <div type="time:1">
@@ -2962,8 +3114,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.06031000.PRO.401" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctamMariam.06031000.PRO.31" ana="#place">ad sanctam Mariam</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctamMariam.06031000.PRO.31" ana="#place">sanctam Mariam</seg>
             <seg xml:id="incipit.06031000.PRO.2075" ana="#RPP" type="incipit">Locutus est</seg>. <seg xml:id="incipit.06031000.PRO.2076" ana="#RPP" type="incipit">Dum staret Abraham</seg>. <seg xml:id="incipit.06031000.PRO.2077" ana="#AP" type="incipit">Gaudendum nobis</seg>. In reditu <seg xml:id="incipit.06031000.PRO.2078" ana="#RPP" type="incipit">Caecus sedebat</seg>.</ab>
         </div>
         <div type="time:1">
@@ -3023,8 +3175,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.06034000.PRO.410" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctumIoannem.06034000.PRO.32" ana="#place">ad sanctum Ioannem</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctumIoannem.06034000.PRO.32" ana="#place">sanctum Ioannem</seg>
             <seg xml:id="incipit.06034000.PRO.2110" ana="#RPP" type="incipit">Emendemus in melius</seg>. <seg xml:id="incipit.06034000.PRO.2111" ana="#RPP" type="incipit">Paradisi portas</seg>. In <seg xml:id="place.capella.06034000.PRO.33" ana="#place">capella</seg>
             <seg xml:id="incipit.06034000.PRO.2112" ana="#PS" rend="#AP" type="incipit">Miserere mei deus</seg> flexibus genibus. <seg xml:id="incipit.06034000.PRO.2113" ana="#LT" subtype="supplied" type="incipit">Kyrie eleison. Christe eleison. Kyrie eleison</seg>. <seg xml:id="incipit.06034000.PRO.2114" ana="#PN" subtype="supplied" type="incipit">Pater noster</seg>. <seg xml:id="incipit.06034000.PRO.2115" ana="#VS" type="incipit">Propitius esto peccatis nostris propter nomen tuum domine</seg>. <seg xml:id="incipit.06034000.PRO.2116" ana="#VS" type="incipit">Fuit homo missus a deo</seg>. Oratio pro peccatis et oratio de sancto Ioanne. In reditu trina laetania quam <seg xml:id="function.cantor.06034000.PRO.47" ana="#function">cantor</seg> incipiat.</ab>
           <ab>Missa per totam quadragesimam ut habet graduale celebratur, ita quod <seg xml:id="function.cantor.06034000.PRO.49" ana="#function">cantor</seg> versum gradualis solus decantet. Feria secunda, quarta et sexta ad missam <seg xml:id="incipit.06034000.PRO.2117" ana="#TR" type="incipit">Domine non secundum peccata nostra</seg> cantetur. <seg xml:id="incipit.06034000.PRO.2118" ana="#PF" type="incipit">Qui corporali ieiunio</seg> ab hinc iuxta statutum <seg xml:id="person.Pelagii.06034000.PRO.14" ana="#person">Pelagii</seg> papae tam dominicis quam privatis diebus usque in dominicam palmarum dicatur. Post ultimum ad missam <seg xml:id="incipit.06034000.PRO.2119" ana="#OR" corresp="#./preceding-sibling::OR[1]" subtype="supplied" type="incipit">Per dominum nostrum</seg> dicitur <seg xml:id="incipit.06034000.PRO.2120" ana="#ORI" subtype="supplied" type="incipit">Oremus</seg>. <seg xml:id="incipit.06034000.PRO.2121" ana="#ORI" subtype="supplied" type="incipit">Inclinate capita vestra deo</seg>. <del type="rasur"/> oratio super populum cottidie usque <del type="rasur"/> diebus et <del type="rasur"/>. <seg type="supplied">Missa cum</seg>
@@ -3066,8 +3218,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.06036000.PRO.416" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctamCruceminInsulam.06036000.PRO.35" ana="#place">ad sanctam Crucem in Insulam</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctamCruceminInsulam.06036000.PRO.35" ana="#place">sanctam Crucem in Insulam</seg>
             <seg xml:id="incipit.06036000.PRO.2129" ana="#AP" type="incipit">Clementissime</seg>. <seg xml:id="incipit.06036000.PRO.2130" ana="#PS" type="incipit">Salvum fac</seg>. Oratio super populum de die. In exitu <seg xml:id="incipit.06036000.PRO.2131" ana="#AP" type="incipit">Oremus dilectissimi</seg>. <seg xml:id="incipit.06036000.PRO.2132" ana="#AP" type="incipit">O crux</seg> vel <seg xml:id="incipit.06036000.PRO.2133" ana="#AP" type="incipit">Sanctifica</seg>. <seg xml:id="incipit.06036000.PRO.2134" ana="#PS" type="incipit">Miserere mei deus</seg> flexibus genibus. <seg xml:id="incipit.06036000.PRO.2135" ana="#VS" type="incipit">Propitius esto peccatis</seg>. <seg xml:id="incipit.06036000.PRO.2136" ana="#VS" type="incipit">Adoramus te Christe</seg>. Oratio pro peccatis et de sancta cruce. In reditu trina laetania.</ab>
         </div>
         <div type="time:1">
@@ -3143,8 +3295,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07011000.PRO.426" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctamMariam.07011000.PRO.39" ana="#place">ad sanctam Mariam</seg>
+          <ab> ad
+            <seg xml:id="place.sanctamMariam.07011000.PRO.39" ana="#place">sanctam Mariam</seg>
             <seg xml:id="incipit.07011000.PRO.2180" ana="#RPP" type="incipit">Tribularer</seg>. <seg xml:id="incipit.07011000.PRO.2181" ana="#RPP" type="incipit">Angelis suis</seg>. <seg xml:id="incipit.07011000.PRO.2182" ana="#AP" type="incipit">Sancta Maria succurre</seg>. Versus et oratio de sancta Maria. In reditu <seg xml:id="incipit.07011000.PRO.2183" ana="#RPP" type="incipit">Ductus est</seg>.</ab>
         </div>
         <div type="time:1">
@@ -3217,8 +3369,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07012000.PRO.440" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctumIoannem.07012000.PRO.41" ana="#place">ad sanctum Ioannem</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctumIoannem.07012000.PRO.41" ana="#place">sanctum Ioannem</seg>
             <seg xml:id="incipit.07012000.PRO.2225" ana="#RPP" type="incipit">In ieiunio et fletu</seg>. <seg xml:id="incipit.07012000.PRO.2226" ana="#RPP" type="incipit">In omnibus exhibeamus</seg>. <seg xml:id="incipit.07012000.PRO.2227" ana="#PS" subtype="supplied" type="incipit">Miserere mei deus</seg>. <seg xml:id="incipit.07012000.PRO.2228" ana="#LT" subtype="supplied" type="incipit">Kyrie eleison. Christe eleison. Kyrie eleison</seg>. <seg xml:id="incipit.07012000.PRO.2229" ana="#PN" subtype="supplied" type="incipit">Pater noster</seg>. <seg xml:id="incipit.07012000.PRO.2230" ana="#VS" type="incipit">Propitius esto peccatis nostris</seg>. <seg xml:id="incipit.07012000.PRO.2231" ana="#VS" type="incipit">Fuit homo missus a deo</seg>. Oratio pro peccatis et de sancto Ioanne. Deinde laetania ut supra.</ab>
         </div>
         <div type="time:1">
@@ -3285,8 +3437,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07014000.PRO.451" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctumMichaelem.07014000.PRO.42" ana="#place">ad sanctum Michaelem</seg>. <seg xml:id="incipit.07014000.PRO.2243" ana="#RPP" type="incipit">Abscondite elemosinam</seg>. <seg xml:id="incipit.07014000.PRO.2244" ana="#RPP" type="incipit">Angelis suis</seg>. Oratio pro peccatis et oratio de sancto Michaele. Trina laetania in reditu ut supra.</ab>
+          <ab> ad 
+            <seg xml:id="place.sanctumMichaelem.07014000.PRO.42" ana="#place">sanctum Michaelem</seg>. <seg xml:id="incipit.07014000.PRO.2243" ana="#RPP" type="incipit">Abscondite elemosinam</seg>. <seg xml:id="incipit.07014000.PRO.2244" ana="#RPP" type="incipit">Angelis suis</seg>. Oratio pro peccatis et oratio de sancto Michaele. Trina laetania in reditu ut supra.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07014000.MI.452" n="MI">Ad missam</label></ab>
@@ -3410,8 +3562,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07021000.PRO.471" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctamMariam.07021000.PRO.44" ana="#place">ad sanctam Mariam</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctamMariam.07021000.PRO.44" ana="#place">sanctam Mariam</seg>
             <seg xml:id="incipit.07021000.PRO.2324" ana="#RPP" type="incipit">Dum exiret Iacob</seg>. <seg xml:id="incipit.07021000.PRO.2325" ana="#AP" type="incipit">Salve regina</seg>. Versus et oratio de sancta Maria. In reditu <seg xml:id="incipit.07021000.PRO.2326" ana="#RPP" type="incipit">Vidi dominum facie</seg>.</ab>
         </div>
         <div type="time:1">
@@ -3458,8 +3610,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07022000.PRO.480" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctumIoannem.07022000.PRO.45" ana="#place">ad sanctum Ioannem</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctumIoannem.07022000.PRO.45" ana="#place">sanctum Ioannem</seg>
             <seg xml:id="incipit.07022000.PRO.2343" ana="#RPP" type="incipit">Emendemus in melius</seg>. <seg xml:id="incipit.07022000.PRO.2344" ana="#RPP" type="incipit">Genti peccatrici</seg>. <seg xml:id="incipit.07022000.PRO.2345" ana="#PS" type="incipit">Miserere mei deus</seg> flexis genibus. Versus et orationes pro peccatis et de sancto Ioanne.</ab>
         </div>
         <div type="time:1">
@@ -3504,8 +3656,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07024000.PRO.488" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctumMichaelem.07024000.PRO.46" ana="#place">ad sanctum Michaelem</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctumMichaelem.07024000.PRO.46" ana="#place">sanctum Michaelem</seg>
             <seg xml:id="incipit.07024000.PRO.2353" ana="#RPP" type="incipit">Abscondite elemosinam</seg>. <seg xml:id="incipit.07024000.PRO.2354" ana="#RPP" type="incipit">Dixit angelus ad Iacob</seg>. <seg xml:id="incipit.07024000.PRO.2355" ana="#PS" type="incipit">Miserere mei deus</seg>. Versus et orationes pro peccatis et de sancto Michaele. Laetania ut supra.</ab>
         </div>
         <div type="time:1">
@@ -3611,8 +3763,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07031000.PRO.506" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctamMariam.07031000.PRO.48" ana="#place">ad sanctam Mariam</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctamMariam.07031000.PRO.48" ana="#place">sanctam Mariam</seg>
             <seg xml:id="incipit.07031000.PRO.2387" ana="#RPP" type="incipit">Ioseph dum intraret</seg>. <seg xml:id="incipit.07031000.PRO.2388" ana="#AP" subtype="supplied" type="incipit">Salvator mundi</seg>. Versus et oratio de sancta Maria. In reditu <seg xml:id="incipit.07031000.PRO.2389" ana="#RPP" type="incipit">Igitur Ioseph</seg>.</ab>
         </div>
         <div type="time:1">
@@ -3654,8 +3806,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07032000.PRO.514" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctumIoannem.07032000.PRO.49" ana="#place">ad sanctum Ioannem</seg> ut supra.</ab>
+          <ab> ad 
+            <seg xml:id="place.sanctumIoannem.07032000.PRO.49" ana="#place">sanctum Ioannem</seg> ut supra.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07032000.V.515" n="V">Ad vesperas</label></ab>
@@ -3690,8 +3842,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07034000.PRO.520" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctumMichaelem.07034000.PRO.50" ana="#place">ad sanctum Michaelem</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctumMichaelem.07034000.PRO.50" ana="#place">sanctum Michaelem</seg>
             <seg xml:id="incipit.07034000.PRO.2415" ana="#RPP" type="incipit">Tribularer</seg>. <seg xml:id="incipit.07034000.PRO.2416" ana="#RPP" type="incipit">Dixit angelus ad Iacob</seg> et cetera ut supra.</ab>
         </div>
         <div type="time:1">
@@ -3792,8 +3944,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07041000.PRO.536" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctamMariam.07041000.PRO.52" ana="#place">ad sanctam Mariam</seg>
+          <ab> ad
+            <seg xml:id="place.sanctamMariam.07041000.PRO.52" ana="#place">sanctam Mariam</seg>
             <seg xml:id="incipit.07041000.PRO.2445" ana="#RPP" type="incipit">Ecce mitto angelum</seg>. <seg xml:id="incipit.07041000.PRO.2446" ana="#RPP" type="incipit">Moyses famulus</seg>. <seg xml:id="incipit.07041000.PRO.2447" ana="#RPP" type="incipit">Ave Maria</seg>. Versus et oratio de sancta Maria. In reditu <seg xml:id="incipit.07041000.PRO.2448" ana="#RPP" type="incipit">Audi Israel</seg>.</ab>
         </div>
         <div type="time:1">
@@ -3837,8 +3989,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07042000.PRO.544" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctumIoannem.07042000.PRO.54" ana="#place">ad sanctum Ioannem</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctumIoannem.07042000.PRO.54" ana="#place">sanctum Ioannem</seg>
             <seg xml:id="incipit.07042000.PRO.2468" ana="#RPP" type="incipit">Paradisi portas</seg>. <seg xml:id="incipit.07042000.PRO.2469" ana="#RPP" type="incipit">Abscondite elemosinam</seg>. <seg xml:id="incipit.07042000.PRO.2470" ana="#PS" type="incipit">Miserere mei deus</seg>. Orationes pro peccatis et de sancto Iohanne. Cetera ut supra.</ab>
         </div>
         <div type="time:1">
@@ -3884,8 +4036,8 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07044000.PRO.552" n="PRO">Processio</label></ab>
-          <ab> 
-            <seg xml:id="place.adsanctumMichaelem.07044000.PRO.55" ana="#place">ad sanctum Michaelem</seg>
+          <ab> ad 
+            <seg xml:id="place.sanctumMichaelem.07044000.PRO.55" ana="#place">sanctum Michaelem</seg>
             <seg xml:id="incipit.07044000.PRO.2478" ana="#RPP" type="incipit">In ieiunio et fletu</seg>. <seg xml:id="incipit.07044000.PRO.2479" ana="#RPP" type="incipit">Audi Israel</seg>. Cetera ut supra.</ab>
           <ab>Ista die duae lectiones </ab>
         </div>
