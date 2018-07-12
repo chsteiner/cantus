@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>List of Incipits and Genres</title>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Zentrum für Informationsmodellierung - Austrian Centre for Digital
+                    Humanities</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table cols="2">
+                <head>Horae</head>
+                <row>
+                    <cell role="horae">Ad vesperas</cell>
+                    <cell>V</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad completorium</cell>
+                    <cell>V</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad matutinum</cell>
+                    <cell>M</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad laudes</cell>
+                    <cell>L</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad primam</cell>
+                    <cell>P</cell>
+                </row>
+                <row>
+                    <cell role="horae">Post primam</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad tertiam</cell>
+                    <cell>T</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad missam</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad sextam</cell>
+                    <cell>S</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad nonam</cell>
+                    <cell>N</cell>
+                </row>
+                <row>
+                    <cell role="horae">In secunda vespera</cell>
+                    <cell>V2</cell>
+                </row>
+                <row>
+                    <cell role="horae">Laudes</cell>
+                    <cell>L</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">In vesperis</cell>
+                    <cell>V</cell>
+                </row>
+                <row>
+                    <cell role="horae">Sabbato ad vesperas</cell>
+                    <cell>V</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad primam et ad alias horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Completorium</cell>
+                    <cell>C</cell>
+                </row>
+                <row>
+                    <cell role="horae">Prima</cell>
+                    <cell>P</cell>
+                </row>
+                <row>
+                    <cell role="horae">MIn secunda vespera</cell>
+                    <cell>V2</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad matutinas et ad omnes cursus</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Officium</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">In secundis vesperis</cell>
+                    <cell>V2</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad horas et ad missam</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad cursus et ad missam</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad completorium et ad matutinas</cell>
+                    <cell>L</cell>
+                </row>
+                <row>
+                    <cell role="horae">Prior missa</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Secunda vero missa</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad missam et ad horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad completorium et ad matutinum</cell>
+                    <cell>M</cell>
+                </row>
+                <row>
+                    <cell role="horae">Dominica in secunda vespera</cell>
+                    <cell>V2</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad matutinuas</cell>
+                    <cell>L</cell>
+                </row>
+                <row>
+                    <cell role="horae">MAd vesperas</cell>
+                    <cell>V</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad matutinas</cell>
+                    <cell>L</cell>
+                </row>
+                <row>
+                    <cell role="horae">in secundis vesperis</cell>
+                    <cell>V2</cell>
+                </row>
+                <row>
+                    <cell role="horae">Missa in galli cantu</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad secundam missam</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad missam publicam</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">De secundis vesperis sancti Stephani, Ioannis et
+                        Innocentum</cell>
+                    <cell>V2</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad alios cursus</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad alias autem horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ceteri cursus</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad alias horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">ad laudes</cell>
+                    <cell>L</cell>
+                </row>
+                <row>
+                    <cell role="horae">ad vesperas</cell>
+                    <cell>V</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad omnes horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Missa</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad matutinum et ad aliquas horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">REAd horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">In laudibus</cell>
+                    <cell>L</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad ceteras horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Benedictio cereorum</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad processionem</cell>
+                    <cell>PRO</cell>
+                </row>
+                <row>
+                    <cell role="horae">In completorio</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad completorium, ad matutinum et ad horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">ad matutinum</cell>
+                    <cell>M</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad priorem missam</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">ad priorem missam</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">MAd matutinum</cell>
+                    <cell>M</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad cursus</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">priorem missam</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ordo in die cinerum</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ordo processionum in quadragesima</cell>
+                    <cell>PRO</cell>
+                </row>
+                <row>
+                    <cell role="horae">processio</cell>
+                    <cell>PRO</cell>
+                </row>
+                <row>
+                    <cell role="horae">Post aspersionem fiat</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad relinquas horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad vespera</cell>
+                    <cell>V</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ordo in die palmarum</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad horas et processio</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad omnes cursus</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad mandatum</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ordo in parasceve</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad salutandam crucem</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad communionem</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Processio ad sepulchrum</cell>
+                    <cell>PRO</cell>
+                </row>
+                <row>
+                    <cell role="horae">Horae</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ordo in sabbato sancto</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">ad missam</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">In ipsa sancta nocte</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">sexta</cell>
+                    <cell>S</cell>
+                </row>
+                <row>
+                    <cell role="horae">nona</cell>
+                    <cell>N</cell>
+                </row>
+                <row>
+                    <cell role="horae">completorium</cell>
+                    <cell>C</cell>
+                </row>
+                <row>
+                    <cell role="horae">aspersio</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">ad completorium</cell>
+                    <cell>C</cell>
+                </row>
+                <row>
+                    <cell role="horae">ad horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Processio et ad horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">missa rogationum</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">missa</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Omnes horae</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad primam et ad omnes horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">prior missa</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad missam de sanctis</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad missam de sancta cruce</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">De ludo in ascensione domini</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad tertiam et ad alias horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ordo in sabbato sancto pentecostes</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad primam et ad omnes cursus</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">MAd missam</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">RCompletorium</cell>
+                    <cell>C</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad aspersionem</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">MAd laudes</cell>
+                    <cell>L</cell>
+                </row>
+                <row>
+                    <cell role="horae">Prima et ceteri cursus</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">In matutinis</cell>
+                    <cell>M</cell>
+                </row>
+                <row>
+                    <cell role="horae">In matutinum</cell>
+                    <cell>M</cell>
+                </row>
+                <row>
+                    <cell role="horae">In secundo nocturno</cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell role="horae">In tertio nocturno</cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell role="horae">Ceterae horae</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">RPrima</cell>
+                    <cell>P</cell>
+                </row>
+                <row>
+                    <cell role="horae">RAd officium</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">RAd vesperas</cell>
+                    <cell>V</cell>
+                </row>
+                <row>
+                    <cell role="horae">RAd matutinum</cell>
+                    <cell>M</cell>
+                </row>
+                <row>
+                    <cell role="horae">In secundis vesperisAd vesperas</cell>
+                    <cell>V</cell>
+                </row>
+                <row>
+                    <cell role="horae">Prima missa</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Secunda missa</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">RAd laudes</cell>
+                    <cell>L</cell>
+                </row>
+                <row>
+                    <cell role="horae">RIn secundis vesperis</cell>
+                    <cell>V2</cell>
+                </row>
+                <row>
+                    <cell role="horae">missa de vigilia</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad matutinum et ad horas</cell>
+                    <cell>D</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad vesperas et ad completorium</cell>
+                    <cell>V</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad matitinum</cell>
+                    <cell>M</cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>
