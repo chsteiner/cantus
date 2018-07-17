@@ -24,7 +24,7 @@
                 </row>
                 <row>
                     <cell role="horae">Ad completorium</cell>
-                    <cell>V</cell>
+                    <cell>C</cell>
                 </row>
                 <row>
                     <cell role="horae">Ad matutinum</cell>
@@ -92,7 +92,7 @@
                 </row>
                 <row>
                     <cell role="horae">MIn secunda vespera</cell>
-                    <cell>V2</cell>
+                    <cell>v2</cell>
                 </row>
                 <row>
                     <cell role="horae">Ad matutinas et ad omnes cursus</cell>
@@ -229,7 +229,7 @@
                 </row>
                 <row>
                     <cell role="horae">In completorio</cell>
-                    <cell>D</cell>
+                    <cell>C</cell>
                 </row>
                 <row>
                     <cell role="horae">Ad completorium, ad matutinum et ad horas</cell>
@@ -273,15 +273,15 @@
                 </row>
                 <row>
                     <cell role="horae">Post aspersionem fiat</cell>
-                    <cell>X</cell>
+                    <cell></cell>
                 </row>
                 <row>
                     <cell role="horae">Ad relinquas horas</cell>
-                    <cell>D</cell>
+                    <cell></cell>
                 </row>
                 <row>
                     <cell role="horae">Ad vespera</cell>
-                    <cell>V</cell>
+                    <cell></cell>
                 </row>
                 <row>
                     <cell role="horae">Ordo in die palmarum</cell>
@@ -432,14 +432,6 @@
                     <cell>M</cell>
                 </row>
                 <row>
-                    <cell role="horae">In secundo nocturno</cell>
-                    <cell></cell>
-                </row>
-                <row>
-                    <cell role="horae">In tertio nocturno</cell>
-                    <cell></cell>
-                </row>
-                <row>
                     <cell role="horae">Ceterae horae</cell>
                     <cell>D</cell>
                 </row>
@@ -493,7 +485,7 @@
                 </row>
                 <row>
                     <cell role="horae">Ad matitinum</cell>
-                    <cell>M</cell>
+                    <cell></cell>
                 </row>
             </table>
         </body>
