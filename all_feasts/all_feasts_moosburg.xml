@@ -1,0 +1,2909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>List of Feasts</title>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Zentrum für Informationsmodellierung - Austrian Centre for Digital
+                    Humanities</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table cols="2">
+                <head>Feasts</head>
+                <row role="label">
+                    <cell role="label">Feast</cell>
+                    <cell role="label">Cantus ID</cell>
+                    <cell role="label">Commune</cell>
+                </row>
+                <row n="2">
+                    <cell>BREVIARIUM ECCLESIAE MOSBURGENSIS</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="3">
+                    <cell>PROLOGUS</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="4">
+                    <cell>DOMINICA PRIMA IN ADVENTU DOMINI</cell>
+                    <cell ana="CDB">01011000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="5">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">01012000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="6">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="7">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">01013000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="8">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">01014000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="9">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">01015000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="10">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">01016000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="11">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">01017000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="12">
+                    <cell>INFRA EBDOMADAM</cell>
+                    <cell ana="CDB">01018000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="13">
+                    <cell>DOMINICA SECUNDA DE ADVENTU</cell>
+                    <cell ana="CDB">01021000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="14">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">01022000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="15">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">01023000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="16">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">01024000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="17">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">01025000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="18">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">01026000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="19">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">01027000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="20">
+                    <cell>INFRA EBDOMADAM</cell>
+                    <cell ana="CDB">02028000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="21">
+                    <cell>IN FESTIVITATE SANCTI NICOLAI</cell>
+                    <cell ana="CDB">14120600</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="22">
+                    <cell>IN OCTAVA SANCTI ANDREAE APOSTOLI</cell>
+                    <cell ana="CDB">14120710</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="23">
+                    <cell>IN CONCEPTIONE SANCTAE MARIAE</cell>
+                    <cell ana="CDB">14120800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="24">
+                    <cell>DAMASII PAPAE</cell>
+                    <cell ana="CDB">14121100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="25">
+                    <cell>IN NATIVITATE SANCTAE LUCIAE VIRGINIS ET MARTYRIS</cell>
+                    <cell ana="CDB">14121300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="26">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="27">
+                    <cell>INCIPIT ORDO MAIORUM ANTIPHONARUM</cell>
+                    <cell ana="CDB">01048010</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="28">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="29">
+                    <cell>DOMINICA TERTIA</cell>
+                    <cell ana="CDB">01031000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="30">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">01032000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="31">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">01033000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="32">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">01034000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="33">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">01035000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="34">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">01036000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="35">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">01037000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="36">
+                    <cell>IN ADVENTU DOMINI DE SANCTA MARIA</cell>
+                    <cell ana="CDB">15008010</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="37">
+                    <cell>DE IEIUNIO HIEMALI QUATTUOR TEMPORUM</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="38">
+                    <cell>FERIA QUARTA QUATTUOR TEMPORUM</cell>
+                    <cell ana="CDB">01034009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="39">
+                    <cell>FERIA SEXTA QUATTUOR TEMPORUM</cell>
+                    <cell ana="CDB">01036009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="40">
+                    <cell>SABBATO QUATTUOR TEMPORUM</cell>
+                    <cell ana="CDB">1037009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="41">
+                    <cell>IN VIGILIA SANCTI THOMAE APOSTOLI</cell>
+                    <cell ana="CDB">14122200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="42">
+                    <cell>IN NATALE SANCTI THOMAE APOSTOLI</cell>
+                    <cell ana="CDB">14122100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="43">
+                    <cell>DOMINICA QUARTA ET PROXIMA ANTE NATIVITATEM DOMINI</cell>
+                    <cell ana="CDB">01041000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="44">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="45">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="46">
+                    <cell>DE HISTORIA CLAMA</cell>
+                    <cell ana="CDB">1030009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="47">
+                    <cell>REGULAE SPECIALES PRO HISTORIA CLAMA IN FORTITUDINE</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="48">
+                    <cell>REGULA PRIMA</cell>
+                    <cell ana="CDB">01031000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="49">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">01032000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="50">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="51">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">01033000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="52">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">01034000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="53">
+                    <cell>DE SANCTO THOMA APOSTOLO</cell>
+                    <cell ana="CDB">01035000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="54">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">01036009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="55">
+                    <cell>SABBATO QUATTUOR TEMPORUM</cell>
+                    <cell ana="CDB">01037009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="56">
+                    <cell>REGULA SECUNDA</cell>
+                    <cell ana="CDB">01031000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="57">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">01032000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="58">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="59">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">01033000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="60">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">01034009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="61">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">01035000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="62">
+                    <cell>DE SANCTO THOMA APOSTOLO</cell>
+                    <cell ana="CDB">01036009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="63">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">01037009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="64">
+                    <cell>TERTIA REGULA</cell>
+                    <cell ana="CDB">01031000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="65">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">01032000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="66">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">01033000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="67">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="68">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">01034009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="69">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">01035000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="70">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">01036009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="71">
+                    <cell>DE SANCTO THOMA APOSTOLO</cell>
+                    <cell ana="CDB">01037009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="72">
+                    <cell>DOMINICA QUARTA DE ADVENTU</cell>
+                    <cell ana="CDB">01041000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="73">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">01042000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="74">
+                    <cell>REGULA QUARTA</cell>
+                    <cell ana="CDB">01031000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="75">
+                    <cell>FERIA SECUNDA ET TERTIA</cell>
+                    <cell ana="CDB">01032000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="76">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">01034009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="77">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="78">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">01035000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="79">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">01036009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="80">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">01037009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="81">
+                    <cell>DOMINICA QUARTA DE ADVENTU DOMINI</cell>
+                    <cell ana="CDB">01041000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="82">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">01042000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="83">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">01043000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="84">
+                    <cell>QUINTA REGULA</cell>
+                    <cell ana="CDB">01031000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="85">
+                    <cell>FERIA QUARTA QUATTUOR TEMPORUM</cell>
+                    <cell ana="CDB">01034009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="86">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="87">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">01035000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="88">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">01036009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="89">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">01037009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="90">
+                    <cell>DOMINICA QUARTA DE ADVENTU</cell>
+                    <cell ana="CDB">01041000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="91">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">01042000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="92">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">01043000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="93">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">01044000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="94">
+                    <cell>SEXTA REGULA</cell>
+                    <cell ana="CDB">01031000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="95">
+                    <cell>FERIA QUARTA QUATTUOR TEMPORUM</cell>
+                    <cell ana="CDB">01034009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="96">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="97">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">01035000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="98">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">01036009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="99">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">01037009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="100">
+                    <cell>DOMINICA QUARTA DE ADVENTU</cell>
+                    <cell ana="CDB">01041000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="101">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">01042000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="102">
+                    <cell>DE SANCTO THOMA APOSTOLO</cell>
+                    <cell ana="CDB"> 01043000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="103">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">01044000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="104">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">01045000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="105">
+                    <cell>REGULA SEPTIMA</cell>
+                    <cell ana="CDB">01031000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="106">
+                    <cell>FERIA QUARTA QUATTUOR TEMPORUM</cell>
+                    <cell ana="CDB">01034009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="107">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="108">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">01035000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="109">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">01036009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="110">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">01037009</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="111">
+                    <cell>DOMINICA QUARTA DE ADVENTU</cell>
+                    <cell ana="CDB">01041000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="112">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">01042000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="113">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">01043000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="114">
+                    <cell>DE SANCTO THOMA APOSTOLO</cell>
+                    <cell ana="CDB">01044000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="115">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">01045000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="116">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">01046000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="117">
+                    <cell>IN VIGILIA VIGILIAEVIGILIA DOMINI</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="118">
+                    <cell>DE VIGILIA DOMINI IN DIE DOMINICO</cell>
+                    <cell ana="CDB">02122400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="119">
+                    <cell>IN NATIVITATE DOMINI</cell>
+                    <cell ana="CDB">02122500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="120">
+                    <cell>DE SANCTO STEPHANO PROTOMARTYRE</cell>
+                    <cell ana="CDB">02122600</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="121">
+                    <cell>DE SANCTO IOANNE EVANGELISTA</cell>
+                    <cell ana="CDB">02122700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="122">
+                    <cell>DE INNOCENTIBUS</cell>
+                    <cell ana="CDB">02122800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="123">
+                    <cell>DE SANCTO THOMA CANTUARIENSI</cell>
+                    <cell ana="CDB">14122900</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="124">
+                    <cell>INFRA OCTAVAM NATIVITATIS DOMINI</cell>
+                    <cell ana="CDB">02122508</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="125">
+                    <cell>DOMINICA INFRA OCTAVAM NATIVITATIS DOMINI</cell>
+                    <cell ana="CDB">03021000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="126">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="127">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="128">
+                    <cell>IN FESTO SANCTI SILVESTRI</cell>
+                    <cell ana="CDB">14123100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="129">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="130">
+                    <cell>IN OCTAVA DOMINI</cell>
+                    <cell ana="CDB">02010100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="131">
+                    <cell>IN OCTAVA SANCTI STEPHANI</cell>
+                    <cell ana="CDB">02010200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="132">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="133">
+                    <cell>IN OCTAVA SANCTI IOHANNIS</cell>
+                    <cell ana="CDB">02010300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="134">
+                    <cell>IN OCTAVA INNOCENTUM</cell>
+                    <cell ana="CDB">02010400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="135">
+                    <cell>DE BEATA VIRGINE INFRA NATIVITATEM ET PURIFICATIONEM</cell>
+                    <cell ana="CDB">15008030</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="136">
+                    <cell>IN VIGILIA EPIPHANIAE DOMINI</cell>
+                    <cell ana="CDB">02010500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="137">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="138">
+                    <cell>IN EPIPHANIA DOMINI</cell>
+                    <cell ana="CDB">05010600</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="139">
+                    <cell>INFRA OCTAVAM EPIPHANIAE</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="140">
+                    <cell>DOMINICA INFRA OCTAVAM EPIPHANIAE</cell>
+                    <cell ana="CDB">05011000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="141">
+                    <cell>IN OCTAVA EPIPHANIAE</cell>
+                    <cell ana="CDB">05011300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="142">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="143">
+                    <cell>IN NATALI SANCTI FELICIS CONFESSORIS</cell>
+                    <cell ana="CDB">14011410</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="144">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="145">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="146">
+                    <cell>DOMINICA PRIMA POST EPIPHANIAM</cell>
+                    <cell ana="CDB">05011000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="147">
+                    <cell>DOMINICA PRIMA POST OCTAVAS EPIPHANIAE</cell>
+                    <cell ana="CDB">05021000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="148">
+                    <cell>DOMINICA TERTIASECUNDA POST OCTAVAS EPIPHANIAE</cell>
+                    <cell ana="CDB">05031000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="149">
+                    <cell>DOMINICA QUARTATERTIA POST OCTAVAS EPIPHANIAE</cell>
+                    <cell ana="CDB">05041000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="150">
+                    <cell>DOMINICA QUARTA POST OCTAVAS EPIPHANIAE</cell>
+                    <cell ana="CDB">05051000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="151">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="152">
+                    <cell>IN DOMINICIS DIEBUS POST EPIPHANIAM</cell>
+                    <cell ana="CDB">04001000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="153">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">04002000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="154">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">04003000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="155">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">04004000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="156">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">04005000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="157">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">04006000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="158">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">04007000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="159">
+                    <cell>DE SANCTIS POST OCTAVAM EPIPHANIAE</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="160">
+                    <cell>MARCELLI PAPAE ET MARTYRIS</cell>
+                    <cell ana="CDB">14011600</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="161">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="162">
+                    <cell>ANTONII CONFESSORIS</cell>
+                    <cell ana="CDB">14011700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="163">
+                    <cell>PRISCAE VIRGINIS</cell>
+                    <cell ana="CDB">14011800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="164">
+                    <cell>IN NATALICIIS SEBASTIANI ET FABIANI</cell>
+                    <cell ana="CDB">14012000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="165">
+                    <cell>DE SANCTA AGNETE VIRGINE</cell>
+                    <cell ana="CDB">14012100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="166">
+                    <cell>DE SANCTO VINCENTIO MARTYRE</cell>
+                    <cell ana="CDB">14012200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="167">
+                    <cell>EMERENTIANA VIRGINIS</cell>
+                    <cell ana="CDB">14012300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="168">
+                    <cell>TIMOTHEI APOSTOLI</cell>
+                    <cell ana="CDB">14012400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="169">
+                    <cell>IN CONVERSIONE SANCTI PAULI</cell>
+                    <cell ana="CDB">14012500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="170">
+                    <cell>IN OCTAVA SANCTAE AGNETIS</cell>
+                    <cell ana="CDB">14012800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="171">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="172">
+                    <cell>BRIGIDAE VIRGINIS</cell>
+                    <cell ana="CDB">14020100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="173">
+                    <cell>IN PURIFICATIONE SANCTAE MARIAE VIRGINIS</cell>
+                    <cell ana="CDB">14020200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="174">
+                    <cell>BLASII MARTYRIS</cell>
+                    <cell ana="CDB">14020300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="175">
+                    <cell>IN NATALE SANCTAE AGATHAE</cell>
+                    <cell ana="CDB">14020500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="176">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="177">
+                    <cell>IN FESTO SANCTAE DOROTHEAE VIRGINIS ET MARTYRIS</cell>
+                    <cell ana="CDB">14020610</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="178">
+                    <cell>RICHARDI CONFESSORIS REGIS ANGLIAE</cell>
+                    <cell ana="CDB">14020800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="179">
+                    <cell>ALTONIS CONFESSORIS</cell>
+                    <cell ana="CDB">14020910</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="180">
+                    <cell>SCHOLASTICAE VIRGINIS</cell>
+                    <cell ana="CDB">14021000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="181">
+                    <cell>VALENTINI MARTYRIS</cell>
+                    <cell ana="CDB">14021400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="182">
+                    <cell>IN CATHEDRA SANCTI PETRI</cell>
+                    <cell ana="CDB">14022200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="183">
+                    <cell>IN VIGILIA MATTHIAE APOSTOLI</cell>
+                    <cell ana="CDB">14022310</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="184">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="185">
+                    <cell>IN FESTO SANCTI MATTHIAE APOSTOLI</cell>
+                    <cell ana="CDB">14022400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="186">
+                    <cell>WALBURGAE ET CUNEGUNDIS</cell>
+                    <cell ana="CDB">14022500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="187">
+                    <cell>IN NATALE SANCTI GREGORII PAPAE</cell>
+                    <cell ana="CDB">14031200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="188">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="189">
+                    <cell>GEDRUDISGERTRUDIS VIRGINIS</cell>
+                    <cell ana="CDB">14031700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="190">
+                    <cell>BENEDICTI ABBATIS</cell>
+                    <cell ana="CDB">14032100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="191">
+                    <cell>QUIRINI MARTYRIS</cell>
+                    <cell ana="CDB">14032400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="192">
+                    <cell>IN ANNUNTIATIONE SANCTAE MARIAE VIRGINIS</cell>
+                    <cell ana="CDB">14032500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="193">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="194">
+                    <cell>IN FESTO SANCTI CASTULI MARTYRIS PATRONI NOSTRI</cell>
+                    <cell ana="CDB">14032610</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="195">
+                    <cell>RUPERTI EPISCOPI</cell>
+                    <cell ana="CDB">14032700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="196">
+                    <cell>AMBROSII EPISCOPI</cell>
+                    <cell ana="CDB">14040400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="197">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="198">
+                    <cell>DOMINICA IN SEPTUAGESIMA</cell>
+                    <cell ana="CDB">06011000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="199">
+                    <cell>INFRA EBDOMADAM</cell>
+                    <cell ana="CDB">06018000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="200">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="201">
+                    <cell>DOMINICA IN SEXAGESIMA</cell>
+                    <cell ana="CDB">06021000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="202">
+                    <cell>INFRA EBDOMADAM</cell>
+                    <cell ana="CDB">06028000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="203">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="204">
+                    <cell>DOMINICA IN QUINQUAGESIMA</cell>
+                    <cell ana="CDB">06031000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="205">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="206">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">06032000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="207">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">06033000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="208">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="209">
+                    <cell>FERIA QUARTA IN CAPITE IEIUNII</cell>
+                    <cell ana="CDB">06034000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="210">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="211">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">06035000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="212">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="213">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">06036000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="214">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">06037000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="215">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="216">
+                    <cell>DOMINICA PRIMA IN QUADRAGESIMA</cell>
+                    <cell ana="CDB">07011000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="217">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">07012000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="218">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">07013000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="219">
+                    <cell>FERIA QUARTA QUATTUOR TEMPORUM</cell>
+                    <cell ana="CDB">07014000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="220">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">07015000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="221">
+                    <cell>FERIA SEXTA QUATTUOR TEMPORUM</cell>
+                    <cell ana="CDB">07016000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="222">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="223">
+                    <cell>SABBATO DUODECIM LECTIONUM</cell>
+                    <cell ana="CDB">07017000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="224">
+                    <cell>DOMINICA SECUNDA IN QUADRAGESIMA</cell>
+                    <cell ana="CDB">07021000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="225">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">07022000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="226">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">07023000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="227">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">07024000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="228">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">07025000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="229">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="230">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">07026000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="231">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">07027000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="232">
+                    <cell>DOMINICA TERTIA IN QUADRAGESIMA</cell>
+                    <cell ana="CDB">07031000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="233">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">07032000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="234">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">07033000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="235">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">07034000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="236">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">07035000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="237">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">07036000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="238">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">07037000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="239">
+                    <cell>DOMINICA QUARTA IN MEDIA QUADRAGESIMA</cell>
+                    <cell ana="CDB">07041000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="240">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">07042000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="241">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">07043000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="242">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">07044000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="243">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">07045000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="244">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">07046000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="245">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">07047000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="246">
+                    <cell>DOMINICA IN PASSIONE DOMINI</cell>
+                    <cell ana="CDB">07051000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="247">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">07052000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="248">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">07053000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="249">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">07054000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="250">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">07055000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="251">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">07056000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="252">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">07057000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="253">
+                    <cell>DOMINICA PALMARUM</cell>
+                    <cell ana="CDB">07061000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="254">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">07062000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="255">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">07063000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="256">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">07064000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="257">
+                    <cell>FERIA QUINTA QUAE EST IN CENA DOMINI</cell>
+                    <cell ana="CDB">07065000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="258">
+                    <cell>FERIA SEXTA QUAE EST PARASCEVES</cell>
+                    <cell ana="CDB">07066000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="259">
+                    <cell>SABBATO SANCTO</cell>
+                    <cell ana="CDB">07067000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="260">
+                    <cell>DOMINICA RESURRECTIONIS</cell>
+                    <cell ana="CDB">08011000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="261">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">08012000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="262">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">08013000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="263">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">08014000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="264">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">08015000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="265">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">08016000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="266">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">08017000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="267">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="268">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="269">
+                    <cell>DOMINICA IN ALBIS</cell>
+                    <cell ana="CDB">08021000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="270">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">08022000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="271">
+                    <cell>INFRA EBDOMADAM FERIA QUARTA</cell>
+                    <cell ana="CDB">08024000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="272">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">08026000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="273">
+                    <cell>DE SANCTA MARIA PASCHALI TEMPORE</cell>
+                    <cell ana="CDB">15008080</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="274">
+                    <cell>DE SANCTO CASTULO TEMPORE PASCHALI</cell>
+                    <cell ana="CDB">14032700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="275">
+                    <cell>DE DEDICATIONE ECCLESIAE INFRA PASCHA ET PENTECOSTEN</cell>
+                    <cell ana="CDB">12008000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="276">
+                    <cell>DOMINICA SECUNDA POST PASCHA</cell>
+                    <cell ana="CDB">08031000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="277">
+                    <cell>FERIA SECUNDA ET IN ALIIS FERIIS</cell>
+                    <cell ana="CDB">08032000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="278">
+                    <cell>INFRA EBDOMADAM FERIA QUARTA</cell>
+                    <cell ana="CDB">08034000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="279">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">08036000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="280">
+                    <cell>DOMINICA TERTIA</cell>
+                    <cell ana="CDB">08041000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="281">
+                    <cell>FERIA SECUNDA ET IN ALIIS FERIIS</cell>
+                    <cell ana="CDB">08042000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="282">
+                    <cell>INFRA EBDOMADAM FERIA QUARTA</cell>
+                    <cell ana="CDB">08044000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="283">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">08046000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="284">
+                    <cell>DOMINICA QUARTA</cell>
+                    <cell ana="CDB">08051000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="285">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">08052000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="286">
+                    <cell>INFRA EBDOMADAM FERIA QUARTA</cell>
+                    <cell ana="CDB">08054000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="287">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">08056000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="288">
+                    <cell>DOMINICA QUINTA</cell>
+                    <cell ana="CDB">08061000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="289">
+                    <cell>FERIA SECUNDA QUAE EST DIES ROGATIONUM</cell>
+                    <cell ana="CDB">08062000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="290">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">08063000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="291">
+                    <cell>FERIA QUARTA QUAE EST VIGILIA ASCENSIONIS DOMINI</cell>
+                    <cell ana="CDB">08064000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="292">
+                    <cell>DE SANCTIS INFRA PASCHA ET ASCENSIONE</cell>
+                    <cell ana="CDB">12815000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="293">
+                    <cell>DE SANCTO AMBROSIO</cell>
+                    <cell ana="CDB">14040400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="294">
+                    <cell>TIBURTII ET VALERIANI</cell>
+                    <cell ana="CDB">14041400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="295">
+                    <cell>IN NATIVITATE SANCTI GEORIIGEORGII</cell>
+                    <cell ana="CDB">14042300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="296">
+                    <cell>IN NATIVITATE SANCTI MARCI EVANGELISTAE. IN LETANIA MAIORE</cell>
+                    <cell ana="CDB">14042500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="297">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="298">
+                    <cell>VITALIS MARTYRIS</cell>
+                    <cell ana="CDB">14042800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="299">
+                    <cell>PETRI MARTYRIS</cell>
+                    <cell ana="CDB">14042900</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="300">
+                    <cell>IN VIGILIA APOSTOLORUM PHILIPPI ET IACOBI</cell>
+                    <cell ana="CDB">14043030</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="301">
+                    <cell>IN DIE APOSTOLORUM PHILIPPI ET IACOBI</cell>
+                    <cell ana="CDB">14050100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="302">
+                    <cell>IN TRANSLATIONE SANCTAE ELISABETH</cell>
+                    <cell ana="CDB">14050210</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="303">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="304">
+                    <cell>IN INVENTIONE SANCTAE CRUCIS.</cell>
+                    <cell ana="CDB">14050300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="305">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="306">
+                    <cell>FLORIANI MARTYRIS</cell>
+                    <cell ana="CDB">14050400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="307">
+                    <cell>IOANNIS ANTE PORTAM LATINAM</cell>
+                    <cell ana="CDB">14050600</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="308">
+                    <cell>WALBURGAE VIRGINIS ET VICTORIS MARTYRIS</cell>
+                    <cell ana="CDB">14022500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="309">
+                    <cell>GORDIANI ET EPIMACHI</cell>
+                    <cell ana="CDB">14051000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="310">
+                    <cell>PANCRATII NEREI ET ACHILLEI</cell>
+                    <cell ana="CDB">14051210</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="311">
+                    <cell>SERVATII EPISCOPI ET GANGOLFI MARTYRIS</cell>
+                    <cell ana="CDB">14051300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="312">
+                    <cell>IN NATIVITATE SANCTI URBANI</cell>
+                    <cell ana="CDB">14052510</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="313">
+                    <cell>PETRONELLAE VIRGINIS</cell>
+                    <cell ana="CDB">14053110</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="314">
+                    <cell>NICODEMIS</cell>
+                    <cell ana="CDB">14091530</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="315">
+                    <cell>IN ASCENSIONE DOMINI</cell>
+                    <cell ana="CDB">08065000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="316">
+                    <cell>PROXIMA DIE POST ASCENSIONEM DOMINI</cell>
+                    <cell ana="CDB">08066000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="317">
+                    <cell>SABBATO POST ASCENSIONEM</cell>
+                    <cell ana="CDB">08067000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="318">
+                    <cell>DOMINICA PROXIMA POST ASCENSIONEM DOMINI</cell>
+                    <cell ana="CDB">08071000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="319">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">08072000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="320">
+                    <cell>FERIA SEXTA ANTE VIGILIAM PENTECOSTES</cell>
+                    <cell ana="CDB">08076000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="321">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="322">
+                    <cell>DE SANCTIS INFRA ASCENSIONEM DOMINI ET FESTUM PENTECOSTES</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="323">
+                    <cell>DE FESTO APOSTOLORUM PHILIPPI ET IACOBI IN DIE ASCENSIONIS</cell>
+                    <cell ana="CDB">14050100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="324">
+                    <cell>DE INVENTIONE SANCTAE CRUCIS IN DIE ASCENSIONIS</cell>
+                    <cell ana="CDB">14050300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="325">
+                    <cell>DE FESTO SANCTI IOANNIS ANTE PORTAM LATINAM IN DIE ASCENSIONIS</cell>
+                    <cell ana="CDB">14050600</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="326">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="327">
+                    <cell>SABBATO SANCTO PENTECOSTES</cell>
+                    <cell ana="CDB">08077000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="328">
+                    <cell>IN DIE SANCTO PENTECOSTES</cell>
+                    <cell ana="CDB">08081000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="329">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">08082000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="330">
+                    <cell>FERIA TERTIA</cell>
+                    <cell ana="CDB">08083000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="331">
+                    <cell>FERIA QUARTA</cell>
+                    <cell ana="CDB">08084000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="332">
+                    <cell>FERIA QUINTA</cell>
+                    <cell ana="CDB">08085000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="333">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">08086000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="334">
+                    <cell>SABBATO</cell>
+                    <cell ana="CDB">08087000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="335">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="336">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="337">
+                    <cell>IN OCTAVA PENTECOSTES</cell>
+                    <cell ana="CDB">08081008</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="338">
+                    <cell>DE SANCTA TRINITATE</cell>
+                    <cell ana="CDB">09011000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="339">
+                    <cell>DE DIE POST FESTUM SANCTAE TRINITATIS</cell>
+                    <cell ana="CDB">09012000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="340">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="341">
+                    <cell>IN FESTO CORPORIS CHRISTI</cell>
+                    <cell ana="CDB">09015000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="342">
+                    <cell>FERIA SEXTA</cell>
+                    <cell ana="CDB">09016000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="343">
+                    <cell>DOMINICA INFRA OCTAVAM CORPORIS CHRISTI</cell>
+                    <cell ana="CDB">09021010</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="344">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="345">
+                    <cell>IN OCTAVA CORPORIS CHRISTI</cell>
+                    <cell ana="CDB">09025000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="346">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="347">
+                    <cell>FERIA SEXTA PROXIMA POST OCTAVAM CORPORIS CHRISTI</cell>
+                    <cell ana="CDB">09026000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="348">
+                    <cell>QUANDO ET QUO TEMPORE LIBRI NOVI ET VETERIS TESTAMENTI LEGENDI SUNT</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="349">
+                    <cell>REGULA DE HISTORIIS IMPONENDIS POST PENTECOSTEN</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="350">
+                    <cell>DOMINICA PRIMA POST OCTAVAS PENTECOSTES</cell>
+                    <cell ana="CDB">09021000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="351">
+                    <cell>FERIA SECUNDA</cell>
+                    <cell ana="CDB">09022000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="352">
+                    <cell>ANTIPHONAE HISTORIALES DE IOB</cell>
+                    <cell ana="CDB">10300000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="353">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="354">
+                    <cell>DE ANNIVERSARIIS DEFUNCTORUM</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="355">
+                    <cell>DE MISSIS VOTIVIS</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="356">
+                    <cell>DE VENERATIONE BEATAE MARIAE VIRGINIS USQUE AD ADVENTUM</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune">15008000</cell>
+                </row>
+                <row n="357">
+                    <cell>DE SANCTA MARIA AB OCTAVA PENTECOSTES USQUE AD ADVENTUM DOMINI</cell>
+                    <cell ana="CDB">15008000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="358">
+                    <cell>IN DOMINICA PRIMA MENSIS AUGUSTI</cell>
+                    <cell ana="CDB">11081100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="359">
+                    <cell>DE HISTORIA IOB</cell>
+                    <cell ana="CDB">10300000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="360">
+                    <cell>DE HISTORIA TOBIAE</cell>
+                    <cell ana="CDB">10400000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="361">
+                    <cell>DE HISTORIA IUDITH</cell>
+                    <cell ana="CDB">10500000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="362">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="363">
+                    <cell>DE ESTHER</cell>
+                    <cell ana="CDB">10600000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="364">
+                    <cell>DE MACHABAEIS</cell>
+                    <cell ana="CDB">10800000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="365">
+                    <cell>DE LIBRI PROPHETICIS</cell>
+                    <cell ana="CDB">10900000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="366">
+                    <cell>DE GLORIA IN EXCELSIS</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="367">
+                    <cell>DE CREDO IN UNUM DEUM</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="368">
+                    <cell>INCIPIT ORDO DE DOMINICIS AESTIVALIBUS</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="369">
+                    <cell>DOMINICA PRIMA POST OCTAVAS PENTECOSTES</cell>
+                    <cell ana="CDB">09011000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="370">
+                    <cell>DOMINICA SECUNDA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09021000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="371">
+                    <cell>DOMINICA TERTIA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09031000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="372">
+                    <cell>DOMINICA QUARTA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09041000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="373">
+                    <cell>DOMINICA QUINTA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09051000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="374">
+                    <cell>DOMINICA SEXTA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09061000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="375">
+                    <cell>DOMINICA SEPTIMA POST OCTAVAM PENTACOSTES</cell>
+                    <cell ana="CDB">09071000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="376">
+                    <cell>DOMINICA OCTAVA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09081000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="377">
+                    <cell>DOMINICA NONA POST PENTECOSTES</cell>
+                    <cell ana="CDB">09091000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="378">
+                    <cell>DOMINICA DECIMA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09101000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="379">
+                    <cell>DOMINICA UNDECIMA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09111000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="380">
+                    <cell>DOMINICA DUODECIMA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09121000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="381">
+                    <cell>DOMINICA DECIMA TERTIA POST PENTECOSTES</cell>
+                    <cell ana="CDB">09131000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="382">
+                    <cell>DOMINICA DECIMA QUARTA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09141000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="383">
+                    <cell>DOMINICA DECIMA QUINTA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09151000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="384">
+                    <cell>DOMINICA DECIMA SEXTA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09161000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="385">
+                    <cell>DOMINICA DECIMA SEPTIMA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09171000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="386">
+                    <cell>FERIA QUARTA IEIUNII MENSIS SEPTIMI</cell>
+                    <cell ana="CDB">11090409</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="387">
+                    <cell>FERIA SEXTA QUATTUOR TEMPORUM</cell>
+                    <cell ana="CDB">11090609</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="388">
+                    <cell>SABBATO DUODECIM LECTIONUM</cell>
+                    <cell ana="CDB">11090709</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="389">
+                    <cell>DOMINICA DECIMA OCTAVA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09181000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="390">
+                    <cell>DOMINICA DECIMA NONA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09191000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="391">
+                    <cell>DOMINICA VIGESIMA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09201000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="392">
+                    <cell>DOMINICA VIGESIMA PRIMA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09211000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="393">
+                    <cell>DOMINICA VIGESIMA SECUNDA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09221000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="394">
+                    <cell>DOMINICA VIGESIMA TERTIA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09231000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="395">
+                    <cell>DOMINICA VIGESIMA QUARTA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09241000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="396">
+                    <cell>DOMINICA VIGESIMA QUINTA POST PENTECOSTEN</cell>
+                    <cell ana="CDB">09251000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="397">
+                    <cell>DE SANCTIS POST OCTAVAS PENTECOSTES ET OCTAVA CORPORIS CHRISTI</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="398">
+                    <cell>MARCELLINI ET PETRI</cell>
+                    <cell ana="CDB">14060200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="399">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="400">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="401">
+                    <cell>ERASMI MARTYRIS</cell>
+                    <cell ana="CDB">14060300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="402">
+                    <cell>BONIFACII ET SOCIORUM EIUS</cell>
+                    <cell ana="CDB">14060500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="403">
+                    <cell>BARNABAE APOSTOLI</cell>
+                    <cell ana="CDB">14061100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="404">
+                    <cell>BASILIDIS CYRINI NABORIS</cell>
+                    <cell ana="CDB">14061200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="405">
+                    <cell>IN TRANSLATIONE SANCTI CASTULI</cell>
+                    <cell ana="CDB">14061420</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="406">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="407">
+                    <cell>VITI MODESTI ET CRESCENTIAE</cell>
+                    <cell ana="CDB">14061510</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="408">
+                    <cell>IN TRANSLATIONE SANCTI QUIRINI</cell>
+                    <cell ana="CDB">14061610</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="409">
+                    <cell>IN TRANSLATIONE SANCTI ARSACII</cell>
+                    <cell ana="CDB">14061700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="410">
+                    <cell>MARCI ET MARCELLIANI</cell>
+                    <cell ana="CDB">14061800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="411">
+                    <cell>GERVASII ET PROTASII</cell>
+                    <cell ana="CDB">14061900</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="412">
+                    <cell>ALBANI MARTYRIS</cell>
+                    <cell ana="CDB">14062100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="413">
+                    <cell>ACHACII ET SOCIORUM EIUS</cell>
+                    <cell ana="CDB">14062220</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="414">
+                    <cell>IN VIGILIA SANCTI IOANNIS BAPTISTAE</cell>
+                    <cell ana="CDB">14062300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="415">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="416">
+                    <cell>IN DIE SANCTI IOANNIS BAPTISTAE</cell>
+                    <cell ana="CDB">14062400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="417">
+                    <cell>GALLICANI MARTYRIS</cell>
+                    <cell ana="CDB">14062530</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="418">
+                    <cell>IOANNIS ET PAULI</cell>
+                    <cell ana="CDB">14062600</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="419">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="420">
+                    <cell>IN VIGILIA APOSTOLORUM PETRI ET PAULI</cell>
+                    <cell ana="CDB">14062810</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="421">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="422">
+                    <cell>IN DIE APOSTOLORUM PETRI ET PAULI</cell>
+                    <cell ana="CDB">14062900</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="423">
+                    <cell>DE SANCTO PAULO APOSTOLO</cell>
+                    <cell ana="CDB">14063000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="424">
+                    <cell>IN OCTAVA SANCTI IOANNIS BAPTISTAE</cell>
+                    <cell ana="CDB">14070100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="425">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="426">
+                    <cell>PROCESSI ET MARTINIANI</cell>
+                    <cell ana="CDB">14070210</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="427">
+                    <cell>UDALRICI EPISCOPI</cell>
+                    <cell ana="CDB">14070420</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="428">
+                    <cell>IN OCTAVA APOSTOLORUM PETRI ET PAULI</cell>
+                    <cell ana="CDB">14070600</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="429">
+                    <cell>DE SANCTO WILLIBALDO EPISCOPO</cell>
+                    <cell ana="CDB">14070700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="430">
+                    <cell>KILIANI ET SOCIORUM</cell>
+                    <cell ana="CDB">14070810</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="431">
+                    <cell>IN TRANSLATIONE SANCTI NICOLAI</cell>
+                    <cell ana="CDB">14050900</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="432">
+                    <cell>SEPTEM FRATRUM</cell>
+                    <cell ana="CDB">14071000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="433">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="434">
+                    <cell>IN TRANSLATIONE SANCTI BENEDICTI</cell>
+                    <cell ana="CDB">14071100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="435">
+                    <cell>MARGARITAE VIRGINIS ET MARTYRIS</cell>
+                    <cell ana="CDB">14072010</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="436">
+                    <cell>HEINRICI IMPERATORIS</cell>
+                    <cell ana="CDB">14071300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="437">
+                    <cell>IN DIVISIONE APOSTOLORUM</cell>
+                    <cell ana="CDB">14071510</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="438">
+                    <cell>ALEXII CONFESSORIS</cell>
+                    <cell ana="CDB">14071700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="439">
+                    <cell>CHRISTINAE VIRGINIS</cell>
+                    <cell ana="CDB">14072400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="440">
+                    <cell>PRAXEDIS VIRGINIS ET MARTYRE</cell>
+                    <cell ana="CDB">14072100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="441">
+                    <cell>MARIAE MAGDALENAE</cell>
+                    <cell ana="CDB">14072200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="442">
+                    <cell>APOLLINARIS EPISCOPI</cell>
+                    <cell ana="CDB">14072320</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="443">
+                    <cell>IN VIGILIA SANCTI IACOBI APOSTOLI</cell>
+                    <cell ana="CDB">14072410</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="444">
+                    <cell>IACOBI APOSTOLI</cell>
+                    <cell ana="CDB">14072500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="445">
+                    <cell>ANNAE</cell>
+                    <cell ana="CDB">14072610</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="446">
+                    <cell>PANTALEONIS ET ALIORUM MARTYRUM</cell>
+                    <cell ana="CDB">14072700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="447">
+                    <cell>MARTHAE VIRGINIS</cell>
+                    <cell ana="CDB">14072930</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="448">
+                    <cell>ABDON ET SENNES MARTYRUM</cell>
+                    <cell ana="CDB">14073000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="449">
+                    <cell>OCTAVA MARIAE MAGDALENAE</cell>
+                    <cell ana="CDB">14072910</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="450">
+                    <cell>TERTULINI MARTYRIS</cell>
+                    <cell ana="CDB">14080400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="451">
+                    <cell>AD VINCULA SANCTI PETRI</cell>
+                    <cell ana="CDB">14080100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="452">
+                    <cell>STEPHANI PAPAE</cell>
+                    <cell ana="CDB">14080200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="453">
+                    <cell>IN INVENTIONE SANCTI STEPHANI PROTOMARTYRIS</cell>
+                    <cell ana="CDB">14080300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="454">
+                    <cell>DE SANCTO IUSTINO CONFESSORE</cell>
+                    <cell ana="CDB">14080810</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="455">
+                    <cell>OSWALDI REGIS ET MARTYRIS</cell>
+                    <cell ana="CDB">14080510</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="456">
+                    <cell>SIXTI PAPAE ET MARTYRIS</cell>
+                    <cell ana="CDB">14080610</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="457">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="458">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="459">
+                    <cell>AFRAE MARTYRIS</cell>
+                    <cell ana="CDB">14080500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="460">
+                    <cell>CYRIACI ET SOCIORUM EIUS</cell>
+                    <cell ana="CDB">14080800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="461">
+                    <cell>IN VIGILIA SANCTI LAURENTII</cell>
+                    <cell ana="CDB">14080910</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="462">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="463">
+                    <cell>LAURENTII MARTYRIS</cell>
+                    <cell ana="CDB">14081000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="464">
+                    <cell>TIBURTII MARTYRIS</cell>
+                    <cell ana="CDB">14081100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="465">
+                    <cell>HILARIAE DIGNAE EUNOMIAE ET EUTROPIAE</cell>
+                    <cell ana="CDB">14081230</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="466">
+                    <cell>HIPPOLYTI ET SOCIORUM EIUS</cell>
+                    <cell ana="CDB">14081300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="467">
+                    <cell>DE SANCTO EUSEBIO CONFESSORE</cell>
+                    <cell ana="CDB">14081400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="468">
+                    <cell>IN ASSUMPTIONE BEATAE ET GLORIOSAE VIRGINIS MARIAE</cell>
+                    <cell ana="CDB">14081500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="469">
+                    <cell>INFRA OCTAVAM ASSUMPTIONIS BEATAE MARIAE VIRGINI</cell>
+                    <cell ana="CDB">14081508</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="470">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="471">
+                    <cell>IN OCTAVA SANCTI LAURENTII</cell>
+                    <cell ana="CDB">14081700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="472">
+                    <cell>DE DOMINICA INFRA OCTAVAM ASSUMPTIONIS</cell>
+                    <cell ana="CDB">14081508</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="473">
+                    <cell>IN OCTAVA ASSUMPTIONIS GLORIOSAE VIRGINIS</cell>
+                    <cell ana="CDB">14082210</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="474">
+                    <cell>IN VIGILIA SANCTI BARTHOLOMAEI APOSTOLI</cell>
+                    <cell ana="CDB">14082320</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="475">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="476">
+                    <cell>IN DIE BARTHOLOMAEI APOSTOLI</cell>
+                    <cell ana="CDB">14082400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="477">
+                    <cell>RUFI MARTYRIS</cell>
+                    <cell ana="CDB">14082820</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="478">
+                    <cell>AUGUSTINI EPISCOPI</cell>
+                    <cell ana="CDB">14082800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="479">
+                    <cell>IN DECOLLATIONE SANCTI IOANNIS BAPTISTAE</cell>
+                    <cell ana="CDB">14082900</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="480">
+                    <cell>FELICIS ET AUDACTI</cell>
+                    <cell ana="CDB">14083000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="481">
+                    <cell>IN OCTAVA SANCTI BARTHOLOMAEI APOSTOLI</cell>
+                    <cell ana="CDB">14083130</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="482">
+                    <cell>AEGIDII CONFESSORIS</cell>
+                    <cell ana="CDB">14090100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="483">
+                    <cell>NONNOSI CONFESSORIS</cell>
+                    <cell ana="CDB">14090230</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="484">
+                    <cell>MAGNI CONFESSORIS</cell>
+                    <cell ana="CDB">14090610</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="485">
+                    <cell>REGINAE VIRGINIS</cell>
+                    <cell ana="CDB">14090710</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="486">
+                    <cell>IN NATIVITATE SANCTAE MARIAE VIRGINIS</cell>
+                    <cell ana="CDB">14090800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="487">
+                    <cell>DE SANCTO CORBINIANO EPISCOPO ET CONFESSORE</cell>
+                    <cell ana="CDB">14090820</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="488">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="489">
+                    <cell>INFRA OCTAVAM NATIVITATIS SANCTAE MARIAE VIRGINIS</cell>
+                    <cell ana="CDB">14090808</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="490">
+                    <cell>IN EXALTATIONE SANCTAE CRUCIS</cell>
+                    <cell ana="CDB">14091400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="491">
+                    <cell>IN OCTAVA BEATAE VIRGINIS</cell>
+                    <cell ana="CDB">14091510</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="492">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="493">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="494">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="495">
+                    <cell>EUPHEMIAE VIRGINIS</cell>
+                    <cell ana="CDB">14091610</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="496">
+                    <cell>LAMBERTI EPISCOPI ET MARTYRIS</cell>
+                    <cell ana="CDB">14091700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="497">
+                    <cell>LAMBERTI EPISCOPI FREISINGENSIS</cell>
+                    <cell ana="CDB">14091930</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="498">
+                    <cell>IN VIGILIA SANCTI MATTHAEI APOSTOLI</cell>
+                    <cell ana="CDB">14092020</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="499">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="500">
+                    <cell>MATTHAEI APOSTOLI ET EVANGELISTAE</cell>
+                    <cell ana="CDB">14092100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="501">
+                    <cell>DE SANCTO MAURITIO ET DE SANCTO EMMERAMO</cell>
+                    <cell ana="CDB">14092200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="502">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="503">
+                    <cell>IN DIE QUADRAGESIMO ASSUMPTIONIS SANCTAE MARIAE VIRGINIS</cell>
+                    <cell ana="CDB">14092310</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="504">
+                    <cell>IN TRANSLATIONE RUPERTI EPISCOPI</cell>
+                    <cell ana="CDB">14092420</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="505">
+                    <cell>COSMAE ET DAMIANI</cell>
+                    <cell ana="CDB">14092700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="506">
+                    <cell>WENCESLAI MARTYRIS</cell>
+                    <cell ana="CDB">14092800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="507">
+                    <cell>MICHAELIS ARCHANGELI</cell>
+                    <cell ana="CDB">14092900</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="508">
+                    <cell>HIERONYMI PRESBYTERI</cell>
+                    <cell ana="CDB">14093000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="509">
+                    <cell>REMIGII GERMANI ET VEDASTI</cell>
+                    <cell ana="CDB">14100100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="510">
+                    <cell>LEODEGARII MARTYRIS</cell>
+                    <cell ana="CDB">14100200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="511">
+                    <cell>FRANCISCI CONFESSORIS</cell>
+                    <cell ana="CDB">14100400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="512">
+                    <cell>IN OCTAVA SANCTI MICHAELIS</cell>
+                    <cell ana="CDB">14100610</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="513">
+                    <cell>MARCI PAPAE</cell>
+                    <cell ana="CDB"> 14100700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="514">
+                    <cell>DIONYSII ET SOCIORUM EIUS</cell>
+                    <cell ana="CDB">14100900</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="515">
+                    <cell>GEREONIS ET SOCIORUM EIUS</cell>
+                    <cell ana="CDB">14101000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="516">
+                    <cell>IN TRANSLATIONE SANCTI AUGUSTINI</cell>
+                    <cell ana="CDB">14101120</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="517">
+                    <cell>MAXIMILIANI MARTYRIS ET PONTIFICIS</cell>
+                    <cell ana="CDB">14101220</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="518">
+                    <cell>COLOMANNI MARTYRIS</cell>
+                    <cell ana="CDB">14101320</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="519">
+                    <cell>CALLISTI PAPAE</cell>
+                    <cell ana="CDB">14101400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="520">
+                    <cell>GALLI CONFESSORIS</cell>
+                    <cell ana="CDB">14101600</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="521">
+                    <cell>LUCAE EVANGELISTAE</cell>
+                    <cell ana="CDB">14101800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="522">
+                    <cell>IANUARII ET SOCIORUM EIUS</cell>
+                    <cell ana="CDB">14101910</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="523">
+                    <cell>UNDECIM MILIUM VIRGINUM</cell>
+                    <cell ana="CDB">14102100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="524">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="525">
+                    <cell>IN DEDICATIONE ECCLESIAE MOSBURGENSIS</cell>
+                    <cell ana="CDB">12008000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="526">
+                    <cell>INFRA OCTAVAM DEDICATIONIS ECCLESIAE</cell>
+                    <cell ana="CDB">12008008</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="527">
+                    <cell>IN VIGILIA SIMONIS ET IUDAE</cell>
+                    <cell ana="CDB">14102700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="528">
+                    <cell>IN DIE APOSTOLORUM SIMONIS ET IUDAE APOSTOLORUM</cell>
+                    <cell ana="CDB">14102800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="529">
+                    <cell>IN VIGILIA OMNIUM SANCTORUM</cell>
+                    <cell ana="CDB">14103120</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="530">
+                    <cell>IN FESTIVITATE OMNIUM SANCTORUM</cell>
+                    <cell ana="CDB">14102800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="531">
+                    <cell>IN COMMEMORATIONE OMNIUM ANIMARUM</cell>
+                    <cell ana="CDB">14110220</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="532">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="533">
+                    <cell>LEONARDI CONFESSORIS</cell>
+                    <cell ana="CDB">14110610</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="534">
+                    <cell>OCTAVA OMNIUM SANCTORUM</cell>
+                    <cell ana="CDB">14110810</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="535">
+                    <cell>THEODORI MARTYRIS</cell>
+                    <cell ana="CDB">14110910</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="536">
+                    <cell>MARTINI PAPAE ET MARTYRIS</cell>
+                    <cell ana="CDB">14111010</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="537">
+                    <cell>MARTINI EPISCOPI</cell>
+                    <cell ana="CDB">14111100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="538">
+                    <cell>ARSACII CONFESSORIS</cell>
+                    <cell ana="CDB">14111220</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="539">
+                    <cell>BRICTII EPISCOPI</cell>
+                    <cell ana="CDB">14111300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="540">
+                    <cell>OTHMARI ABBATIS</cell>
+                    <cell ana="CDB">14111600</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="541">
+                    <cell>OCTAVA SANCTI MARTINI</cell>
+                    <cell ana="CDB">14111800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="542">
+                    <cell>ELISABETH VIDUAE</cell>
+                    <cell ana="CDB">14111900</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="543">
+                    <cell>IN TRANSLATIONE SANCTI CORBINIANI</cell>
+                    <cell ana="CDB">14112020</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="544">
+                    <cell>DE PRAESENTATIONE BEATAE VIRGINIS MARIAE</cell>
+                    <cell ana="CDB">14112100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="545">
+                    <cell>CAECILIAE VIRGINIS ET MARTYRIS</cell>
+                    <cell ana="CDB">14112200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="546">
+                    <cell>CLEMENTIS PAPAE</cell>
+                    <cell ana="CDB">14112300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="547">
+                    <cell>CHRYSOGONI MARTYRIS</cell>
+                    <cell ana="CDB">14112400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="548">
+                    <cell>CATHARINAE VIRGINIS ET MARTYRIS</cell>
+                    <cell ana="CDB">14112500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="549">
+                    <cell>LINI PAPAE</cell>
+                    <cell ana="CDB">14112600</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="550">
+                    <cell>IN TRANSLATIONE SANCTI VIRGILII ARCHIEPISCOPI</cell>
+                    <cell ana="CDB">14112710</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="551">
+                    <cell>IN VIGILIA SANCTI ANDREAE APOSTOLI</cell>
+                    <cell ana="CDB">14112920</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="552">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="553">
+                    <cell>ANDREAE APOSTOLI</cell>
+                    <cell ana="CDB">14113000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="554">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="555">
+                    <cell>IN OCTAVA SANCTAE KATHARINAE</cell>
+                    <cell ana="CDB">14120200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="556">
+                    <cell>DE VIGILIIS SANTORUM SCIENDUM</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="557">
+                    <cell>IN VIGILIA APOSTOLORUM ET ALIORUM SANCTORUM</cell>
+                    <cell ana="CDB">12001000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="558">
+                    <cell>IN DIE APOSTOLORUM</cell>
+                    <cell ana="CDB">12001000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="559">
+                    <cell>DE MARTYRIBUS</cell>
+                    <cell ana="CDB">12003000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="560">
+                    <cell>DE UNO MARTYRE</cell>
+                    <cell ana="CDB">12002000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="561">
+                    <cell>DE UNO CONFESSORE ET PONTIFICE</cell>
+                    <cell ana="CDB">12004100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="562">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="563">
+                    <cell>DE UNO CONFESSORE NON PONTIFICE</cell>
+                    <cell ana="CDB">12004700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="564">
+                    <cell>DE PLURIBUS CONFESSORIBUS</cell>
+                    <cell ana="CDB">12005000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="565">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="566">
+                    <cell>DE VIRGINIBUS</cell>
+                    <cell ana="CDB">12006000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="567">
+                    <cell>KOMMENTAR</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="568">
+                    <cell>QUALITER COLLECTAE SUNT DICENDAE</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="569">
+                    <cell>DE SECUNDIS VESPERIS SANCTORUM</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="570">
+                    <cell>DE FESTIS QUAE VENERINT IN DOMINICAM</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="571">
+                    <cell>CIRCA OCTAVAS</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="572">
+                    <cell>DE OFFICIO PRO DEFUNCTIS</cell>
+                    <cell ana="CDB">13001000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="573">
+                    <cell>DE MISSA PRO DEFUNCTIS</cell>
+                    <cell ana="CDB">13001000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="574">
+                    <cell>DE HYMNIS EST SCIENDUM</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="575">
+                    <cell>DE SEQUENTIIS EST NOTANDUM</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="576">
+                    <cell>DE PRAEFATIONIBUS</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="577">
+                    <cell>DE ITE MISSA EST SCIENDUM</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>
