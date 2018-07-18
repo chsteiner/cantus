@@ -51,7 +51,9 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <witDetail wit="SP"/>
+               <witDetail wit="SP"><placeName>Spital am Pyhrn<date from="1230" to="1230">um 1230</date>
+               </placeName>
+                  <idno rend="SP" n="A-SPL 83/3">St. Paul, Benediktinerstift, Cod. 83/3</idno></witDetail>
             </edition>
          </editionStmt>
          <publicationStmt>

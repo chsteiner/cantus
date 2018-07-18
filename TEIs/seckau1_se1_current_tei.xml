@@ -41,6 +41,11 @@
                </persName>
             </respStmt>
          </titleStmt>
+         <editionStmt>
+            <edition>
+               <witDetail wit="SE1">Seckau 1 second hand</witDetail>
+            </edition>
+         </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName corresp="https://www.oeaw.ac.at/ikm/home/"
@@ -56,8 +61,8 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0">Creative Commons BY-NC-ND 3.0</licence>
             </availability>
-            <date when="2017">2017</date>
-            <idno type="PID">o:cantus.seckau1.pac</idno>
+            <date when="2018">2018</date>
+            <idno type="PID">o:cantus.seckau1.se1</idno>
          </publicationStmt>
          <seriesStmt>
             <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network - semantisch erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>

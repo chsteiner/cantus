@@ -41,6 +41,11 @@
                </persName>
             </respStmt>
          </titleStmt>
+         <editionStmt>
+            <edition>
+               <witDetail wit="PAC">Seckau 1 Passauer Chorherren, first hand</witDetail>
+            </edition>
+         </editionStmt>
          <publicationStmt>
             <publisher>
                <orgName corresp="https://www.oeaw.ac.at/ikm/home/"

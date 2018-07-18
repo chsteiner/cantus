@@ -7,7 +7,7 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <t:witDetail xmlns:t="http://www.tei-c.org/ns/1.0" wit="SAL"/>
+               <witDetail wit="SAL"></witDetail>
             </edition>
          </editionStmt>
          <publicationStmt>
