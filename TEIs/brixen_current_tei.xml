@@ -1392,7 +1392,7 @@
         </div>
       </div>
       <div>
-        <head corresp="02122500">IN SANCTA <add>NOCTE</add></head>
+        <head corresp="#02122500">IN SANCTA <add>NOCTE</add></head>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.nocdb.V.129" n="V">Ad vesperas</label></ab>
           <ab> in primis compulsentur omnes campanae. Antiphona super psalmos <seg xml:id="incipit.nocdb.V.687" ana="#AN" subtype="supplied" type="incipit"><phr type="neume">Scitote</phr> quia</seg>. <seg xml:id="incipit.nocdb.V.688" ana="#PS" type="incipit">Laudate pueri</seg>. <seg xml:id="incipit.nocdb.V.689" ana="#AN" type="incipit"><phr type="neume">Orietur</phr></seg>. <seg xml:id="incipit.nocdb.V.690" ana="#PS" type="incipit">Laudate dominum omnes gentes</seg>. <seg xml:id="incipit.nocdb.V.691" ana="#AN" type="incipit"><phr type="neume">Dum ortus</phr></seg>. <add><seg xml:id="incipit.nocdb.V.692" ana="#PS" subtype="supplied" type="incipit">Lauda anima</seg>.</add>
