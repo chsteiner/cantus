@@ -51,7 +51,7 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <witDetail wit="UR">Urtext (reconcstructed)</witDetail>
+               <witDetail wit="PUR">Urtext (reconcstructed) Passau</witDetail>
             </edition>
          </editionStmt>
          <publicationStmt>
@@ -70,7 +70,7 @@
                <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0">Creative Commons BY-NC-ND 3.0</licence>
             </availability>
             <date when="2017">2017</date>
-            <idno type="PID">o:cantus.passau.ur</idno>
+            <idno type="PID">o:cantus.passau</idno>
          </publicationStmt>
          <!-- nicht objektbezogen; fürs gesamte Projekt-->
          <seriesStmt>

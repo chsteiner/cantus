@@ -76,7 +76,7 @@
                   >Creative Commons BY-NC-ND 3.0</licence>
             </availability>
             <date when="2017">2017</date>
-            <idno type="PID">o:cantus.passau</idno>
+            <idno type="PID">o:cantus.passau.sp</idno>
          </publicationStmt>
          <seriesStmt>
             <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"
