@@ -5,7 +5,7 @@
             <title>Incipit breviarium secundum usum ecclesiae sancti Castuli Mosburgensis<pb n="2r" xml:id="MOS.002r"/>
             </title>
             <title type="short">Moosburg</title>
-            <title type="citation">Der 'Liber ordinarius Mosburgensis'</title>
+            <title type="citation">Der 'Liber ordinarius Moosburg'</title>
             <respStmt>
                <resp>editor</resp>
                <persName>
@@ -307,14 +307,16 @@
       </encodingDesc>
       <profileDesc>
          <abstract facs="#STARTPAGE_IMG">
-            <ab type="image_title" xml:lang="de">Beginn des Moosburger <hi rend="italic">Liber
-                        Ordinarius</hi> (...)</ab>
-            <ab type="head">
-               <hi rend="italic">Liber Ordinarius</hi> Moosburg.</ab>
-            <p style="primary" xml:lang="de">Coming soon...</p>
-            <p xml:lang="de">Coming soon...</p>
+            <ab type="image_title" xml:lang="de">Beginn des Moosburger <hi rend="italic">Liber Ordinarius</hi> (D-Mu 4° Cod. 157)</ab>
+            <ab type="head">Ein <hi rend="italic">
+               <hi rend="italic">Liber Ordinarius</hi>
+            </hi> das Kollegiatstift St. Kastulus.</ab>
+            <p style="primary" xml:lang="de">St. Kastulus Moosburg bestand vom 8. Jahrhundert bis 1021 als Benediktinerkloster. Im Jahr 1021 erfolgte die Umwandlung in eine Gemeinschaft für Chorherren (Kollegiatstift), die Benediktiner verlegte man ins nahe gelegene Weihenstephan (Freising). Der Klosterpatron Kastulus ist ein römischer Katakombenheiliger und Märtyrer. Nach der Verlegung des Kollegiatstiftes nach Landshut (1598) kam es auch zu einer Translation der Kastulusreliquien in die Stadt. Die Landshuter Stadtpfarrkirche St. Martin erhob man zur Stiftskirche. Nach Aufhebung der Gemeinschaft während der Säkularisation im Jahr 1803 kam ein größerer Teil der Bibliothek, und mit ihr mittelalterliche Handschriften, in den Besitz der seit 1800 in Landshut angesiedelten Ludwig-Maximilians-Universität. Seit dem erneuten Umzug der Universität im Jahr 1826 werden die Bücherbestände in der Universitätsbibliothek in München aufbewahrt. Weitere Teile der ehemals Moosburger Bibliothek gelangten an die Königliche Hofbibliothek in München (heute Bayerische Staatsbibliothek).</p>
+            <p xml:lang="de">Bekannte liturgische Handschriften des Mittelalters: <hi rend="bold">Liber ordinarius</hi>, um 1360 (D-Mbs clm 9469). Gradual-Cantionale, 1357-1360 (D-Mu 2° Cod. ms. 156). Teil-Antiphonar, um 1500 (D-Mbs clm 9468). Teil-Antiphonare, um 1500 (D-Mbs clm 23085 und 23086). <lb/>Breviere in der Bayerischen Staats- und der Universitätsbibliothek München: D-Mbs clm 23068 (14. Jh., Sommerteil) und 24005 (um 1500, Sommerteil). D-Mu 2° Cod. ms. 149 (1370, Vollbrevier)</p>
+            <p xml:lang="de">Das sog. 'Moosburger Graduale' (D-Mu 2° Cod. ms 156) wurde von David Hiley als Faksimile herausgegeben und wissenschaftlich dokumentiert. Auf den Webseiten des <ref target="https://www.historisches-lexikon-bayerns.de/Lexikon/Moosburger_Graduale">Historischen Lexikons Bayerns</ref> steht zudem eine Detailbeschreibung Hileys online zur Verfügung. 'Das Moosburger Graduale ist eine 1360 vollendete Musikhandschrift …, die heute in der Universitätsbibliothek München verwahrt wird. Die Bedeutung dieses Graduales liegt darin, dass sie neben den üblichen liturgischen Gesängen eine Sammlung von Liedern zur Weihnachtszeit enthält, unter anderem auch für das Bischofsspiel.' Wie das Stiftungsbild zu Beginn der Handschrift verrät, waren die Kanoniker Ernst von Landshut, Johannes von Perchausen und Otto von Wartenberg an der Herstellung beteiligt.</p>
+            <p xml:lang="de">Johannes von Perchausen († 15.08.1362), Komponist, Rector Scolarium und Dekan, ist auch als Kompilator und Schreiber des hier edierten Moosburger <hi rend="italic">Liber ordinarius</hi> festzustellen. Perchausen stellt sich im Prolog als Autor des als 'Breviarium Ecclesiae Mosburgensis' bezeichneten Liber ordinarius vor. Er beschreibt hier u.a. seine Vorgehensweise unter Verwendung des Freisinger Diözesanordinarius als Vorlage. Perchausen stellt eine Kompilation aus dem Diözesanordo und lokalen Bräuchen zusammen. Dieses „Lokalkolorit“ tritt besonders deutlich bei der Nennung von für Moosburg typischen Kirchen, Kapellen und Altären bei Prozessionen hervor. Zum Moosburger Proprium gehören auch besondere liturgische Spiele wie die dramatische Darstellung der Himmelfahrt Christi am gleichnamigen Feiertag (Hinaufziehen einer Christusfigur in das „Himmelfahrtsloch“ im Langhaus der Stiftskirche) oder das Herablassen des Heiligen Geistes in Form einer hölzernen Taube an Pfingsten.</p>
             <p>
-               <hi rend="italic">von Gionata Brusa</hi>
+               <hi rend="italic">von Robert Klugseder</hi>
             </p>
          </abstract>
       </profileDesc>
