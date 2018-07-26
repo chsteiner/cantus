@@ -10,7 +10,24 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>salzburg_ur_current_tei.xml</String>
+                                    <String>hirsau_current_tei.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>all horae</String>
+                                        <String>all feasts</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>.</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -29,11 +46,13 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>create_ids</String>
+                                        <String>all horae</String>
+                                        <String>all feasts</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
+                                        <String>XSL</String>
                                         <String>XSL</String>
                                     </list>
                                 </field>
@@ -55,7 +74,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>.</String>
+                                    <String>salzburg_ur_current_tei.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -321,7 +340,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/W:/gamsdev/cantus/trunk/etc/material/Incipits_Feste/all_feasts.xsl</String>
+                                    <String>file:/W:/gamsdev/cantus/anderes/material/Incipits_Feste/all_feasts.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -407,7 +426,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/W:/gamsdev/cantus/trunk/etc/material/Incipits_Feste/all_horae.xsl</String>
+                                    <String>file:/W:/gamsdev/cantus/anderes/material/Incipits_Feste/all_horae.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
