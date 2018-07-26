@@ -9,23 +9,23 @@
             <respStmt>
                <resp>editor</resp>
                <persName>
-                  <forename>Gionata</forename>
-                  <surname>Brusa</surname>
-               </persName>
-               <persName>
                   <forename>Franz Karl</forename>
                   <surname>Praßl</surname>
                </persName>
+               <persName>
+                  <forename>Gionata</forename>
+                  <surname>Brusa</surname>
+               </persName>  
             </respStmt>
             <respStmt>
-               <resp>transcription</resp>
-               <persName>
-                  <forename>Gionata</forename>
-                  <surname>Brusa</surname>
-               </persName>
+               <resp>transcription</resp>    
                <persName>
                   <forename>Franz Karl</forename>
                   <surname>Praßl</surname>
+               </persName>
+               <persName>
+                  <forename>Gionata</forename>
+                  <surname>Brusa</surname>
                </persName>
             </respStmt>
             <respStmt>
