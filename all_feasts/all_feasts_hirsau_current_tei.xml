@@ -6,7 +6,8 @@
                 <title>List of Feasts</title>
             </titleStmt>
             <publicationStmt>
-                <distributor>Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities</distributor>
+                <distributor>Zentrum für Informationsmodellierung - Austrian Centre for Digital
+                    Humanities</distributor>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital</p>
@@ -1493,7 +1494,8 @@
                     <cell ana="Commune"> </cell>
                 </row>
                 <row n="296">
-                    <cell>IN NATALE SANCTI EUSEBII CONFESSORIS. IN VIGILIA ASSUMPTIONIS SANCTAE MARIAE</cell>
+                    <cell>IN NATALE SANCTI EUSEBII CONFESSORIS. IN VIGILIA ASSUMPTIONIS SANCTAE
+                        MARIAE</cell>
                     <cell ana="CDB"> </cell>
                     <cell ana="Commune"> </cell>
                 </row>

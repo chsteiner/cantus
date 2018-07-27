@@ -340,7 +340,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/W:/gamsdev/cantus/anderes/material/Incipits_Feste/all_feasts.xsl</String>
+                                    <String>file:////gedra.uni-graz.at/steinerc/gamsdev/cantus/anderes/material/Incipits_Feste/all_feasts.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -426,7 +426,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/W:/gamsdev/cantus/anderes/material/Incipits_Feste/all_horae.xsl</String>
+                                    <String>file:////gedra.uni-graz.at/steinerc/gamsdev/cantus/anderes/material/Incipits_Feste/all_horae.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>

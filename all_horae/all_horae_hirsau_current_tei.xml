@@ -6,7 +6,8 @@
                 <title>List of Incipits and Genres</title>
             </titleStmt>
             <publicationStmt>
-                <distributor>Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities</distributor>
+                <distributor>Zentrum für Informationsmodellierung - Austrian Centre for Digital
+                    Humanities</distributor>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital</p>
@@ -231,14 +232,6 @@
                 </row>
                 <row>
                     <cell role="horae">De officio capituli in quadragesima</cell>
-                    <cell> </cell>
-                </row>
-                <row>
-                    <cell role="horae">Ad matutinias laudibus</cell>
-                    <cell> </cell>
-                </row>
-                <row>
-                    <cell role="horae">Ad matutinis laudibus</cell>
                     <cell> </cell>
                 </row>
                 <row>
