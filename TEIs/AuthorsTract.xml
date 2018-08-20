@@ -39,7 +39,7 @@
                 <item xml:id="Bernold">
                     <bibl>
                         <title>Micrologus de ecclesiasticis observationibus</title>
-                        <author>Bernold von Konstanz</author>
+                        <author>Bernold von St. Blasien</author>
                         <editor></editor>
                         <placeName></placeName>
                         <date></date>
@@ -164,6 +164,16 @@
                         <placeName></placeName>
                         <date>1901</date>
                         <series>Revue bénédictine 18, 177-183</series>
+                    </bibl>
+                </item>
+                <item xml:id="Honorius">
+                    <bibl>
+                        <title>Gemma animae</title>
+                        <author>Honorius Augustodunensis</author>
+                        <editor></editor>
+                        <placeName></placeName>
+                        <date></date>
+                        <series>PL 172, 541-738</series>
                     </bibl>
                 </item>
             </list>
