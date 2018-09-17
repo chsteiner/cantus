@@ -176,6 +176,16 @@
                         <series>PL 172, 541-738</series>
                     </bibl>
                 </item>
+                <item xml:id="Ivo">
+                    <bibl>
+                        <title>Panormia</title>
+                        <author>Ivo von Chartres</author>
+                        <editor></editor>
+                        <placeName></placeName>
+                        <date></date>
+                        <series>PL 161, 1041-1344</series>
+                    </bibl>
+                </item>
             </list>
         </body>
     </text>
