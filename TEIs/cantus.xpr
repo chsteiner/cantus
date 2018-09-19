@@ -25,6 +25,21 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>salzburg_ur_current_tei.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>create_ids</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>salzburg_ra_current_tei.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -41,21 +56,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>salzburg_vo_current_tei.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>create_ids</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>salzburg_ur_current_tei.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -1041,7 +1041,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/W:/gamsdev/cantus/anderes/AdditionalXSLT/latex/teiTOlatex.xsl</String>
+                                    <String>file:/Z:/CANTUS/2018/druck/teiTOlatex.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
