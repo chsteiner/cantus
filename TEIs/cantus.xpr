@@ -40,6 +40,36 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>seckau1_se1_current_tei.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>create_ids</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>freising_current_tei.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>create_ids</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>salzburg_ra_current_tei.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -55,7 +85,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>salzburg_vo_current_tei.xml</String>
+                                    <String>salzburg_sal_current_tei.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -70,7 +100,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>salzburg_sal_current_tei.xml</String>
+                                    <String>salzburg_vo_current_tei.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -101,21 +131,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>seckau1_pac_current_tei.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>create_ids</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>seckau1_se1_current_tei.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -296,21 +311,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>passau_knb_current_tei.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>create_ids</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>freising_current_tei.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
