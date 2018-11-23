@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
-   <teiHeader>
+   <teiHeader xml:id="seckau1.se1">
       <fileDesc>
          <titleStmt>
             <title>

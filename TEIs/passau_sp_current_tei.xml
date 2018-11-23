@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
-   <teiHeader xml:id="passau">
+   <teiHeader xml:id="passau.sp">
       <fileDesc>
          <titleStmt>
             <title>
@@ -51,8 +51,7 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <witDetail wit="SP"><placeName>Spital am Pyhrn<date from="1230" to="1230">um 1230</date>
-               </placeName>
+               <witDetail wit="SP"><placeName>Spital am Pyhrn</placeName>
                   <idno rend="SP" n="A-SPL 83/3">St. Paul, Benediktinerstift, Cod. 83/3</idno></witDetail>
             </edition>
          </editionStmt>
@@ -122,7 +121,7 @@
                   <altIdentifier>
                      <placeName>Spital am Pyhrn<date from="1230" to="1230">um 1230</date>
                      </placeName>
-                     <idno rend="SP1" n="A-SPL 83/3">St. Paul, Benediktinerstift, Cod. 83/3</idno>
+                     <idno rend="SP" n="A-SPL 83/3">St. Paul, Benediktinerstift, Cod. 83/3</idno>
                   </altIdentifier>
                </msIdentifier>
             </msDesc>

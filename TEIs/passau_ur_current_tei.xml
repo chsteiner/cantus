@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
-   <teiHeader>
+   <teiHeader xml:id="passau.pasur">
       <fileDesc>
          <titleStmt>
             <title>
@@ -137,7 +137,7 @@
                   <altIdentifier>
                      <placeName>St. Stephan Wien<date from="1375" to="1400">4. Viertel 14. Jahrhundert</date>
                      </placeName>
-                     <idno rend="VIE" n="A-Wn Cod. 4712">Wien, Österreichische Nationalbibliothek, Cod. 4712</idno>
+                     <idno rend="WIE" n="A-Wn Cod. 4712">Wien, Österreichische Nationalbibliothek, Cod. 4712</idno>
                      <note>nur teilweise codiert</note>
                   </altIdentifier>
                </msIdentifier>

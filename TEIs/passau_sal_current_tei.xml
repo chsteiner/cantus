@@ -1,21 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
-   <teiHeader>
+   <teiHeader xml:id="passau.passal">
       <fileDesc>
          <titleStmt>
-            <title>Incipit ordo sive breviarium de ecclesiasticis observationibus, quid legendum sit vel cantandum per circulum anni secundum Pataviensem ecclesiam.</title>
+            <title>
+               <pb n="9r" xml:id="SP.009r"
+               />Incipit ordo sive breviarium de ecclesiasticis observationibus, quid legendum sit vel cantandum per circulum anni secundum Pataviensem ecclesiam.</title>
+            <title type="short">Passau</title>
+            <title type="citation">Der 'Liber ordinarius Pataviensis'</title>
+            <respStmt>
+               <resp>editor</resp>
+               <persName>
+                  <forename>Robert</forename>
+                  <surname>Klugseder</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>transcription</resp>
+               <persName>
+                  <forename>Robert</forename>
+                  <surname>Klugseder</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>contribution</resp>
+               <persName>
+                  <forename>Gionata</forename>
+                  <surname>Brusa</surname>
+               </persName>
+               <persName>
+                  <forename>Markus</forename>
+                  <surname>Huber</surname>
+               </persName>
+               <persName>
+                  <forename>Alexander</forename>
+                  <surname>Rausch</surname>
+               </persName>
+               <persName>
+                  <forename>Antonius</forename>
+                  <surname>Widmann</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>digital processing, text-modelling</resp>
+               <persName>
+                  <forename>Christian</forename>
+                  <surname>Steiner</surname>
+               </persName>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition>
-               <witDetail wit="PSAL"></witDetail>
+               <witDetail wit="PASSAL"><placeName>Pfarre des Prämonstratenserklosters St. Salvator (Niederbayern)</placeName>
+                  <idno rend="SAL" n="A-Wn Cod. Ser.n. 39563">Wien, Österreichische Nationalbibliothek, Cod. Ser.n. 39563</idno>
+                  <note>nur teilweise codiert</note></witDetail>
             </edition>
          </editionStmt>
          <publicationStmt>
-            <authority xmlns:t="http://www.tei-c.org/ns/1.0">Cantus</authority>
-            <idno type="PID">o:cantus.passau.sal</idno>
+            <publisher>
+               <orgName ref="http://d-nb.info/gnd/1043809171"
+                  corresp="https://www.oeaw.ac.at/ikm/home/"
+                  >Österreichische Akademie der Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung Musikwissenschaft</orgName>
+            </publisher>
+            <authority>
+               <orgName ref="http://d-nb.info/gnd/1137284463"
+                  corresp="https://informationsmodellierung.uni-graz.at"
+                  >Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+            </authority>
+            <distributor>
+               <orgName ref="https://gams.uni-graz.at"
+                  >GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+            </distributor>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0"
+                  >Creative Commons BY-NC-ND 3.0</licence>
+            </availability>
+            <date when="2017">2017</date>
+            <idno type="PID">o:cantus.passau.sp</idno>
          </publicationStmt>
+         <seriesStmt>
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"
+               >Cantus Network - semantisch erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en"
+               >Cantus Network - a semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan province.</title>
+            <respStmt>
+               <resp>Projektleitung</resp>
+               <persName>
+                  <forename>Franz</forename>
+                  <forename>Karl</forename>
+                  <surname>Praßl</surname>
+               </persName>
+               <persName>
+                  <forename>Robert</forename>
+                  <surname>Klugseder</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Mitarbeiter</resp>
+               <persName>
+                  <forename>Gionata</forename>
+                  <surname>Brusa</surname>
+               </persName>
+               <persName>
+                  <forename>Christian</forename>
+                  <surname>Steiner</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>Kooperationspartner</resp>
+               <orgName>Universität für Musik- und darstellende Kunst Graz (KUG)</orgName>
+               <orgName>Music Encoding Initiative (MEI)</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Finanzierung</resp>
+               <orgName>Österreichische Akademie der Wissenschaften: Digital Humanities. Langzeitprojekte zum kulturellen Erbe</orgName>
+            </respStmt>
+         </seriesStmt>
          <sourceDesc>
-            <p>Converted from a Word document</p>
+            <msDesc>
+               <msIdentifier>
+                  <altIdentifier>
+                     <placeName>Pfarre des Prämonstratenserklosters St. Salvator (Niederbayern)<date from="1400" to="1425">1. Viertel 15. Jahrhundert</date>
+                     </placeName>
+                     <idno rend="SAL" n="A-Wn Cod. Ser.n. 39563">Wien, Österreichische Nationalbibliothek, Cod. Ser.n. 39563</idno>
+                     <note>nur teilweise codiert</note>
+                  </altIdentifier>
+               </msIdentifier>
+            </msDesc>
+            <list type="secondary_sources">
+               <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-Geras6/manifest"/>
+               <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-WdaD4/manifest"/>
+               <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-VOR90/manifest"/>
+               <item source="https://iiifp-mufo.oeaw.ac.at/mahss/D-MbsClm16141/manifest"/>
+               <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-SFxi388/manifest"/>
+               <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-WdaC10/manifest"/>
+               <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-WdaC11/manifest"/>
+               <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-GOE237/manifest"/>
+               <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-KN963/manifest"/>
+               <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-SPL49-3/manifest"/>
+               <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-WIL148/manifest"/>
+            </list>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -24,12 +148,64 @@
                <label>DOCX to TEI</label>
             </application>
          </appInfo>
+         <projectDesc xml:lang="de">
+            <p rend="head">Liturgie und Musik in der mittelalterlichen Kirchenprovinz Salzburg.</p>
+            <p>Die Kirchenprovinz Salzburg mit ihren Suffraganbistümern Brixen, Freising, Passau, Regensburg und Salzburg war über viele Jahrhunderte hinweg maßgeblich an der kulturgeschichtlichen Entwicklung Österreichs und Bayerns beteiligt. Umso wichtiger ist es, die zahlreich erhaltenen liturgisch-musikalischen Quellen, die ein wichtiger Bestandteil dieses kulturgeschichtlichen Erbes sind, in digitaler Form zu erschließen und wissenschaftlich auszuwerten.</p>
+            <p>Bei der wissenschaftlichen Auseinandersetzung mit <emph>Libri Ordinarii</emph> muss der kritischen Übertragung der lateinischen Texte eine fundierte Analyse der Ursprünge der Liturgie und der Kommentare folgen. Primäre Aufgabe des Projekts wird es sein, die Ordinarii nach TEI zu transformieren. In einem zweiten Schwerpunkt sollen die Sekundärquellen, also die liturgisch und liturgisch-musikalischen Quellen wie Graduale, Missale, Sequentiare, Antiphonare usw. erschlossen und für die Implementation in die Webplattform aufbereitet werden, um hinter den Incipits der Libri ordinarii auch die konkreten Gestalten z.B. eines Gesanges in vollständiger Form und mit musikalischer Notation vor sich zu haben.</p>
+         </projectDesc>
+         <projectDesc xml:lang="en">
+            <p rend="head"
+               >Liturgy and music in the medieval ecclesiastical province of Salzburg</p>
+            <p>For many centuries, the ecclesiastical province of Salzburg, along with its suffragan dioceses of Brixen, Freising, Regensburg and Salzburg, played a key role in the cultural history of Austria and Bavaria. It is thus all the more important that the many surviving liturgical musical sources that constitute an important part of this cultural heritage are made digitally accessible and subjected to scholarly analysis.</p>
+            <p>In scholarly studies of <emph>libri ordinarii</emph>, critical transcriptions of the Latin texts need to be followed up with an in-depth analysis of the origins of the liturgy and the commentaries. This project’s main aim will be to translate the <emph>libri ordinarii</emph> into TEI. As part of a second point of focus, the secondary sources – that is the liturgical and musical sources, such as graduals, missals, sequentiaries, antiphonars and so on – will be analysed and edited for uploading onto the online platform. The concrete shape of a chant, for example, will appear in its complete form (and with musical notation, if applicable) behind the incipits of the <emph>libri ordinarii</emph>.</p>
+         </projectDesc>
       </encodingDesc>
+      <profileDesc>
+         <abstract facs="#STARTPAGE_IMG">
+            <ab type="image_title" xml:lang="de"
+               >Beginn des Passauer Liber Ordinarius (A-Wn Cod. 1874)</ab>
+            <ab type="head">Der <hi rend="italic"
+               >Liber ordinarius</hi> der mittelalterlichen Diözese Passau.</ab>
+            <p style="primary" xml:lang="de">Der mittelalterliche Sprengel des einstmaligen <hi
+               rend="bold"
+               >Donaubistums Passau</hi> erfasste den südostwärtigen Teil des Herzogtums Bayern sowie den größten Teil des habsburgischen Erzherzogtums Österreich (mit der Ausnahme des zum Erzbistum Salzburg gehörigen südwestlichen Raumes rund um Wiener Neustadt). Mit der Gründung des Hofbistums Wien 1469/80 begann die sukzessive Verdrängung des Bistums Passau aus seinem österreichischen Sprengel, die mit der Einrichtung der Diözesen Linz und St. Pölten durch Kaiser Joseph II. im Jahr 1783/85 endete. Das Bistum Passau war über viele Jahrhunderte hinweg maßgeblich an der <hi
+                  rend="bold"
+                  >kulturgeschichtlichen Entwicklung Österreichs</hi> ober- und unterhalb der Enns beteiligt.</p>
+            <p xml:lang="de">
+               <hi rend="italic"
+                  >Incipit ordo sive breviarium de ecclesiasticis observationibus quid legendum sit vel cantandum per circulum anni secundum Pataviensem ecclesiam</hi>. In dieser Präambel der „kirchlichen Gewohnheiten“ wird die Kirche von Passau als Ursprung der im Ordo enthaltenen Tradition bezeichnet. Der <hi
+                     rend="italic"
+                     >Liber ordinarius</hi> Passau (LOP) enthält tatsächlich die Liturgie, wie sie die Passauer Domkanonikern zur Zeit der Kompilation feierten. Anhand der Verbreitungsgeschichte des LOP kann man jedoch eindeutig erkennen, dass der Terminus <hi
+                        rend="italic">ecclesia Pataviensis</hi> nicht nur die Kathedrale, sondern <hi
+                           rend="bold">alle Kirchen der Diözese</hi> miteinbeziehen soll.</p>
+            <p xml:lang="de"
+               >Für die Edition des LOP konnten acht Abschriften ausfindig gemacht werden. Die älteste Kopie ist zwischen <hi
+                  rend="bold"
+                  >1227 und 1240</hi> entstanden, die jüngste in der ersten Hälfte des 15. Jahrhunderts. Da sich die Abschriften jedoch nur marginal unterscheiden, wurden für die kritische Edition der Texte nur drei bzw. fünf Quellen herangezogen. Der zu erwartende Mehraufwand für die Kodierung der weitestgehend identen weiteren Quellen stünde in keinem sinnvollen Verhältnis zum Erkenntnismehrgewinn. Folgende Handschriften wurden vollständig codiert: <hi
+                     rend="bold">SP1: A-SPA 83/3</hi> (Spital am Pyhrn, um 1233), <hi rend="bold"
+                        >SVE: A-Wn Cod. 1874</hi> (Stadtpfarrkirche St. Veit Krems?, um 1364) und <hi
+                           rend="bold"
+                           >KNB: A-KN 1194</hi> (Pfarrkirche St. Martin Klosterneuburg, 2. Viertel 14. Jahrhundert). Aus folgenden Handschriften wurden lediglich wichtige Informationen zu Prozessionswegen oder zu herausragenden Handlungen ergänzt: WIE: A-Wn Cod. 4712
+               (Dom St. Stephan Wien, Ende 14. Jahrhundert) und SAL: A-Wn Cod. Ser.n. 39563 (Pfarre des Klosters St. Salvator, 1. Viertel 15. Jh.). Weitere, nicht codierte Quellen: D-Mbs Clm 2725 (Pfarre des Zisterzienserklosters Aldersbach, 2. Viertel 14. Jahrhundert), A-KN CCl 965 (Pfarre des Klosters Klosterneuburg, um 1380), A-SPA Cod. 51/3 (Kollegiatstift Spital am Pyhrn, 1423), A-ME Cod. 1934 und Cod. 1114 (Pfarren des Klosters Melk, 1422 bzw. 1. Hälfte 15. Jahrhundert).</p>
+            <p xml:lang="de"
+               >Ein konkreter Anlass für die Zusammenstellung des Regelbuches ist nicht erkennbar, wenngleich unter Bischof Gebhard (1222-32) Bestrebungen zur Reform des Diözesanklerus erkennbar werden. Im Auftrag von Papst Gregors IX. ließ Gebhard ab 1229 strenge Visitationen der Klöster und Pfarreien seiner Diözese durchführen. Dieses rigorose Vorgehen war nicht zuletzt Ursache für seine Absetzung im Jahr 1232. Sein Nachfolger <hi
+                  rend="bold"
+                  >Bischof Rüdiger von Bergheim</hi> (reg. 1233-1250) entstammte einem Salzburger Ministerialiengeschlecht. Seit 1198 war er Domherr in Salzburg, von 1208 bis 1222 Pfarrer von Salzburghofen, Spitalmeister und Probst des Augustinerchorherrenklosters Zell am See, ab 1215 Domherr in Passau und von 1216 bis 1233 Bischof des neu gegründeten Salzburger Eigenbistums Chiemsee. Der <hi
+                     rend="italic"
+                     >Liber ordinarius Salisburgensis</hi> (LOS) wurde spätestens 1198 zusammengestellt, just in dem Jahr, als Rüdiger als Salzburger Domherr berufen
+               worden ist. In einem Gedicht hat sich der Schreiber des LOS verewigt: ... <hi
+                  rend="italic"
+                  >Scribam presbiterum placato Deo Rudigerum</hi> ... Es spricht vieles dafür, die beiden Rüdiger als ein und dieselbe Person zu sehen.</p>
+            <p>
+               <hi rend="italic">von Robert Klugseder</hi>
+            </p>
+         </abstract>
+      </profileDesc>
       <revisionDesc>
          <listChange>
             <change>
-               <date>2017-12-15T15:19:04Z</date>
-               <name>cantus:SAL</name>
+               <date when="2017-12-15">25.12.2017</date>
+               <name>Christian Steiner</name>
             </change>
          </listChange>
       </revisionDesc>
