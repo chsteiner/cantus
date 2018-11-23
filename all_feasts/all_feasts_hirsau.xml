@@ -75,7 +75,7 @@
                 </row>
                 <row n="12">
                     <cell>IN NATALE SANCTI NICOLAI</cell>
-                    <cell ana="CDB">14120600 </cell>
+                    <cell ana="CDB">14120600</cell>
                     <cell ana="Commune"> </cell>
                 </row>
                 <row n="13">
@@ -375,7 +375,7 @@
                 </row>
                 <row n="72">
                     <cell>DOMINICA SECUNDA POST OCTAVAM EPIPHANIAE</cell>
-                    <cell ana="CDB">5031000</cell>
+                    <cell ana="CDB">05031000</cell>
                     <cell ana="Commune"> </cell>
                 </row>
                 <row n="73">
@@ -1080,7 +1080,7 @@
                 </row>
                 <row n="211">
                     <cell>IN TRANSLATIONE SANCTI FINDANI</cell>
-                    <cell ana="CDB">14050820 </cell>
+                    <cell ana="CDB">14050820</cell>
                     <cell ana="Commune">cs_normal666</cell>
                 </row>
                 <row n="212">
