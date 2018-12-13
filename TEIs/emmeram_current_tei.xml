@@ -319,11 +319,40 @@
       </encodingDesc>
       <profileDesc>
          <abstract facs="#STARTPAGE_IMG">
-            <ab type="image_title" xml:lang="de">Beginn des <hi rend="italic">Liber Ordinarius</hi> St. Emmeram (Clm 14428)</ab>
-            <ab type="head">Der <hi rend="italic">Liber Ordinarius</hi> St. Emmeram
-         </ab>
-            <p style="primary" xml:lang="de">Coming Soon!</p>
-            <p/>
+            <ab type="image_title" xml:lang="de">Beginn des <hi rend="italic">Liber Ordinarius</hi> des Regensburger Benediktinerklosters St. Emmeram (Clm 14428)</ab>
+            <ab type="head">Der <hi rend="italic">Liber Ordinarius</hi> des Regensburger Benediktinerklosters St. Emmeram</ab>
+            <p style="primary" xml:lang="de">Die drei Exemplare des <emph>Liber Ordinarius</emph> des Benediktinerklosters St. Emmeram in Regensburg (gegründet um 739) aus den Jahren 1435 bzw. 1444 gehören zu den bedeutendsten Quellen dieses Typus. Die liturgische Tradition des Klosters lässt sich zum Teil bis in die Karolingerzeit zurückverfolgen. Besonders geprägt wurde die Liturgie durch die Tätigkeit des hl. Wolfgangs, Bischof von Regensburg von 972-994. Im 11. Jahrhundert war das Kloster sehr produktiv in der Komposition von Sequenzen und Tropen. Zu dieser Zeit entstanden auch Heiligenoffizien für die Lokalheiligen Emmeram, Dionysius und Wolfgang.</p>
+            <p xml:lang="de">
+               Alle drei <emph>Libri Ordinarii</emph> stammen aus der Amtszeit des Abtes Wolfhard Strauss (reg. 1423-1451). Der älteste, der auf Pergament geschriebene D-Mbs clm 14428 der Bayerischen Staatsbibliothek München, trägt das Datum 23. Januar 1435 (begonnen oder vollendet). Clm 14183 ist eine Kopie, teils auf Papier, teils auf Pergament. Der Schreiber des Codex clm 14183, den Ian Rumbold mit Hermann Pötzlinger identifizierte, übernimmt das oben genannte Datum aus seiner Vorlage. Auch wenn diese Angabe vermutlich nicht exakt stimmt, ist eine Datierung 1435 oder 1436 durchaus möglich. Zu dieser Zeit war Pötzlinger möglicherweise Assistent in der Klosterschule (vgl. Rumbold, Hermann Pötzlinger’s ordinal). Pötzlinger ist bekannt als Schreiber des sogenannten „St. Emmeram Codex“ (D-Mbs clm 14274), eine Sammlung von meist mehrstimmiger Musik, die zum Teil im Umfeld der Wiener Universität entstand.
+            </p>
+            <p xml:lang="de">
+               Besonders interessant ist der dritte Ordinarius, clm 14073. An vielen Stellen bestätigt er eine Fortsetzung der Gebräuche von clm 14428 (und clm 14183), weist aber zahlreiche Änderungen inklusive Tilgungen und Ersetzungen auf, die vermutlich auf die Anpassung der Handschrift an die Vorschriften der monastischen Reform von Kastl hindeuten.
+            </p>
+            <p xml:lang="de">
+               Von hohem Wert für die Erforschung lokaler Gebräuche sind die zahlreichen Angaben zu Prozessionen an Festtagen zu Kapellen und Altären der Klosterkirche, aber auch zu weiteren Stationen auf dem Klostergelände. Mehrmals wird zudem das mehrstimmige Singen („organum“) oder die Verwendung der Orgeln erwähnt.
+            </p>
+            <p xml:lang="de">
+               Die Kalendare zu Beginn aller drei <emph>Libri Ordinarii</emph> sind nicht Teil der Edition, obwohl sie wegen zahlreicher memorialer Einträge besonders informativ sind. Nach dem Kalender in clm 14428 folgt eine Computustabelle, in clm 14183 bzw. 14073 Notizen zu Gebräuchen im Advent und in der Fastenzeit. Am Ende von clm 14073 wurden nicht-liturgische Dokumente später hinzugefügt (vgl. die Beschreibungen von Wunderle bzw. Neske).
+            </p>
+            <p>
+               <hi rend="italic">von David Hiley und Gionata Brusa</hi>
+            </p>
+            <p>
+               Literatur:
+            </p>
+             <p>  
+               Bernhard Bischoff, Studien zur Geschichte des Klosters St. Emmeram im Spätmittelalter (1324–1525), in: Mittelalterliche Studien. Ausgewählte Aufsätze zur Schriftkunde und Literaturgeschichte, 2 Bde., Stuttgart 1967, Bd. 2, 115-155.</p>
+               <p>
+               Franz Körndle, Liturgisches Orgelspiel im 15. Jahrhundert am Beispiel des Klosters St. Emmeram in Regensburg, Ars organi 47 (1999-2000) 76-82.</p>
+               <p>
+               Ian Rumbold with Peter Wright, Hermann Pötzlinger’s Music Book. The St Emmeram Codex and its Contexts. Woodbridge, 2009.</p>
+               <p>
+               Ian Rumbold, Hermann Pötzlinger’s ordinal: Clm 14183 and the performance of the liturgy at St Emmeram c.1435-c.1450, in: Gottesdienst in Regensburger Institutionen. Zur Vielfalt liturgischer Traditionen in der Vormoderne, Tagung Regensburg, 6.-8. Juli 2017 (Druck in Vorbereitung).</p>
+               <p>
+                  Elisabeth Wunderle, Katalog der lateinischen Handschriften der Bayerischen Staatsbibliothek München. Die Handschriften aus St. Emmeram in Regensburg 1. Clm 14000-14130 (= Catalogus codicum manu scriptorum Bibliothecae Monacensis 4, series nova 2/1), 167-171. http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0493.htm
+               </p>
+                <p>  
+                  Ingeborg Neske, Katalog der lateinischen Handschriften der Bayerischen Staatsbibliothek München. Die Handschriften aus St. Emmeram in Regensburg 2. Clm 14131-14260 (= Catalogus codicum manu scriptorum Bibliothecae Monacensis 4, series nova 2/2), 122-124. http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0587.htm, ferner http://www.manuscripta-mediaevalia.de/?AREA_3#|16</p>
          </abstract>
       </profileDesc>
       <revisionDesc>
