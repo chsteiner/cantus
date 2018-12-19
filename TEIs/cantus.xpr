@@ -10,6 +10,66 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>../../../../druck/seckau1/seckau1_pac_current_tei.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>latex</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../../../../druck/seckau1/seckau1_pac_current_tei%20-%20Kopie.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>latex</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>seckau1_pac_current_tei.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>create_ids</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>seckau1_se1_current_tei.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>create_ids</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>emmeram_current_tei_emm1.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -26,21 +86,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>.</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>create_ids</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>seckau1_pac_current_tei.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -116,21 +161,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>seckau3_current_tei.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>create_ids</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>seckau1_se1_current_tei.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -1292,7 +1322,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>file:/Z:/CANTUS/2018/druck/teiTOlatex.xsl</String>
+                                    <String>file:/Z:/CANTUS/2018/druck/seckau1/teiTOlatex_seckau1.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -1310,13 +1340,13 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="openInBrowser">
-                                    <Boolean>false</Boolean>
+                                    <Boolean>true</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>Z:/CANTUS/2018/druck/salzburg_test_big.tex</File>
+                                    <File>Z:/CANTUS/2018/druck/seckau1/seckau1.tex</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>Z:\CANTUS\2018\druck\salzburg_test_big.tex</String>
+                                    <String>Z:\CANTUS\2018\druck\seckau1\seckau1.tex</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
