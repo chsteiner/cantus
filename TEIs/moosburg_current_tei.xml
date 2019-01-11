@@ -2,7 +2,7 @@
    <teiHeader xml:id="moosburg">
       <fileDesc>
          <titleStmt>
-            <title>Incipit breviarium secundum usum ecclesiae sancti Castuli Mosburgensis<pb n="2r" xml:id="MOS.002r"/>
+            <title><note type="supplied">Incipit breviarium secundum usum ecclesiae sancti Castuli Mosburgensis</note><pb n="2r" xml:id="MOS.002r"/>
             </title>
             <title type="short">Moosburg</title>
             <title type="citation">Der 'Liber ordinarius Moosburg'</title>
