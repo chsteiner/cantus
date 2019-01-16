@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
-   <teiHeader xml:id="emmeram">
+   <teiHeader xml:id="emmeram.emm2">
       <fileDesc>
          <titleStmt>
             <title>ORDO BREVIARII OFFICII DIVINI SECUNDUM CONSUETUDINEM MONASTERII SANCTI EMMERAMI RATISPONENSIS</title>
@@ -55,7 +55,7 @@
                   BY-NC-ND 3.0</licence>
             </availability>
             <date when="2018">2018</date>
-            <idno type="PID">o:cantus.emmeram</idno>
+            <idno type="PID">o:cantus.emmeram.emm2</idno>
          </publicationStmt>
          <seriesStmt>
             <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"> Cantus Network - semantisch
