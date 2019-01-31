@@ -1588,7 +1588,7 @@
           <ab ana="#head"><label xml:id="office.02122800.M.161" n="M">Ad matutinas</label></ab>
           <ab>
             <seg xml:id="incipit.02122800.M.954" ana="#INV" type="incipit">Regem regum</seg>.</ab>
-          <ab type="time:2"><label xml:id="nocturne.02122800.M.8" type="supplied">In nocturno</label>
+          <ab type="time:2"><label xml:id="nocturne.02122800.M.8"><note type="supplied">In nocturno</note></label>
             <seg xml:id="incipit.02122800.M.955" ana="#AN" type="incipit">Secus decursus</seg> cum reliquis. <seg xml:id="incipit.02122800.M.956" ana="#LS" type="incipit">Zelus quo tendat</seg> et historia <seg xml:id="incipit.02122800.M.957" ana="#RP" subtype="supplied" type="incipit">Sub altare dei</seg>. <seg xml:id="incipit.02122800.M.958" ana="#VV" subtype="supplied" type="incipit">Gloria patri</seg> ad <seg xml:id="incipit.02122800.M.959" ana="#PS" subtype="supplied" type="incipit">Venite</seg> et ad responsoria non canitur. Nonum responsorium reiteratur. <seg xml:id="incipit.02122800.M.960" ana="#TD" subtype="supplied" type="incipit">Te deum laudamus</seg> non dicitur, nisi dominica fuerit. Tunc enim <seg xml:id="incipit.02122800.M.961" ana="#VV" subtype="supplied" type="incipit">Gloria patri</seg> et alia omnia sollemniter dicuntur.</ab>
         </div>
         <div type="time:1">
@@ -1766,7 +1766,7 @@
           <ab ana="#head"><label xml:id="office.02010100.M.190" n="M">Ad matutinas</label></ab>
           <ab>
             <seg xml:id="incipit.02010100.M.1078" ana="#INV" type="incipit">Christus natus est</seg>.</ab>
-          <ab type="time:2"><label xml:id="nocturne.02010100.M.11" type="supplied">In primo nocturno</label>
+          <ab type="time:2"><label xml:id="nocturne.02010100.M.11"><note type="supplied">In primo nocturno</note></label>
             <seg xml:id="incipit.02010100.M.1079" ana="#AN" type="incipit">Dominus dixit</seg>. <seg xml:id="incipit.02010100.M.1080" ana="#PS" type="incipit">Quare fremuerunt</seg>. <seg xml:id="incipit.02010100.M.1081" ana="#AN" type="incipit">In sole</seg>. <seg xml:id="incipit.02010100.M.1082" ana="#PS" type="incipit">Caeli enarrant</seg>. <seg xml:id="incipit.02010100.M.1083" ana="#AN" type="incipit">Elevamini</seg>. <seg xml:id="incipit.02010100.M.1084" ana="#PS" type="incipit">Domini est terra</seg>. Versus ut in sancta nocte. <seg xml:id="incipit.02010100.M.1085" ana="#LS" type="incipit">Quamquam non dubitem</seg>. <seg xml:id="incipit.02010100.M.1086" ana="#RP" type="incipit">Descendit de caelis</seg>. <seg xml:id="incipit.02010100.M.1087" ana="#RP" type="incipit">O magnum mysterium</seg>. <seg xml:id="incipit.02010100.M.1088" ana="#RP" type="incipit">Sancta <add>et</add> immaculata</seg>.</ab>
           <ab type="time:2"><label xml:id="nocturne.02010100.M.12">In secundo nocturno</label>
             <seg xml:id="incipit.02010100.M.1089" ana="#AN" type="incipit">Speciosus</seg>. <seg xml:id="incipit.02010100.M.1090" ana="#PS" type="incipit">Eructavit</seg>. <seg xml:id="incipit.02010100.M.1091" ana="#AN" type="incipit">Rex omnis terrae</seg>. <seg xml:id="incipit.02010100.M.1092" ana="#PS" type="incipit">Omnes gentes</seg>. <seg xml:id="incipit.02010100.M.1093" ana="#AN" type="incipit">Veritas</seg>. <seg xml:id="incipit.02010100.M.1094" ana="#PS" type="incipit">Benedixisti</seg>. <seg xml:id="incipit.02010100.M.1095" ana="#RP" type="incipit">O regem caeli</seg>. <seg xml:id="incipit.02010100.M.1096" ana="#RP" type="incipit">Congratulamini</seg>. <seg xml:id="incipit.02010100.M.1097" ana="#RP" type="incipit">Continet in gremio</seg>.</ab>
@@ -2020,7 +2020,7 @@
           <ab ana="#head"><label xml:id="office.05010700.M.232" n="M">Ad matutinas</label></ab>
           <ab>
             <seg xml:id="incipit.05010700.M.1331" ana="#INV" type="incipit">Christus apparuit</seg> minus.</ab>
-          <ab type="time:2"><label xml:id="nocturne.05010700.M.21" type="supplied">In nocturno</label>
+          <ab type="time:2"><label xml:id="nocturne.05010700.M.21"><note type="supplied">In nocturno</note></label>
             <seg xml:id="incipit.05010700.M.1332" ana="#AN" type="incipit">Afferte domino</seg>. Ipsum psalmum. <seg xml:id="incipit.05010700.M.1333" ana="#AN" type="incipit">Fluminis</seg>. <seg xml:id="incipit.05010700.M.1334" ana="#PS" type="incipit">Deus noster refugium</seg>. <seg xml:id="incipit.05010700.M.1335" ana="#AN" type="incipit">Psallite domino</seg>. <seg xml:id="incipit.05010700.M.1336" ana="#PS" type="incipit">Omnes gentes</seg>. <seg xml:id="incipit.05010700.M.1337" ana="#VS" type="incipit">Reges Tharsis</seg>. Sermo de festo legitur. Primum <seg xml:id="incipit.05010700.M.1338" ana="#RP" type="incipit">Videntes stellam</seg>. Secundum <seg xml:id="incipit.05010700.M.1339" ana="#RP" type="incipit">Dies sanctificatus</seg>. Tertium <seg xml:id="incipit.05010700.M.1340" ana="#RP" type="incipit">Pastores prae claritate</seg>. <seg xml:id="incipit.05010700.M.1341" ana="#TD" subtype="supplied" type="incipit">Te deum laudamus</seg> usque ad octavam dicitur.</ab>
         </div>
         <div type="time:1"> 
@@ -4737,7 +4737,7 @@
           <ab ana="#head" type="supplied"><label xml:id="office.08073000.M.668" n="M">Ad matutinas</label></ab>
           <ab>
             <seg xml:id="incipit.08073000.M.2990" ana="#INV" type="incipit">Ascendens Christus</seg>.</ab>
-          <ab type="time:2"><label xml:id="nocturne.08073000.M.62" type="supplied">In nocturno</label>
+          <ab type="time:2"><label xml:id="nocturne.08073000.M.62"><note type="supplied">In nocturno</note></label>
             <seg xml:id="incipit.08073000.M.2991" ana="#AN" type="incipit">Exaltare domine</seg>. <seg xml:id="incipit.08073000.M.2992" ana="#PS" type="incipit">Domine in virtute</seg>. <seg xml:id="incipit.08073000.M.2993" ana="#AN" type="incipit">Exaltabo te</seg>. Ipsum psalmum. <seg xml:id="incipit.08073000.M.2994" ana="#AN" type="incipit">Ascendit deus</seg>. <seg xml:id="incipit.08073000.M.2995" ana="#PS" type="incipit">Omnes gentes</seg>. <seg xml:id="incipit.08073000.M.2996" ana="#VS" type="incipit">Exaltare domine</seg>. <seg xml:id="incipit.08073000.M.2997" ana="#RP" type="incipit">Non conturbetur</seg>. <seg xml:id="incipit.08073000.M.2998" ana="#RP" type="incipit">Ascendens Christus in altum</seg>. <seg xml:id="incipit.08073000.M.2999" ana="#RP" type="incipit">Ponis nubem</seg>.</ab>
         </div>
         <div type="time:1">
@@ -4762,7 +4762,7 @@
           <ab ana="#head" type="supplied"><label xml:id="office.08074000.M.672" n="M">Ad matutinas</label></ab>
           <ab>
             <seg xml:id="incipit.08074000.M.3005" ana="#INV" type="incipit">Ascendens Christus</seg>.</ab>
-          <ab type="time:2"><label xml:id="nocturne.08074000.M.63" type="supplied">In nocturno</label>
+          <ab type="time:2"><label xml:id="nocturne.08074000.M.63"><note type="supplied">In nocturno</note></label>
             <seg xml:id="incipit.08074000.M.3006" ana="#AN" type="incipit">Nimis exaltatus</seg>. <seg xml:id="incipit.08074000.M.3007" ana="#PS" type="incipit">Dominus regnavit exultet</seg>. <seg xml:id="incipit.08074000.M.3008" ana="#AN" type="incipit">Dominus in Sion</seg>. <seg xml:id="incipit.08074000.M.3009" ana="#PS" type="incipit">Dominus regnavit irascantur</seg>. <seg xml:id="incipit.08074000.M.3010" ana="#AN" type="incipit">Dominus in caelo</seg>. <seg xml:id="incipit.08074000.M.3011" ana="#PS" type="incipit">Benedic i</seg>. <seg xml:id="incipit.08074000.M.3012" ana="#VS" type="incipit">Ascendens Christus in altum</seg>. <seg xml:id="incipit.08074000.M.3013" ana="#RP" type="incipit">Tempus est</seg>. <seg xml:id="incipit.08074000.M.3014" ana="#RP" type="incipit">Non conturbetur</seg>. <seg xml:id="incipit.08074000.M.3015" ana="#RP" type="incipit">Ite in orbem</seg>.</ab>
         </div>
         <div type="time:1">
@@ -4790,7 +4790,7 @@
           <ab ana="#head" type="supplied"><label xml:id="office.08076000.M.676" n="M">Ad matutinas</label></ab>
           <ab>
             <seg xml:id="incipit.08076000.M.3030" ana="#INV" type="incipit">Ascendens Christus</seg>.</ab>
-          <ab type="time:2"><label xml:id="nocturne.08076000.M.64" type="supplied">In nocturno</label>
+          <ab type="time:2"><label xml:id="nocturne.08076000.M.64"><note type="supplied">In nocturno</note></label>
             <seg xml:id="incipit.08076000.M.3031" ana="#AN" type="incipit">Exaltare domine</seg>. <seg xml:id="incipit.08076000.M.3032" ana="#PS" type="incipit">Domine in virtute</seg>. <seg xml:id="incipit.08076000.M.3033" ana="#AN" type="incipit">Exaltabo te</seg>. <add type="marginal"><seg xml:id="incipit.08076000.M.3034" ana="#PS" type="incipit">Exaltabo te</seg></add>. <seg xml:id="incipit.08076000.M.3035" ana="#AN" type="incipit">Ascendit deus</seg>. <seg xml:id="incipit.08076000.M.3036" ana="#PS" type="incipit">Omnes gentes</seg>. <seg xml:id="incipit.08076000.M.3037" ana="#VS" type="incipit">Exaltare domine</seg>. <seg xml:id="incipit.08076000.M.3038" ana="#RP" type="incipit">Non conturbetur</seg>. <seg xml:id="incipit.08076000.M.3039" ana="#RP" type="incipit">Ascendens Christus in altum</seg>. <seg xml:id="incipit.08076000.M.3040" ana="#RP" type="incipit">Ponis in nubem</seg>.</ab>
         </div>
         <div type="time:1">
@@ -4815,7 +4815,7 @@
           <ab ana="#head" type="supplied"><label xml:id="office.08067000.M.680" n="M">Ad matutinas</label></ab>
           <ab>
             <seg xml:id="incipit.08067000.M.3047" ana="#INV" type="incipit">Ascendens Christus</seg>.</ab>
-          <ab type="time:2"><label xml:id="nocturne.08067000.M.65" type="supplied">In nocturno</label>
+          <ab type="time:2"><label xml:id="nocturne.08067000.M.65"><note type="supplied">In nocturno</note></label>
             <seg xml:id="incipit.08067000.M.3048" ana="#AN" type="incipit">Nimis exaltatus</seg>. <seg xml:id="incipit.08067000.M.3049" ana="#PS" type="incipit">Dominus regnavit exultet</seg>. <seg xml:id="incipit.08067000.M.3050" ana="#AN" type="incipit">Dominus in Sion</seg>. <seg xml:id="incipit.08067000.M.3051" ana="#PS" type="incipit">Dominus regnavit irascantur</seg>. <seg xml:id="incipit.08067000.M.3052" ana="#AN" type="incipit">Dominus in caelo</seg>. <seg xml:id="incipit.08067000.M.3053" ana="#PS" type="incipit">Benedic i</seg>. <seg xml:id="incipit.08067000.M.3054" ana="#VS" type="incipit">Ascendens Christus in altum</seg>. <pb n="45v" xml:id="BRI.045v"/><seg xml:id="incipit.08067000.M.3055" ana="#EV" type="incipit">Si diligitis me</seg>. <seg xml:id="incipit.08067000.M.3056" ana="#RP" type="incipit">Tempus est</seg>. <seg xml:id="incipit.08067000.M.3057" ana="#RP" type="incipit">Non conturbetur</seg>. <seg xml:id="incipit.08067000.M.3058" ana="#RP" type="incipit">Ite in orbem</seg>. <seg xml:id="incipit.08067000.M.3059" ana="#TD" subtype="supplied" type="incipit">Te deum laudamus</seg> non <del subtype="deciphered" type="rasur"><add>dicitur</add></del>.</ab>
         </div>
         <div type="time:1">
@@ -4956,7 +4956,7 @@
           <ab ana="#head" type="supplied"><label xml:id="office.08083000.M.703" n="M">Ad matutinas</label></ab>
           <ab>
             <seg xml:id="incipit.08083000.M.3247" ana="#INV" type="incipit">Alleluia. Spiritus domini</seg>.</ab>
-          <ab type="time:2"><label xml:id="nocturne.08083000.M.68" type="supplied">In nocturno</label>
+          <ab type="time:2"><label xml:id="nocturne.08083000.M.68"><note type="supplied">In nocturno</note></label>
             <seg xml:id="incipit.08083000.M.3248" ana="#AN" type="incipit">Factus est repente</seg> cum reliquis. <pb n="46v" xml:id="BRI.046v"/><seg xml:id="incipit.08083000.M.3249" ana="#EV" type="incipit">Amen amen dico vobis. Qui non intrat per ostium</seg>. <seg xml:id="incipit.08083000.M.3250" ana="#RP" type="incipit">Disciplinam et sapientiam</seg>. <seg xml:id="incipit.08083000.M.3251" ana="#RP" type="incipit">Spiritus sanctus</seg>. <seg xml:id="incipit.08083000.M.3252" ana="#RP" type="incipit">Loquebantur variis linguis apostoli</seg>. <seg xml:id="incipit.08083000.M.3253" ana="#TD" subtype="supplied" type="incipit">Te deum laudamus</seg>.</ab>
         </div>
         <div type="time:1">
@@ -4984,7 +4984,7 @@
           <ab ana="#head" type="supplied"><label xml:id="office.08084000.M.707" n="M">Ad matutinas</label></ab>
           <ab>
             <seg xml:id="incipit.08084000.M.3274" ana="#INV" type="incipit">Spiritus domini replevit</seg>.</ab>
-          <ab type="time:2"><label xml:id="nocturne.08084000.M.69" type="supplied">In nocturno</label>
+          <ab type="time:2"><label xml:id="nocturne.08084000.M.69"><note type="supplied">In nocturno</note></label>
             <seg xml:id="incipit.08084000.M.3275" ana="#AN" type="incipit">Factus est repente</seg> cum reliquis. <seg xml:id="incipit.08084000.M.3276" ana="#EV" type="incipit">Nemo potest venire ad</seg>. <seg xml:id="incipit.08084000.M.3277" ana="#RP" type="incipit">Disciplinam et sapientiam</seg>. <seg xml:id="incipit.08084000.M.3278" ana="#RP" type="incipit">Spiritus sanctus</seg>. <seg xml:id="incipit.08084000.M.3279" ana="#RP" type="incipit">Loquebantur variis</seg>. <seg xml:id="incipit.08084000.M.3280" ana="#TD" subtype="supplied" type="incipit">Te deum laudamus</seg> dicitur.</ab>
         </div>
         <div type="time:1">
@@ -5011,7 +5011,7 @@
           <ab ana="#head" type="supplied"><label xml:id="office.08085000.M.711" n="M">Ad matutinas</label></ab>
           <ab>
             <seg xml:id="incipit.08085000.M.3307" ana="#INV" type="incipit">Alleluia. Spiritus domini</seg>.</ab>
-          <ab type="time:2"><label xml:id="nocturne.08085000.M.70" type="supplied">In nocturno</label>
+          <ab type="time:2"><label xml:id="nocturne.08085000.M.70"><note type="supplied">In nocturno</note></label>
             <seg xml:id="incipit.08085000.M.3308" ana="#AN" type="incipit">Factus est repente</seg> cum reliquis. <seg xml:id="incipit.08085000.M.3309" ana="#EV" type="incipit">Convocatis Iesus</seg>. Responsoria sicut in sancta nocte. <seg xml:id="incipit.08085000.M.3310" ana="#TD" subtype="supplied" type="incipit">Te deum laudamus</seg>.</ab>
         </div>
         <div type="time:1">
@@ -5060,7 +5060,7 @@
           <ab ana="#head" type="supplied"><label xml:id="office.08077100.M.719" n="M">Ad matutinas</label></ab>
           <ab>
             <seg xml:id="incipit.08077100.M.3347" ana="#INV" type="incipit">Spiritus domini replevit</seg>.</ab>
-          <ab type="time:2"><label xml:id="nocturne.08077100.M.72" type="supplied">In nocturno</label>
+          <ab type="time:2"><label xml:id="nocturne.08077100.M.72"><note type="supplied">In nocturno</note></label>
             <seg xml:id="incipit.08077100.M.3348" ana="#AN" type="incipit">Factus est repente</seg> cum reliquis. <seg xml:id="incipit.08077100.M.3349" ana="#EV" type="incipit">Surgens Iesus de sinagoga</seg>. <seg xml:id="incipit.08077100.M.3350" ana="#RP" type="incipit">Disciplinam</seg>. <seg xml:id="incipit.08077100.M.3351" ana="#RP" type="incipit">Spiritus sanctus</seg>. <seg xml:id="incipit.08077100.M.3352" ana="#RP" type="incipit">Loquebantur variis linguis</seg>. <seg xml:id="incipit.08077100.M.3353" ana="#TD" subtype="supplied" type="incipit">Te deum laudamus</seg> dicitur.</ab>
         </div>
         <div type="time:1">
