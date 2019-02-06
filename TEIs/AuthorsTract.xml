@@ -169,4 +169,68 @@
             <series>PL 161, 1041-1344</series>
         </bibl>
     </item>
+    <item xml:id="AH">
+        <bibl>
+            <title>Analecta hymnica medii aevi Vol. I-LV</title>
+            <author/>
+            <editor>Guido Maria DREVES e.a.</editor>
+            <placeName>Leipzig</placeName>
+            <date>1886-1926</date>
+            <series/>
+        </bibl>
+    </item>
+    <item xml:id="CantusDBandIDX">
+        <bibl>
+            <title>CANTUS Database und CANTUS Index</title>
+            <author/>
+            <editor>Debora LACOSTE, Jan KOLÁČEK e.a.</editor>
+            <placeName>Waterloo</placeName>
+            <date>2011ff</date>
+            <series/>
+            <ref target="http://cantus.uwaterloo.ca/home/"/>
+            <ref target="http://cantusindex.org/"/>
+        </bibl>
+    </item>
+    <item xml:id="CorpOr">
+        <bibl>
+            <title>Corpus orationum Vol. I-XIII</title>
+            <author/>
+            <editor>Edmond Eugene MOELLER, Jean-Marie CLÉMENT und Bertrandus COPPETIERS 'T WALLANT</editor>
+            <placeName>Turnhout</placeName>
+            <date>1992ff</date>
+            <series>Corpus Christianorum, series Latina CLX B</series>
+        </bibl>
+    </item>
+    <item xml:id="CT">
+        <bibl>
+            <title>Corpus Troporum Vol. I-XII</title>
+            <author/>
+            <editor>Gunilla IVERSEN e.a</editor>
+            <placeName>Stockholm</placeName>
+            <date>1975-2014</date>
+            <series>Studia Latina Stockholmiensia, Acta Universitatis Stockholmiensis</series>
+        </bibl>
+    </item>
+    <item xml:id="PL">
+        <bibl>
+            <title>Patrologiae Cursus Completus. Series Latina, 217 Vol.</title>
+            <author/>
+            <editor>Jacques Paul MIGNE</editor>
+            <placeName>Paris</placeName>
+            <date>1844-1855</date>
+            <series/>
+            <ref target="http://mlat.uzh.ch/MLS/xanfang.php?corpus=2&amp;lang=0"/>
+        </bibl>
+    </item>
+    <item xml:id="HCM">
+        <bibl>
+            <title>Homiliae de Sanctis et de tempore (Homiliarium Karls des Großen)</title>
+            <author/>
+            <editor>Paulus DIACONUS</editor>
+            <placeName/>
+            <date/>
+            <series/>
+            <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
+        </bibl>
+    </item>
 </list>
