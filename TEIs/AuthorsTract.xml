@@ -1,4 +1,4 @@
-<list type="traktate" xmlns="http://www.tei-c.org/ns/1.0">
+<list type="traktate">
     <item xml:id="Durandus">
         <bibl>
             <title>Rationale Divinorum Officiorum</title>
@@ -23,9 +23,9 @@
         <bibl>
             <title>Micrologus de ecclesiasticis observationibus</title>
             <author>Bernold von St. Blasien</author>
-            <editor/>
-            <placeName/>
-            <date/>
+            <editor></editor>
+            <placeName></placeName>
+            <date></date>
             <series>PL 151, 973-1022</series>
         </bibl>
     </item>
@@ -42,7 +42,7 @@
     <item xml:id="LibQuare">
         <bibl>
             <title>Liber Quare</title>
-            <author/>
+            <author></author>
             <editor>Georg Polycarp GOETZ</editor>
             <placeName>Turnhout</placeName>
             <date>1983</date>
@@ -72,7 +72,7 @@
     <item xml:id="LibConv">
         <bibl>
             <title>Libellus de conversione Bogoariorum et Carantanorum</title>
-            <author/>
+            <author></author>
             <editor>Georg Heinrich PERTZ</editor>
             <placeName>Hannover</placeName>
             <date>1854</date>
@@ -122,7 +122,7 @@
     <item xml:id="ConcAgath">
         <bibl>
             <title>Concilium Agathense</title>
-            <author/>
+            <author></author>
             <editor>Charles MUNIER</editor>
             <placeName>Turnhout</placeName>
             <date>2008</date>
@@ -132,10 +132,10 @@
     <item xml:id="ConcGerund">
         <bibl>
             <title>Concilium Gerundense</title>
-            <author/>
-            <editor/>
-            <placeName/>
-            <date/>
+            <author></author>
+            <editor></editor>
+            <placeName></placeName>
+            <date></date>
             <series>PL 84,314-316</series>
         </bibl>
     </item>
@@ -144,7 +144,7 @@
             <title>Regula canonica</title>
             <author>Gregorius VII papa</author>
             <editor>Jean MORIN</editor>
-            <placeName/>
+            <placeName></placeName>
             <date>1901</date>
             <series>Revue bénédictine 18, 177-183</series>
         </bibl>
@@ -153,9 +153,9 @@
         <bibl>
             <title>Gemma animae</title>
             <author>Honorius Augustodunensis</author>
-            <editor/>
-            <placeName/>
-            <date/>
+            <editor></editor>
+            <placeName></placeName>
+            <date></date>
             <series>PL 172, 541-738</series>
         </bibl>
     </item>
@@ -163,39 +163,39 @@
         <bibl>
             <title>Panormia</title>
             <author>Ivo von Chartres</author>
-            <editor/>
-            <placeName/>
-            <date/>
+            <editor></editor>
+            <placeName></placeName>
+            <date></date>
             <series>PL 161, 1041-1344</series>
         </bibl>
     </item>
     <item xml:id="AH">
         <bibl>
             <title>Analecta hymnica medii aevi Vol. I-LV</title>
-            <author/>
+            <author></author>
             <editor>Guido Maria DREVES e.a.</editor>
             <placeName>Leipzig</placeName>
             <date>1886-1926</date>
-            <series/>
+            <series></series>
         </bibl>
     </item>
     <item xml:id="CantusDBandIDX">
         <bibl>
             <title>CANTUS Database und CANTUS Index</title>
-            <author/>
+            <author></author>
             <editor>Debora LACOSTE, Jan KOLÁČEK e.a.</editor>
             <placeName>Waterloo</placeName>
             <date>2011ff</date>
-            <series/>
-            <ref target="http://cantus.uwaterloo.ca/home/"/>
-            <ref target="http://cantusindex.org/"/>
+            <series></series>
+            <ref target="http://cantus.uwaterloo.ca/home/"></ref>
+            <ref target="http://cantusindex.org/"></ref>
         </bibl>
     </item>
     <item xml:id="CorpOr">
         <bibl>
             <title>Corpus orationum Vol. I-XIII</title>
-            <author/>
-            <editor>Edmond Eugene MOELLER, Jean-Marie CLÉMENT und Bertrandus COPPETIERS 'T WALLANT</editor>
+            <author></author>
+            <editor>Edmond Eugene MOELLER, Jean-Marie CLÉMENT und Bertrandus COPPETIERS &apos;T WALLANT</editor>
             <placeName>Turnhout</placeName>
             <date>1992ff</date>
             <series>Corpus Christianorum, series Latina CLX B</series>
@@ -204,7 +204,7 @@
     <item xml:id="CT">
         <bibl>
             <title>Corpus Troporum Vol. I-XII</title>
-            <author/>
+            <author></author>
             <editor>Gunilla IVERSEN e.a</editor>
             <placeName>Stockholm</placeName>
             <date>1975-2014</date>
@@ -214,23 +214,23 @@
     <item xml:id="PL">
         <bibl>
             <title>Patrologiae Cursus Completus. Series Latina, 217 Vol.</title>
-            <author/>
+            <author></author>
             <editor>Jacques Paul MIGNE</editor>
             <placeName>Paris</placeName>
             <date>1844-1855</date>
-            <series/>
-            <ref target="http://mlat.uzh.ch/MLS/xanfang.php?corpus=2&amp;lang=0"/>
+            <series></series>
+            <ref target="http://mlat.uzh.ch/MLS/xanfang.php?corpus=2&amp;lang=0"></ref>
         </bibl>
     </item>
     <item xml:id="HCM">
         <bibl>
             <title>Homiliae de Sanctis et de tempore (Homiliarium Karls des Großen)</title>
-            <author/>
+            <author></author>
             <editor>Paulus DIACONUS</editor>
-            <placeName/>
-            <date/>
-            <series/>
-            <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
+            <placeName></placeName>
+            <date></date>
+            <series></series>
+            <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="></ref>
         </bibl>
     </item>
 </list>
