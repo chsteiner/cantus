@@ -1,4 +1,4 @@
-<list type="traktate">
+<list type="traktate" xmlns="http://www.tei-c.org/ns/1.0">
     <item xml:id="Durandus">
         <bibl>
             <title>Rationale Divinorum Officiorum</title>
