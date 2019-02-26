@@ -106,7 +106,7 @@
                <item>https://iiifp-mufo.oeaw.ac.at/mahss/D-Mu2CodMs149/manifest</item>
                <item>https://iiifp-mufo.oeaw.ac.at/mahss/D-Mu2CodMs156/manifest</item>
             </list>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="https://glossa.uni-graz.at/archive/objects/o:cantus.traktate/datastreams/TRAKTATE/content"/>
+            <include xmlns="http://www.w3.org/2001/XInclude" href="https://glossa.uni-graz.at/archive/objects/context:cantus/datastreams/LITERATURE/content"/>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

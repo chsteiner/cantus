@@ -128,7 +128,7 @@
                <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-SPL49-3/manifest"/>
                <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-WIL148/manifest"/>
             </list>
-            <include xmlns="http://www.w3.org/2001/XInclude" href="https://glossa.uni-graz.at/archive/objects/o:cantus.traktate/datastreams/TRAKTATE/content"/>
+            <include xmlns="http://www.w3.org/2001/XInclude" href="https://glossa.uni-graz.at/archive/objects/context:cantus/datastreams/LITERATURE/content"/>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
