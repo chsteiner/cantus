@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title><note type="supplied">INCIPIT LIBER ORDINARIUS ECCLESIAE SALISBURGENSIS</note></title>
-            <title type="short">Salzburg</title>
+            <title type="short">Salzburg (VO)</title>
             <title type="citation">Der 'Liber ordinarius Salisburgensis'</title>
             <respStmt>
                <resp>editor</resp>
@@ -119,19 +119,6 @@
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <altIdentifier>
-                     <placeName>Domstift Salzburg<date from="1198" to="1198">um 1198</date>
-                     </placeName>
-                     <idno n="Cod. M II 6" rend="SAL">Salzburg, Universitätsbibliothek, Cod. M II
-                        6</idno>
-                  </altIdentifier>
-                  <altIdentifier>
-                     <placeName>Chorherrenstift Ranshofen<date from="1200" to="1210">Anfang 13.
-                           Jahrhundert</date>
-                     </placeName>
-                     <idno n="Clm 12635" rend="RA"> München, Bayerische Staatsbibliothek, Clm 12635
-                     </idno>
-                  </altIdentifier>
                   <altIdentifier>
                      <placeName>Chorherrenstifte Suben und Vorau<date from="1200" to="1210">Anfang
                            13. Jahrhundert</date>
