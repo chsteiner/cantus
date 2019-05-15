@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>List of Feasts</title>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table cols="2">
+                <head>Feasts</head>
+                <row role="label">
+                    <cell role="label">Feast</cell>
+                    <cell role="label">Cantus ID</cell>
+                    <cell role="label">Commune</cell>
+                </row>
+                <row n="2">
+                    <cell>ADDENDA VORAVIENSIS</cell>
+                    <cell ana="CDB">add99999</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="3">
+                    <cell>DE VISITATIONE SANCTAE MARIAE</cell>
+                    <cell ana="CDB">14070200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="4">
+                    <cell>DE CONCEPTIONE BEATAE VIRGINIS</cell>
+                    <cell ana="CDB">14120800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="5">
+                    <cell>DE SANCTO THOMA APOSTOLO</cell>
+                    <cell ana="CDB">14122100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="6">
+                    <cell>DE SANCTA DOROTHEA</cell>
+                    <cell ana="CDB">14020610</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="7">
+                    <cell>DE SANCTA IULIANA</cell>
+                    <cell ana="CDB">14021600</cell>
+                    <cell ana="Commune">cs_normal666</cell>
+                </row>
+                <row n="8">
+                    <cell>DE CONVERSIONE MARIAE MAGDALENAE</cell>
+                    <cell ana="CDB">14030200 </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="9">
+                    <cell>DE ARMIS DOMINI</cell>
+                    <cell ana="CDB">08026010</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="10">
+                    <cell>DE SANCTO SIGISMUNDO REGE ET MARTYRE</cell>
+                    <cell ana="CDB">14050140</cell>
+                    <cell ana="Commune">cs_normal666</cell>
+                </row>
+                <row n="11">
+                    <cell>DE SANCTO ERASMO</cell>
+                    <cell ana="CDB">14060300</cell>
+                    <cell ana="Commune">cs_normal666</cell>
+                </row>
+                <row n="12">
+                    <cell>DE SANCTO VITO</cell>
+                    <cell ana="CDB">14061510</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="13">
+                    <cell>DE SANCTO ACHACIO</cell>
+                    <cell ana="CDB">14062220</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="14">
+                    <cell>DE TRANSLATIONE SANCTI THOMAE APOSTOLI</cell>
+                    <cell ana="CDB">14070300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="15">
+                    <cell>IN OCTAVA TRANSLATIONIS THOMAE APOSTOLI</cell>
+                    <cell ana="CDB">14071020</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="16">
+                    <cell>DE INVENTIONE SANCTI STEPHANI PROTOMARTYRIS</cell>
+                    <cell ana="CDB">14080300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="17">
+                    <cell>DE SANCTO EUSTACHIO</cell>
+                    <cell ana="CDB">14110200</cell>
+                    <cell ana="Commune">cs_normal666</cell>
+                </row>
+                <row n="18">
+                    <cell>INFRA OCTAVAM OMNIUM SANCTORUM</cell>
+                    <cell ana="CDB">14110108</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="19">
+                    <cell>COMMENTARIUS</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="20">
+                    <cell>ITEM IN OCTAVA OMNIUM SANCTORUM</cell>
+                    <cell ana="CDB">14110810</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="21">
+                    <cell>DE SANCTA BARBARA</cell>
+                    <cell ana="CDB">14120400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="22">
+                    <cell>DE COMMEMORATIONE BEATAE VIRGINIS IN ADVENTU DOMINI</cell>
+                    <cell ana="CDB">15008010</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="23">
+                    <cell>DE COMMEMORATIONE BEATAE VIRGINIS INFRA NATIVITATEM ET PURIFICATIONEM</cell>
+                    <cell ana="CDB">15008030</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="24">
+                    <cell>DE COMMEMORATIONE BEATAE VIRGINIS MARIAE A PURIFICATIONE USQUE AD QUADRAGESIMAM ET A FESTO SANCTAE TRINITATIS USQUE AD ADVENTUM DOMINI</cell>
+                    <cell ana="CDB">15008000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="25">
+                    <cell>DE COMMEMORATIONE BEATAE VIRGINIS MARIAE TEMPORE PASCHALI</cell>
+                    <cell ana="CDB">15008080</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>
