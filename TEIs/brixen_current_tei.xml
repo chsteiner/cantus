@@ -531,7 +531,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.3"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.3" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Auctor gradualis et antiphonarii per quattuor adventus dominicas recolit dominicum adventum per quattuor librorum ordines praenuntiatum, id est per legem, per prophetas, per psalmos, per evangelia, in quibus conceptio domini narratur, vel per hoc monemur ut corpus nostrum ex quattuor elementis constat ad suscipiendum deum purgemus, quia in sordibus non vult habitare rex venturus. Quod ab adventu domini usque in nativitatem domini <seg xml:id="incipit.nocdb.comment.133" ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis deo</seg> non cantatur nisi in festis, <seg type="supplied">ut</seg> ad memoriam nobis reducitur, quod idem canticum in eadem nocte primum est ab angelis celebratum. Dalmaticae et subtilia in adventu domini, nisi in festis sanctorum omittuntur, quia quod raro pretiosor est cum fit, et ideo quando cantus vel aliqua sacri ordinis sollemnitas ad tempus dimittitur, avidius in animis devotorum assumitur.</ab>
         </div>
@@ -1152,7 +1152,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.38"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.38" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Si autem superfuerint adhuc plures dies vel integra ebdomada ad nativitatem <pb n="31r" xml:id="BRI.031r"/>domini cantentur invitatoria, responsoria, laudes sicut in priori ebdomada qualibet feria. Lectiones legantur de omeliis evangeliorum <seg xml:id="incipit.nocdb.comment.571" ana="#EV" subtype="supplied" type="incipit">Exurgens Maria</seg>, <seg type="supplied">et</seg>
             <seg xml:id="incipit.nocdb.comment.572" ana="#EV" subtype="supplied" type="incipit">Anno quinto decimo</seg>, quae superfuerunt in priori ebdoma<seg type="supplied">da</seg> scilicet <seg xml:id="incipit.nocdb.comment.573" ana="#LH" subtype="supplied" type="incipit">Magnificat anima mea dominum</seg> et <seg xml:id="incipit.nocdb.comment.574" ana="#LH" subtype="supplied" type="incipit">Facite dignus fructus paenitentiae</seg>. Ad Benedictus eisdem diebus <seg xml:id="incipit.nocdb.comment.575" ana="#AB" type="incipit"><phr type="neume">Dicit</phr> dominus</seg> cum aliis.</ab>
@@ -1563,7 +1563,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.50"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.50" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Si autem dominica infra octavam in praemissis tribus diebus advenerit:</ab>
         </div>
@@ -1761,7 +1761,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.56"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.56" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Si vigilia epiphaniae in dominicam evenerit</ab>
         </div>
@@ -1908,7 +1908,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.61"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.61" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>His ita finitis, si superfuerint plures dies a principio, sicut dictum est, historia cum antiphona reincipiatur.</ab>
           <ab>Si epiphania domini ante dominicam evenerit: feria proxima <seg xml:id="incipit.nocdb.comment.1361" ana="#EV" type="incipit">Cum factus esset</seg> ad matutinas legitur.</ab>
@@ -1974,7 +1974,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.63"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.63" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Si dominica infra octavam epiphaniae evenerit, in eam differatur et usque in finem illius ebdomadae sicut praedictum est cantetur, si opus fuerit eo anno. Sin autem disponatur ut tunc opus erit et his diebus, qui erunt ante dominicam, cantetur officium <seg xml:id="incipit.nocdb.comment.1393" ana="#IN" subtype="supplied" type="incipit">Ecce advenit</seg>. Si vero dominica non evenerit infra octavam, cantetur officium <seg xml:id="incipit.nocdb.comment.1394" ana="#IN" subtype="supplied" type="incipit">In excelso throno</seg>, et <seg xml:id="incipit.nocdb.comment.1395" ana="#IN" subtype="supplied" type="incipit">Ecce advenit</seg> postponatur.</ab>
         </div>
@@ -2028,7 +2028,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.66"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.66" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Deinceps redimus ad cottidianum cantum et qualem habuimus ante adventum <choice>
               <sic>silicet</sic>
@@ -2092,7 +2092,7 @@
         </div>
       </div>
       <div>     
-   <head xml:id="feast.nocdb.68"><note type="supplied">COMMENTARIUS</note></head>
+   <head xml:id="feast.nocdb.68" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Feria secunda et in sequentibus feriis per ebdomadam invitatoria, versus, antiphonae, responsoria, ad laudes antiphonae, de feria sicut in antiphonario habentur, canantur. Capitula ferialia et orationes de dominica dicantur.</ab>
         </div>
@@ -2177,7 +2177,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.74"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.74" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Si haec festivitas sanctorum evenerit <del type="rasur"/> ipsam septuagesimam venerit, tunc</ab>
         </div>
@@ -2242,7 +2242,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.76"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.76" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab><seg type="supplied">I</seg> nfra octavam sanctae Agnetis ad vesperas et ad matutinas antiphona et oratio dicantur.</ab>
         </div>
@@ -2456,7 +2456,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.85"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.85" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>       
    <ab>Haec omnia secundum ordinem praedictum cantentur sive purificatio infra vel extra septuagesimam eveniat. Si vero purificatio sanctae Mariae in dominica septuagesimae evenerit, omnia de festo agantur et post orationem de festo in suffragio <seg xml:id="incipit.nocdb.comment.1730" ana="#AC" type="incipit">Plantaverat</seg> et <seg xml:id="incipit.nocdb.comment.1731" ana="#ORC" rend="#CLC" type="incipit">Preces populi tui</seg>. Cetera ut supra.</ab>
         </div>
@@ -2650,7 +2650,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.94"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.94" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Dedicationes vero ecclesiarum agimus sicut extra septuagesimam praeter <seg xml:id="incipit.nocdb.comment.1880" ana="#VAR" subtype="supplied" type="incipit">Alleluia</seg> et sequentiam. <seg xml:id="function.Ministri.nocdb.comment.32" ana="#function">Ministri</seg> etiam vestibus sollemnibus induantur.</ab>
         </div>
@@ -2776,7 +2776,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.103"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.103" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Septuagesima ideo vocata est quia ab ea dominica qua canitur <seg xml:id="incipit.nocdb.comment.1967" ana="#IN" subtype="supplied" type="incipit">Circumdederunt me</seg> usque in sabbatum post resurrectionem proximum, in quo baptizati vestes deponunt, numerantur dies septuaginta. Hic numerus ideo in ecclesia est memorabilis nobis, quia per tot annos in <seg xml:id="place.Babylon.nocdb.comment.24" ana="#place">Babylon</seg> fuerunt captivi filii <seg xml:id="place.Israel.nocdb.comment.25" ana="#place">Israel</seg> patres nostri. Sed quoniam ut ait apostolus: <seg xml:id="incipit.nocdb.comment.1968" ana="#CIT" subtype="supplied" type="incipit">Haec omnia in figura contingebant illis scripta sunt autem ad correptionem nostram, in quos fines saeculorum devenerunt</seg>, hoc temporis spatio significatur omne praesentis vitae tempus, quo peregrinamur a caelesti <seg xml:id="place.Hierusalem.nocdb.comment.26" ana="#place">Hierusalem</seg>, quae est mater nostra. Depositio vestium significat id quod etiam apostolus explanat dicens quomodo <seg xml:id="incipit.nocdb.comment.1969" ana="#CIT" subtype="supplied" type="incipit">oportet hoc corpus corruptibile induere incorruptionem et mortale hoc induere immortalitatem</seg>, quod complebimur in secunda resurrectione. Ideo etiam in eodem sabbato duo <seg xml:id="incipit.nocdb.comment.1970" ana="#VAR" subtype="supplied" type="incipit">Alleluia</seg> canuntur, quia geminanda laetitia corporis et animae sic praefiguratur: prior quippe resurrectio, quae per fidem fit in baptismate, habet aliquid tribulationis in variis huius mundi defectibus, ideo etiam in vigilia paschae post alleluia sequitur tractus. Cum vero venerit quod perfectum, tunc evacuabitur quod ex parte est. Tunc enim sancti cum corporibus resurgentes exultatione vera exultaverunt. Sicut autem filii <seg xml:id="place.Israel.nocdb.comment.27" ana="#place">Israel</seg>
             <pb n="38v" xml:id="BRI.038v"/>in terra aliena suspenderunt organa sua in salicibus, ita et nos vocem exultationis, id est <seg xml:id="incipit.nocdb.comment.1971" ana="#VAR" subtype="supplied" type="incipit">Alleluia</seg> in tempore afflictionis nostrae, quod de paenitentia procedit in amaritudine spontanea, oblivisci debemus. Salicis enim flos, ut physici perhibent, degenerat in araneas et omnis gloria carnis solvitur velut in tineas. Quia igitur primi hominis lapsus et populi dei captivitas, seu captivitas cuiuslibet hominis post baptismum lapsi, sed paenitentiam agentis typus in septuagesima agitur, ideo usus dalmaticarum et subtilium et reliqui ornatus et <seg xml:id="incipit.nocdb.comment.1972" ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis</seg>, <seg xml:id="incipit.nocdb.comment.1973" ana="#VAR" subtype="supplied" type="incipit">Alleluia</seg>, sequentiae et <seg xml:id="incipit.nocdb.comment.1974" ana="#IM" subtype="supplied" type="incipit">Ite missa est</seg> omittuntur. Ubi autem septuagesima eveniat haec docet regula: a XVII kalendas februarii usque ad XVI kalendas martii ubicumque decima luna occurrerit in proxima dominica post illam septuagesima eveniet.</ab>
@@ -2844,7 +2844,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.105"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.105" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Sexagesima ideo vocata est quia ab ea dominica qua cantatur <seg xml:id="incipit.nocdb.comment.2014" ana="#IN" subtype="supplied" type="incipit">Exurge quare</seg> usque ad quartam paschalis ebdomadae feriam, qua canitur <seg xml:id="incipit.nocdb.comment.2015" ana="#IN" subtype="supplied" type="incipit">Venite benedicti</seg>, dies sexaginta computantur. In hac autem feria secundum consuetudinem primitivae ecclesiae baptizati vocabantur in monasterium principale, ut plenitudinem et confirmationem christianitatis ab <seg xml:id="function.episcopis.nocdb.comment.33" ana="#function">episcopis</seg> acciperent, si quid neglectum esset a simplicioribus<seg xml:id="function.presbyteris.nocdb.comment.34" ana="#function">presbyteris</seg>. Significat autem hoc tempus vocationis dominicae laetitiam, quae his qui signum dei habent in frontibus suis et veram fidem bonis actibus confirmaverunt, dictura est in novissimo die <seg xml:id="incipit.nocdb.comment.2016" ana="#CIT" subtype="supplied" type="incipit">Venite benedicti</seg>.</ab>
         </div>
@@ -2910,7 +2910,7 @@
     </div>
       </div>     
  <div>
-        <head xml:id="feast.nocdb.107"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.107" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Quinquagesima ideo vocata est quia ab ea dominica qua canitur <seg xml:id="incipit.nocdb.comment.2052" ana="#IN" subtype="supplied" type="incipit">Esto mihi</seg> usque ad resurrectionem quinquaginta dies sunt, ita tamen ut ipsa dominica sancta quinquagesimus sit dies. Qui dies praefiguratus est in lege anno quinquagesimo, qui vocatur iubileus, id est remissionis, quia tunc omnes servi et captivi libertate donabantur et agrorum fructus peregrinis et advenis dabantur. Hoc mystice completum est in resurrectione domini. Nam cum omnes captivi a diabolo tenerentur, resurgens dominus victo mundi principe, et fideles suos fecit liberos et hos, qui peregrini a caelesti regno erant, bonorum operum fructu mancipavit. Significant vero hi quinquaginta dies quinque mundi aetates, quae praecesserunt adventum domini, in quibus tam iusti quam iniusti descenderant ad inferni tenebras. Quod etiam <choice>
               <sic>psalmisti</sic>
@@ -3086,13 +3086,13 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.115"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.115" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Praescripti quattuor dies post tempus <seg xml:id="person.Gregorii.nocdb.comment.10" ana="#person">Gregorii</seg> papae a successoribus suis pro sex diebus dominicis sunt assumpti ad explendam quadragesimam cum parasceve et sabbato sancto paschae.</ab>
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.116"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.116" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Quadragesima ideo dicta est quia canitur <seg xml:id="incipit.nocdb.comment.2137" ana="#IN" subtype="supplied" type="incipit">Invocavit me</seg>. Quadraginta dies usque ad cenam domini numerantur, quando temporalem cenam magister cum discipulis sumpsit eisque humilitatis exemplum lavatione pedum ostendit. Hoc tempus abstinentiae quae fit pro peccatis dedicatum est per <seg xml:id="person.Moysen.nocdb.comment.11" ana="#person">Moysen</seg>, per <seg xml:id="person.Heliam.nocdb.comment.12" ana="#person">Heliam</seg>, per ipsum quoque dominum, <pb n="40r" xml:id="BRI.040r"/>qui licet non peccaverit, medicinam tamen pro peccatis ostendit. Praefiguratum est enim hoc tempus illis quadraginta annis per quos in deserto populus <seg xml:id="place.Israel.nocdb.comment.35" ana="#place">Israel</seg> commoratus est post esum agni et transitum <seg xml:id="place.marisRubri.nocdb.comment.36" ana="#place">maris Rubri</seg> erraverunt in solitudine in inaquoso et licet obruti essent <seg xml:id="place.Aegypti.nocdb.comment.37" ana="#place">Aegypti</seg>, diversis tamen hostibus et serpentibus memorantur afflicti. Nos ergo per ipsos praesignati, si ad vitam contemplativam tendimus quasi ad terram repromissionis, non propter hostes illos qui in baptismate obruti sunt securi sumus, sed astutias et deceptiones <seg xml:id="person.Balac.nocdb.comment.13" ana="#person">Balac</seg> regis per abstinentiam caveamus.</ab>
           <ab>Notandum autem est quod si festum sancti Matthiae vel sancti Gregorii in isto die vel in aliquo alio quadragesimae die dominico usque ad palmas evenerit, in suffragiis ad vesperas et ad matutinas una antiphona et collecta tantum dicitur et proxima feria secunda festum per totum agitur, et in suffragio de paenitentia nihil canitur. Vacare etiam in festis ita transpositis non solemus.</ab>
@@ -3252,7 +3252,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.120"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.120" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>In hac ebdomada ieiunium quattuor temporum celebratur quod celebrandum esse <seg xml:id="person.LeoMagnus.nocdb.comment.14" ana="#person">Leo Magnus</seg>, <seg xml:id="person.Gelasius.nocdb.comment.15" ana="#person">Gelasius</seg>, <seg xml:id="person.Gregoriusprimus.nocdb.comment.16" ana="#person">Gregorius primus</seg>, secundus et septimus constituisse leguntur.</ab>
         </div>
@@ -3371,7 +3371,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.125"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.125" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Nota quod hymnus trium puerorum <seg xml:id="incipit.nocdb.comment.2300" ana="#HY" subtype="supplied" type="incipit">Benedictus es domine</seg> sicut ordo iubet a <seg xml:id="function.tribuspueris.nocdb.comment.43" ana="#function">tribus pueris</seg>, ubi fieri potest, debet cantari et interim nemo in ecclesia sedeat, quia pueri in camino ambulantes cantabant. In libris sacramentorum in hoc officio oratio super populum non habetur, quia officium ut praecepit ordo in nocte peragitur.</ab>
         </div>
@@ -4304,7 +4304,7 @@
         </div>
       </div>      
 <div>
-        <head xml:id="feast.nocdb.158"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.158" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>In cena domini finis est quadragesimae, initium paschalis observantiae. Veteris legis conclusio, novi testamenti inchoatio. Hac nocte nec <seg xml:id="incipit.nocdb.comment.2704" ana="#VAR" subtype="supplied" type="incipit">Domine labia mea aperies</seg>, nec <seg xml:id="incipit.nocdb.comment.2705" ana="#VAR" subtype="supplied" type="incipit">Deus in adiutorium meum</seg> dicitur, nec aliqua quae ad officium pertinent <seg xml:id="function.sacerdotis.nocdb.comment.65" ana="#function">sacerdotis</seg> fiunt, quia pastor noster <seg xml:id="person.Christus.nocdb.comment.19" ana="#person">Christus</seg> recessit et arietes gregis, id est <seg xml:id="function.apostoli.nocdb.comment.66" ana="#function">apostoli</seg>, dispersi sunt. <seg xml:id="incipit.nocdb.comment.2706" ana="#PS" subtype="supplied" type="incipit">Venite exultemus</seg> non dicitur propter malum conventum <seg xml:id="person.Iudaeorum.nocdb.comment.20" ana="#person">Iudaeorum</seg> in nece domini. In fine etiam psalmorum, nec in responsoriis, nec in ullo loco <seg xml:id="incipit.nocdb.comment.2707" ana="#VV" subtype="supplied" type="incipit">Gloria patri</seg> dicitur, nec in antiphonis, nec in versibus finis more solito trahitur.</ab>
         </div>
@@ -4678,7 +4678,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.174"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.174" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>In vigilia Pentecostes hora tertia ornetur <seg xml:id="place.ecclesia.nocdb.comment.61" ana="#place">ecclesia</seg> ut in pascha. Finitis de ascensione cursibus scilicet tertia, sexta, nona, conveniant ad missarum sollemnia, quia in nona hora fieri debet baptisma. Nullus ante baptismum missam de die celebret. Nam orationes ante baptismum ad missam <del type="rasur"/> possunt congruere.</ab>
         </div>
@@ -5032,7 +5032,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.186"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.nocdb.186" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Infra octavam sancti Ioannis baptistae ad matutinas et ad vesperas una antiphona et collecta cottidie in suffragiis dicuntur.</ab>
         </div>
