@@ -83,7 +83,242 @@
         <list type="secondary_sources">
           <item/>
         </list>
-        <include xmlns="http://www.w3.org/2001/XInclude" href="https://glossa.uni-graz.at/archive/objects/context:cantus/datastreams/LITERATURE/content"/>
+        <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+    <item xml:id="Durandus">
+        <bibl>
+            <title>Rationale Divinorum Officiorum</title>
+            <author>Guillelmus Durandus</author>
+            <editor>Anselme DAVRIL - Timothy M. THIBODEAU</editor>
+            <placeName>Turnout</placeName>
+            <date>195-2000</date>
+            <series>CChr.CM 140,140A-B</series>
+        </bibl>
+    </item>
+    <item xml:id="Beleth">
+        <bibl>
+            <title>Summa de ecclesiasticis officiis</title>
+            <author>Iohannes Beleth</author>
+            <editor>Heribertus DOUTEIL</editor>
+            <placeName>Turnout</placeName>
+            <date>1976</date>
+            <series>CChr.CM 41-41A</series>
+        </bibl>
+    </item>
+    <item xml:id="Bernold">
+        <bibl>
+            <title>Micrologus de ecclesiasticis observationibus</title>
+            <author>Bernold von St. Blasien</author>
+            <editor/>
+            <placeName/>
+            <date/>
+            <series>PL 151, 973-1022</series>
+        </bibl>
+    </item>
+    <item xml:id="ChroniconVenetum">
+        <bibl>
+            <title>Chronicon Venetum</title>
+            <author>Ioannes Diaconus Venetus</author>
+            <editor>PERTZ</editor>
+            <placeName>Hannover</placeName>
+            <date>1846</date>
+            <series>MGH.SS VII, 4-38</series>
+        </bibl>
+    </item>
+    <item xml:id="LibQuare">
+        <bibl>
+            <title>Liber Quare</title>
+            <author/>
+            <editor>Georg Polycarp GOETZ</editor>
+            <placeName>Turnhout</placeName>
+            <date>1983</date>
+            <series>CChr.CM 60</series>
+        </bibl>
+    </item>
+    <item xml:id="Gregorius">
+        <bibl>
+            <title>Registrum Epistolarum</title>
+            <author>Gregorius I papa</author>
+            <editor>Paul EWAN - Ludo M. HARTMANN</editor>
+            <placeName>Berlin</placeName>
+            <date>1891-99</date>
+            <series>MGH.Ep I-II</series>
+        </bibl>
+    </item>
+    <item xml:id="Isidorus">
+        <bibl>
+            <title>Sententiarum libri tres</title>
+            <author>Isidorus von Sevilla</author>
+            <editor>Pierre CAZIER</editor>
+            <placeName>Turnhout</placeName>
+            <date>1998</date>
+            <series>CCHr.SL 111</series>
+        </bibl>
+    </item>
+    <item xml:id="LibConv">
+        <bibl>
+            <title>Libellus de conversione Bogoariorum et Carantanorum</title>
+            <author/>
+            <editor>Georg Heinrich PERTZ</editor>
+            <placeName>Hannover</placeName>
+            <date>1854</date>
+            <series>MGH.SS XI</series>
+        </bibl>
+    </item>
+    <item xml:id="Rupert">
+        <bibl>
+            <title>Liber de divinis officiis</title>
+            <author>Rupert von Deutz</author>
+            <editor>Rhaban HAACKE</editor>
+            <placeName>Turnhout</placeName>
+            <date>1967</date>
+            <series>CChr.CM 7</series>
+        </bibl>
+    </item>
+    <item xml:id="Amalarius">
+        <bibl>
+            <title>De ecclesiasticis officiis</title>
+            <author>Amalarius von Metz</author>
+            <editor>Jean Michel HANNSENS</editor>
+            <placeName>Città del Vaticano</placeName>
+            <date>1948-50</date>
+            <series>Studi e Testi 138-140</series>
+        </bibl>
+    </item>
+    <item xml:id="Beda">
+        <bibl>
+            <title>Homiliarum libri tres</title>
+            <author>Beda</author>
+            <editor>David HURST - John FRAIPONT</editor>
+            <placeName>Turnhout</placeName>
+            <date>1955</date>
+            <series>CChr.SL 122</series>
+        </bibl>
+    </item>
+    <item xml:id="Sichard">
+        <bibl>
+            <title>Mitrale sive Summa de officiis</title>
+            <author>Sichard von Cremona</author>
+            <editor>Lorenz WEINRICH</editor>
+            <placeName>Turnhout</placeName>
+            <date>2008</date>
+            <series>CChr.CM 228</series>
+        </bibl>
+    </item>
+    <item xml:id="ConcAgath">
+        <bibl>
+            <title>Concilium Agathense</title>
+            <author/>
+            <editor>Charles MUNIER</editor>
+            <placeName>Turnhout</placeName>
+            <date>2008</date>
+            <series>CChr.SL 228 (=Concilia Galliae 314-506)</series>
+        </bibl>
+    </item>
+    <item xml:id="ConcGerund">
+        <bibl>
+            <title>Concilium Gerundense</title>
+            <author/>
+            <editor/>
+            <placeName/>
+            <date/>
+            <series>PL 84,314-316</series>
+        </bibl>
+    </item>
+    <item xml:id="GregoriusVII">
+        <bibl>
+            <title>Regula canonica</title>
+            <author>Gregorius VII papa</author>
+            <editor>Jean MORIN</editor>
+            <placeName/>
+            <date>1901</date>
+            <series>Revue bénédictine 18, 177-183</series>
+        </bibl>
+    </item>
+    <item xml:id="Honorius">
+        <bibl>
+            <title>Gemma animae</title>
+            <author>Honorius Augustodunensis</author>
+            <editor/>
+            <placeName/>
+            <date/>
+            <series>PL 172, 541-738</series>
+        </bibl>
+    </item>
+    <item xml:id="Ivo">
+        <bibl>
+            <title>Panormia</title>
+            <author>Ivo von Chartres</author>
+            <editor/>
+            <placeName/>
+            <date/>
+            <series>PL 161, 1041-1344</series>
+        </bibl>
+    </item>
+    <item xml:id="AH">
+        <bibl>
+            <title>Analecta hymnica medii aevi Vol. I-LV</title>
+            <author/>
+            <editor>Guido Maria DREVES e.a.</editor>
+            <placeName>Leipzig</placeName>
+            <date>1886-1926</date>
+            <series/>
+        </bibl>
+    </item>
+    <item xml:id="CantusDBandIDX">
+        <bibl>
+            <title>CANTUS Database und CANTUS Index</title>
+            <author/>
+            <editor>Debora LACOSTE, Jan KOLÁČEK e.a.</editor>
+            <placeName>Waterloo</placeName>
+            <date>2011ff</date>
+            <series/>
+            <ref target="http://cantus.uwaterloo.ca/home/"/>
+            <ref target="http://cantusindex.org/"/>
+        </bibl>
+    </item>
+    <item xml:id="CorpOr">
+        <bibl>
+            <title>Corpus orationum Vol. I-XIII</title>
+            <author/>
+            <editor>Edmond Eugene MOELLER, Jean-Marie CLÉMENT und Bertrandus COPPETIERS'T WALLANT</editor>
+            <placeName>Turnhout</placeName>
+            <date>1992ff</date>
+            <series>Corpus Christianorum, series Latina CLX B</series>
+        </bibl>
+    </item>
+    <item xml:id="CT">
+        <bibl>
+            <title>Corpus Troporum Vol. I-XII</title>
+            <author/>
+            <editor>Gunilla IVERSEN e.a</editor>
+            <placeName>Stockholm</placeName>
+            <date>1975-2014</date>
+            <series>Studia Latina Stockholmiensia, Acta Universitatis Stockholmiensis</series>
+        </bibl>
+    </item>
+    <item xml:id="PL">
+        <bibl>
+            <title>Patrologiae Cursus Completus. Series Latina, 217 Vol.</title>
+            <author/>
+            <editor>Jacques Paul MIGNE</editor>
+            <placeName>Paris</placeName>
+            <date>1844-1855</date>
+            <series/>
+            <ref target="http://mlat.uzh.ch/MLS/xanfang.php?corpus=2&amp;lang=0"/>
+        </bibl>
+    </item>
+    <item xml:id="HCM">
+        <bibl>
+            <title>Homiliae de Sanctis et de tempore (Homiliarium Karls des Großen)</title>
+            <author/>
+            <editor>Paulus DIACONUS</editor>
+            <placeName/>
+            <date/>
+            <series/>
+            <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
+        </bibl>
+    </item>
+</list>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -531,9 +766,9 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.3" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.3" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
-          <ab>Auctor gradualis et antiphonarii per quattuor adventus dominicas recolit dominicum adventum per quattuor librorum ordines praenuntiatum, id est per legem, per prophetas, per psalmos, per evangelia, in quibus conceptio domini narratur, vel per hoc monemur ut corpus nostrum ex quattuor elementis constat ad suscipiendum deum purgemus, quia in sordibus non vult habitare rex venturus. Quod ab adventu domini usque in nativitatem domini <seg xml:id="incipit.nocdb.comment.133" ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis deo</seg> non cantatur nisi in festis, <seg type="supplied">ut</seg> ad memoriam nobis reducitur, quod idem canticum in eadem nocte primum est ab angelis celebratum. Dalmaticae et subtilia in adventu domini, nisi in festis sanctorum omittuntur, quia quod raro pretiosor est cum fit, et ideo quando cantus vel aliqua sacri ordinis sollemnitas ad tempus dimittitur, avidius in animis devotorum assumitur.</ab>
+          <ab>Auctor gradualis et antiphonarii per quattuor adventus dominicas recolit dominicum adventum per quattuor librorum ordines praenuntiatum, id est per legem, per prophetas, per psalmos, per evangelia, in quibus conceptio domini narratur, vel per hoc monemur ut corpus nostrum ex quattuor elementis constat ad suscipiendum deum purgemus, quia in sordibus non vult habitare rex venturus. Quod ab adventu domini usque in nativitatem domini <seg xml:id="incipit.00000000.comment.133" ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis deo</seg> non cantatur nisi in festis, <seg type="supplied">ut</seg> ad memoriam nobis reducitur, quod idem canticum in eadem nocte primum est ab angelis celebratum. Dalmaticae et subtilia in adventu domini, nisi in festis sanctorum omittuntur, quia quod raro pretiosor est cum fit, et ideo quando cantus vel aliqua sacri ordinis sollemnitas ad tempus dimittitur, avidius in animis devotorum assumitur.</ab>
         </div>
       </div>
       <div>
@@ -1152,10 +1387,10 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.38" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.38" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
-          <ab>Si autem superfuerint adhuc plures dies vel integra ebdomada ad nativitatem <pb n="31r" xml:id="BRI.031r"/>domini cantentur invitatoria, responsoria, laudes sicut in priori ebdomada qualibet feria. Lectiones legantur de omeliis evangeliorum <seg xml:id="incipit.nocdb.comment.571" ana="#EV" subtype="supplied" type="incipit">Exurgens Maria</seg>, <seg type="supplied">et</seg>
-            <seg xml:id="incipit.nocdb.comment.572" ana="#EV" subtype="supplied" type="incipit">Anno quinto decimo</seg>, quae superfuerunt in priori ebdoma<seg type="supplied">da</seg> scilicet <seg xml:id="incipit.nocdb.comment.573" ana="#LH" subtype="supplied" type="incipit">Magnificat anima mea dominum</seg> et <seg xml:id="incipit.nocdb.comment.574" ana="#LH" subtype="supplied" type="incipit">Facite dignus fructus paenitentiae</seg>. Ad Benedictus eisdem diebus <seg xml:id="incipit.nocdb.comment.575" ana="#AB" type="incipit"><phr type="neume">Dicit</phr> dominus</seg> cum aliis.</ab>
+          <ab>Si autem superfuerint adhuc plures dies vel integra ebdomada ad nativitatem <pb n="31r" xml:id="BRI.031r"/>domini cantentur invitatoria, responsoria, laudes sicut in priori ebdomada qualibet feria. Lectiones legantur de omeliis evangeliorum <seg xml:id="incipit.00000000.comment.571" ana="#EV" subtype="supplied" type="incipit">Exurgens Maria</seg>, <seg type="supplied">et</seg>
+            <seg xml:id="incipit.00000000.comment.572" ana="#EV" subtype="supplied" type="incipit">Anno quinto decimo</seg>, quae superfuerunt in priori ebdoma<seg type="supplied">da</seg> scilicet <seg xml:id="incipit.00000000.comment.573" ana="#LH" subtype="supplied" type="incipit">Magnificat anima mea dominum</seg> et <seg xml:id="incipit.00000000.comment.574" ana="#LH" subtype="supplied" type="incipit">Facite dignus fructus paenitentiae</seg>. Ad Benedictus eisdem diebus <seg xml:id="incipit.00000000.comment.575" ana="#AB" type="incipit"><phr type="neume">Dicit</phr> dominus</seg> cum aliis.</ab>
         </div>
       </div>
       <div>
@@ -1563,41 +1798,41 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.50" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.50" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Si autem dominica infra octavam in praemissis tribus diebus advenerit:</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.V.182" n="V">Ad vesperas</label></ab>
+          <ab ana="#head"><label xml:id="office.00000000.V.182" n="V">Ad vesperas</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.V.1036" ana="#AN" type="incipit">Tecum principium</seg> cum reliquis. Capitulum de dominica. <seg xml:id="incipit.nocdb.V.1037" ana="#RP" type="incipit">Benedictus qui venit</seg>. <seg xml:id="incipit.nocdb.V.1038" ana="#RV" type="incipit">Lapidem quem reprobaverunt</seg>. <seg xml:id="incipit.nocdb.V.1039" ana="#HY" type="incipit">A solis ortus</seg>. <seg xml:id="incipit.nocdb.V.1040" ana="#VS" type="incipit">Tecum principium</seg>. <seg xml:id="incipit.nocdb.V.1041" ana="#AM" type="incipit">Pastores dicite</seg>. <seg xml:id="incipit.nocdb.V.1042" ana="#OR" rend="#CL" type="incipit">Omnipotens sempiterne deus dirige</seg>. In suffragiis de sancta Maria, de sancto Stephano, de sancto Ioanne et de Innocentibus ut supra.</ab>
+            <seg xml:id="incipit.00000000.V.1036" ana="#AN" type="incipit">Tecum principium</seg> cum reliquis. Capitulum de dominica. <seg xml:id="incipit.00000000.V.1037" ana="#RP" type="incipit">Benedictus qui venit</seg>. <seg xml:id="incipit.00000000.V.1038" ana="#RV" type="incipit">Lapidem quem reprobaverunt</seg>. <seg xml:id="incipit.00000000.V.1039" ana="#HY" type="incipit">A solis ortus</seg>. <seg xml:id="incipit.00000000.V.1040" ana="#VS" type="incipit">Tecum principium</seg>. <seg xml:id="incipit.00000000.V.1041" ana="#AM" type="incipit">Pastores dicite</seg>. <seg xml:id="incipit.00000000.V.1042" ana="#OR" rend="#CL" type="incipit">Omnipotens sempiterne deus dirige</seg>. In suffragiis de sancta Maria, de sancto Stephano, de sancto Ioanne et de Innocentibus ut supra.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.M.183" n="M">Ad matutinas</label></ab>
+          <ab ana="#head"><label xml:id="office.00000000.M.183" n="M">Ad matutinas</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.M.1043" ana="#INV" type="incipit">Christus natus</seg>.</ab>
-          <ab type="time:2"><label xml:id="nocturne.nocdb.M.10">Ad nocturnum</label> antiphonae et psalmi sicut in sancta nocte. <seg xml:id="incipit.nocdb.M.1044" ana="#VS" type="incipit">Speciosus forma</seg>. <seg xml:id="incipit.nocdb.M.1045" ana="#VS" type="incipit">Notum fecit dominus</seg>. <seg xml:id="incipit.nocdb.M.1046" ana="#VS" type="incipit">Benedictus qui</seg>. Historia <seg xml:id="incipit.nocdb.M.1047" ana="#RP" subtype="supplied" type="incipit">Ecce agnus dei</seg> per totum. <seg xml:id="incipit.nocdb.M.1048" ana="#EV" type="incipit">Erat Ioseph</seg>.</ab>
+            <seg xml:id="incipit.00000000.M.1043" ana="#INV" type="incipit">Christus natus</seg>.</ab>
+          <ab type="time:2"><label xml:id="nocturne.00000000.M.10">Ad nocturnum</label> antiphonae et psalmi sicut in sancta nocte. <seg xml:id="incipit.00000000.M.1044" ana="#VS" type="incipit">Speciosus forma</seg>. <seg xml:id="incipit.00000000.M.1045" ana="#VS" type="incipit">Notum fecit dominus</seg>. <seg xml:id="incipit.00000000.M.1046" ana="#VS" type="incipit">Benedictus qui</seg>. Historia <seg xml:id="incipit.00000000.M.1047" ana="#RP" subtype="supplied" type="incipit">Ecce agnus dei</seg> per totum. <seg xml:id="incipit.00000000.M.1048" ana="#EV" type="incipit">Erat Ioseph</seg>.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.L.184" n="L">Laudes</label></ab>
+          <ab ana="#head"><label xml:id="office.00000000.L.184" n="L">Laudes</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.L.1049" ana="#AN" type="incipit">Genuit puerpera</seg> sola tantum. <seg xml:id="incipit.nocdb.L.1050" ana="#PS" type="incipit">Dominus regnavit</seg>. Capitulum de dominica. <seg xml:id="incipit.nocdb.L.1051" ana="#VS" type="incipit">Ipse invocavit me</seg>. <seg xml:id="incipit.nocdb.L.1052" ana="#AB" type="incipit">Dum medium silentium</seg>. <seg xml:id="incipit.nocdb.L.1053" ana="#OR" rend="#CL" type="incipit">Omnipotens sempiterne deus dirige</seg>. Suffragia ut supra.</ab>
+            <seg xml:id="incipit.00000000.L.1049" ana="#AN" type="incipit">Genuit puerpera</seg> sola tantum. <seg xml:id="incipit.00000000.L.1050" ana="#PS" type="incipit">Dominus regnavit</seg>. Capitulum de dominica. <seg xml:id="incipit.00000000.L.1051" ana="#VS" type="incipit">Ipse invocavit me</seg>. <seg xml:id="incipit.00000000.L.1052" ana="#AB" type="incipit">Dum medium silentium</seg>. <seg xml:id="incipit.00000000.L.1053" ana="#OR" rend="#CL" type="incipit">Omnipotens sempiterne deus dirige</seg>. Suffragia ut supra.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.D.185" n="D">Ad cursus</label></ab>
+          <ab ana="#head"><label xml:id="office.00000000.D.185" n="D">Ad cursus</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.D.1054" ana="#AN" type="incipit">In principio</seg> cum aliis ut supra. Capitulum ad primam <seg xml:id="incipit.nocdb.D.1055" ana="#CP" subtype="supplied" type="incipit">Renovamini</seg>. Ad tertiam, sextam, nonam capitula et orationes de dominica.</ab>
+            <seg xml:id="incipit.00000000.D.1054" ana="#AN" type="incipit">In principio</seg> cum aliis ut supra. Capitulum ad primam <seg xml:id="incipit.00000000.D.1055" ana="#CP" subtype="supplied" type="incipit">Renovamini</seg>. Ad tertiam, sextam, nonam capitula et orationes de dominica.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.MI.186" n="MI">Ad missam</label></ab>
+          <ab ana="#head"><label xml:id="office.00000000.MI.186" n="MI">Ad missam</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.MI.1056" ana="#IN" subtype="supplied" type="incipit">Dum medium silentium</seg> per totum. <seg xml:id="incipit.nocdb.MI.1057" ana="#EP" type="incipit">Quanto tempore</seg>. <seg xml:id="incipit.nocdb.MI.1058" ana="#SE" type="incipit">Grates nunc omnes</seg>. <seg xml:id="incipit.nocdb.MI.1059" ana="#EV" type="incipit">Erat Ioseph et Maria mater</seg>.</ab>
+            <seg xml:id="incipit.00000000.MI.1056" ana="#IN" subtype="supplied" type="incipit">Dum medium silentium</seg> per totum. <seg xml:id="incipit.00000000.MI.1057" ana="#EP" type="incipit">Quanto tempore</seg>. <seg xml:id="incipit.00000000.MI.1058" ana="#SE" type="incipit">Grates nunc omnes</seg>. <seg xml:id="incipit.00000000.MI.1059" ana="#EV" type="incipit">Erat Ioseph et Maria mater</seg>.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.V2.187" n="V2">In secunda vespera</label></ab>
+          <ab ana="#head"><label xml:id="office.00000000.V2.187" n="V2">In secunda vespera</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.V2.1060" ana="#AN" type="incipit">Tecum principium</seg> cum reliquis. Capitulum de dominica. <seg xml:id="incipit.nocdb.V2.1061" ana="#AM" type="incipit">O regem caeli</seg>. <seg xml:id="incipit.nocdb.V2.1062" ana="#OR" type="incipit">Omnipotens sempiterne deus</seg>.</ab>
-          <ab>Haec missa <seg xml:id="incipit.nocdb.V2.1063" ana="#IN" subtype="supplied" type="incipit">Dum medium silentium</seg> semper infra octavam cantari debet, etiam si dominica dies non eveniat.</ab>
+            <seg xml:id="incipit.00000000.V2.1060" ana="#AN" type="incipit">Tecum principium</seg> cum reliquis. Capitulum de dominica. <seg xml:id="incipit.00000000.V2.1061" ana="#AM" type="incipit">O regem caeli</seg>. <seg xml:id="incipit.00000000.V2.1062" ana="#OR" type="incipit">Omnipotens sempiterne deus</seg>.</ab>
+          <ab>Haec missa <seg xml:id="incipit.00000000.V2.1063" ana="#IN" subtype="supplied" type="incipit">Dum medium silentium</seg> semper infra octavam cantari debet, etiam si dominica dies non eveniat.</ab>
         </div>
       </div>
       <div>
@@ -1761,33 +1996,33 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.56" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.56" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Si vigilia epiphaniae in dominicam evenerit</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.V.214" n="V">Ad vesperas</label></ab>
+          <ab ana="#head"><label xml:id="office.00000000.V.214" n="V">Ad vesperas</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.V.1205" ana="#AN" type="incipit">Tecum principium</seg> cum reliquis. <seg xml:id="incipit.nocdb.V.1206" ana="#RP" type="incipit">Verbum caro</seg>. <seg xml:id="incipit.nocdb.V.1207" ana="#RV" type="incipit">In principio</seg>. <seg xml:id="incipit.nocdb.V.1208" ana="#HY" type="incipit">A solis ortus</seg>. <seg xml:id="incipit.nocdb.V.1209" ana="#AM" type="incipit">Pastores dicite</seg>.</ab>
+            <seg xml:id="incipit.00000000.V.1205" ana="#AN" type="incipit">Tecum principium</seg> cum reliquis. <seg xml:id="incipit.00000000.V.1206" ana="#RP" type="incipit">Verbum caro</seg>. <seg xml:id="incipit.00000000.V.1207" ana="#RV" type="incipit">In principio</seg>. <seg xml:id="incipit.00000000.V.1208" ana="#HY" type="incipit">A solis ortus</seg>. <seg xml:id="incipit.00000000.V.1209" ana="#AM" type="incipit">Pastores dicite</seg>.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.M.215" n="M">Ad matutinas</label></ab>
-          <ab>invitatorium, antiphonae, responsoria et versus sicut in circumcisione domini, excepta <pb n="34r" xml:id="BRI.034r"/>sola <seg xml:id="incipit.nocdb.M.1210" ana="#AN" type="incipit">Circumcisus est</seg>, cuius loco canitur <seg xml:id="incipit.nocdb.M.1211" ana="#AN" type="incipit">Notum fecit dominus</seg>. <seg xml:id="incipit.nocdb.M.1212" ana="#TD" subtype="supplied" type="incipit">Te deum laudamus</seg>.</ab>
+          <ab ana="#head"><label xml:id="office.00000000.M.215" n="M">Ad matutinas</label></ab>
+          <ab>invitatorium, antiphonae, responsoria et versus sicut in circumcisione domini, excepta <pb n="34r" xml:id="BRI.034r"/>sola <seg xml:id="incipit.00000000.M.1210" ana="#AN" type="incipit">Circumcisus est</seg>, cuius loco canitur <seg xml:id="incipit.00000000.M.1211" ana="#AN" type="incipit">Notum fecit dominus</seg>. <seg xml:id="incipit.00000000.M.1212" ana="#TD" subtype="supplied" type="incipit">Te deum laudamus</seg>.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.L.216" n="L">Ad laudes</label></ab>
+          <ab ana="#head"><label xml:id="office.00000000.L.216" n="L">Ad laudes</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.L.1213" ana="#AN" type="incipit">Quem vidistis</seg> sola tantum. <seg xml:id="incipit.nocdb.L.1214" ana="#AB" type="incipit">Ecce advenit</seg>. Capitula et orationes de dominica.</ab>
+            <seg xml:id="incipit.00000000.L.1213" ana="#AN" type="incipit">Quem vidistis</seg> sola tantum. <seg xml:id="incipit.00000000.L.1214" ana="#AB" type="incipit">Ecce advenit</seg>. Capitula et orationes de dominica.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.D.217" n="D">Ad cursus</label></ab>
+          <ab ana="#head"><label xml:id="office.00000000.D.217" n="D">Ad cursus</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.D.1215" ana="#AN" type="incipit">In principio</seg> cum reliquis.</ab>
+            <seg xml:id="incipit.00000000.D.1215" ana="#AN" type="incipit">In principio</seg> cum reliquis.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.MI.218" n="MI">Ad missam</label></ab>
+          <ab ana="#head"><label xml:id="office.00000000.MI.218" n="MI">Ad missam</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.MI.1216" ana="#IN" subtype="supplied" type="incipit">Lux fulgebit</seg> per totum ut supra.</ab>
+            <seg xml:id="incipit.00000000.MI.1216" ana="#IN" subtype="supplied" type="incipit">Lux fulgebit</seg> per totum ut supra.</ab>
         </div>
       </div>
       <div>
@@ -1908,25 +2143,25 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.61" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.61" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>His ita finitis, si superfuerint plures dies a principio, sicut dictum est, historia cum antiphona reincipiatur.</ab>
-          <ab>Si epiphania domini ante dominicam evenerit: feria proxima <seg xml:id="incipit.nocdb.comment.1361" ana="#EV" type="incipit">Cum factus esset</seg> ad matutinas legitur.</ab>
+          <ab>Si epiphania domini ante dominicam evenerit: feria proxima <seg xml:id="incipit.00000000.comment.1361" ana="#EV" type="incipit">Cum factus esset</seg> ad matutinas legitur.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head" type="supplied"><label xml:id="office.nocdb.V.238" n="V">Ad vesperas</label></ab>
+          <ab ana="#head" type="supplied"><label xml:id="office.00000000.V.238" n="V">Ad vesperas</label></ab>
           <ab>     
-      <seg xml:id="incipit.nocdb.V.1362" ana="#AM" type="incipit">Fili quid fecisti nobis</seg>. Feria secunda, quarta, et sexta, et dominica</ab>
+      <seg xml:id="incipit.00000000.V.1362" ana="#AM" type="incipit">Fili quid fecisti nobis</seg>. Feria secunda, quarta, et sexta, et dominica</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head" type="supplied"><label xml:id="office.nocdb.MI.239" n="MI">Ad missam</label></ab>
+          <ab ana="#head" type="supplied"><label xml:id="office.00000000.MI.239" n="MI">Ad missam</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.MI.1363" ana="#IN" subtype="supplied" type="incipit">In excelso throno</seg> canitur cum <seg xml:id="incipit.nocdb.MI.1364" ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis</seg>. Loco sequentiae <seg xml:id="incipit.nocdb.MI.1365" ana="#SV" subtype="supplied" type="incipit">Anno hominis</seg>. <seg xml:id="incipit.nocdb.MI.1366" ana="#CR" subtype="supplied" type="incipit">Credo in unum</seg> dicitur. <seg xml:id="incipit.nocdb.MI.1367" ana="#PF" type="incipit">Quia cum unigenitus</seg>. <seg xml:id="incipit.nocdb.MI.1368" ana="#IM" subtype="supplied" type="incipit">Ite missa</seg> est dicitur, nisi festum impediat. Aliis vero diebus canitur</ab>
+            <seg xml:id="incipit.00000000.MI.1363" ana="#IN" subtype="supplied" type="incipit">In excelso throno</seg> canitur cum <seg xml:id="incipit.00000000.MI.1364" ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis</seg>. Loco sequentiae <seg xml:id="incipit.00000000.MI.1365" ana="#SV" subtype="supplied" type="incipit">Anno hominis</seg>. <seg xml:id="incipit.00000000.MI.1366" ana="#CR" subtype="supplied" type="incipit">Credo in unum</seg> dicitur. <seg xml:id="incipit.00000000.MI.1367" ana="#PF" type="incipit">Quia cum unigenitus</seg>. <seg xml:id="incipit.00000000.MI.1368" ana="#IM" subtype="supplied" type="incipit">Ite missa</seg> est dicitur, nisi festum impediat. Aliis vero diebus canitur</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head" type="supplied"><label xml:id="office.nocdb.MI.240" n="MI">Ad missam</label></ab>
+          <ab ana="#head" type="supplied"><label xml:id="office.00000000.MI.240" n="MI">Ad missam</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.MI.1369" ana="#IN" subtype="supplied" type="incipit">Ecce advenit dominator</seg>. Loco sequentiae <seg xml:id="incipit.nocdb.MI.1370" ana="#SV" subtype="supplied" type="incipit">Anno hominis</seg>. Qua <unclear/> d<del type="rasur"/> lega<del type="rasur"/> ad matutinas et ad missam <seg xml:id="incipit.nocdb.MI.1371" ana="#IN" subtype="supplied" type="incipit">Ecce advenit</seg>. Feriale <seg xml:id="incipit.nocdb.MI.1372" ana="#EV" type="incipit">Vidit Ioannes Iesum venientem</seg>.</ab>
+            <seg xml:id="incipit.00000000.MI.1369" ana="#IN" subtype="supplied" type="incipit">Ecce advenit dominator</seg>. Loco sequentiae <seg xml:id="incipit.00000000.MI.1370" ana="#SV" subtype="supplied" type="incipit">Anno hominis</seg>. Qua <unclear/> d<del type="rasur"/> lega<del type="rasur"/> ad matutinas et ad missam <seg xml:id="incipit.00000000.MI.1371" ana="#IN" subtype="supplied" type="incipit">Ecce advenit</seg>. Feriale <seg xml:id="incipit.00000000.MI.1372" ana="#EV" type="incipit">Vidit Ioannes Iesum venientem</seg>.</ab>
         </div>
       </div>
       <div>
@@ -1974,9 +2209,9 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.63" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.63" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
-          <ab>Si dominica infra octavam epiphaniae evenerit, in eam differatur et usque in finem illius ebdomadae sicut praedictum est cantetur, si opus fuerit eo anno. Sin autem disponatur ut tunc opus erit et his diebus, qui erunt ante dominicam, cantetur officium <seg xml:id="incipit.nocdb.comment.1393" ana="#IN" subtype="supplied" type="incipit">Ecce advenit</seg>. Si vero dominica non evenerit infra octavam, cantetur officium <seg xml:id="incipit.nocdb.comment.1394" ana="#IN" subtype="supplied" type="incipit">In excelso throno</seg>, et <seg xml:id="incipit.nocdb.comment.1395" ana="#IN" subtype="supplied" type="incipit">Ecce advenit</seg> postponatur.</ab>
+          <ab>Si dominica infra octavam epiphaniae evenerit, in eam differatur et usque in finem illius ebdomadae sicut praedictum est cantetur, si opus fuerit eo anno. Sin autem disponatur ut tunc opus erit et his diebus, qui erunt ante dominicam, cantetur officium <seg xml:id="incipit.00000000.comment.1393" ana="#IN" subtype="supplied" type="incipit">Ecce advenit</seg>. Si vero dominica non evenerit infra octavam, cantetur officium <seg xml:id="incipit.00000000.comment.1394" ana="#IN" subtype="supplied" type="incipit">In excelso throno</seg>, et <seg xml:id="incipit.00000000.comment.1395" ana="#IN" subtype="supplied" type="incipit">Ecce advenit</seg> postponatur.</ab>
         </div>
       </div>
       <div>
@@ -2028,12 +2263,12 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.66" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.66" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Deinceps redimus ad cottidianum cantum et qualem habuimus ante adventum <choice>
               <sic>silicet</sic>
               <corr>scilicet</corr>
-            </choice> versuum et hymnorum, nisi quod ad matutinas et ad vesperas in suffragiis dicimus <seg xml:id="incipit.nocdb.comment.1442" ana="#AC" type="incipit">Rubum quem viderat</seg>. <seg xml:id="incipit.nocdb.comment.1443" ana="#AC" type="incipit">Germinavit radix</seg>. <seg xml:id="incipit.nocdb.comment.1444" ana="#AC" type="incipit">Ecce Maria</seg> et <seg xml:id="incipit.nocdb.comment.1445" ana="#OR" type="incipit">Deus qui salutis aeternae</seg>, et deinde alias <seg type="supplied">antiphonas</seg> quas per totum annum dicimus usque in purificationem. Nullam vero <seg type="supplied">antiphonam</seg> de sancta cruce <seg type="supplied">dicimus</seg> usque post octavam pentecostes. Post purificationem autem unam antiphonam dicimus de sancta Maria, quam per totum annum cum ceteris solitis dicere consuevimus.</ab>
+            </choice> versuum et hymnorum, nisi quod ad matutinas et ad vesperas in suffragiis dicimus <seg xml:id="incipit.00000000.comment.1442" ana="#AC" type="incipit">Rubum quem viderat</seg>. <seg xml:id="incipit.00000000.comment.1443" ana="#AC" type="incipit">Germinavit radix</seg>. <seg xml:id="incipit.00000000.comment.1444" ana="#AC" type="incipit">Ecce Maria</seg> et <seg xml:id="incipit.00000000.comment.1445" ana="#OR" type="incipit">Deus qui salutis aeternae</seg>, et deinde alias <seg type="supplied">antiphonas</seg> quas per totum annum dicimus usque in purificationem. Nullam vero <seg type="supplied">antiphonam</seg> de sancta cruce <seg type="supplied">dicimus</seg> usque post octavam pentecostes. Post purificationem autem unam antiphonam dicimus de sancta Maria, quam per totum annum cum ceteris solitis dicere consuevimus.</ab>
         </div>
       </div>
       <div>
@@ -2092,7 +2327,7 @@
         </div>
       </div>
       <div>     
-   <head xml:id="feast.nocdb.68" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+   <head xml:id="feast.00000000.68" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Feria secunda et in sequentibus feriis per ebdomadam invitatoria, versus, antiphonae, responsoria, ad laudes antiphonae, de feria sicut in antiphonario habentur, canantur. Capitula ferialia et orationes de dominica dicantur.</ab>
         </div>
@@ -2177,23 +2412,23 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.74" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.74" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Si haec festivitas sanctorum evenerit <del type="rasur"/> ipsam septuagesimam venerit, tunc</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.V.279" n="V">Ad vesperas</label></ab>
-          <ab>dicitur in suffragio <seg xml:id="incipit.nocdb.V.1528" ana="#AC" type="incipit">Ut vidit</seg>.</ab>
+          <ab ana="#head"><label xml:id="office.00000000.V.279" n="V">Ad vesperas</label></ab>
+          <ab>dicitur in suffragio <seg xml:id="incipit.00000000.V.1528" ana="#AC" type="incipit">Ut vidit</seg>.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.M.280" n="M">Ad matutinas.</label></ab>
+          <ab ana="#head"><label xml:id="office.00000000.M.280" n="M">Ad matutinas.</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.M.1529" ana="#AN" type="incipit">Beatus es</seg>.</ab>
+            <seg xml:id="incipit.00000000.M.1529" ana="#AN" type="incipit">Beatus es</seg>.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.V2.281" n="V2">In secunda vespera</label></ab>
+          <ab ana="#head"><label xml:id="office.00000000.V2.281" n="V2">In secunda vespera</label></ab>
           <ab>
-            <seg xml:id="incipit.nocdb.V2.1530" ana="#AM" type="incipit">Egregie</seg>. Orationes ut supra.</ab>
+            <seg xml:id="incipit.00000000.V2.1530" ana="#AM" type="incipit">Egregie</seg>. Orationes ut supra.</ab>
         </div>
       </div>
       <div>
@@ -2242,7 +2477,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.76" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.76" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab><seg type="supplied">I</seg> nfra octavam sanctae Agnetis ad vesperas et ad matutinas antiphona et oratio dicantur.</ab>
         </div>
@@ -2456,9 +2691,9 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.85" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.85" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>       
-   <ab>Haec omnia secundum ordinem praedictum cantentur sive purificatio infra vel extra septuagesimam eveniat. Si vero purificatio sanctae Mariae in dominica septuagesimae evenerit, omnia de festo agantur et post orationem de festo in suffragio <seg xml:id="incipit.nocdb.comment.1730" ana="#AC" type="incipit">Plantaverat</seg> et <seg xml:id="incipit.nocdb.comment.1731" ana="#ORC" rend="#CLC" type="incipit">Preces populi tui</seg>. Cetera ut supra.</ab>
+   <ab>Haec omnia secundum ordinem praedictum cantentur sive purificatio infra vel extra septuagesimam eveniat. Si vero purificatio sanctae Mariae in dominica septuagesimae evenerit, omnia de festo agantur et post orationem de festo in suffragio <seg xml:id="incipit.00000000.comment.1730" ana="#AC" type="incipit">Plantaverat</seg> et <seg xml:id="incipit.00000000.comment.1731" ana="#ORC" rend="#CLC" type="incipit">Preces populi tui</seg>. Cetera ut supra.</ab>
         </div>
       </div>
       <div>
@@ -2650,9 +2885,9 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.94" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.94" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
-          <ab>Dedicationes vero ecclesiarum agimus sicut extra septuagesimam praeter <seg xml:id="incipit.nocdb.comment.1880" ana="#VAR" subtype="supplied" type="incipit">Alleluia</seg> et sequentiam. <seg xml:id="function.Ministri.nocdb.comment.32" ana="#function">Ministri</seg> etiam vestibus sollemnibus induantur.</ab>
+          <ab>Dedicationes vero ecclesiarum agimus sicut extra septuagesimam praeter <seg xml:id="incipit.00000000.comment.1880" ana="#VAR" subtype="supplied" type="incipit">Alleluia</seg> et sequentiam. <seg xml:id="function.Ministri.00000000.comment.31" ana="#function">Ministri</seg> etiam vestibus sollemnibus induantur.</ab>
         </div>
       </div>
       <div>
@@ -2776,10 +3011,10 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.103" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.103" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
-          <ab>Septuagesima ideo vocata est quia ab ea dominica qua canitur <seg xml:id="incipit.nocdb.comment.1967" ana="#IN" subtype="supplied" type="incipit">Circumdederunt me</seg> usque in sabbatum post resurrectionem proximum, in quo baptizati vestes deponunt, numerantur dies septuaginta. Hic numerus ideo in ecclesia est memorabilis nobis, quia per tot annos in <seg xml:id="place.Babylon.nocdb.comment.24" ana="#place">Babylon</seg> fuerunt captivi filii <seg xml:id="place.Israel.nocdb.comment.25" ana="#place">Israel</seg> patres nostri. Sed quoniam ut ait apostolus: <seg xml:id="incipit.nocdb.comment.1968" ana="#CIT" subtype="supplied" type="incipit">Haec omnia in figura contingebant illis scripta sunt autem ad correptionem nostram, in quos fines saeculorum devenerunt</seg>, hoc temporis spatio significatur omne praesentis vitae tempus, quo peregrinamur a caelesti <seg xml:id="place.Hierusalem.nocdb.comment.26" ana="#place">Hierusalem</seg>, quae est mater nostra. Depositio vestium significat id quod etiam apostolus explanat dicens quomodo <seg xml:id="incipit.nocdb.comment.1969" ana="#CIT" subtype="supplied" type="incipit">oportet hoc corpus corruptibile induere incorruptionem et mortale hoc induere immortalitatem</seg>, quod complebimur in secunda resurrectione. Ideo etiam in eodem sabbato duo <seg xml:id="incipit.nocdb.comment.1970" ana="#VAR" subtype="supplied" type="incipit">Alleluia</seg> canuntur, quia geminanda laetitia corporis et animae sic praefiguratur: prior quippe resurrectio, quae per fidem fit in baptismate, habet aliquid tribulationis in variis huius mundi defectibus, ideo etiam in vigilia paschae post alleluia sequitur tractus. Cum vero venerit quod perfectum, tunc evacuabitur quod ex parte est. Tunc enim sancti cum corporibus resurgentes exultatione vera exultaverunt. Sicut autem filii <seg xml:id="place.Israel.nocdb.comment.27" ana="#place">Israel</seg>
-            <pb n="38v" xml:id="BRI.038v"/>in terra aliena suspenderunt organa sua in salicibus, ita et nos vocem exultationis, id est <seg xml:id="incipit.nocdb.comment.1971" ana="#VAR" subtype="supplied" type="incipit">Alleluia</seg> in tempore afflictionis nostrae, quod de paenitentia procedit in amaritudine spontanea, oblivisci debemus. Salicis enim flos, ut physici perhibent, degenerat in araneas et omnis gloria carnis solvitur velut in tineas. Quia igitur primi hominis lapsus et populi dei captivitas, seu captivitas cuiuslibet hominis post baptismum lapsi, sed paenitentiam agentis typus in septuagesima agitur, ideo usus dalmaticarum et subtilium et reliqui ornatus et <seg xml:id="incipit.nocdb.comment.1972" ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis</seg>, <seg xml:id="incipit.nocdb.comment.1973" ana="#VAR" subtype="supplied" type="incipit">Alleluia</seg>, sequentiae et <seg xml:id="incipit.nocdb.comment.1974" ana="#IM" subtype="supplied" type="incipit">Ite missa est</seg> omittuntur. Ubi autem septuagesima eveniat haec docet regula: a XVII kalendas februarii usque ad XVI kalendas martii ubicumque decima luna occurrerit in proxima dominica post illam septuagesima eveniet.</ab>
+          <ab>Septuagesima ideo vocata est quia ab ea dominica qua canitur <seg xml:id="incipit.00000000.comment.1967" ana="#IN" subtype="supplied" type="incipit">Circumdederunt me</seg> usque in sabbatum post resurrectionem proximum, in quo baptizati vestes deponunt, numerantur dies septuaginta. Hic numerus ideo in ecclesia est memorabilis nobis, quia per tot annos in <seg xml:id="place.Babylon.00000000.comment.24" ana="#place">Babylon</seg> fuerunt captivi filii <seg xml:id="place.Israel.00000000.comment.25" ana="#place">Israel</seg> patres nostri. Sed quoniam ut ait apostolus: <seg xml:id="incipit.00000000.comment.1968" ana="#CIT" subtype="supplied" type="incipit">Haec omnia in figura contingebant illis scripta sunt autem ad correptionem nostram, in quos fines saeculorum devenerunt</seg>, hoc temporis spatio significatur omne praesentis vitae tempus, quo peregrinamur a caelesti <seg xml:id="place.Hierusalem.00000000.comment.26" ana="#place">Hierusalem</seg>, quae est mater nostra. Depositio vestium significat id quod etiam apostolus explanat dicens quomodo <seg xml:id="incipit.00000000.comment.1969" ana="#CIT" subtype="supplied" type="incipit">oportet hoc corpus corruptibile induere incorruptionem et mortale hoc induere immortalitatem</seg>, quod complebimur in secunda resurrectione. Ideo etiam in eodem sabbato duo <seg xml:id="incipit.00000000.comment.1970" ana="#VAR" subtype="supplied" type="incipit">Alleluia</seg> canuntur, quia geminanda laetitia corporis et animae sic praefiguratur: prior quippe resurrectio, quae per fidem fit in baptismate, habet aliquid tribulationis in variis huius mundi defectibus, ideo etiam in vigilia paschae post alleluia sequitur tractus. Cum vero venerit quod perfectum, tunc evacuabitur quod ex parte est. Tunc enim sancti cum corporibus resurgentes exultatione vera exultaverunt. Sicut autem filii <seg xml:id="place.Israel.00000000.comment.27" ana="#place">Israel</seg>
+            <pb n="38v" xml:id="BRI.038v"/>in terra aliena suspenderunt organa sua in salicibus, ita et nos vocem exultationis, id est <seg xml:id="incipit.00000000.comment.1971" ana="#VAR" subtype="supplied" type="incipit">Alleluia</seg> in tempore afflictionis nostrae, quod de paenitentia procedit in amaritudine spontanea, oblivisci debemus. Salicis enim flos, ut physici perhibent, degenerat in araneas et omnis gloria carnis solvitur velut in tineas. Quia igitur primi hominis lapsus et populi dei captivitas, seu captivitas cuiuslibet hominis post baptismum lapsi, sed paenitentiam agentis typus in septuagesima agitur, ideo usus dalmaticarum et subtilium et reliqui ornatus et <seg xml:id="incipit.00000000.comment.1972" ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis</seg>, <seg xml:id="incipit.00000000.comment.1973" ana="#VAR" subtype="supplied" type="incipit">Alleluia</seg>, sequentiae et <seg xml:id="incipit.00000000.comment.1974" ana="#IM" subtype="supplied" type="incipit">Ite missa est</seg> omittuntur. Ubi autem septuagesima eveniat haec docet regula: a XVII kalendas februarii usque ad XVI kalendas martii ubicumque decima luna occurrerit in proxima dominica post illam septuagesima eveniet.</ab>
         </div>
       </div>
       <div>
@@ -2844,9 +3079,9 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.105" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.105" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
-          <ab>Sexagesima ideo vocata est quia ab ea dominica qua cantatur <seg xml:id="incipit.nocdb.comment.2014" ana="#IN" subtype="supplied" type="incipit">Exurge quare</seg> usque ad quartam paschalis ebdomadae feriam, qua canitur <seg xml:id="incipit.nocdb.comment.2015" ana="#IN" subtype="supplied" type="incipit">Venite benedicti</seg>, dies sexaginta computantur. In hac autem feria secundum consuetudinem primitivae ecclesiae baptizati vocabantur in monasterium principale, ut plenitudinem et confirmationem christianitatis ab <seg xml:id="function.episcopis.nocdb.comment.33" ana="#function">episcopis</seg> acciperent, si quid neglectum esset a simplicioribus<seg xml:id="function.presbyteris.nocdb.comment.34" ana="#function">presbyteris</seg>. Significat autem hoc tempus vocationis dominicae laetitiam, quae his qui signum dei habent in frontibus suis et veram fidem bonis actibus confirmaverunt, dictura est in novissimo die <seg xml:id="incipit.nocdb.comment.2016" ana="#CIT" subtype="supplied" type="incipit">Venite benedicti</seg>.</ab>
+          <ab>Sexagesima ideo vocata est quia ab ea dominica qua cantatur <seg xml:id="incipit.00000000.comment.2014" ana="#IN" subtype="supplied" type="incipit">Exurge quare</seg> usque ad quartam paschalis ebdomadae feriam, qua canitur <seg xml:id="incipit.00000000.comment.2015" ana="#IN" subtype="supplied" type="incipit">Venite benedicti</seg>, dies sexaginta computantur. In hac autem feria secundum consuetudinem primitivae ecclesiae baptizati vocabantur in monasterium principale, ut plenitudinem et confirmationem christianitatis ab <seg xml:id="function.episcopis.00000000.comment.32" ana="#function">episcopis</seg> acciperent, si quid neglectum esset a simplicioribus<seg xml:id="function.presbyteris.00000000.comment.33" ana="#function">presbyteris</seg>. Significat autem hoc tempus vocationis dominicae laetitiam, quae his qui signum dei habent in frontibus suis et veram fidem bonis actibus confirmaverunt, dictura est in novissimo die <seg xml:id="incipit.00000000.comment.2016" ana="#CIT" subtype="supplied" type="incipit">Venite benedicti</seg>.</ab>
         </div>
       </div>
       <div>
@@ -2910,12 +3145,12 @@
     </div>
       </div>     
  <div>
-        <head xml:id="feast.nocdb.107" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.107" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
-          <ab>Quinquagesima ideo vocata est quia ab ea dominica qua canitur <seg xml:id="incipit.nocdb.comment.2052" ana="#IN" subtype="supplied" type="incipit">Esto mihi</seg> usque ad resurrectionem quinquaginta dies sunt, ita tamen ut ipsa dominica sancta quinquagesimus sit dies. Qui dies praefiguratus est in lege anno quinquagesimo, qui vocatur iubileus, id est remissionis, quia tunc omnes servi et captivi libertate donabantur et agrorum fructus peregrinis et advenis dabantur. Hoc mystice completum est in resurrectione domini. Nam cum omnes captivi a diabolo tenerentur, resurgens dominus victo mundi principe, et fideles suos fecit liberos et hos, qui peregrini a caelesti regno erant, bonorum operum fructu mancipavit. Significant vero hi quinquaginta dies quinque mundi aetates, quae praecesserunt adventum domini, in quibus tam iusti quam iniusti descenderant ad inferni tenebras. Quod etiam <choice>
+          <ab>Quinquagesima ideo vocata est quia ab ea dominica qua canitur <seg xml:id="incipit.00000000.comment.2052" ana="#IN" subtype="supplied" type="incipit">Esto mihi</seg> usque ad resurrectionem quinquaginta dies sunt, ita tamen ut ipsa dominica sancta quinquagesimus sit dies. Qui dies praefiguratus est in lege anno quinquagesimo, qui vocatur iubileus, id est remissionis, quia tunc omnes servi et captivi libertate donabantur et agrorum fructus peregrinis et advenis dabantur. Hoc mystice completum est in resurrectione domini. Nam cum omnes captivi a diabolo tenerentur, resurgens dominus victo mundi principe, et fideles suos fecit liberos et hos, qui peregrini a caelesti regno erant, bonorum operum fructu mancipavit. Significant vero hi quinquaginta dies quinque mundi aetates, quae praecesserunt adventum domini, in quibus tam iusti quam iniusti descenderant ad inferni tenebras. Quod etiam <choice>
               <sic>psalmisti</sic>
               <corr>psalmista</corr>
-            </choice> praecinuit dicens: <seg xml:id="incipit.nocdb.comment.2053" ana="#CIT" subtype="supplied" type="incipit">Ad vesperum demorabitur fletus</seg>. Hoc est usque ad occasum veri solis, qui est mors <seg xml:id="person.Christi.nocdb.comment.7" ana="#person">Christi</seg>, perdurabit sanctorum gemitus et ad matutinum erit laetitia, quando resurrectio illuxerit expectata.</ab>
+            </choice> praecinuit dicens: <seg xml:id="incipit.00000000.comment.2053" ana="#CIT" subtype="supplied" type="incipit">Ad vesperum demorabitur fletus</seg>. Hoc est usque ad occasum veri solis, qui est mors <seg xml:id="person.Christi.00000000.comment.7" ana="#person">Christi</seg>, perdurabit sanctorum gemitus et ad matutinum erit laetitia, quando resurrectio illuxerit expectata.</ab>
         </div>
       </div>
       <div>
@@ -3020,17 +3255,17 @@
           <ab ana="#head"><label xml:id="office.06034000.N.409" n="N">Ad nonam</label></ab>
           <ab>
             <seg xml:id="incipit.06034000.N.2099" ana="#AN" type="incipit">Thesaurizate</seg>.</ab>
-          <ab>Post nonam cinis benedicitur et benedictione finita cantatur <seg xml:id="incipit.06034000.N.2100" ana="#AN" type="incipit">Exaudi nos</seg>. <seg xml:id="incipit.06034000.N.2101" ana="#PS" type="incipit">Salvum me fac deus</seg>. Sequitur sine salutatione cum <seg xml:id="incipit.06034000.N.2102" ana="#ORI" subtype="supplied" type="incipit">Flectamus genua</seg>. <seg xml:id="incipit.06034000.N.2103" ana="#OR" type="incipit">Concede nobis domine praesidia militiae</seg>. Deinde cantentur <seg xml:id="incipit.06034000.N.2104" ana="#AP" type="incipit">Immutemur</seg>. <seg xml:id="incipit.06034000.N.2105" ana="#AP" type="incipit">Iuxta vestibulum</seg>. Quae si necesse fuerit iterum repetantur. Interim vero cum praedictae antiphonae canuntur, <seg xml:id="function.presbyter.06034000.N.35" ana="#function">presbyter</seg> imponat cineres singulorum capitibus dicendo <seg xml:id="incipit.06034000.N.2106" ana="#VAR" subtype="supplied" type="incipit">Memento homo quia pulvis es et in pulverem reverteris</seg>. Cui autem imponitur respondeat prostratus <seg xml:id="incipit.06034000.N.2107" ana="#VAR" subtype="supplied" type="incipit">Cor contritum et humiliatum deus non despicies</seg>.</ab>
+          <ab>Post nonam cinis benedicitur et benedictione finita cantatur <seg xml:id="incipit.06034000.N.2100" ana="#AN" type="incipit">Exaudi nos</seg>. <seg xml:id="incipit.06034000.N.2101" ana="#PS" type="incipit">Salvum me fac deus</seg>. Sequitur sine salutatione cum <seg xml:id="incipit.06034000.N.2102" ana="#ORI" subtype="supplied" type="incipit">Flectamus genua</seg>. <seg xml:id="incipit.06034000.N.2103" ana="#OR" type="incipit">Concede nobis domine praesidia militiae</seg>. Deinde cantentur <seg xml:id="incipit.06034000.N.2104" ana="#AP" type="incipit">Immutemur</seg>. <seg xml:id="incipit.06034000.N.2105" ana="#AP" type="incipit">Iuxta vestibulum</seg>. Quae si necesse fuerit iterum repetantur. Interim vero cum praedictae antiphonae canuntur, <seg xml:id="function.presbyter.06034000.N.34" ana="#function">presbyter</seg> imponat cineres singulorum capitibus dicendo <seg xml:id="incipit.06034000.N.2106" ana="#VAR" subtype="supplied" type="incipit">Memento homo quia pulvis es et in pulverem reverteris</seg>. Cui autem imponitur respondeat prostratus <seg xml:id="incipit.06034000.N.2107" ana="#VAR" subtype="supplied" type="incipit">Cor contritum et humiliatum deus non despicies</seg>.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.06034000.PRO.410" n="PRO">Processio</label></ab>
           <ab>ad 
             <seg xml:id="place.sanctumIoannem.06034000.PRO.31" ana="#place">sanctum Ioannem</seg>
             <seg xml:id="incipit.06034000.PRO.2108" ana="#RPP" type="incipit">Emendemus in melius</seg>. <seg xml:id="incipit.06034000.PRO.2109" ana="#RPP" type="incipit">Paradisi portas</seg>. In <seg xml:id="place.capella.06034000.PRO.32" ana="#place">capella</seg>
-            <seg xml:id="incipit.06034000.PRO.2110" ana="#PS" rend="#AP" type="incipit">Miserere mei deus</seg> flexibus genibus. <seg xml:id="incipit.06034000.PRO.2111" ana="#LT" subtype="supplied" type="incipit">Kyrie eleison. Christe eleison. Kyrie eleison</seg>. <seg xml:id="incipit.06034000.PRO.2112" ana="#PN" subtype="supplied" type="incipit">Pater noster</seg>. <seg xml:id="incipit.06034000.PRO.2113" ana="#VS" type="incipit">Propitius esto peccatis nostris propter nomen tuum domine</seg>. <seg xml:id="incipit.06034000.PRO.2114" ana="#VS" type="incipit">Fuit homo missus a deo</seg>. Oratio pro peccatis et oratio de sancto Ioanne. In reditu trina laetania quam <seg xml:id="function.cantor.06034000.PRO.36" ana="#function">cantor</seg> incipiat.</ab>
-          <ab>Missa per totam quadragesimam ut habet graduale celebratur, ita quod <seg xml:id="function.cantor.06034000.PRO.37" ana="#function">cantor</seg> versum gradualis solus decantet. Feria secunda, quarta et sexta ad missam <seg xml:id="incipit.06034000.PRO.2115" ana="#TR" type="incipit">Domine non secundum peccata nostra</seg> cantetur. <seg xml:id="incipit.06034000.PRO.2116" ana="#PF" type="incipit">Qui corporali ieiunio</seg> ab hinc iuxta statutum <seg xml:id="person.Pelagii.06034000.PRO.8" ana="#person">Pelagii</seg> papae tam dominicis quam privatis diebus usque in dominicam palmarum dicatur. Post ultimum ad missam <seg xml:id="incipit.06034000.PRO.2117" ana="#OR" corresp="#./preceding-sibling::OR[1]" subtype="supplied" type="incipit">Per dominum nostrum</seg> dicitur <seg xml:id="incipit.06034000.PRO.2118" ana="#ORI" subtype="supplied" type="incipit">Oremus</seg>. <seg xml:id="incipit.06034000.PRO.2119" ana="#ORI" subtype="supplied" type="incipit">Inclinate capita vestra deo</seg>. <del type="rasur"/> oratio super populum cottidie usque <del type="rasur"/> diebus et <del type="rasur"/>. <seg type="supplied">Missa cum</seg>
+            <seg xml:id="incipit.06034000.PRO.2110" ana="#PS" rend="#AP" type="incipit">Miserere mei deus</seg> flexibus genibus. <seg xml:id="incipit.06034000.PRO.2111" ana="#LT" subtype="supplied" type="incipit">Kyrie eleison. Christe eleison. Kyrie eleison</seg>. <seg xml:id="incipit.06034000.PRO.2112" ana="#PN" subtype="supplied" type="incipit">Pater noster</seg>. <seg xml:id="incipit.06034000.PRO.2113" ana="#VS" type="incipit">Propitius esto peccatis nostris propter nomen tuum domine</seg>. <seg xml:id="incipit.06034000.PRO.2114" ana="#VS" type="incipit">Fuit homo missus a deo</seg>. Oratio pro peccatis et oratio de sancto Ioanne. In reditu trina laetania quam <seg xml:id="function.cantor.06034000.PRO.35" ana="#function">cantor</seg> incipiat.</ab>
+          <ab>Missa per totam quadragesimam ut habet graduale celebratur, ita quod <seg xml:id="function.cantor.06034000.PRO.36" ana="#function">cantor</seg> versum gradualis solus decantet. Feria secunda, quarta et sexta ad missam <seg xml:id="incipit.06034000.PRO.2115" ana="#TR" type="incipit">Domine non secundum peccata nostra</seg> cantetur. <seg xml:id="incipit.06034000.PRO.2116" ana="#PF" type="incipit">Qui corporali ieiunio</seg> ab hinc iuxta statutum <seg xml:id="person.Pelagii.06034000.PRO.8" ana="#person">Pelagii</seg> papae tam dominicis quam privatis diebus usque in dominicam palmarum dicatur. Post ultimum ad missam <seg xml:id="incipit.06034000.PRO.2117" ana="#OR" corresp="#./preceding-sibling::OR[1]" subtype="supplied" type="incipit">Per dominum nostrum</seg> dicitur <seg xml:id="incipit.06034000.PRO.2118" ana="#ORI" subtype="supplied" type="incipit">Oremus</seg>. <seg xml:id="incipit.06034000.PRO.2119" ana="#ORI" subtype="supplied" type="incipit">Inclinate capita vestra deo</seg>. <del type="rasur"/> oratio super populum cottidie usque <del type="rasur"/> diebus et <del type="rasur"/>. <seg type="supplied">Missa cum</seg>
             <seg xml:id="incipit.06034000.PRO.2120" ana="#BD" subtype="supplied" type="incipit">Benedicamus domino</seg> clauditur.</ab>
-          <ab>Vesperam post missam et datam benedictionem <seg xml:id="function.presbyter.06034000.PRO.38" ana="#function">presbyter</seg> incipiat ad <seg xml:id="place.aram.06034000.PRO.33" ana="#place">aram</seg>.</ab> <ab><quote n="51" source="Bernold">Orationes super populum ideo frequentamus, quia dum maiorem conflictum ieiuniis et orationibus contra spiritales nequitias sumimus, necesse est ut nos et <seg xml:id="function.populus.06034000.PRO.39" ana="#function">populus</seg> instantius deo commendemus. Nam oratio post communionem pro solis communicantibus solet orare, et ideo in dominicis diebus non dicitur oratio super populum, quia omnes iuxta attestationem sancti <seg xml:id="person.Ambrosii.06034000.PRO.9" ana="#person">Ambrosii</seg> in dominicis diebus debent communicare.</quote></ab>
+          <ab>Vesperam post missam et datam benedictionem <seg xml:id="function.presbyter.06034000.PRO.37" ana="#function">presbyter</seg> incipiat ad <seg xml:id="place.aram.06034000.PRO.33" ana="#place">aram</seg>.</ab> <ab><quote n="51" source="Bernold">Orationes super populum ideo frequentamus, quia dum maiorem conflictum ieiuniis et orationibus contra spiritales nequitias sumimus, necesse est ut nos et <seg xml:id="function.populus.06034000.PRO.38" ana="#function">populus</seg> instantius deo commendemus. Nam oratio post communionem pro solis communicantibus solet orare, et ideo in dominicis diebus non dicitur oratio super populum, quia omnes iuxta attestationem sancti <seg xml:id="person.Ambrosii.06034000.PRO.9" ana="#person">Ambrosii</seg> in dominicis diebus debent communicare.</quote></ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.06034000.V.411" n="V">Ad vesperas</label></ab>
@@ -3086,15 +3321,15 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.115" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.115" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
-          <ab>Praescripti quattuor dies post tempus <seg xml:id="person.Gregorii.nocdb.comment.10" ana="#person">Gregorii</seg> papae a successoribus suis pro sex diebus dominicis sunt assumpti ad explendam quadragesimam cum parasceve et sabbato sancto paschae.</ab>
+          <ab>Praescripti quattuor dies post tempus <seg xml:id="person.Gregorii.00000000.comment.10" ana="#person">Gregorii</seg> papae a successoribus suis pro sex diebus dominicis sunt assumpti ad explendam quadragesimam cum parasceve et sabbato sancto paschae.</ab>
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.116" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.116" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
-          <ab>Quadragesima ideo dicta est quia canitur <seg xml:id="incipit.nocdb.comment.2137" ana="#IN" subtype="supplied" type="incipit">Invocavit me</seg>. Quadraginta dies usque ad cenam domini numerantur, quando temporalem cenam magister cum discipulis sumpsit eisque humilitatis exemplum lavatione pedum ostendit. Hoc tempus abstinentiae quae fit pro peccatis dedicatum est per <seg xml:id="person.Moysen.nocdb.comment.11" ana="#person">Moysen</seg>, per <seg xml:id="person.Heliam.nocdb.comment.12" ana="#person">Heliam</seg>, per ipsum quoque dominum, <pb n="40r" xml:id="BRI.040r"/>qui licet non peccaverit, medicinam tamen pro peccatis ostendit. Praefiguratum est enim hoc tempus illis quadraginta annis per quos in deserto populus <seg xml:id="place.Israel.nocdb.comment.35" ana="#place">Israel</seg> commoratus est post esum agni et transitum <seg xml:id="place.marisRubri.nocdb.comment.36" ana="#place">maris Rubri</seg> erraverunt in solitudine in inaquoso et licet obruti essent <seg xml:id="place.Aegypti.nocdb.comment.37" ana="#place">Aegypti</seg>, diversis tamen hostibus et serpentibus memorantur afflicti. Nos ergo per ipsos praesignati, si ad vitam contemplativam tendimus quasi ad terram repromissionis, non propter hostes illos qui in baptismate obruti sunt securi sumus, sed astutias et deceptiones <seg xml:id="person.Balac.nocdb.comment.13" ana="#person">Balac</seg> regis per abstinentiam caveamus.</ab>
+          <ab>Quadragesima ideo dicta est quia canitur <seg xml:id="incipit.00000000.comment.2137" ana="#IN" subtype="supplied" type="incipit">Invocavit me</seg>. Quadraginta dies usque ad cenam domini numerantur, quando temporalem cenam magister cum discipulis sumpsit eisque humilitatis exemplum lavatione pedum ostendit. Hoc tempus abstinentiae quae fit pro peccatis dedicatum est per <seg xml:id="person.Moysen.00000000.comment.11" ana="#person">Moysen</seg>, per <seg xml:id="person.Heliam.00000000.comment.12" ana="#person">Heliam</seg>, per ipsum quoque dominum, <pb n="40r" xml:id="BRI.040r"/>qui licet non peccaverit, medicinam tamen pro peccatis ostendit. Praefiguratum est enim hoc tempus illis quadraginta annis per quos in deserto populus <seg xml:id="place.Israel.00000000.comment.35" ana="#place">Israel</seg> commoratus est post esum agni et transitum <seg xml:id="place.marisRubri.00000000.comment.36" ana="#place">maris Rubri</seg> erraverunt in solitudine in inaquoso et licet obruti essent <seg xml:id="place.Aegypti.00000000.comment.37" ana="#place">Aegypti</seg>, diversis tamen hostibus et serpentibus memorantur afflicti. Nos ergo per ipsos praesignati, si ad vitam contemplativam tendimus quasi ad terram repromissionis, non propter hostes illos qui in baptismate obruti sunt securi sumus, sed astutias et deceptiones <seg xml:id="person.Balac.00000000.comment.13" ana="#person">Balac</seg> regis per abstinentiam caveamus.</ab>
           <ab>Notandum autem est quod si festum sancti Matthiae vel sancti Gregorii in isto die vel in aliquo alio quadragesimae die dominico usque ad palmas evenerit, in suffragiis ad vesperas et ad matutinas una antiphona et collecta tantum dicitur et proxima feria secunda festum per totum agitur, et in suffragio de paenitentia nihil canitur. Vacare etiam in festis ita transpositis non solemus.</ab>
         </div>
       </div>
@@ -3120,7 +3355,7 @@
             <seg xml:id="incipit.07011000.M.2159" ana="#AN" type="incipit">Commendemus</seg>. <seg xml:id="incipit.07011000.M.2160" ana="#VS" type="incipit">Ipse liberabit me</seg>.</ab>
           <ab type="time:2"><label xml:id="nocturne.07011000.M.41">In tertio nocturno</label>
             <seg xml:id="incipit.07011000.M.2161" ana="#AN" type="incipit">Per arma iustitiae</seg>. <seg xml:id="incipit.07011000.M.2162" ana="#VS" type="incipit">Scapulis suis</seg>. <seg xml:id="incipit.07011000.M.2163" ana="#EV" type="incipit">Ductus est Iesus</seg>. Nonum responsorium post <seg xml:id="incipit.07011000.M.2164" ana="#RV" subtype="supplied" type="incipit">Gloria patri</seg> reiteratur.</ab>
-          <ab><seg xml:id="function.Sacerdos.07011000.M.40" ana="#function">Sacerdos</seg> a modo usque in dominicam passionis utitur his versibus</ab>
+          <ab><seg xml:id="function.Sacerdos.07011000.M.39" ana="#function">Sacerdos</seg> a modo usque in dominicam passionis utitur his versibus</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07011000.L.422" n="L">Ante laudes</label></ab>
@@ -3151,7 +3386,7 @@
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07011000.MI.427" n="MI">Ad missam</label></ab>
           <ab>
-            <seg xml:id="incipit.07011000.MI.2182" ana="#IN" subtype="supplied" type="incipit">Invocavit</seg> per totum. <seg xml:id="incipit.07011000.MI.2183" ana="#CL" rend="#OR" type="incipit">Deus qui ecclesiam tuam annua quadragesimali</seg>. <seg xml:id="incipit.07011000.MI.2184" ana="#EP" type="incipit">Hortamur vos</seg>. <seg xml:id="incipit.07011000.MI.2185" ana="#TR" type="incipit">Qui habitat</seg>. Primum versum <seg xml:id="function.cantor.07011000.MI.41" ana="#function">cantor</seg> et alius de choro secunde cantent. Secundum versum chorus <seg xml:id="function.decani.07011000.MI.42" ana="#function">decani</seg>. Tertium duo de choro retro <seg xml:id="place.aram.07011000.MI.39" ana="#place">aram</seg>. Quartum alter chorus et sic per ordinem usque in finem decantetur. <seg xml:id="incipit.07011000.MI.2186" ana="#EV" type="incipit">Ductus est Iesus</seg>.</ab>
+            <seg xml:id="incipit.07011000.MI.2182" ana="#IN" subtype="supplied" type="incipit">Invocavit</seg> per totum. <seg xml:id="incipit.07011000.MI.2183" ana="#CL" rend="#OR" type="incipit">Deus qui ecclesiam tuam annua quadragesimali</seg>. <seg xml:id="incipit.07011000.MI.2184" ana="#EP" type="incipit">Hortamur vos</seg>. <seg xml:id="incipit.07011000.MI.2185" ana="#TR" type="incipit">Qui habitat</seg>. Primum versum <seg xml:id="function.cantor.07011000.MI.40" ana="#function">cantor</seg> et alius de choro secunde cantent. Secundum versum chorus <seg xml:id="function.decani.07011000.MI.41" ana="#function">decani</seg>. Tertium duo de choro retro <seg xml:id="place.aram.07011000.MI.39" ana="#place">aram</seg>. Quartum alter chorus et sic per ordinem usque in finem decantetur. <seg xml:id="incipit.07011000.MI.2186" ana="#EV" type="incipit">Ductus est Iesus</seg>.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07011000.S.428" n="S">Ad sextam</label></ab>
@@ -3252,9 +3487,9 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.120" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.120" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
-          <ab>In hac ebdomada ieiunium quattuor temporum celebratur quod celebrandum esse <seg xml:id="person.LeoMagnus.nocdb.comment.14" ana="#person">Leo Magnus</seg>, <seg xml:id="person.Gelasius.nocdb.comment.15" ana="#person">Gelasius</seg>, <seg xml:id="person.Gregoriusprimus.nocdb.comment.16" ana="#person">Gregorius primus</seg>, secundus et septimus constituisse leguntur.</ab>
+          <ab>In hac ebdomada ieiunium quattuor temporum celebratur quod celebrandum esse <seg xml:id="person.LeoMagnus.00000000.comment.14" ana="#person">Leo Magnus</seg>, <seg xml:id="person.Gelasius.00000000.comment.15" ana="#person">Gelasius</seg>, <seg xml:id="person.Gregoriusprimus.00000000.comment.16" ana="#person">Gregorius primus</seg>, secundus et septimus constituisse leguntur.</ab>
         </div>
       </div>
       <div>
@@ -3371,9 +3606,9 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.125" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.125" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
-          <ab>Nota quod hymnus trium puerorum <seg xml:id="incipit.nocdb.comment.2300" ana="#HY" subtype="supplied" type="incipit">Benedictus es domine</seg> sicut ordo iubet a <seg xml:id="function.tribuspueris.nocdb.comment.43" ana="#function">tribus pueris</seg>, ubi fieri potest, debet cantari et interim nemo in ecclesia sedeat, quia pueri in camino ambulantes cantabant. In libris sacramentorum in hoc officio oratio super populum non habetur, quia officium ut praecepit ordo in nocte peragitur.</ab>
+          <ab>Nota quod hymnus trium puerorum <seg xml:id="incipit.00000000.comment.2300" ana="#HY" subtype="supplied" type="incipit">Benedictus es domine</seg> sicut ordo iubet a <seg xml:id="function.tribuspueris.00000000.comment.42" ana="#function">tribus pueris</seg>, ubi fieri potest, debet cantari et interim nemo in ecclesia sedeat, quia pueri in camino ambulantes cantabant. In libris sacramentorum in hoc officio oratio super populum non habetur, quia officium ut praecepit ordo in nocte peragitur.</ab>
         </div>
       </div>
       <div>
@@ -3892,7 +4127,7 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07044000.MI.553" n="MI">Ad missam</label></ab>
-          <ab>leguntur et bis <seg xml:id="incipit.07044000.MI.2478" ana="#ORI" subtype="supplied" type="incipit">Flectamus genua</seg> dicimus. <seg xml:id="incipit.07044000.MI.2479" ana="#VAR" subtype="supplied" type="incipit">Flectamus genua</seg> dicimus propter scrutinium. Scrutari autem est de fide inquirere, cuius ratio in ordine pontificali plenior invenitur. Hoc die fit <seg xml:id="function.cathecumenorum.07044000.MI.44" ana="#function">cathecumenorum</seg> collectio, quorum nares et aures tanguntur digitis <seg xml:id="function.presbyterorum.07044000.MI.45" ana="#function">presbyterorum</seg>. Merito autem ebdomada quarta et in feria quarta <choice>
+          <ab>leguntur et bis <seg xml:id="incipit.07044000.MI.2478" ana="#ORI" subtype="supplied" type="incipit">Flectamus genua</seg> dicimus. <seg xml:id="incipit.07044000.MI.2479" ana="#VAR" subtype="supplied" type="incipit">Flectamus genua</seg> dicimus propter scrutinium. Scrutari autem est de fide inquirere, cuius ratio in ordine pontificali plenior invenitur. Hoc die fit <seg xml:id="function.cathecumenorum.07044000.MI.43" ana="#function">cathecumenorum</seg> collectio, quorum nares et aures tanguntur digitis <seg xml:id="function.presbyterorum.07044000.MI.44" ana="#function">presbyterorum</seg>. Merito autem ebdomada quarta et in feria quarta <choice>
               <sic>cathemini</sic>
               <corr>cathecumeni</corr>
             </choice> ad christianum nomen accedunt, quia quinta mundi aetate per regnum <seg xml:id="person.David.07044000.MI.17" ana="#person">David</seg> regnum <seg xml:id="person.Christi.07044000.MI.18" ana="#person">Christi</seg> designatur. Ad missam prior oratio sine salutatione et cum <seg xml:id="incipit.07044000.MI.2480" ana="#ORI" subtype="supplied" type="incipit">Flectamus genua</seg>. Postquam lectio et graduale. Deinde <seg xml:id="incipit.07044000.MI.2481" ana="#ORI" subtype="supplied" type="incipit">Dominus vobiscum. Oremus</seg>. <seg xml:id="incipit.07044000.MI.2482" ana="#ORI" subtype="supplied" type="incipit">Flectamus genua</seg>. Oratio solito more dicatur.</ab>
@@ -4158,19 +4393,19 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07061000.T.598" n="T">Post tertiam</label></ab>
-          <ab>benedicitur solito more sal et aqua et post aspersionem dicit <seg xml:id="function.sacerdos.07061000.T.46" ana="#function">sacerdos</seg>
+          <ab>benedicitur solito more sal et aqua et post aspersionem dicit <seg xml:id="function.sacerdos.07061000.T.45" ana="#function">sacerdos</seg>
             <seg xml:id="incipit.07061000.T.2597" ana="#VS" type="incipit">Domine apud te est fons vitae</seg>. <seg xml:id="incipit.07061000.T.2598" ana="#ORI" subtype="supplied" type="incipit">Dominus vobiscum. Oremus</seg>. <seg xml:id="incipit.07061000.T.2599" ana="#OR" type="incipit">Sancti spiritus quaesumus domine</seg>.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07061000.P.599" n="P">Ad processionem</label></ab>
           <ab>
-            <seg xml:id="incipit.07061000.P.2600" ana="#RPP" type="incipit">Circumdederunt me</seg>. Et si hoc non suffecerit dicantur aliqua responsoria de historia. Cum autem ventum fuerit ad stationem <seg xml:id="function.sacerdos.07061000.P.47" ana="#function">sacerdos</seg> dicat <seg xml:id="incipit.07061000.P.2601" ana="#OR" type="incipit">Deus quem diligere</seg>. Quam statim sequitur <seg xml:id="incipit.07061000.P.2602" ana="#EPP" type="incipit">Venerunt filii Israel</seg>. Tota legatur in modum prophetiae. Qua finita <seg xml:id="function.cantores.07061000.P.48" ana="#function">cantores</seg> incipiant <seg xml:id="incipit.07061000.P.2603" ana="#RPP" rend="#AP" type="incipit">Collegerunt pontifices</seg>. Deinde <seg xml:id="function.cantores.07061000.P.49" ana="#function">cantores</seg> decantent <seg xml:id="incipit.07061000.P.2604" ana="#RV" subtype="supplied" type="incipit">Unus autem</seg>. Sequitur <seg xml:id="incipit.07061000.P.2605" ana="#EV" type="incipit">Cum appropinquarent</seg>. Fini<pb n="43r" xml:id="BRI.043r"/>to evangelio <seg xml:id="function.sacerdos.07061000.P.50" ana="#function">sacerdos</seg> faciat sermonem ad <seg xml:id="function.populum.07061000.P.51" ana="#function">populum</seg>. Quo finito sequitur benedictio palmarum et olivarum sicut habet ordo et consuetudo. Finita benedictione <seg xml:id="function.sacerdos.07061000.P.52" ana="#function">sacerdos</seg> palmas distribuat <seg xml:id="function.choro.07061000.P.53" ana="#function">choro</seg> cantante <seg xml:id="incipit.07061000.P.2606" ana="#AP" type="incipit">Ante sex dies</seg>. Qua finita <seg xml:id="function.sacerdos.07061000.P.54" ana="#function">sacerdos</seg> dicat <seg xml:id="incipit.07061000.P.2607" ana="#OR" type="incipit">Omnipotens sempiterne deus</seg>. Deinde in reditu cantentur <seg xml:id="incipit.07061000.P.2608" ana="#AP" type="incipit">Cum appropinquaret</seg>. <seg xml:id="incipit.07061000.P.2609" ana="#AP" type="incipit">Cum audisset populus</seg>. <seg xml:id="incipit.07061000.P.2610" ana="#AP" type="incipit">Turba multa</seg>. Cum ventum fuerit ad crucem cantantur <seg xml:id="incipit.07061000.P.2611" ana="#AP" type="incipit">Fulgentibus palmis</seg>. <seg xml:id="incipit.07061000.P.2612" ana="#AP" type="incipit">Occurrunt turbae</seg>. His finitis procedant <seg xml:id="function.pueri.07061000.P.55" ana="#function">pueri</seg> cappis induti incipiant <seg xml:id="incipit.07061000.P.2613" ana="#AP" type="incipit">Pueri Hebraeorum vestimenta</seg> et sternunt cappas. Deinde imponentes <seg xml:id="incipit.07061000.P.2614" ana="#AP" type="incipit">Pueri Hebraeorum tollentes ramos</seg> proicientque ramos. Tunc accedant <seg xml:id="function.cantores.07061000.P.56" ana="#function">cantores</seg>, denudent crucem et incipiant <seg xml:id="incipit.07061000.P.2615" ana="#HV" type="incipit">O crux ave spes</seg> prosternente se et <seg xml:id="function.populo.07061000.P.57" ana="#function">populo</seg>. Iterum <seg xml:id="function.cantores.07061000.P.58" ana="#function">cantores</seg>
-            <seg xml:id="incipit.07061000.P.2616" ana="#HV" type="incipit">Te summa deus</seg> et rursus omnes prosternuntur. Postea <seg xml:id="function.pueri.07061000.P.59" ana="#function">pueri</seg> cantent <seg xml:id="incipit.07061000.P.2617" ana="#HY" rend="#VV" type="incipit">Gloria laus et honor</seg>. Finitis versibus cantentur <seg xml:id="incipit.07061000.P.2618" ana="#AP" type="incipit">Cum angelis et pueris</seg>. <seg xml:id="incipit.07061000.P.2619" ana="#AP" type="incipit">Scriptum est enim</seg>. Et <seg xml:id="function.sacerdos.07061000.P.60" ana="#function">sacerdos</seg> prostratus palma tangatur usque dum dicatur <seg xml:id="incipit.07061000.P.2620" ana="#AP" corresp="#./preceding-sibling::AP[1]" subtype="supplied" type="incipit">Postquam autem surrexero</seg>. Tunc surgat et dicat <seg xml:id="incipit.07061000.P.2621" ana="#OR" type="incipit">Deus qui miro ordine dispositionis</seg>. <seg xml:id="incipit.07061000.P.2622" ana="#RPP" type="incipit">Ingrediente domino</seg>. Et sic redeant in <seg xml:id="place.chorum.07061000.P.56" ana="#place">chorum</seg> et ibi <seg xml:id="function.sacerdos.07061000.P.61" ana="#function">sacerdos</seg> dicat <seg xml:id="incipit.07061000.P.2623" ana="#OR" type="incipit">Adiuva nos deus</seg>. <seg xml:id="function.Ministri.07061000.P.62" ana="#function">Ministri</seg> deponunt dalmaticam et subtile, quibus induti erant in processione et assumunt casulas.</ab>
+            <seg xml:id="incipit.07061000.P.2600" ana="#RPP" type="incipit">Circumdederunt me</seg>. Et si hoc non suffecerit dicantur aliqua responsoria de historia. Cum autem ventum fuerit ad stationem <seg xml:id="function.sacerdos.07061000.P.46" ana="#function">sacerdos</seg> dicat <seg xml:id="incipit.07061000.P.2601" ana="#OR" type="incipit">Deus quem diligere</seg>. Quam statim sequitur <seg xml:id="incipit.07061000.P.2602" ana="#EPP" type="incipit">Venerunt filii Israel</seg>. Tota legatur in modum prophetiae. Qua finita <seg xml:id="function.cantores.07061000.P.47" ana="#function">cantores</seg> incipiant <seg xml:id="incipit.07061000.P.2603" ana="#RPP" rend="#AP" type="incipit">Collegerunt pontifices</seg>. Deinde <seg xml:id="function.cantores.07061000.P.48" ana="#function">cantores</seg> decantent <seg xml:id="incipit.07061000.P.2604" ana="#RV" subtype="supplied" type="incipit">Unus autem</seg>. Sequitur <seg xml:id="incipit.07061000.P.2605" ana="#EV" type="incipit">Cum appropinquarent</seg>. Fini<pb n="43r" xml:id="BRI.043r"/>to evangelio <seg xml:id="function.sacerdos.07061000.P.49" ana="#function">sacerdos</seg> faciat sermonem ad <seg xml:id="function.populum.07061000.P.50" ana="#function">populum</seg>. Quo finito sequitur benedictio palmarum et olivarum sicut habet ordo et consuetudo. Finita benedictione <seg xml:id="function.sacerdos.07061000.P.51" ana="#function">sacerdos</seg> palmas distribuat <seg xml:id="function.choro.07061000.P.52" ana="#function">choro</seg> cantante <seg xml:id="incipit.07061000.P.2606" ana="#AP" type="incipit">Ante sex dies</seg>. Qua finita <seg xml:id="function.sacerdos.07061000.P.53" ana="#function">sacerdos</seg> dicat <seg xml:id="incipit.07061000.P.2607" ana="#OR" type="incipit">Omnipotens sempiterne deus</seg>. Deinde in reditu cantentur <seg xml:id="incipit.07061000.P.2608" ana="#AP" type="incipit">Cum appropinquaret</seg>. <seg xml:id="incipit.07061000.P.2609" ana="#AP" type="incipit">Cum audisset populus</seg>. <seg xml:id="incipit.07061000.P.2610" ana="#AP" type="incipit">Turba multa</seg>. Cum ventum fuerit ad crucem cantantur <seg xml:id="incipit.07061000.P.2611" ana="#AP" type="incipit">Fulgentibus palmis</seg>. <seg xml:id="incipit.07061000.P.2612" ana="#AP" type="incipit">Occurrunt turbae</seg>. His finitis procedant <seg xml:id="function.pueri.07061000.P.54" ana="#function">pueri</seg> cappis induti incipiant <seg xml:id="incipit.07061000.P.2613" ana="#AP" type="incipit">Pueri Hebraeorum vestimenta</seg> et sternunt cappas. Deinde imponentes <seg xml:id="incipit.07061000.P.2614" ana="#AP" type="incipit">Pueri Hebraeorum tollentes ramos</seg> proicientque ramos. Tunc accedant <seg xml:id="function.cantores.07061000.P.55" ana="#function">cantores</seg>, denudent crucem et incipiant <seg xml:id="incipit.07061000.P.2615" ana="#HV" type="incipit">O crux ave spes</seg> prosternente se et <seg xml:id="function.populo.07061000.P.56" ana="#function">populo</seg>. Iterum <seg xml:id="function.cantores.07061000.P.57" ana="#function">cantores</seg>
+            <seg xml:id="incipit.07061000.P.2616" ana="#HV" type="incipit">Te summa deus</seg> et rursus omnes prosternuntur. Postea <seg xml:id="function.pueri.07061000.P.58" ana="#function">pueri</seg> cantent <seg xml:id="incipit.07061000.P.2617" ana="#HY" rend="#VV" type="incipit">Gloria laus et honor</seg>. Finitis versibus cantentur <seg xml:id="incipit.07061000.P.2618" ana="#AP" type="incipit">Cum angelis et pueris</seg>. <seg xml:id="incipit.07061000.P.2619" ana="#AP" type="incipit">Scriptum est enim</seg>. Et <seg xml:id="function.sacerdos.07061000.P.59" ana="#function">sacerdos</seg> prostratus palma tangatur usque dum dicatur <seg xml:id="incipit.07061000.P.2620" ana="#AP" corresp="#./preceding-sibling::AP[1]" subtype="supplied" type="incipit">Postquam autem surrexero</seg>. Tunc surgat et dicat <seg xml:id="incipit.07061000.P.2621" ana="#OR" type="incipit">Deus qui miro ordine dispositionis</seg>. <seg xml:id="incipit.07061000.P.2622" ana="#RPP" type="incipit">Ingrediente domino</seg>. Et sic redeant in <seg xml:id="place.chorum.07061000.P.56" ana="#place">chorum</seg> et ibi <seg xml:id="function.sacerdos.07061000.P.60" ana="#function">sacerdos</seg> dicat <seg xml:id="incipit.07061000.P.2623" ana="#OR" type="incipit">Adiuva nos deus</seg>. <seg xml:id="function.Ministri.07061000.P.61" ana="#function">Ministri</seg> deponunt dalmaticam et subtile, quibus induti erant in processione et assumunt casulas.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07061000.MI.600" n="MI">Ad missam</label></ab>
           <ab>
-            <seg xml:id="incipit.07061000.MI.2624" ana="#IN" subtype="supplied" type="incipit">Domine ne longe</seg>. <seg xml:id="incipit.07061000.MI.2625" ana="#CL" rend="#OR" type="incipit">Omnipotens sempiterne deus qui humano generi</seg>. <seg xml:id="incipit.07061000.MI.2626" ana="#EP" type="incipit">Hoc enim sentite</seg>. <seg xml:id="incipit.07061000.MI.2627" ana="#GR" type="incipit">Tenuisti</seg>. <seg xml:id="incipit.07061000.MI.2628" ana="#TR" type="incipit">Deus deus meus</seg> eo ordine cantetur sicut <seg xml:id="incipit.07061000.MI.2629" ana="#TR" type="incipit">Qui habitat</seg> in dominica prima quadragesimae. Quo finito <seg xml:id="function.diaconus.07061000.MI.63" ana="#function">diaconus</seg> salutat <seg xml:id="function.populum.07061000.MI.64" ana="#function">populum</seg> ante passionem dicens <seg xml:id="incipit.07061000.MI.2630" ana="#VAR" subtype="supplied" type="incipit">Dominus vobiscum</seg>. <seg xml:id="incipit.07061000.MI.2631" ana="#EVI" subtype="supplied" type="incipit">Passio domini nostri Iesu Christi</seg> ad omnes passiones dicitur, nisi ad illam in parasceve. <seg xml:id="incipit.07061000.MI.2632" ana="#OF" type="incipit">Improperium</seg>. Praefatio de sancta cruce dicitur <seg xml:id="incipit.07061000.MI.2633" ana="#PF" subtype="supplied" type="incipit">Qui salutem humani generis</seg> usque in feria sexta. <seg xml:id="incipit.07061000.MI.2634" ana="#CO" type="incipit">Pater si non potest</seg>. Missa cum <seg xml:id="incipit.07061000.MI.2635" ana="#BD" subtype="supplied" type="incipit">Benedicamus domino</seg> clauditur sicut per totam quadragesimam.</ab>
+            <seg xml:id="incipit.07061000.MI.2624" ana="#IN" subtype="supplied" type="incipit">Domine ne longe</seg>. <seg xml:id="incipit.07061000.MI.2625" ana="#CL" rend="#OR" type="incipit">Omnipotens sempiterne deus qui humano generi</seg>. <seg xml:id="incipit.07061000.MI.2626" ana="#EP" type="incipit">Hoc enim sentite</seg>. <seg xml:id="incipit.07061000.MI.2627" ana="#GR" type="incipit">Tenuisti</seg>. <seg xml:id="incipit.07061000.MI.2628" ana="#TR" type="incipit">Deus deus meus</seg> eo ordine cantetur sicut <seg xml:id="incipit.07061000.MI.2629" ana="#TR" type="incipit">Qui habitat</seg> in dominica prima quadragesimae. Quo finito <seg xml:id="function.diaconus.07061000.MI.62" ana="#function">diaconus</seg> salutat <seg xml:id="function.populum.07061000.MI.63" ana="#function">populum</seg> ante passionem dicens <seg xml:id="incipit.07061000.MI.2630" ana="#VAR" subtype="supplied" type="incipit">Dominus vobiscum</seg>. <seg xml:id="incipit.07061000.MI.2631" ana="#EVI" subtype="supplied" type="incipit">Passio domini nostri Iesu Christi</seg> ad omnes passiones dicitur, nisi ad illam in parasceve. <seg xml:id="incipit.07061000.MI.2632" ana="#OF" type="incipit">Improperium</seg>. Praefatio de sancta cruce dicitur <seg xml:id="incipit.07061000.MI.2633" ana="#PF" subtype="supplied" type="incipit">Qui salutem humani generis</seg> usque in feria sexta. <seg xml:id="incipit.07061000.MI.2634" ana="#CO" type="incipit">Pater si non potest</seg>. Missa cum <seg xml:id="incipit.07061000.MI.2635" ana="#BD" subtype="supplied" type="incipit">Benedicamus domino</seg> clauditur sicut per totam quadragesimam.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07061000.S.601" n="S">Ad sextam</label></ab>
@@ -4304,9 +4539,9 @@
         </div>
       </div>      
 <div>
-        <head xml:id="feast.nocdb.158" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.158" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
-          <ab>In cena domini finis est quadragesimae, initium paschalis observantiae. Veteris legis conclusio, novi testamenti inchoatio. Hac nocte nec <seg xml:id="incipit.nocdb.comment.2704" ana="#VAR" subtype="supplied" type="incipit">Domine labia mea aperies</seg>, nec <seg xml:id="incipit.nocdb.comment.2705" ana="#VAR" subtype="supplied" type="incipit">Deus in adiutorium meum</seg> dicitur, nec aliqua quae ad officium pertinent <seg xml:id="function.sacerdotis.nocdb.comment.65" ana="#function">sacerdotis</seg> fiunt, quia pastor noster <seg xml:id="person.Christus.nocdb.comment.19" ana="#person">Christus</seg> recessit et arietes gregis, id est <seg xml:id="function.apostoli.nocdb.comment.66" ana="#function">apostoli</seg>, dispersi sunt. <seg xml:id="incipit.nocdb.comment.2706" ana="#PS" subtype="supplied" type="incipit">Venite exultemus</seg> non dicitur propter malum conventum <seg xml:id="person.Iudaeorum.nocdb.comment.20" ana="#person">Iudaeorum</seg> in nece domini. In fine etiam psalmorum, nec in responsoriis, nec in ullo loco <seg xml:id="incipit.nocdb.comment.2707" ana="#VV" subtype="supplied" type="incipit">Gloria patri</seg> dicitur, nec in antiphonis, nec in versibus finis more solito trahitur.</ab>
+          <ab>In cena domini finis est quadragesimae, initium paschalis observantiae. Veteris legis conclusio, novi testamenti inchoatio. Hac nocte nec <seg xml:id="incipit.00000000.comment.2704" ana="#VAR" subtype="supplied" type="incipit">Domine labia mea aperies</seg>, nec <seg xml:id="incipit.00000000.comment.2705" ana="#VAR" subtype="supplied" type="incipit">Deus in adiutorium meum</seg> dicitur, nec aliqua quae ad officium pertinent <seg xml:id="function.sacerdotis.00000000.comment.64" ana="#function">sacerdotis</seg> fiunt, quia pastor noster <seg xml:id="person.Christus.00000000.comment.19" ana="#person">Christus</seg> recessit et arietes gregis, id est <seg xml:id="function.apostoli.00000000.comment.65" ana="#function">apostoli</seg>, dispersi sunt. <seg xml:id="incipit.00000000.comment.2706" ana="#PS" subtype="supplied" type="incipit">Venite exultemus</seg> non dicitur propter malum conventum <seg xml:id="person.Iudaeorum.00000000.comment.20" ana="#person">Iudaeorum</seg> in nece domini. In fine etiam psalmorum, nec in responsoriis, nec in ullo loco <seg xml:id="incipit.00000000.comment.2707" ana="#VV" subtype="supplied" type="incipit">Gloria patri</seg> dicitur, nec in antiphonis, nec in versibus finis more solito trahitur.</ab>
         </div>
       </div>
       <div>
@@ -4317,13 +4552,13 @@
           <ab type="time:2"><label xml:id="nocturne.07065000.M.54">In secundo nocturno</label>
             <seg xml:id="incipit.07065000.M.2718" ana="#AN" type="incipit">Liberavit</seg>. <seg xml:id="incipit.07065000.M.2719" ana="#PS" type="incipit">Deus iudicium</seg>. <seg xml:id="incipit.07065000.M.2720" ana="#AN" type="incipit">Cogitaverunt</seg>. <seg xml:id="incipit.07065000.M.2721" ana="#PS" type="incipit">Quam bonus</seg>. <seg xml:id="incipit.07065000.M.2722" ana="#AN" type="incipit">Exurge domine</seg>. <seg xml:id="incipit.07065000.M.2723" ana="#PS" type="incipit">Ut quid deus</seg>. <seg xml:id="incipit.07065000.M.2724" ana="#VS" type="incipit">Avertantur retrorsum et erubescant</seg>. Tres lectiones de tractatu sancti <seg xml:id="person.Augustini.07065000.M.21" ana="#person">Augustini</seg> de psalmo LX III <seg xml:id="incipit.07065000.M.2725" ana="#LS" subtype="supplied" type="incipit">Exaudi deus orationem meam</seg>.</ab>
           <ab type="time:2"><label xml:id="nocturne.07065000.M.55">In tertio nocturno</label>
-            <seg xml:id="incipit.07065000.M.2726" ana="#AN" type="incipit">Dixi iniquis</seg>. <seg xml:id="incipit.07065000.M.2727" ana="#PS" type="incipit">Confitebimur</seg>. <seg xml:id="incipit.07065000.M.2728" ana="#AN" type="incipit">Terra tremuit</seg>. <seg xml:id="incipit.07065000.M.2729" ana="#PS" type="incipit">Notus in Iudea</seg>. <seg xml:id="incipit.07065000.M.2730" ana="#AN" type="incipit">In tribulatione</seg>. <seg xml:id="incipit.07065000.M.2731" ana="#PS" type="incipit">Voce mea</seg>. <seg xml:id="incipit.07065000.M.2732" ana="#VS" type="incipit">Exurge domine iudica causam meam</seg>. Tres lectiones de apostolo <seg xml:id="incipit.07065000.M.2733" ana="#LE" subtype="supplied" type="incipit">Calicem benedictionis</seg>. Hac nocte et in duabus sequentibus <seg xml:id="function.lector.07065000.M.67" ana="#function">lector</seg> non petit benedictionem, nec dicit <seg xml:id="incipit.07065000.M.2734" ana="#LE" corresp="#./preceding-sibling::LE[1]" subtype="supplied" type="incipit">Tu autem domine</seg>. Novem psalmi et lectiones et responsoria insinuant quod dominus ad inferna descendens rapuit inde tria genera hominum scilicet homines ante legem, sub lege, et sub eius tempore primae gratiae et transvexit ad societatem novem ordinum angelorum. Accenduntur autem lumina duodecim per tres noctes et extinguntur per singulos psalmos propter veri solis occubitum et praedicatorum suorum defectum.</ab>
+            <seg xml:id="incipit.07065000.M.2726" ana="#AN" type="incipit">Dixi iniquis</seg>. <seg xml:id="incipit.07065000.M.2727" ana="#PS" type="incipit">Confitebimur</seg>. <seg xml:id="incipit.07065000.M.2728" ana="#AN" type="incipit">Terra tremuit</seg>. <seg xml:id="incipit.07065000.M.2729" ana="#PS" type="incipit">Notus in Iudea</seg>. <seg xml:id="incipit.07065000.M.2730" ana="#AN" type="incipit">In tribulatione</seg>. <seg xml:id="incipit.07065000.M.2731" ana="#PS" type="incipit">Voce mea</seg>. <seg xml:id="incipit.07065000.M.2732" ana="#VS" type="incipit">Exurge domine iudica causam meam</seg>. Tres lectiones de apostolo <seg xml:id="incipit.07065000.M.2733" ana="#LE" subtype="supplied" type="incipit">Calicem benedictionis</seg>. Hac nocte et in duabus sequentibus <seg xml:id="function.lector.07065000.M.66" ana="#function">lector</seg> non petit benedictionem, nec dicit <seg xml:id="incipit.07065000.M.2734" ana="#LE" corresp="#./preceding-sibling::LE[1]" subtype="supplied" type="incipit">Tu autem domine</seg>. Novem psalmi et lectiones et responsoria insinuant quod dominus ad inferna descendens rapuit inde tria genera hominum scilicet homines ante legem, sub lege, et sub eius tempore primae gratiae et transvexit ad societatem novem ordinum angelorum. Accenduntur autem lumina duodecim per tres noctes et extinguntur per singulos psalmos propter veri solis occubitum et praedicatorum suorum defectum.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.07065000.L.627" n="L">Ad laudes</label></ab>
           <ab>
-            <seg xml:id="incipit.07065000.L.2735" ana="#AN" type="incipit">Iustificeris domine</seg> cum reliquis. Post quintam ad laudes antiphonam incipitur <seg xml:id="incipit.07065000.L.2736" ana="#HY" type="incipit">Rex Christe factor</seg>. <seg xml:id="incipit.07065000.L.2737" ana="#VS" type="incipit">Christus factus est pro nobis oboediens usque ad mortem</seg>. Tunc statim lumen extinguitur. <seg xml:id="incipit.07065000.L.2738" ana="#AB" type="incipit">Traditor autem</seg>. <seg xml:id="incipit.07065000.L.2739" ana="#BE" rend="#PS" type="incipit">Benedictus</seg>. Et cum incipitur fit sonus et est signum <seg xml:id="person.Iudae.07065000.L.22" ana="#person">Iudae</seg>, quo dominum tradidit dicens <seg xml:id="incipit.07065000.L.2740" ana="#CIT" subtype="supplied" type="incipit">Ave rabbi</seg>. <seg xml:id="incipit.07065000.L.2741" ana="#BE" rend="#PS" type="incipit">Benedictus</seg> et antiphona finitis canitur <seg xml:id="incipit.07065000.L.2742" ana="#LT" subtype="supplied" type="incipit">Kyrie eleison. Christe eleison. Kyrie eleison</seg> a septentrione, ab oriente et a meridie. <seg xml:id="function.Cantores.07065000.L.68" ana="#function">Cantores</seg>
-            <seg xml:id="incipit.07065000.L.2743" ana="#VV" subtype="supplied" type="incipit">Qui prophetice</seg>. <seg xml:id="function.Pueri.07065000.L.69" ana="#function">Pueri</seg> in pulG</ab>
+            <seg xml:id="incipit.07065000.L.2735" ana="#AN" type="incipit">Iustificeris domine</seg> cum reliquis. Post quintam ad laudes antiphonam incipitur <seg xml:id="incipit.07065000.L.2736" ana="#HY" type="incipit">Rex Christe factor</seg>. <seg xml:id="incipit.07065000.L.2737" ana="#VS" type="incipit">Christus factus est pro nobis oboediens usque ad mortem</seg>. Tunc statim lumen extinguitur. <seg xml:id="incipit.07065000.L.2738" ana="#AB" type="incipit">Traditor autem</seg>. <seg xml:id="incipit.07065000.L.2739" ana="#BE" rend="#PS" type="incipit">Benedictus</seg>. Et cum incipitur fit sonus et est signum <seg xml:id="person.Iudae.07065000.L.22" ana="#person">Iudae</seg>, quo dominum tradidit dicens <seg xml:id="incipit.07065000.L.2740" ana="#CIT" subtype="supplied" type="incipit">Ave rabbi</seg>. <seg xml:id="incipit.07065000.L.2741" ana="#BE" rend="#PS" type="incipit">Benedictus</seg> et antiphona finitis canitur <seg xml:id="incipit.07065000.L.2742" ana="#LT" subtype="supplied" type="incipit">Kyrie eleison. Christe eleison. Kyrie eleison</seg> a septentrione, ab oriente et a meridie. <seg xml:id="function.Cantores.07065000.L.67" ana="#function">Cantores</seg>
+            <seg xml:id="incipit.07065000.L.2743" ana="#VV" subtype="supplied" type="incipit">Qui prophetice</seg>. <seg xml:id="function.Pueri.07065000.L.68" ana="#function">Pueri</seg> in pulG</ab>
         </div>
       </div>
       <div>
@@ -4678,15 +4913,15 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.174" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.174" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
-          <ab>In vigilia Pentecostes hora tertia ornetur <seg xml:id="place.ecclesia.nocdb.comment.61" ana="#place">ecclesia</seg> ut in pascha. Finitis de ascensione cursibus scilicet tertia, sexta, nona, conveniant ad missarum sollemnia, quia in nona hora fieri debet baptisma. Nullus ante baptismum missam de die celebret. Nam orationes ante baptismum ad missam <del type="rasur"/> possunt congruere.</ab>
+          <ab>In vigilia Pentecostes hora tertia ornetur <seg xml:id="place.ecclesia.00000000.comment.61" ana="#place">ecclesia</seg> ut in pascha. Finitis de ascensione cursibus scilicet tertia, sexta, nona, conveniant ad missarum sollemnia, quia in nona hora fieri debet baptisma. Nullus ante baptismum missam de die celebret. Nam orationes ante baptismum ad missam <del type="rasur"/> possunt congruere.</ab>
         </div>
       </div>
       <div>
         <head xml:id="feast.08077000.175" corresp="#08077000">ORDO OFFICII IN VIGILIA PENTECOSTES</head>
         <div>
-          <ab>in primis supremus in <seg xml:id="place.choro.08077000.comment.62" ana="#place">choro</seg> non ille qui adstat <seg xml:id="place.altari.08077000.comment.63" ana="#place">altari</seg>. <seg xml:id="function.Sacerdos.08077000.comment.70" ana="#function">Sacerdos</seg> indutus cappa legat sine titulo <seg xml:id="incipit.08077000.comment.3063" ana="#LE" type="incipit">Tentavit Deus Abraham</seg>. Qua expleta statim sine salutatione sequitur <seg xml:id="incipit.08077000.comment.3064" ana="#ORI" subtype="supplied" type="incipit"><phr type="neume">Oremus</phr></seg>. <seg xml:id="incipit.08077000.comment.3065" ana="#OR" type="incipit">Deus qui in Abrahae</seg>. Deinde <seg xml:id="incipit.08077000.comment.3066" ana="#LE" type="incipit">Scripsit Moyses canticum</seg>. <seg xml:id="incipit.08077000.comment.3067" ana="#TR" type="incipit">Attende caelum</seg>. <seg xml:id="incipit.08077000.comment.3068" ana="#ORI" subtype="supplied" type="incipit">Oremus</seg>. <seg xml:id="incipit.08077000.comment.3069" ana="#OR" type="incipit">Deus qui nobis</seg>. <seg xml:id="incipit.08077000.comment.3070" ana="#LE" type="incipit">Apprehendent septem mulieres</seg>. <seg xml:id="incipit.08077000.comment.3071" ana="#TR" type="incipit">Vinea facta est</seg>. <seg xml:id="incipit.08077000.comment.3072" ana="#ORI" subtype="supplied" type="incipit">Oremus</seg>. <seg xml:id="incipit.08077000.comment.3073" ana="#OR" type="incipit">Deus qui nos ad celebrandam festivitatem</seg>. <seg xml:id="incipit.08077000.comment.3074" ana="#LE" type="incipit">Audi Israel</seg>. <seg xml:id="incipit.08077000.comment.3075" ana="#ORI" subtype="supplied" type="incipit">Oremus</seg>. <seg xml:id="incipit.08077000.comment.3076" ana="#OR" type="incipit">Deus qui es incommutabilis</seg>. <seg xml:id="incipit.08077000.comment.3077" ana="#TR" type="incipit">Sicut cervus</seg>. <seg xml:id="incipit.08077000.comment.3078" ana="#ORI" subtype="supplied" type="incipit">Oremus</seg>. <seg xml:id="incipit.08077000.comment.3079" ana="#OR" type="incipit">Concede quaesumus omnipotens deus ut qui sollemnitatem</seg>. Qua dicta proceditur ad <seg xml:id="place.fontem.08077000.comment.64" ana="#place">fontem</seg> cum his <seg xml:id="incipit.08077000.comment.3080" ana="#HY" rend="#VV" type="incipit">Rex sanctorum angelorum</seg>. Cetera aguntur ut in vigilia paschae. Post baptismum reditur in <seg xml:id="place.chorum.08077000.comment.65" ana="#place">chorum</seg> cum <seg xml:id="incipit.08077000.comment.3081" ana="#LT" type="incipit">Christe audi nos</seg>. Qua finita sollemniter incipitur ad missam.</ab>
+          <ab>in primis supremus in <seg xml:id="place.choro.08077000.comment.62" ana="#place">choro</seg> non ille qui adstat <seg xml:id="place.altari.08077000.comment.63" ana="#place">altari</seg>. <seg xml:id="function.Sacerdos.08077000.comment.69" ana="#function">Sacerdos</seg> indutus cappa legat sine titulo <seg xml:id="incipit.08077000.comment.3063" ana="#LE" type="incipit">Tentavit Deus Abraham</seg>. Qua expleta statim sine salutatione sequitur <seg xml:id="incipit.08077000.comment.3064" ana="#ORI" subtype="supplied" type="incipit"><phr type="neume">Oremus</phr></seg>. <seg xml:id="incipit.08077000.comment.3065" ana="#OR" type="incipit">Deus qui in Abrahae</seg>. Deinde <seg xml:id="incipit.08077000.comment.3066" ana="#LE" type="incipit">Scripsit Moyses canticum</seg>. <seg xml:id="incipit.08077000.comment.3067" ana="#TR" type="incipit">Attende caelum</seg>. <seg xml:id="incipit.08077000.comment.3068" ana="#ORI" subtype="supplied" type="incipit">Oremus</seg>. <seg xml:id="incipit.08077000.comment.3069" ana="#OR" type="incipit">Deus qui nobis</seg>. <seg xml:id="incipit.08077000.comment.3070" ana="#LE" type="incipit">Apprehendent septem mulieres</seg>. <seg xml:id="incipit.08077000.comment.3071" ana="#TR" type="incipit">Vinea facta est</seg>. <seg xml:id="incipit.08077000.comment.3072" ana="#ORI" subtype="supplied" type="incipit">Oremus</seg>. <seg xml:id="incipit.08077000.comment.3073" ana="#OR" type="incipit">Deus qui nos ad celebrandam festivitatem</seg>. <seg xml:id="incipit.08077000.comment.3074" ana="#LE" type="incipit">Audi Israel</seg>. <seg xml:id="incipit.08077000.comment.3075" ana="#ORI" subtype="supplied" type="incipit">Oremus</seg>. <seg xml:id="incipit.08077000.comment.3076" ana="#OR" type="incipit">Deus qui es incommutabilis</seg>. <seg xml:id="incipit.08077000.comment.3077" ana="#TR" type="incipit">Sicut cervus</seg>. <seg xml:id="incipit.08077000.comment.3078" ana="#ORI" subtype="supplied" type="incipit">Oremus</seg>. <seg xml:id="incipit.08077000.comment.3079" ana="#OR" type="incipit">Concede quaesumus omnipotens deus ut qui sollemnitatem</seg>. Qua dicta proceditur ad <seg xml:id="place.fontem.08077000.comment.64" ana="#place">fontem</seg> cum his <seg xml:id="incipit.08077000.comment.3080" ana="#HY" rend="#VV" type="incipit">Rex sanctorum angelorum</seg>. Cetera aguntur ut in vigilia paschae. Post baptismum reditur in <seg xml:id="place.chorum.08077000.comment.65" ana="#place">chorum</seg> cum <seg xml:id="incipit.08077000.comment.3081" ana="#LT" type="incipit">Christe audi nos</seg>. Qua finita sollemniter incipitur ad missam.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head" type="supplied"><label xml:id="office.08077000.MI.683" n="MI">Ad missam</label></ab>
@@ -4740,8 +4975,8 @@
           <ab>
             <seg xml:id="place.inInsulam.08077000.PRO.66" ana="#place">in Insulam</seg>
             <seg xml:id="incipit.08077000.PRO.3160" ana="#AP" type="incipit">Cum rex gloriae</seg>. In <seg xml:id="place.capellacoramaltari.08077000.PRO.67" ana="#place">capella coram altari</seg>
-            <seg xml:id="function.cantores.08077000.PRO.71" ana="#function">cantores</seg> cantent <seg xml:id="incipit.08077000.PRO.3161" ana="#HV" rend="#VV" type="incipit">Salve festa dies toto venerabili aevo</seg>. <seg xml:id="incipit.08077000.PRO.3162" ana="#HV" subtype="supplied" type="incipit">Qua deus in sancto spirat amore sui</seg>. In reditu <seg xml:id="incipit.08077000.PRO.3163" ana="#RPP" type="incipit">Patri et filio</seg>. <seg xml:id="place.InmonasterioantealtaresanctiStephani.08077000.PRO.68" ana="#place">In monasterio ante altare sancti Stephani</seg> cantetur <seg xml:id="incipit.08077000.PRO.3164" ana="#HY" type="incipit">Veni creator</seg> et dum canitur <seg xml:id="incipit.08077000.PRO.3165" ana="#HV" type="incipit">Da gaudiorum praemia</seg>
-            <seg xml:id="function.clerus.08077000.PRO.72" ana="#function">clerus</seg>
+            <seg xml:id="function.cantores.08077000.PRO.70" ana="#function">cantores</seg> cantent <seg xml:id="incipit.08077000.PRO.3161" ana="#HV" rend="#VV" type="incipit">Salve festa dies toto venerabili aevo</seg>. <seg xml:id="incipit.08077000.PRO.3162" ana="#HV" subtype="supplied" type="incipit">Qua deus in sancto spirat amore sui</seg>. In reditu <seg xml:id="incipit.08077000.PRO.3163" ana="#RPP" type="incipit">Patri et filio</seg>. <seg xml:id="place.InmonasterioantealtaresanctiStephani.08077000.PRO.68" ana="#place">In monasterio ante altare sancti Stephani</seg> cantetur <seg xml:id="incipit.08077000.PRO.3164" ana="#HY" type="incipit">Veni creator</seg> et dum canitur <seg xml:id="incipit.08077000.PRO.3165" ana="#HV" type="incipit">Da gaudiorum praemia</seg>
+            <seg xml:id="function.clerus.08077000.PRO.71" ana="#function">clerus</seg>
             <seg xml:id="place.chorum.08077000.PRO.69" ana="#place">chorum</seg> ascendat.</ab>
         </div>
         <div type="time:1">
@@ -4921,7 +5156,7 @@
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.08077100.MI.721" n="MI">Missa</label></ab>
           <ab>canitur. <seg xml:id="incipit.08077100.MI.3358" ana="#IN" type="incipit">Caritas</seg>. <seg xml:id="incipit.08077100.MI.3359" ana="#PS" type="incipit">Domine deus</seg>. <seg xml:id="incipit.08077100.MI.3360" ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis</seg> dicitur.</ab>
-          <ab>Si vero contingerit <seg xml:id="function.episcopum.08077100.MI.73" ana="#function">episcopum</seg> ordinare <seg xml:id="function.clericos.08077100.MI.74" ana="#function">clericos</seg>, tunc post sextam celebrandum est <del type="rasur"/>tur <seg xml:id="incipit.08077100.MI.3361" ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis</seg>. Omnes orationes sine salutatione dicuntur, nec genuflectitur, sed sic tantum incipiuntur G</ab>
+          <ab>Si vero contingerit <seg xml:id="function.episcopum.08077100.MI.72" ana="#function">episcopum</seg> ordinare <seg xml:id="function.clericos.08077100.MI.73" ana="#function">clericos</seg>, tunc post sextam celebrandum est <del type="rasur"/>tur <seg xml:id="incipit.08077100.MI.3361" ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis</seg>. Omnes orationes sine salutatione dicuntur, nec genuflectitur, sed sic tantum incipiuntur G</ab>
         </div>
       </div>
       <div>
@@ -5008,7 +5243,7 @@
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.14062300.MI.735" n="MI">Prior missa</label></ab>
-          <ab>ad <seg xml:id="place.altaresanctiIoannis.14062300.MI.71" ana="#place">altare sancti Ioannis</seg> ab <seg xml:id="function.ebdomadario.14062300.MI.75" ana="#function">ebdomadario</seg> praeteritae ebdomadae cantetur. <seg xml:id="incipit.14062300.MI.3442" ana="#IN" subtype="supplied" type="incipit">Iustus ut palma</seg>. <seg xml:id="incipit.14062300.MI.3443" ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis deo</seg>. <seg xml:id="incipit.14062300.MI.3444" ana="#CL" rend="#OR" type="incipit">Concede quaesumus omnipotens deus</seg>. Secunda oratio de dedicatione altaris dicatur. <seg xml:id="incipit.14062300.MI.3445" ana="#EP" type="incipit">Memoria iusti</seg>. <seg xml:id="incipit.14062300.MI.3446" ana="#GR" type="incipit">Iustus non conturbabitur</seg>. <seg xml:id="incipit.14062300.MI.3447" ana="#ALV" type="incipit">Iustus germinabit</seg>. <seg xml:id="incipit.14062300.MI.3448" ana="#EV" type="incipit">Respondens Zacharia</seg>. <seg xml:id="incipit.14062300.MI.3449" ana="#OF" type="incipit">In virtute tua</seg>. Praefatio cottidiana. <seg xml:id="incipit.14062300.MI.3450" ana="#CO" type="incipit">Posuisti</seg>.</ab>
+          <ab>ad <seg xml:id="place.altaresanctiIoannis.14062300.MI.71" ana="#place">altare sancti Ioannis</seg> ab <seg xml:id="function.ebdomadario.14062300.MI.74" ana="#function">ebdomadario</seg> praeteritae ebdomadae cantetur. <seg xml:id="incipit.14062300.MI.3442" ana="#IN" subtype="supplied" type="incipit">Iustus ut palma</seg>. <seg xml:id="incipit.14062300.MI.3443" ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis deo</seg>. <seg xml:id="incipit.14062300.MI.3444" ana="#CL" rend="#OR" type="incipit">Concede quaesumus omnipotens deus</seg>. Secunda oratio de dedicatione altaris dicatur. <seg xml:id="incipit.14062300.MI.3445" ana="#EP" type="incipit">Memoria iusti</seg>. <seg xml:id="incipit.14062300.MI.3446" ana="#GR" type="incipit">Iustus non conturbabitur</seg>. <seg xml:id="incipit.14062300.MI.3447" ana="#ALV" type="incipit">Iustus germinabit</seg>. <seg xml:id="incipit.14062300.MI.3448" ana="#EV" type="incipit">Respondens Zacharia</seg>. <seg xml:id="incipit.14062300.MI.3449" ana="#OF" type="incipit">In virtute tua</seg>. Praefatio cottidiana. <seg xml:id="incipit.14062300.MI.3450" ana="#CO" type="incipit">Posuisti</seg>.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.14062300.MI.736" n="MI">Ad publicam missam</label></ab>
@@ -5032,7 +5267,7 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.nocdb.186" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
+        <head xml:id="feast.00000000.186" corresp="#00000000"><note type="supplied">COMMENTARIUS</note></head>
         <div>
           <ab>Infra octavam sancti Ioannis baptistae ad matutinas et ad vesperas una antiphona et collecta cottidie in suffragiis dicuntur.</ab>
         </div>
@@ -5439,12 +5674,12 @@
           <ab ana="#head"><label xml:id="office.14071700.MI.810" n="MI">Ad missam</label></ab>
           <ab>
             <seg xml:id="incipit.14071700.MI.3741" ana="#IN" subtype="supplied" type="incipit">Iustus ut palma</seg>. <seg xml:id="incipit.14071700.MI.3742" ana="#CL" rend="#OR" type="incipit">Intercessio quaesumus domine</seg>. <seg xml:id="incipit.14071700.MI.3743" ana="#EP" type="incipit">Dilectus deo</seg>. <seg xml:id="incipit.14071700.MI.3744" ana="#GR" type="incipit">Domine praevenisti</seg>. <seg xml:id="incipit.14071700.MI.3745" ana="#ALV" type="incipit">Iustus germinabit</seg>. <seg xml:id="incipit.14071700.MI.3746" ana="#EV" type="incipit">Si quis venit ad me</seg>. <seg xml:id="incipit.14071700.MI.3747" ana="#OF" type="incipit">Posuisti domine</seg>. <seg xml:id="incipit.14071700.MI.3748" ana="#CO" type="incipit">Magna est gloria eius</seg>.</ab>
-          <ab>Deinde sexta cantata <seg xml:id="function.sacerdote.14071700.MI.76" ana="#function">sacerdote</seg> et <seg xml:id="function.ministris.14071700.MI.77" ana="#function">ministris</seg> secundum consuetudinem sollemnibus indutis vestibus <seg xml:id="place.inInsulam.14071700.MI.74" ana="#place">in Insulam</seg> cum cruce et candelabris fit processio, ad quam <seg xml:id="place.inexituchori.14071700.MI.75" ana="#place">in exitu chori</seg> cantatur <seg xml:id="incipit.14071700.MI.3749" ana="#RPP" type="incipit">Iustum deduxit dominus</seg>. Quo finito <seg xml:id="incipit.14071700.MI.3750" ana="#RPP" type="incipit">Visita quaesumus domine</seg>.</ab>
+          <ab>Deinde sexta cantata <seg xml:id="function.sacerdote.14071700.MI.75" ana="#function">sacerdote</seg> et <seg xml:id="function.ministris.14071700.MI.76" ana="#function">ministris</seg> secundum consuetudinem sollemnibus indutis vestibus <seg xml:id="place.inInsulam.14071700.MI.74" ana="#place">in Insulam</seg> cum cruce et candelabris fit processio, ad quam <seg xml:id="place.inexituchori.14071700.MI.75" ana="#place">in exitu chori</seg> cantatur <seg xml:id="incipit.14071700.MI.3749" ana="#RPP" type="incipit">Iustum deduxit dominus</seg>. Quo finito <seg xml:id="incipit.14071700.MI.3750" ana="#RPP" type="incipit">Visita quaesumus domine</seg>.</ab>
           <ab>Postea</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.14071700.MI.811" n="MI">Missa</label></ab>
-          <ab>de dedicatione per ordinem sollemniter celebretur. Qua finita <seg xml:id="function.clerici.14071700.MI.78" ana="#function">clerici</seg> omnes eant ad <seg xml:id="place.refectorium.14071700.MI.76" ana="#place">refectorium</seg> et facto prandio ad <seg xml:id="place.chorum.14071700.MI.77" ana="#place">chorum</seg> cantare nonam conveniant.</ab>
+          <ab>de dedicatione per ordinem sollemniter celebretur. Qua finita <seg xml:id="function.clerici.14071700.MI.77" ana="#function">clerici</seg> omnes eant ad <seg xml:id="place.refectorium.14071700.MI.76" ana="#place">refectorium</seg> et facto prandio ad <seg xml:id="place.chorum.14071700.MI.77" ana="#place">chorum</seg> cantare nonam conveniant.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label xml:id="office.14071700.V2.812" n="V2">In secunda vespera</label></ab>
