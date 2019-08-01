@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
    <teiHeader xml:id="vorau">
       <fileDesc>
          <titleStmt>
@@ -31,30 +32,38 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/ikm/home/">Österreichische Akademie der
+               <orgName ref="http://d-nb.info/gnd/1043809171"
+                  corresp="https://www.oeaw.ac.at/ikm/home/"
+                  >Österreichische Akademie der
             Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung
             Musikwissenschaft</orgName>
             </publisher>
             <authority>
-               <orgName ref="http://d-nb.info/gnd/1137284463" corresp="https://informationsmodellierung.uni-graz.at">Zentrum für
+               <orgName ref="http://d-nb.info/gnd/1137284463"
+                  corresp="https://informationsmodellierung.uni-graz.at"
+                  >Zentrum für
             Informationsmodellierung - Austrian Centre for Digital Humanities,
             Karl-Franzens-Universität Graz</orgName>
             </authority>
             <distributor>
-               <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset
+               <orgName ref="https://gams.uni-graz.at"
+                  >GAMS - Geisteswissenschaftliches Asset
             Management System</orgName>
             </distributor>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0">Creative Commons
+               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0"
+                  >Creative Commons
             BY-NC-ND 3.0</licence>
             </availability>
             <date when="2019">2019</date>
             <idno type="PID">o:cantus.vorau</idno>
          </publicationStmt>
          <seriesStmt>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network - semantisch
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"
+               >Cantus Network - semantisch
           erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en">Cantus Network - a
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en"
+               >Cantus Network - a
           semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan
           province.</title>
             <respStmt>
@@ -104,7 +113,8 @@
             <list type="secondary_sources">
                <item/>
             </list>
-            <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+            <list type="traktate"
+               xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
                <item xml:id="Durandus">
                   <bibl>
                      <title>Rationale Divinorum Officiorum</title>
@@ -336,7 +346,9 @@
                      <placeName/>
                      <date/>
                      <series/>
-                     <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
+                     <ref
+                        target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="
+                     />
                   </bibl>
                </item>
             </list>
@@ -363,12 +375,36 @@
          <abstract facs="#STARTPAGE_IMG">
             <ab type="image_title" xml:lang="de">Beginn des Vorauer Liber Ordinarius</ab>
             <ab type="head">Der <hi rend="italic">Liber ordinarius</hi> aus Vorau.</ab>
-            <p style="primary" xml:lang="de">
-               Das Augustiner-Chorherrenstift Vorau in der Oststeiermark wurde 1163 aufgrund einer Stiftung des Traungauer Markgrafen Ottokar III. (1129-1164) vom Salzburger Erzbischof Eberhard I. (um 1085-1164) errichtet und dem Salzburger Chorherrenverband eingegliedert. Erster Propst wurde der aus dem Seckauer Chorherrenstift stammende Stiftsdekan Liupold (1163-1185), vier Chorherren kamen aus dem Salzburger Domstift. Bereits unter dem zweiten Propst Bernhard I. (1185-1202), der vorher Kustos und Bibliothekar in Seckau war, kam die Bibliothek zu großer Blüte, davon zeugen heute noch zahlreiche erhaltene Handschriften dieser Zeit, darunter nicht wenige Liturgica. Konstitutiv für die liturgische Praxis des im äußersten Osten der Erzdiözese Salzburg gelegenen Stiftes wurde ein Liber ordinarius (Vorau Cod. 99), der aus Suben kommend, eine redigierte und auf die Bedürfnisse des konkreten Ortes hin bearbeitete Abschrift des Salzburger Liber ordinarius von 1198 (A-Su M II 6) ist. Dieses Buch diente als Grundlage zur Herstellung zahlreicher Liturgica vor Ort, bis im 15. Jahrhundert eine liturgische Reform den „reinen“ Salzburger Domritus (unter Beibehaltung einiger lokaler Proprien) einführte. Von dieser Reform zeugen heute noch zahlreiche vorhandene Salzburger Missalien und Breviere des 15. Jahrhunderts, welche dem Domritus folgen. Grundlegend für die liturgische Ordnung eines Hauses sind die <hi rend="italic">Libri ordinarii</hi>, von denen es neben dem voll notierten (Cod. 99, Anfang 13. Jahrhundert) auch zwei teilweise oder nicht notierte gibt (Cod. 333, zweite Hälfte des 13. Jahrhunderts und Cod. 30, 14. Jahrhundert), sodass das Stift Vorau zu den wenigen Orten zählen kann, deren mittelalterliche Liturgie und liturgische Musik ohne wesentliche Lücken dokumentiert ist.</p>
-            <p xml:lang="de">
-               Der ältere Ordinarius Cod. 99, eine direkte Abschrift einer Salzburger Vorlage, steht als Salzburger Variante in der Edition des Salzburger Regelbuchs zur Verfügung. Für die hier beschriebene Vorauer Edition dienten die Codices 333 und 30 als Vorlage. Bis auf zwei Ausnahmen fehlen in den beiden Quellen die im Salzburger Ordinarius so zahlreich vorhandenen Zitate aus liturgiewissenschaftlichen Summen, so auch die typische Weltzeiteneinteilung (<hi rend="italic">sex aetates</hi>) zu Beginn des Textes. Der Einsatz der Neumennotation orientiert sich in Cod. 99 am Vorbild des Passauer <hi rend="italic">Liber ordinarius</hi>: Im Gegensatz zu den Salzburger Hauptquellen, die durchgehend neumiert sind, verwendet Cod. 333 Neumennotation vor allem für Messordinariumsgesänge und für das letzte Wort zahlreicher Versikelincipits. Die liturgische Ordnung entspricht dem Salzburger Regelbuch, wobei die lokalen Adaptionen für den Gebrauch in Stift Vorau, die in Cod. 99 nachgetragen wurden, im Haupttext fehlen. In Cod. 30 sind jedoch zwei Ordinarius-Addenda mit Informationen für Vorauer Eigenfeste überliefert. Die ältere Ergänzung (erstes Viertel des 15. Jahrhunderts) regelt den Ablauf des damals neu eingeführten Festes <hi rend="italic">Visitatio Mariae</hi> (fol. 21r) am Vortag der <hi rend="italic">Translatio Thomae apost.</hi> (03.07.). Thomas und Maria sind die Hauptpatrone von Vorau. Das zweite Addendum, der Schrift nach zu urteilen am Ende des 15. Jahrhunderts entstanden, enthält folgendes Vorauer Eigengut: <hi rend="italic">Conceptio Mariae</hi> (fol. 22r), <hi rend="italic">Thomae apost.</hi> (23r), <hi rend="italic">Dorotheae (23v)</hi>, <hi rend="italic">Iulianae</hi> (CS, 24r), <hi rend="italic">Conversio Mariae Magdalenae</hi> (24v), <hi rend="italic">De armis domini</hi> (25r), <hi rend="italic">Sigismundi</hi> (→ Georgii, 26r), <hi rend="italic">Erasmi</hi> (CS, 26r), <hi rend="italic">Viti</hi> (26r), <hi rend="italic">Achacii</hi> (26r), <hi rend="italic">Translatio Thomae</hi> (mit Octav, 26v+27r), die Passauer Feier für <hi rend="italic">Inventio Stephani</hi> (27r), <hi rend="italic">Eustachii</hi> (CS, 28r), <hi rend="italic">Infra octavam omnium sanctorum</hi> (28r) sowie einige Sonderoffizien für Maria (28vff).</p>
-            <p xml:lang="de">Es ist durchaus möglich, dass der Haupttext der beiden jüngeren Fassungen in Vorauer Klosterpfarren in Gebrauch war. Die nicht berücksichtigen Liturgieerklärungen und das Fehlen des Vorauer Propriums legen diesen Schluss nahe. Die beiden Quellen wären damit die einzig erhaltenen Abschriften, die die Verwendung des Salzburger Chorherrenordo in einer Landpfarre belegen könnten.</p>
-            <p xml:lang="de">Cod. 30 stellt, bis auf wenige, nicht relevante Abweichungen, eine exakte Kopie von Cod. 333 dar und fand in der Transkription keine Berücksichtigung. Kodiert wurden jedoch die gerade beschriebenen Addenda in Cod. 30, die in Cod. 333 fehlen.</p>
+            <p style="primary" xml:lang="de"
+                  >
+               Das Augustiner-Chorherrenstift Vorau in der Oststeiermark wurde 1163 aufgrund einer Stiftung des Traungauer Markgrafen Ottokar III. (1129-1164) vom Salzburger Erzbischof Eberhard I. (um 1085-1164) errichtet und dem Salzburger Chorherrenverband eingegliedert. Erster Propst wurde der aus dem Seckauer Chorherrenstift stammende Stiftsdekan Liupold (1163-1185), vier Chorherren kamen aus dem Salzburger Domstift. Bereits unter dem zweiten Propst Bernhard I. (1185-1202), der vorher Kustos und Bibliothekar in Seckau war, kam die Bibliothek zu großer Blüte, davon zeugen heute noch zahlreiche erhaltene Handschriften dieser Zeit, darunter nicht wenige Liturgica. Konstitutiv für die liturgische Praxis des im äußersten Osten der Erzdiözese Salzburg gelegenen Stiftes wurde ein Liber ordinarius (Vorau Cod. 99), der aus Suben kommend, eine redigierte und auf die Bedürfnisse des konkreten Ortes hin bearbeitete Abschrift des Salzburger Liber ordinarius von 1198 (A-Su M II 6) ist. Dieses Buch diente als Grundlage zur Herstellung zahlreicher Liturgica vor Ort, bis im 15. Jahrhundert eine liturgische Reform den „reinen“ Salzburger Domritus (unter Beibehaltung einiger lokaler Proprien) einführte. Von dieser Reform zeugen heute noch zahlreiche vorhandene Salzburger Missalien und Breviere des 15. Jahrhunderts, welche dem Domritus folgen. Grundlegend für die liturgische Ordnung eines Hauses sind die <hi
+                  rend="italic"
+               >Libri ordinarii</hi>, von denen es neben dem voll notierten (Cod. 99, Anfang 13. Jahrhundert) auch zwei teilweise oder nicht notierte gibt (Cod. 333, zweite Hälfte des 13. Jahrhunderts und Cod. 30, 14. Jahrhundert), sodass das Stift Vorau zu den wenigen Orten zählen kann, deren mittelalterliche Liturgie und liturgische Musik ohne wesentliche Lücken dokumentiert ist.</p>
+            <p xml:lang="de"
+                  >
+               Der ältere Ordinarius Cod. 99, eine direkte Abschrift einer Salzburger Vorlage, steht als Salzburger Variante in der Edition des Salzburger Regelbuchs zur Verfügung. Für die hier beschriebene Vorauer Edition dienten die Codices 333 und 30 als Vorlage. Bis auf zwei Ausnahmen fehlen in den beiden Quellen die im Salzburger Ordinarius so zahlreich vorhandenen Zitate aus liturgiewissenschaftlichen Summen, so auch die typische Weltzeiteneinteilung (<hi
+                  rend="italic"
+                  >sex aetates</hi>) zu Beginn des Textes. Der Einsatz der Neumennotation orientiert sich in Cod. 99 am Vorbild des Passauer <hi
+                  rend="italic"
+                  >Liber ordinarius</hi>: Im Gegensatz zu den Salzburger Hauptquellen, die durchgehend neumiert sind, verwendet Cod. 333 Neumennotation vor allem für Messordinariumsgesänge und für das letzte Wort zahlreicher Versikelincipits. Die liturgische Ordnung entspricht dem Salzburger Regelbuch, wobei die lokalen Adaptionen für den Gebrauch in Stift Vorau, die in Cod. 99 nachgetragen wurden, im Haupttext fehlen. In Cod. 30 sind jedoch zwei Ordinarius-Addenda mit Informationen für Vorauer Eigenfeste überliefert. Die ältere Ergänzung (erstes Viertel des 15. Jahrhunderts) regelt den Ablauf des damals neu eingeführten Festes <hi
+                  rend="italic">Visitatio Mariae</hi> (fol. 21r) am Vortag der <hi rend="italic"
+                  >Translatio Thomae apost.</hi> (03.07.). Thomas und Maria sind die Hauptpatrone von Vorau. Das zweite Addendum, der Schrift nach zu urteilen am Ende des 15. Jahrhunderts entstanden, enthält folgendes Vorauer Eigengut: <hi
+                  rend="italic">Conceptio Mariae</hi> (fol. 22r), <hi rend="italic"
+                  >Thomae apost.</hi> (23r), <hi rend="italic">Dorotheae (23v)</hi>, <hi
+                  rend="italic">Iulianae</hi> (CS, 24r), <hi rend="italic"
+                  >Conversio Mariae Magdalenae</hi> (24v), <hi rend="italic"
+                  >De armis domini</hi> (25r), <hi rend="italic"
+                  >Sigismundi</hi> (→ Georgii, 26r), <hi rend="italic">Erasmi</hi> (CS, 26r), <hi
+                  rend="italic">Viti</hi> (26r), <hi rend="italic">Achacii</hi> (26r), <hi
+                  rend="italic"
+                  >Translatio Thomae</hi> (mit Octav, 26v+27r), die Passauer Feier für <hi
+                  rend="italic">Inventio Stephani</hi> (27r), <hi rend="italic"
+                  >Eustachii</hi> (CS, 28r), <hi rend="italic"
+               >Infra octavam omnium sanctorum</hi> (28r) sowie einige Sonderoffizien für Maria (28vff).</p>
+            <p xml:lang="de"
+               >Es ist durchaus möglich, dass der Haupttext der beiden jüngeren Fassungen in Vorauer Klosterpfarren in Gebrauch war. Die nicht berücksichtigen Liturgieerklärungen und das Fehlen des Vorauer Propriums legen diesen Schluss nahe. Die beiden Quellen wären damit die einzig erhaltenen Abschriften, die die Verwendung des Salzburger Chorherrenordo in einer Landpfarre belegen könnten.</p>
+            <p xml:lang="de"
+               >Cod. 30 stellt, bis auf wenige, nicht relevante Abweichungen, eine exakte Kopie von Cod. 333 dar und fand in der Transkription keine Berücksichtigung. Kodiert wurden jedoch die gerade beschriebenen Addenda in Cod. 30, die in Cod. 333 fehlen.</p>
             <p><hi rend="italic">von Robert Klugseder</hi></p>
          </abstract>
       </profileDesc>
@@ -386,7 +422,8 @@
          <graphic mimeType="image/jpeg" url="file:///A-VOR333-VD.jpg" xml:id="IMG.VD"/>
       </surface>
       <surface start="#VOR.VDspiegel">
-         <graphic mimeType="image/jpeg" url="file:///A-VOR333-VDspiegel.jpg" xml:id="IMG.VDspiegel"/>
+         <graphic mimeType="image/jpeg" url="file:///A-VOR333-VDspiegel.jpg" xml:id="IMG.VDspiegel"
+         />
       </surface>
       <surface start="#VOR.001r">
          <graphic mimeType="image/jpeg" url="file:///A-VOR333-001r.jpg" xml:id="IMG.001r"/>
@@ -1274,7 +1311,8 @@
          <graphic mimeType="image/jpeg" url="file:///A-VOR333-HD.jpg" xml:id="IMG.HD"/>
       </surface>
       <surface start="#VOR.HDspiegel">
-         <graphic mimeType="image/jpeg" url="file:///A-VOR333-HDspiegel.jpg" xml:id="IMG.HDspiegel"/>
+         <graphic mimeType="image/jpeg" url="file:///A-VOR333-HDspiegel.jpg" xml:id="IMG.HDspiegel"
+         />
       </surface>
    </facsimile>
    <text>

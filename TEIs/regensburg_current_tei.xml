@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
     <teiHeader xml:id="regensburg">
         <fileDesc>
             <titleStmt>
                 <title type="main">
-                    <pb n="15r" xml:id="REG.015r"/>INCIPIT BREVIARIUM SECUNDUM ORDINEM <note type="supplied">ECCLESIAE</note> RATISPONENSIS</title>
+                    <pb n="15r" xml:id="REG.015r"/>INCIPIT BREVIARIUM SECUNDUM ORDINEM <note
+                        type="supplied">ECCLESIAE</note> RATISPONENSIS</title>
                 <title type="short">Regensburg</title>
                 <title type="citation">Der 'Liber ordinarius Ratisbonensis'</title>
                 <!-- verschiedene verantwortlichkeiten für digitale resource: Objektbezogen -->
@@ -34,22 +36,30 @@
             </titleStmt>
             <publicationStmt>
                 <publisher>
-                    <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/ikm/home/">Österreichische Akademie der Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung Musikwissenschaft</orgName>
+                    <orgName ref="http://d-nb.info/gnd/1043809171"
+                        corresp="https://www.oeaw.ac.at/ikm/home/"
+                        >Österreichische Akademie der Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung Musikwissenschaft</orgName>
                 </publisher>
                 <authority>
-                    <orgName ref="http://d-nb.info/gnd/1137284463" corresp="https://informationsmodellierung.uni-graz.at">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName></authority>
+                    <orgName ref="http://d-nb.info/gnd/1137284463"
+                        corresp="https://informationsmodellierung.uni-graz.at"
+                        >Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName></authority>
                 <distributor>
-                    <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName></distributor>
+                    <orgName ref="https://gams.uni-graz.at"
+                        >GAMS - Geisteswissenschaftliches Asset Management System</orgName></distributor>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0">Creative Commons BY-NC-ND 3.0</licence>
+                    <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0"
+                        >Creative Commons BY-NC-ND 3.0</licence>
                 </availability>
                 <date when="2017">2017</date>
                 <idno type="PID">o:cantus.regensburg</idno>
             </publicationStmt>
             <!-- nicht objektbezogen; fürs gesamte Projekt-->
             <seriesStmt>
-                <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network - semantisch erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
-                <title ref="http://gams.uni-graz.at/cantus" xml:lang="en">Cantus Network - a semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan province.</title>
+                <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"
+                    >Cantus Network - semantisch erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
+                <title ref="http://gams.uni-graz.at/cantus" xml:lang="en"
+                    >Cantus Network - a semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan province.</title>
                 <respStmt>
                     <resp>Projektleitung</resp>
                     <persName><forename>Franz</forename><forename>Karl</forename><surname>Praßl</surname>
@@ -81,250 +91,255 @@
                 <msDesc>
                     <msIdentifier>
                         <altIdentifier>
-                            <placeName>Domkirche St. Peter Regensburg<date from="1340" to="1380">1340-1380</date></placeName>
-                            <idno n="D-Mbs Clm 26947">München, Bayerische Staatsbibliothek, Clm 26947</idno>
+                            <placeName>Domkirche St. Peter Regensburg<date from="1340" to="1380"
+                                    >1340-1380</date></placeName>
+                            <idno n="D-Mbs Clm 26947"
+                                >München, Bayerische Staatsbibliothek, Clm 26947</idno>
                         </altIdentifier>
                     </msIdentifier>
                 </msDesc>
                 <list type="secondary_sources">
                     <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-SFxi480/manifest"/>
                 </list>
-                <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
-    <item xml:id="Durandus">
-        <bibl>
-            <title>Rationale Divinorum Officiorum</title>
-            <author>Guillelmus Durandus</author>
-            <editor>Anselme DAVRIL - Timothy M. THIBODEAU</editor>
-            <placeName>Turnout</placeName>
-            <date>195-2000</date>
-            <series>CChr.CM 140,140A-B</series>
-        </bibl>
-    </item>
-    <item xml:id="Beleth">
-        <bibl>
-            <title>Summa de ecclesiasticis officiis</title>
-            <author>Iohannes Beleth</author>
-            <editor>Heribertus DOUTEIL</editor>
-            <placeName>Turnout</placeName>
-            <date>1976</date>
-            <series>CChr.CM 41-41A</series>
-        </bibl>
-    </item>
-    <item xml:id="Bernold">
-        <bibl>
-            <title>Micrologus de ecclesiasticis observationibus</title>
-            <author>Bernold von St. Blasien</author>
-            <editor/>
-            <placeName/>
-            <date/>
-            <series>PL 151, 973-1022</series>
-        </bibl>
-    </item>
-    <item xml:id="ChroniconVenetum">
-        <bibl>
-            <title>Chronicon Venetum</title>
-            <author>Ioannes Diaconus Venetus</author>
-            <editor>PERTZ</editor>
-            <placeName>Hannover</placeName>
-            <date>1846</date>
-            <series>MGH.SS VII, 4-38</series>
-        </bibl>
-    </item>
-    <item xml:id="LibQuare">
-        <bibl>
-            <title>Liber Quare</title>
-            <author/>
-            <editor>Georg Polycarp GOETZ</editor>
-            <placeName>Turnhout</placeName>
-            <date>1983</date>
-            <series>CChr.CM 60</series>
-        </bibl>
-    </item>
-    <item xml:id="Gregorius">
-        <bibl>
-            <title>Registrum Epistolarum</title>
-            <author>Gregorius I papa</author>
-            <editor>Paul EWAN - Ludo M. HARTMANN</editor>
-            <placeName>Berlin</placeName>
-            <date>1891-99</date>
-            <series>MGH.Ep I-II</series>
-        </bibl>
-    </item>
-    <item xml:id="Isidorus">
-        <bibl>
-            <title>Sententiarum libri tres</title>
-            <author>Isidorus von Sevilla</author>
-            <editor>Pierre CAZIER</editor>
-            <placeName>Turnhout</placeName>
-            <date>1998</date>
-            <series>CCHr.SL 111</series>
-        </bibl>
-    </item>
-    <item xml:id="LibConv">
-        <bibl>
-            <title>Libellus de conversione Bogoariorum et Carantanorum</title>
-            <author/>
-            <editor>Georg Heinrich PERTZ</editor>
-            <placeName>Hannover</placeName>
-            <date>1854</date>
-            <series>MGH.SS XI</series>
-        </bibl>
-    </item>
-    <item xml:id="Rupert">
-        <bibl>
-            <title>Liber de divinis officiis</title>
-            <author>Rupert von Deutz</author>
-            <editor>Rhaban HAACKE</editor>
-            <placeName>Turnhout</placeName>
-            <date>1967</date>
-            <series>CChr.CM 7</series>
-        </bibl>
-    </item>
-    <item xml:id="Amalarius">
-        <bibl>
-            <title>De ecclesiasticis officiis</title>
-            <author>Amalarius von Metz</author>
-            <editor>Jean Michel HANNSENS</editor>
-            <placeName>Città del Vaticano</placeName>
-            <date>1948-50</date>
-            <series>Studi e Testi 138-140</series>
-        </bibl>
-    </item>
-    <item xml:id="Beda">
-        <bibl>
-            <title>Homiliarum libri tres</title>
-            <author>Beda</author>
-            <editor>David HURST - John FRAIPONT</editor>
-            <placeName>Turnhout</placeName>
-            <date>1955</date>
-            <series>CChr.SL 122</series>
-        </bibl>
-    </item>
-    <item xml:id="Sichard">
-        <bibl>
-            <title>Mitrale sive Summa de officiis</title>
-            <author>Sichard von Cremona</author>
-            <editor>Lorenz WEINRICH</editor>
-            <placeName>Turnhout</placeName>
-            <date>2008</date>
-            <series>CChr.CM 228</series>
-        </bibl>
-    </item>
-    <item xml:id="ConcAgath">
-        <bibl>
-            <title>Concilium Agathense</title>
-            <author/>
-            <editor>Charles MUNIER</editor>
-            <placeName>Turnhout</placeName>
-            <date>2008</date>
-            <series>CChr.SL 228 (=Concilia Galliae 314-506)</series>
-        </bibl>
-    </item>
-    <item xml:id="ConcGerund">
-        <bibl>
-            <title>Concilium Gerundense</title>
-            <author/>
-            <editor/>
-            <placeName/>
-            <date/>
-            <series>PL 84,314-316</series>
-        </bibl>
-    </item>
-    <item xml:id="GregoriusVII">
-        <bibl>
-            <title>Regula canonica</title>
-            <author>Gregorius VII papa</author>
-            <editor>Jean MORIN</editor>
-            <placeName/>
-            <date>1901</date>
-            <series>Revue bénédictine 18, 177-183</series>
-        </bibl>
-    </item>
-    <item xml:id="Honorius">
-        <bibl>
-            <title>Gemma animae</title>
-            <author>Honorius Augustodunensis</author>
-            <editor/>
-            <placeName/>
-            <date/>
-            <series>PL 172, 541-738</series>
-        </bibl>
-    </item>
-    <item xml:id="Ivo">
-        <bibl>
-            <title>Panormia</title>
-            <author>Ivo von Chartres</author>
-            <editor/>
-            <placeName/>
-            <date/>
-            <series>PL 161, 1041-1344</series>
-        </bibl>
-    </item>
-    <item xml:id="AH">
-        <bibl>
-            <title>Analecta hymnica medii aevi Vol. I-LV</title>
-            <author/>
-            <editor>Guido Maria DREVES e.a.</editor>
-            <placeName>Leipzig</placeName>
-            <date>1886-1926</date>
-            <series/>
-        </bibl>
-    </item>
-    <item xml:id="CantusDBandIDX">
-        <bibl>
-            <title>CANTUS Database und CANTUS Index</title>
-            <author/>
-            <editor>Debora LACOSTE, Jan KOLÁČEK e.a.</editor>
-            <placeName>Waterloo</placeName>
-            <date>2011ff</date>
-            <series/>
-            <ref target="http://cantus.uwaterloo.ca/home/"/>
-            <ref target="http://cantusindex.org/"/>
-        </bibl>
-    </item>
-    <item xml:id="CorpOr">
-        <bibl>
-            <title>Corpus orationum Vol. I-XIII</title>
-            <author/>
-            <editor>Edmond Eugene MOELLER, Jean-Marie CLÉMENT und Bertrandus COPPETIERS'T WALLANT</editor>
-            <placeName>Turnhout</placeName>
-            <date>1992ff</date>
-            <series>Corpus Christianorum, series Latina CLX B</series>
-        </bibl>
-    </item>
-    <item xml:id="CT">
-        <bibl>
-            <title>Corpus Troporum Vol. I-XII</title>
-            <author/>
-            <editor>Gunilla IVERSEN e.a</editor>
-            <placeName>Stockholm</placeName>
-            <date>1975-2014</date>
-            <series>Studia Latina Stockholmiensia, Acta Universitatis Stockholmiensis</series>
-        </bibl>
-    </item>
-    <item xml:id="PL">
-        <bibl>
-            <title>Patrologiae Cursus Completus. Series Latina, 217 Vol.</title>
-            <author/>
-            <editor>Jacques Paul MIGNE</editor>
-            <placeName>Paris</placeName>
-            <date>1844-1855</date>
-            <series/>
-            <ref target="http://mlat.uzh.ch/MLS/xanfang.php?corpus=2&amp;lang=0"/>
-        </bibl>
-    </item>
-    <item xml:id="HCM">
-        <bibl>
-            <title>Homiliae de Sanctis et de tempore (Homiliarium Karls des Großen)</title>
-            <author/>
-            <editor>Paulus DIACONUS</editor>
-            <placeName/>
-            <date/>
-            <series/>
-            <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
-        </bibl>
-    </item>
-</list>
+                <list type="traktate"
+                    xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+                    <item xml:id="Durandus">
+                        <bibl>
+                            <title>Rationale Divinorum Officiorum</title>
+                            <author>Guillelmus Durandus</author>
+                            <editor>Anselme DAVRIL - Timothy M. THIBODEAU</editor>
+                            <placeName>Turnout</placeName>
+                            <date>195-2000</date>
+                            <series>CChr.CM 140,140A-B</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="Beleth">
+                        <bibl>
+                            <title>Summa de ecclesiasticis officiis</title>
+                            <author>Iohannes Beleth</author>
+                            <editor>Heribertus DOUTEIL</editor>
+                            <placeName>Turnout</placeName>
+                            <date>1976</date>
+                            <series>CChr.CM 41-41A</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="Bernold">
+                        <bibl>
+                            <title>Micrologus de ecclesiasticis observationibus</title>
+                            <author>Bernold von St. Blasien</author>
+                            <editor/>
+                            <placeName/>
+                            <date/>
+                            <series>PL 151, 973-1022</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="ChroniconVenetum">
+                        <bibl>
+                            <title>Chronicon Venetum</title>
+                            <author>Ioannes Diaconus Venetus</author>
+                            <editor>PERTZ</editor>
+                            <placeName>Hannover</placeName>
+                            <date>1846</date>
+                            <series>MGH.SS VII, 4-38</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="LibQuare">
+                        <bibl>
+                            <title>Liber Quare</title>
+                            <author/>
+                            <editor>Georg Polycarp GOETZ</editor>
+                            <placeName>Turnhout</placeName>
+                            <date>1983</date>
+                            <series>CChr.CM 60</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="Gregorius">
+                        <bibl>
+                            <title>Registrum Epistolarum</title>
+                            <author>Gregorius I papa</author>
+                            <editor>Paul EWAN - Ludo M. HARTMANN</editor>
+                            <placeName>Berlin</placeName>
+                            <date>1891-99</date>
+                            <series>MGH.Ep I-II</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="Isidorus">
+                        <bibl>
+                            <title>Sententiarum libri tres</title>
+                            <author>Isidorus von Sevilla</author>
+                            <editor>Pierre CAZIER</editor>
+                            <placeName>Turnhout</placeName>
+                            <date>1998</date>
+                            <series>CCHr.SL 111</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="LibConv">
+                        <bibl>
+                            <title>Libellus de conversione Bogoariorum et Carantanorum</title>
+                            <author/>
+                            <editor>Georg Heinrich PERTZ</editor>
+                            <placeName>Hannover</placeName>
+                            <date>1854</date>
+                            <series>MGH.SS XI</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="Rupert">
+                        <bibl>
+                            <title>Liber de divinis officiis</title>
+                            <author>Rupert von Deutz</author>
+                            <editor>Rhaban HAACKE</editor>
+                            <placeName>Turnhout</placeName>
+                            <date>1967</date>
+                            <series>CChr.CM 7</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="Amalarius">
+                        <bibl>
+                            <title>De ecclesiasticis officiis</title>
+                            <author>Amalarius von Metz</author>
+                            <editor>Jean Michel HANNSENS</editor>
+                            <placeName>Città del Vaticano</placeName>
+                            <date>1948-50</date>
+                            <series>Studi e Testi 138-140</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="Beda">
+                        <bibl>
+                            <title>Homiliarum libri tres</title>
+                            <author>Beda</author>
+                            <editor>David HURST - John FRAIPONT</editor>
+                            <placeName>Turnhout</placeName>
+                            <date>1955</date>
+                            <series>CChr.SL 122</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="Sichard">
+                        <bibl>
+                            <title>Mitrale sive Summa de officiis</title>
+                            <author>Sichard von Cremona</author>
+                            <editor>Lorenz WEINRICH</editor>
+                            <placeName>Turnhout</placeName>
+                            <date>2008</date>
+                            <series>CChr.CM 228</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="ConcAgath">
+                        <bibl>
+                            <title>Concilium Agathense</title>
+                            <author/>
+                            <editor>Charles MUNIER</editor>
+                            <placeName>Turnhout</placeName>
+                            <date>2008</date>
+                            <series>CChr.SL 228 (=Concilia Galliae 314-506)</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="ConcGerund">
+                        <bibl>
+                            <title>Concilium Gerundense</title>
+                            <author/>
+                            <editor/>
+                            <placeName/>
+                            <date/>
+                            <series>PL 84,314-316</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="GregoriusVII">
+                        <bibl>
+                            <title>Regula canonica</title>
+                            <author>Gregorius VII papa</author>
+                            <editor>Jean MORIN</editor>
+                            <placeName/>
+                            <date>1901</date>
+                            <series>Revue bénédictine 18, 177-183</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="Honorius">
+                        <bibl>
+                            <title>Gemma animae</title>
+                            <author>Honorius Augustodunensis</author>
+                            <editor/>
+                            <placeName/>
+                            <date/>
+                            <series>PL 172, 541-738</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="Ivo">
+                        <bibl>
+                            <title>Panormia</title>
+                            <author>Ivo von Chartres</author>
+                            <editor/>
+                            <placeName/>
+                            <date/>
+                            <series>PL 161, 1041-1344</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="AH">
+                        <bibl>
+                            <title>Analecta hymnica medii aevi Vol. I-LV</title>
+                            <author/>
+                            <editor>Guido Maria DREVES e.a.</editor>
+                            <placeName>Leipzig</placeName>
+                            <date>1886-1926</date>
+                            <series/>
+                        </bibl>
+                    </item>
+                    <item xml:id="CantusDBandIDX">
+                        <bibl>
+                            <title>CANTUS Database und CANTUS Index</title>
+                            <author/>
+                            <editor>Debora LACOSTE, Jan KOLÁČEK e.a.</editor>
+                            <placeName>Waterloo</placeName>
+                            <date>2011ff</date>
+                            <series/>
+                            <ref target="http://cantus.uwaterloo.ca/home/"/>
+                            <ref target="http://cantusindex.org/"/>
+                        </bibl>
+                    </item>
+                    <item xml:id="CorpOr">
+                        <bibl>
+                            <title>Corpus orationum Vol. I-XIII</title>
+                            <author/>
+                            <editor>Edmond Eugene MOELLER, Jean-Marie CLÉMENT und Bertrandus COPPETIERS'T WALLANT</editor>
+                            <placeName>Turnhout</placeName>
+                            <date>1992ff</date>
+                            <series>Corpus Christianorum, series Latina CLX B</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="CT">
+                        <bibl>
+                            <title>Corpus Troporum Vol. I-XII</title>
+                            <author/>
+                            <editor>Gunilla IVERSEN e.a</editor>
+                            <placeName>Stockholm</placeName>
+                            <date>1975-2014</date>
+                            <series>Studia Latina Stockholmiensia, Acta Universitatis Stockholmiensis</series>
+                        </bibl>
+                    </item>
+                    <item xml:id="PL">
+                        <bibl>
+                            <title>Patrologiae Cursus Completus. Series Latina, 217 Vol.</title>
+                            <author/>
+                            <editor>Jacques Paul MIGNE</editor>
+                            <placeName>Paris</placeName>
+                            <date>1844-1855</date>
+                            <series/>
+                            <ref target="http://mlat.uzh.ch/MLS/xanfang.php?corpus=2&amp;lang=0"/>
+                        </bibl>
+                    </item>
+                    <item xml:id="HCM">
+                        <bibl>
+                            <title>Homiliae de Sanctis et de tempore (Homiliarium Karls des Großen)</title>
+                            <author/>
+                            <editor>Paulus DIACONUS</editor>
+                            <placeName/>
+                            <date/>
+                            <series/>
+                            <ref
+                                target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="
+                            />
+                        </bibl>
+                    </item>
+                </list>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -334,12 +349,14 @@
                 </application>
             </appInfo>
             <projectDesc xml:lang="de">
-                <p rend="head">Liturgie und Musik in der mittelalterlichen Kirchenprovinz Salzburg.</p>
+                <p rend="head"
+                    >Liturgie und Musik in der mittelalterlichen Kirchenprovinz Salzburg.</p>
                 <p>Die Kirchenprovinz Salzburg mit ihren Suffraganbistümern Brixen, Freising, Passau, Regensburg und Salzburg war über viele Jahrhunderte hinweg maßgeblich an der kulturgeschichtlichen Entwicklung Österreichs und Bayerns beteiligt. Umso wichtiger ist es, die zahlreich erhaltenen liturgisch-musikalischen Quellen, die ein wichtiger Bestandteil dieses kulturgeschichtlichen Erbes sind, in digitaler Form zu erschließen und wissenschaftlich auszuwerten.</p>
                 <p>Bei der wissenschaftlichen Auseinandersetzung mit <emph>Libri Ordinarii</emph> muss der kritischen Übertragung der lateinischen Texte eine fundierte Analyse der Ursprünge der Liturgie und der Kommentare folgen. Primäre Aufgabe des Projekts wird es sein, die Ordinarii nach TEI zu transformieren. In einem zweiten Schwerpunkt sollen die Sekundärquellen, also die liturgisch und liturgisch-musikalischen Quellen wie Graduale, Missale, Sequentiare, Antiphonare usw. erschlossen und für die Implementation in die Webplattform aufbereitet werden, um hinter den Incipits der Libri ordinarii auch die konkreten Gestalten z.B. eines Gesanges in vollständiger Form und mit musikalischer Notation vor sich zu haben.</p>
             </projectDesc>
             <projectDesc xml:lang="en">
-                <p rend="head">Liturgy and music in the medieval ecclesiastical province of Salzburg</p>
+                <p rend="head"
+                    >Liturgy and music in the medieval ecclesiastical province of Salzburg</p>
                 <p>For many centuries, the ecclesiastical province of Salzburg, along with its suffragan dioceses of Brixen, Freising, Regensburg and Salzburg, played a key role in the cultural history of Austria and Bavaria. It is thus all the more important that the many surviving liturgical musical sources that constitute an important part of this cultural heritage are made digitally accessible and subjected to scholarly analysis.</p>
                 <p>In scholarly studies of <emph>libri ordinarii</emph>, critical transcriptions of the Latin texts need to be followed up with an in-depth analysis of the origins of the liturgy and the commentaries. This project’s main aim will be to translate the <emph>libri ordinarii</emph> into TEI. As part of a second point of focus, the secondary sources – that is the liturgical and musical sources, such as graduals, missals, sequentiaries, antiphonars and so on – will be analysed and edited for uploading onto the online platform. The concrete shape of a chant, for example, will appear in its complete form (and with musical notation, if applicable) behind the incipits of the <emph>libri ordinarii</emph>.</p>
             </projectDesc>
@@ -347,13 +364,36 @@
         <!--Objektbezogen-->
         <profileDesc>
             <abstract facs="#STARTPAGE_IMG">
-                <ab type="image_title" xml:lang="de">Beginn des Regensburger Liber Ordinarius (D-Mbs Clm 26947)</ab>
-                <ab type="head">Ein <hi rend="italic">Liber Ordinarius</hi> für die Kathedralkirche und die Diözese Regensburg</ab>
-                <p style="primary" xml:lang="de">Die Handschrift München Bayerische Staatsbibliothek Clm 26947 beinhaltet neben einem Kalendar einen <hi rend="italic">Liber Ordinarius</hi> für den Gebrauch in der Regensburger Bischofskirche. Das Incipit verweist eindeutig auf Regensburg: <hi rend="italic">Incipit breviarium secundum ordinem Ratisbonensem</hi>. Es handelt sich hier um die einzige erhaltene und vollständige Kopie des Regelbuchs. Der Codex wurde bis 1876 in der <hi rend="italic">Biblioteca Publica Ratisbonensis</hi> aufbewahrt und kam erst in dem genannten Jahr an die Hofbibliothek in München</p>
-                <p xml:lang="de">Die im <hi rend="italic">Liber Ordinarius</hi> genannten Örtlichkeiten, Altäre und sonstigen Einrichtungsgegenstände beziehen sich eindeutig auf die Kathedralkirche St. Peter und die benachbarten Sakralräume des Dombezirks (Kollegiatkirche St. Johannes, Kreuzgang, Domkloster, Kapelle des hl. Stephanus, Allerheiligenkapelle etc.). Bis auf wenige Ausnahmen war die hier tradierte liturgische Tradition auch in der Diözese üblich. Die verschiedenen Ortsangaben hatten für andere Kirchen natürlich keine konkrete Bedeutung. Der Dom befand sich zur Zeit der Niederschrift des Ordo noch im Bau. Durch die Rekonstruktion von Prozessionswegen und den Vergleich mit bekannten Phasen des Kathedralbaus lässt sich der Zeitraum der Kompilation des Codex in etwa mit den Jahren 1340 und 1380 eingrenzen.</p>
-                <p xml:lang="de">Neben vielen liturgischen Besonderheiten ragen vor allem die rituellen Handlungen am 1320 erbauten Lettner der Domkirche heraus. Im Mittelpunkt standen hier die beiden Lettneraltäre zu Ehren des Heiligen Kreuzes und Marias. Hier fand am Karfreitag auch der <hi rend="italic">Planctus Mariae</hi> statt. Diese <hi rend="italic">Lamentatio</hi> wurde vermutlich auf Veranlassung des Domkanonikers Konrad von Megenberg (1309-1374) eingeführt, der diesen Brauch bei seinen Aufenthalten in Frankreich kennenlernen konnte. Megenberg ist zudem Autor von liturgischen Abhandlungen sowie einer Vita und einer Historia für den Regensburger Heiligen Erhard (die im <hi rend="italic">Liber Ordinarius</hi> keine Berücksichtigung fanden). Am Festtag des Diözesanpatrons Wolfgang sind zwei Messen vorgesehen, die Historia von Hermannus Contractus für das Stundengebet war hier jedoch ebenso unüblich wie die für den hl. Emmeram. Neben dem Dompatron Petrus nimmt Stephanus eine besondere Bedeutung ein, er wird wie ein zweiter Patron behandelt (vgl. Stephanus-Kapelle im Kreuzgang). Ungewöhnlich ist die hohe Anzahl an liturgischen Funktionsträgern: Bischof, Kanoniker, Domprobst, Domdekan, Chor, Schola, Kantoren etc., auch: <hi rend="italic">ad minus duodecim canonicis sancti Ioannis</hi>. Interessant ist die Erwähnung eines hölzernen Behelfstabernakels (truca) in der Sakristei für die Zeit von Gründonnerstag bis Karsamstag. Anstelle der allgemein üblichen Armenfußwaschung am Gründonnerstag trat im Regensburger Dom die von Domkanonikern, ehrwürdigen Laien und Bürgern, denen als Geschenk unter anderen Wein und Met überreicht wurde: … <hi rend="italic">Deinde iterum veniat cellerarius cum iunioribus adultis et portent in novis scutellis primo seniori, deinde omnibus canonicis clericis ibi sedentibus et laicis honestis et civibus quattuor poma et duas oblatas et picarium vini et medonis</hi> …</p>
-                <p xml:lang="de">Die Tätigkeit des Dominikaners Albertus Magnus als Bischof von Regensburg (reg. 1260-1262) ist vermutlich die Ursache, weshalb man Feiern für Heilige des Ordens in die Liturgie der Domkirche aufnahm. Zudem war ein Sonderoffizium für den hl. Blasius, den Patron der Regensburger Dominikanerkirche, üblich. Weitere liturgische Besonderheiten sind Sondergesänge für den hl. Florinus aus dem Vintschgau, dessen Reliquien bereits im 10. Jahrhundert nach Regensburg kamen. Zudem jeweils zwei Festtage für die Visitatio Mariae (28. April und 2. Juli) und für den hl. Bischof Thomas Canturiensis (28. Dezember und die Translatio am 14. Juli). Vorhanden ist natürlich auch das Fest der Domkirchweihe am 30. Juni. Sowohl für die Dom- als auch für die Diözesanliturgie charakteristisch ist eine umfangreiche Sammlung von Prozessionsgesängen (ad suffragium) an Trinitatis. Liturgieprägend ist die außergewöhnliche Zusammenstellung der Nocturnantiphonen für Johannes Ev. (27. Dezember) und den Octavtag.</p>
-                <p xml:lang="de">Der Kompilator des <hi rend="italic">Liber Ordinarius</hi> hat sich mit folgendem Schlusssatz verewigt: <hi rend="italic">Explicit breviarius per manus et non per pedes</hi>. Vermutlich möchte er damit die anstrengende Arbeit eines Schreibers herausheben, die man nicht einfach „im Vorbeigehen“ oder nebenher erledigen konnte.</p>
+                <ab type="image_title" xml:lang="de"
+                    >Beginn des Regensburger Liber Ordinarius (D-Mbs Clm 26947)</ab>
+                <ab type="head">Ein <hi rend="italic"
+                    >Liber Ordinarius</hi> für die Kathedralkirche und die Diözese Regensburg</ab>
+                <p style="primary" xml:lang="de"
+                        >Die Handschrift München Bayerische Staatsbibliothek Clm 26947 beinhaltet neben einem Kalendar einen <hi
+                        rend="italic"
+                        >Liber Ordinarius</hi> für den Gebrauch in der Regensburger Bischofskirche. Das Incipit verweist eindeutig auf Regensburg: <hi
+                        rend="italic"
+                        >Incipit breviarium secundum ordinem Ratisbonensem</hi>. Es handelt sich hier um die einzige erhaltene und vollständige Kopie des Regelbuchs. Der Codex wurde bis 1876 in der <hi
+                        rend="italic"
+                    >Biblioteca Publica Ratisbonensis</hi> aufbewahrt und kam erst in dem genannten Jahr an die Hofbibliothek in München</p>
+                <p xml:lang="de">Die im <hi rend="italic"
+                    >Liber Ordinarius</hi> genannten Örtlichkeiten, Altäre und sonstigen Einrichtungsgegenstände beziehen sich eindeutig auf die Kathedralkirche St. Peter und die benachbarten Sakralräume des Dombezirks (Kollegiatkirche St. Johannes, Kreuzgang, Domkloster, Kapelle des hl. Stephanus, Allerheiligenkapelle etc.). Bis auf wenige Ausnahmen war die hier tradierte liturgische Tradition auch in der Diözese üblich. Die verschiedenen Ortsangaben hatten für andere Kirchen natürlich keine konkrete Bedeutung. Der Dom befand sich zur Zeit der Niederschrift des Ordo noch im Bau. Durch die Rekonstruktion von Prozessionswegen und den Vergleich mit bekannten Phasen des Kathedralbaus lässt sich der Zeitraum der Kompilation des Codex in etwa mit den Jahren 1340 und 1380 eingrenzen.</p>
+                <p xml:lang="de"
+                        >Neben vielen liturgischen Besonderheiten ragen vor allem die rituellen Handlungen am 1320 erbauten Lettner der Domkirche heraus. Im Mittelpunkt standen hier die beiden Lettneraltäre zu Ehren des Heiligen Kreuzes und Marias. Hier fand am Karfreitag auch der <hi
+                        rend="italic">Planctus Mariae</hi> statt. Diese <hi rend="italic"
+                        >Lamentatio</hi> wurde vermutlich auf Veranlassung des Domkanonikers Konrad von Megenberg (1309-1374) eingeführt, der diesen Brauch bei seinen Aufenthalten in Frankreich kennenlernen konnte. Megenberg ist zudem Autor von liturgischen Abhandlungen sowie einer Vita und einer Historia für den Regensburger Heiligen Erhard (die im <hi
+                        rend="italic"
+                        >Liber Ordinarius</hi> keine Berücksichtigung fanden). Am Festtag des Diözesanpatrons Wolfgang sind zwei Messen vorgesehen, die Historia von Hermannus Contractus für das Stundengebet war hier jedoch ebenso unüblich wie die für den hl. Emmeram. Neben dem Dompatron Petrus nimmt Stephanus eine besondere Bedeutung ein, er wird wie ein zweiter Patron behandelt (vgl. Stephanus-Kapelle im Kreuzgang). Ungewöhnlich ist die hohe Anzahl an liturgischen Funktionsträgern: Bischof, Kanoniker, Domprobst, Domdekan, Chor, Schola, Kantoren etc., auch: <hi
+                        rend="italic"
+                        >ad minus duodecim canonicis sancti Ioannis</hi>. Interessant ist die Erwähnung eines hölzernen Behelfstabernakels (truca) in der Sakristei für die Zeit von Gründonnerstag bis Karsamstag. Anstelle der allgemein üblichen Armenfußwaschung am Gründonnerstag trat im Regensburger Dom die von Domkanonikern, ehrwürdigen Laien und Bürgern, denen als Geschenk unter anderen Wein und Met überreicht wurde: … <hi
+                        rend="italic"
+                        >Deinde iterum veniat cellerarius cum iunioribus adultis et portent in novis scutellis primo seniori, deinde omnibus canonicis clericis ibi sedentibus et laicis honestis et civibus quattuor poma et duas oblatas et picarium vini et medonis</hi> …</p>
+                <p xml:lang="de"
+                    >Die Tätigkeit des Dominikaners Albertus Magnus als Bischof von Regensburg (reg. 1260-1262) ist vermutlich die Ursache, weshalb man Feiern für Heilige des Ordens in die Liturgie der Domkirche aufnahm. Zudem war ein Sonderoffizium für den hl. Blasius, den Patron der Regensburger Dominikanerkirche, üblich. Weitere liturgische Besonderheiten sind Sondergesänge für den hl. Florinus aus dem Vintschgau, dessen Reliquien bereits im 10. Jahrhundert nach Regensburg kamen. Zudem jeweils zwei Festtage für die Visitatio Mariae (28. April und 2. Juli) und für den hl. Bischof Thomas Canturiensis (28. Dezember und die Translatio am 14. Juli). Vorhanden ist natürlich auch das Fest der Domkirchweihe am 30. Juni. Sowohl für die Dom- als auch für die Diözesanliturgie charakteristisch ist eine umfangreiche Sammlung von Prozessionsgesängen (ad suffragium) an Trinitatis. Liturgieprägend ist die außergewöhnliche Zusammenstellung der Nocturnantiphonen für Johannes Ev. (27. Dezember) und den Octavtag.</p>
+                <p xml:lang="de">Der Kompilator des <hi rend="italic"
+                        >Liber Ordinarius</hi> hat sich mit folgendem Schlusssatz verewigt: <hi
+                        rend="italic"
+                    >Explicit breviarius per manus et non per pedes</hi>. Vermutlich möchte er damit die anstrengende Arbeit eines Schreibers herausheben, die man nicht einfach „im Vorbeigehen“ oder nebenher erledigen konnte.</p>
                 <p><hi rend="italic">von Robert Klugseder</hi></p>
             </abstract>
         </profileDesc>
@@ -1664,16 +1704,20 @@
             <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-214v.jpg" xml:id="IMG.214v"/>
         </surface>
         <surface start="#REG.215-1r">
-            <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-215-1r.jpg" xml:id="IMG.215-1r"/>
+            <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-215-1r.jpg"
+                xml:id="IMG.215-1r"/>
         </surface>
         <surface start="#REG.215-1v">
-            <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-215-1v.jpg" xml:id="IMG.215-1v"/>
+            <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-215-1v.jpg"
+                xml:id="IMG.215-1v"/>
         </surface>
         <surface start="#REG.215-2r">
-            <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-215-2r.jpg" xml:id="IMG.215-2r"/>
+            <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-215-2r.jpg"
+                xml:id="IMG.215-2r"/>
         </surface>
         <surface start="#REG.215-2v">
-            <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-215-2v.jpg" xml:id="IMG.215-2v"/>
+            <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-215-2v.jpg"
+                xml:id="IMG.215-2v"/>
         </surface>
         <surface start="#REG.216r">
             <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-216r.jpg" xml:id="IMG.216r"/>

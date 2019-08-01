@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
    <teiHeader xml:id="freising">
       <fileDesc>
          <titleStmt>
             <title>
                <pb n="1r" xml:id="FREI.001r"/>
-               <note type="supplied">H</note>ic incipit prima pars huius <note type="supplied">operis</note> videlicet ordo seu breviarum de horis canonicis, quid legendum et
+               <note type="supplied">H</note>ic incipit prima pars huius <note type="supplied"
+                  >operis</note> videlicet ordo seu breviarum de horis canonicis, quid legendum et
                canendum sit per circulum anni de tempore secundum modum freisingensem. Et primo de
                adventu domini <del>sabbato ad vesperas super psalmos dominica prima</del> sic
                incipiendo.</title>
@@ -35,21 +37,27 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/ikm/home/">Österreichische Akademie der
+               <orgName ref="http://d-nb.info/gnd/1043809171"
+                  corresp="https://www.oeaw.ac.at/ikm/home/"
+                  >Österreichische Akademie der
                   Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung
                   Musikwissenschaft</orgName>
             </publisher>
             <authority>
-               <orgName ref="http://d-nb.info/gnd/1137284463" corresp="https://informationsmodellierung.uni-graz.at">Zentrum für
+               <orgName ref="http://d-nb.info/gnd/1137284463"
+                  corresp="https://informationsmodellierung.uni-graz.at"
+                  >Zentrum für
                   Informationsmodellierung - Austrian Centre for Digital Humanities,
                   Karl-Franzens-Universität Graz</orgName>
             </authority>
             <distributor>
-               <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset
+               <orgName ref="https://gams.uni-graz.at"
+                  >GAMS - Geisteswissenschaftliches Asset
                   Management System</orgName>
             </distributor>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0">Creative Commons
+               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0"
+                  >Creative Commons
                   BY-NC-ND 3.0</licence>
             </availability>
             <date when="2017">2017</date>
@@ -57,9 +65,11 @@
          </publicationStmt>
          <!-- nicht objektbezogen; fürs gesamte Projekt-->
          <seriesStmt>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network - semantisch
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"
+               >Cantus Network - semantisch
                erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en">Cantus Network - a
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en"
+               >Cantus Network - a
                semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan
                province.</title>
             <respStmt>
@@ -101,7 +111,8 @@
             <msDesc>
                <msIdentifier>
                   <altIdentifier>
-                     <placeName>Domkirche St. Maria und Korbinian Freising<date from="1414" to="1414">1414</date>
+                     <placeName>Domkirche St. Maria und Korbinian Freising<date from="1414"
+                           to="1414">1414</date>
                      </placeName>
                      <idno n="D-Mu 4° Cod. 157">München, Universitätsbibliothek, Cod. 157</idno>
                   </altIdentifier>
@@ -110,242 +121,245 @@
             <list type="secondary_sources">
                <item/>
             </list>
-            <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
-    <item xml:id="Durandus">
-        <bibl>
-            <title>Rationale Divinorum Officiorum</title>
-            <author>Guillelmus Durandus</author>
-            <editor>Anselme DAVRIL - Timothy M. THIBODEAU</editor>
-            <placeName>Turnout</placeName>
-            <date>195-2000</date>
-            <series>CChr.CM 140,140A-B</series>
-        </bibl>
-    </item>
-    <item xml:id="Beleth">
-        <bibl>
-            <title>Summa de ecclesiasticis officiis</title>
-            <author>Iohannes Beleth</author>
-            <editor>Heribertus DOUTEIL</editor>
-            <placeName>Turnout</placeName>
-            <date>1976</date>
-            <series>CChr.CM 41-41A</series>
-        </bibl>
-    </item>
-    <item xml:id="Bernold">
-        <bibl>
-            <title>Micrologus de ecclesiasticis observationibus</title>
-            <author>Bernold von St. Blasien</author>
-            <editor/>
-            <placeName/>
-            <date/>
-            <series>PL 151, 973-1022</series>
-        </bibl>
-    </item>
-    <item xml:id="ChroniconVenetum">
-        <bibl>
-            <title>Chronicon Venetum</title>
-            <author>Ioannes Diaconus Venetus</author>
-            <editor>PERTZ</editor>
-            <placeName>Hannover</placeName>
-            <date>1846</date>
-            <series>MGH.SS VII, 4-38</series>
-        </bibl>
-    </item>
-    <item xml:id="LibQuare">
-        <bibl>
-            <title>Liber Quare</title>
-            <author/>
-            <editor>Georg Polycarp GOETZ</editor>
-            <placeName>Turnhout</placeName>
-            <date>1983</date>
-            <series>CChr.CM 60</series>
-        </bibl>
-    </item>
-    <item xml:id="Gregorius">
-        <bibl>
-            <title>Registrum Epistolarum</title>
-            <author>Gregorius I papa</author>
-            <editor>Paul EWAN - Ludo M. HARTMANN</editor>
-            <placeName>Berlin</placeName>
-            <date>1891-99</date>
-            <series>MGH.Ep I-II</series>
-        </bibl>
-    </item>
-    <item xml:id="Isidorus">
-        <bibl>
-            <title>Sententiarum libri tres</title>
-            <author>Isidorus von Sevilla</author>
-            <editor>Pierre CAZIER</editor>
-            <placeName>Turnhout</placeName>
-            <date>1998</date>
-            <series>CCHr.SL 111</series>
-        </bibl>
-    </item>
-    <item xml:id="LibConv">
-        <bibl>
-            <title>Libellus de conversione Bogoariorum et Carantanorum</title>
-            <author/>
-            <editor>Georg Heinrich PERTZ</editor>
-            <placeName>Hannover</placeName>
-            <date>1854</date>
-            <series>MGH.SS XI</series>
-        </bibl>
-    </item>
-    <item xml:id="Rupert">
-        <bibl>
-            <title>Liber de divinis officiis</title>
-            <author>Rupert von Deutz</author>
-            <editor>Rhaban HAACKE</editor>
-            <placeName>Turnhout</placeName>
-            <date>1967</date>
-            <series>CChr.CM 7</series>
-        </bibl>
-    </item>
-    <item xml:id="Amalarius">
-        <bibl>
-            <title>De ecclesiasticis officiis</title>
-            <author>Amalarius von Metz</author>
-            <editor>Jean Michel HANNSENS</editor>
-            <placeName>Città del Vaticano</placeName>
-            <date>1948-50</date>
-            <series>Studi e Testi 138-140</series>
-        </bibl>
-    </item>
-    <item xml:id="Beda">
-        <bibl>
-            <title>Homiliarum libri tres</title>
-            <author>Beda</author>
-            <editor>David HURST - John FRAIPONT</editor>
-            <placeName>Turnhout</placeName>
-            <date>1955</date>
-            <series>CChr.SL 122</series>
-        </bibl>
-    </item>
-    <item xml:id="Sichard">
-        <bibl>
-            <title>Mitrale sive Summa de officiis</title>
-            <author>Sichard von Cremona</author>
-            <editor>Lorenz WEINRICH</editor>
-            <placeName>Turnhout</placeName>
-            <date>2008</date>
-            <series>CChr.CM 228</series>
-        </bibl>
-    </item>
-    <item xml:id="ConcAgath">
-        <bibl>
-            <title>Concilium Agathense</title>
-            <author/>
-            <editor>Charles MUNIER</editor>
-            <placeName>Turnhout</placeName>
-            <date>2008</date>
-            <series>CChr.SL 228 (=Concilia Galliae 314-506)</series>
-        </bibl>
-    </item>
-    <item xml:id="ConcGerund">
-        <bibl>
-            <title>Concilium Gerundense</title>
-            <author/>
-            <editor/>
-            <placeName/>
-            <date/>
-            <series>PL 84,314-316</series>
-        </bibl>
-    </item>
-    <item xml:id="GregoriusVII">
-        <bibl>
-            <title>Regula canonica</title>
-            <author>Gregorius VII papa</author>
-            <editor>Jean MORIN</editor>
-            <placeName/>
-            <date>1901</date>
-            <series>Revue bénédictine 18, 177-183</series>
-        </bibl>
-    </item>
-    <item xml:id="Honorius">
-        <bibl>
-            <title>Gemma animae</title>
-            <author>Honorius Augustodunensis</author>
-            <editor/>
-            <placeName/>
-            <date/>
-            <series>PL 172, 541-738</series>
-        </bibl>
-    </item>
-    <item xml:id="Ivo">
-        <bibl>
-            <title>Panormia</title>
-            <author>Ivo von Chartres</author>
-            <editor/>
-            <placeName/>
-            <date/>
-            <series>PL 161, 1041-1344</series>
-        </bibl>
-    </item>
-    <item xml:id="AH">
-        <bibl>
-            <title>Analecta hymnica medii aevi Vol. I-LV</title>
-            <author/>
-            <editor>Guido Maria DREVES e.a.</editor>
-            <placeName>Leipzig</placeName>
-            <date>1886-1926</date>
-            <series/>
-        </bibl>
-    </item>
-    <item xml:id="CantusDBandIDX">
-        <bibl>
-            <title>CANTUS Database und CANTUS Index</title>
-            <author/>
-            <editor>Debora LACOSTE, Jan KOLÁČEK e.a.</editor>
-            <placeName>Waterloo</placeName>
-            <date>2011ff</date>
-            <series/>
-            <ref target="http://cantus.uwaterloo.ca/home/"/>
-            <ref target="http://cantusindex.org/"/>
-        </bibl>
-    </item>
-    <item xml:id="CorpOr">
-        <bibl>
-            <title>Corpus orationum Vol. I-XIII</title>
-            <author/>
-            <editor>Edmond Eugene MOELLER, Jean-Marie CLÉMENT und Bertrandus COPPETIERS'T WALLANT</editor>
-            <placeName>Turnhout</placeName>
-            <date>1992ff</date>
-            <series>Corpus Christianorum, series Latina CLX B</series>
-        </bibl>
-    </item>
-    <item xml:id="CT">
-        <bibl>
-            <title>Corpus Troporum Vol. I-XII</title>
-            <author/>
-            <editor>Gunilla IVERSEN e.a</editor>
-            <placeName>Stockholm</placeName>
-            <date>1975-2014</date>
-            <series>Studia Latina Stockholmiensia, Acta Universitatis Stockholmiensis</series>
-        </bibl>
-    </item>
-    <item xml:id="PL">
-        <bibl>
-            <title>Patrologiae Cursus Completus. Series Latina, 217 Vol.</title>
-            <author/>
-            <editor>Jacques Paul MIGNE</editor>
-            <placeName>Paris</placeName>
-            <date>1844-1855</date>
-            <series/>
-            <ref target="http://mlat.uzh.ch/MLS/xanfang.php?corpus=2&amp;lang=0"/>
-        </bibl>
-    </item>
-    <item xml:id="HCM">
-        <bibl>
-            <title>Homiliae de Sanctis et de tempore (Homiliarium Karls des Großen)</title>
-            <author/>
-            <editor>Paulus DIACONUS</editor>
-            <placeName/>
-            <date/>
-            <series/>
-            <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
-        </bibl>
-    </item>
-</list>
+            <list type="traktate"
+               xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+               <item xml:id="Durandus">
+                  <bibl>
+                     <title>Rationale Divinorum Officiorum</title>
+                     <author>Guillelmus Durandus</author>
+                     <editor>Anselme DAVRIL - Timothy M. THIBODEAU</editor>
+                     <placeName>Turnout</placeName>
+                     <date>195-2000</date>
+                     <series>CChr.CM 140,140A-B</series>
+                  </bibl>
+               </item>
+               <item xml:id="Beleth">
+                  <bibl>
+                     <title>Summa de ecclesiasticis officiis</title>
+                     <author>Iohannes Beleth</author>
+                     <editor>Heribertus DOUTEIL</editor>
+                     <placeName>Turnout</placeName>
+                     <date>1976</date>
+                     <series>CChr.CM 41-41A</series>
+                  </bibl>
+               </item>
+               <item xml:id="Bernold">
+                  <bibl>
+                     <title>Micrologus de ecclesiasticis observationibus</title>
+                     <author>Bernold von St. Blasien</author>
+                     <editor/>
+                     <placeName/>
+                     <date/>
+                     <series>PL 151, 973-1022</series>
+                  </bibl>
+               </item>
+               <item xml:id="ChroniconVenetum">
+                  <bibl>
+                     <title>Chronicon Venetum</title>
+                     <author>Ioannes Diaconus Venetus</author>
+                     <editor>PERTZ</editor>
+                     <placeName>Hannover</placeName>
+                     <date>1846</date>
+                     <series>MGH.SS VII, 4-38</series>
+                  </bibl>
+               </item>
+               <item xml:id="LibQuare">
+                  <bibl>
+                     <title>Liber Quare</title>
+                     <author/>
+                     <editor>Georg Polycarp GOETZ</editor>
+                     <placeName>Turnhout</placeName>
+                     <date>1983</date>
+                     <series>CChr.CM 60</series>
+                  </bibl>
+               </item>
+               <item xml:id="Gregorius">
+                  <bibl>
+                     <title>Registrum Epistolarum</title>
+                     <author>Gregorius I papa</author>
+                     <editor>Paul EWAN - Ludo M. HARTMANN</editor>
+                     <placeName>Berlin</placeName>
+                     <date>1891-99</date>
+                     <series>MGH.Ep I-II</series>
+                  </bibl>
+               </item>
+               <item xml:id="Isidorus">
+                  <bibl>
+                     <title>Sententiarum libri tres</title>
+                     <author>Isidorus von Sevilla</author>
+                     <editor>Pierre CAZIER</editor>
+                     <placeName>Turnhout</placeName>
+                     <date>1998</date>
+                     <series>CCHr.SL 111</series>
+                  </bibl>
+               </item>
+               <item xml:id="LibConv">
+                  <bibl>
+                     <title>Libellus de conversione Bogoariorum et Carantanorum</title>
+                     <author/>
+                     <editor>Georg Heinrich PERTZ</editor>
+                     <placeName>Hannover</placeName>
+                     <date>1854</date>
+                     <series>MGH.SS XI</series>
+                  </bibl>
+               </item>
+               <item xml:id="Rupert">
+                  <bibl>
+                     <title>Liber de divinis officiis</title>
+                     <author>Rupert von Deutz</author>
+                     <editor>Rhaban HAACKE</editor>
+                     <placeName>Turnhout</placeName>
+                     <date>1967</date>
+                     <series>CChr.CM 7</series>
+                  </bibl>
+               </item>
+               <item xml:id="Amalarius">
+                  <bibl>
+                     <title>De ecclesiasticis officiis</title>
+                     <author>Amalarius von Metz</author>
+                     <editor>Jean Michel HANNSENS</editor>
+                     <placeName>Città del Vaticano</placeName>
+                     <date>1948-50</date>
+                     <series>Studi e Testi 138-140</series>
+                  </bibl>
+               </item>
+               <item xml:id="Beda">
+                  <bibl>
+                     <title>Homiliarum libri tres</title>
+                     <author>Beda</author>
+                     <editor>David HURST - John FRAIPONT</editor>
+                     <placeName>Turnhout</placeName>
+                     <date>1955</date>
+                     <series>CChr.SL 122</series>
+                  </bibl>
+               </item>
+               <item xml:id="Sichard">
+                  <bibl>
+                     <title>Mitrale sive Summa de officiis</title>
+                     <author>Sichard von Cremona</author>
+                     <editor>Lorenz WEINRICH</editor>
+                     <placeName>Turnhout</placeName>
+                     <date>2008</date>
+                     <series>CChr.CM 228</series>
+                  </bibl>
+               </item>
+               <item xml:id="ConcAgath">
+                  <bibl>
+                     <title>Concilium Agathense</title>
+                     <author/>
+                     <editor>Charles MUNIER</editor>
+                     <placeName>Turnhout</placeName>
+                     <date>2008</date>
+                     <series>CChr.SL 228 (=Concilia Galliae 314-506)</series>
+                  </bibl>
+               </item>
+               <item xml:id="ConcGerund">
+                  <bibl>
+                     <title>Concilium Gerundense</title>
+                     <author/>
+                     <editor/>
+                     <placeName/>
+                     <date/>
+                     <series>PL 84,314-316</series>
+                  </bibl>
+               </item>
+               <item xml:id="GregoriusVII">
+                  <bibl>
+                     <title>Regula canonica</title>
+                     <author>Gregorius VII papa</author>
+                     <editor>Jean MORIN</editor>
+                     <placeName/>
+                     <date>1901</date>
+                     <series>Revue bénédictine 18, 177-183</series>
+                  </bibl>
+               </item>
+               <item xml:id="Honorius">
+                  <bibl>
+                     <title>Gemma animae</title>
+                     <author>Honorius Augustodunensis</author>
+                     <editor/>
+                     <placeName/>
+                     <date/>
+                     <series>PL 172, 541-738</series>
+                  </bibl>
+               </item>
+               <item xml:id="Ivo">
+                  <bibl>
+                     <title>Panormia</title>
+                     <author>Ivo von Chartres</author>
+                     <editor/>
+                     <placeName/>
+                     <date/>
+                     <series>PL 161, 1041-1344</series>
+                  </bibl>
+               </item>
+               <item xml:id="AH">
+                  <bibl>
+                     <title>Analecta hymnica medii aevi Vol. I-LV</title>
+                     <author/>
+                     <editor>Guido Maria DREVES e.a.</editor>
+                     <placeName>Leipzig</placeName>
+                     <date>1886-1926</date>
+                     <series/>
+                  </bibl>
+               </item>
+               <item xml:id="CantusDBandIDX">
+                  <bibl>
+                     <title>CANTUS Database und CANTUS Index</title>
+                     <author/>
+                     <editor>Debora LACOSTE, Jan KOLÁČEK e.a.</editor>
+                     <placeName>Waterloo</placeName>
+                     <date>2011ff</date>
+                     <series/>
+                     <ref target="http://cantus.uwaterloo.ca/home/"/>
+                     <ref target="http://cantusindex.org/"/>
+                  </bibl>
+               </item>
+               <item xml:id="CorpOr">
+                  <bibl>
+                     <title>Corpus orationum Vol. I-XIII</title>
+                     <author/>
+                     <editor>Edmond Eugene MOELLER, Jean-Marie CLÉMENT und Bertrandus COPPETIERS'T WALLANT</editor>
+                     <placeName>Turnhout</placeName>
+                     <date>1992ff</date>
+                     <series>Corpus Christianorum, series Latina CLX B</series>
+                  </bibl>
+               </item>
+               <item xml:id="CT">
+                  <bibl>
+                     <title>Corpus Troporum Vol. I-XII</title>
+                     <author/>
+                     <editor>Gunilla IVERSEN e.a</editor>
+                     <placeName>Stockholm</placeName>
+                     <date>1975-2014</date>
+                     <series>Studia Latina Stockholmiensia, Acta Universitatis Stockholmiensis</series>
+                  </bibl>
+               </item>
+               <item xml:id="PL">
+                  <bibl>
+                     <title>Patrologiae Cursus Completus. Series Latina, 217 Vol.</title>
+                     <author/>
+                     <editor>Jacques Paul MIGNE</editor>
+                     <placeName>Paris</placeName>
+                     <date>1844-1855</date>
+                     <series/>
+                     <ref target="http://mlat.uzh.ch/MLS/xanfang.php?corpus=2&amp;lang=0"/>
+                  </bibl>
+               </item>
+               <item xml:id="HCM">
+                  <bibl>
+                     <title>Homiliae de Sanctis et de tempore (Homiliarium Karls des Großen)</title>
+                     <author/>
+                     <editor>Paulus DIACONUS</editor>
+                     <placeName/>
+                     <date/>
+                     <series/>
+                     <ref
+                        target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="
+                     />
+                  </bibl>
+               </item>
+            </list>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -393,51 +407,74 @@
       <!--Objektbezogen-->
       <profileDesc>
          <abstract facs="#STARTPAGE_IMG">
-            <ab type="image_title" xml:lang="de">Beginn des Freisinger <hi rend="italic">Liber
+            <ab type="image_title" xml:lang="de">Beginn des Freisinger <hi rend="italic"
+                  >Liber
                   Ordinarius</hi> (D-Mu 4° Cod. 157)</ab>
-            <ab type="head">Ein <hi rend="italic">Liber Ordinarius</hi> für die Kathedralkirche und
+            <ab type="head">Ein <hi rend="italic"
+               >Liber Ordinarius</hi> für die Kathedralkirche und
                Diözese Freising.</ab>
-            <p style="primary" xml:lang="de">Die nach dem Colophon vom 22. Oktober 1414 von <hi rend="italic">Fridricus Ruckel</hi> vollendete Handschrift München
-               Universitätsbibliothek 4° Cod. 157 ist ein <hi rend="italic">Liber Ordinarius</hi>,
+            <p style="primary" xml:lang="de">Die nach dem Colophon vom 22. Oktober 1414 von <hi
+                  rend="italic"
+                  >Fridricus Ruckel</hi> vollendete Handschrift München
+               Universitätsbibliothek 4° Cod. 157 ist ein <hi
+                  rend="italic"
+               >Liber Ordinarius</hi>,
                dessen Text, obwohl für den Gebrauch in der Diözese konzipiert, eindeutig auf der
                Liturgie der Freisinger Kathedrale basiert. Nach den alten Signaturen auf dem Rücken
                des Einbands und auf dem Vorsatzblatt wurde der Codex in der Universitätsbibliothek
                Ingolstadt aufbewahrt.</p>
-            <p xml:lang="de">Die Zuweisung der Handschrift für den Freisinger Gebrauch ist aufgrund
-               des Incipits eindeutig: <hi rend="italic">[H]ic incipit prima pars huius [operis]
+            <p xml:lang="de"
+                  >Die Zuweisung der Handschrift für den Freisinger Gebrauch ist aufgrund
+               des Incipits eindeutig: <hi
+                  rend="italic"
+                  >[H]ic incipit prima pars huius [operis]
                   videlicet ordo seu breviarium de horis canonicis, quid legendum seu canendum sit
                   per circulum anni de tempore secundum modum modum ecclesiae Freysingensis.</hi>
-               Diese Angabe wird auf fol. 84r nochmals wiederholt: <hi rend="italic">[H]ic incipit
+               Diese Angabe wird auf fol. 84r nochmals wiederholt: <hi
+                  rend="italic"
+                  >[H]ic incipit
                   secunda pars huius operis, videlicet ordo seu breviarium de horis canonicis, quid
                   legendum et cantandum sit per circulum anni de sanctis iuxta modum seu
                   observantiam antiquae huius ecclesie Freysingensis.</hi>
             </p>
-            <p xml:lang="de">Die zahlreich genannten Orte beziehen sich auf den Bischofssitz
-               Freising. Im <hi rend="italic">Liber Ordinarius</hi> werden vier Kirchen auf dem <hi rend="bold">Domberg</hi>, welcher in der Handschrift als <hi rend="italic">super
+            <p xml:lang="de"
+                  >Die zahlreich genannten Orte beziehen sich auf den Bischofssitz
+               Freising. Im <hi
+                  rend="italic">Liber Ordinarius</hi> werden vier Kirchen auf dem <hi rend="bold"
+                  >Domberg</hi>, welcher in der Handschrift als <hi rend="italic"
+                  >super
                   montem nostrum</hi> bezeichnet wird, genannt: Der Freisinger Dom, die Kirche des
                hl. Benedikt am Kreuzgang, das Kollegiatstift St. Johannes, das unmittelbar westlich
                des Doms liegt, und die ehemalige, ebenfalls im Westen gelegene Stiftskirche St.
                Andreas.</p>
-            <p xml:lang="de">Im <hi rend="italic">Liber Ordinarius</hi> werden zudem die
+            <p xml:lang="de">Im <hi rend="italic"
+               >Liber Ordinarius</hi> werden zudem die
                Stadtpfarrkirche St. Georg, die bei der Markusprozession besucht wurde, und das
                ehemalige Kollegiatstift St. Veit Weihenstephan am Palmsonntag erwähnt. Beide
                befinden sich außerhalb des religiösen Zentrums am Domberg.</p>
-            <p xml:lang="de">Neben vielen Besonderheiten des Freisinger Sanctorale nehmen die Feste
-               der heiligen Patrone der Kathedrale, <hi rend="bold">Maria (Geburt) und
+            <p xml:lang="de"
+                  >Neben vielen Besonderheiten des Freisinger Sanctorale nehmen die Feste
+               der heiligen Patrone der Kathedrale, <hi
+                  rend="bold"
+               >Maria (Geburt) und
                   Korbinian</hi> am 8. September (mit Oktavfest), einen besonderen Stellenwert ein.
                Zusätzlich gibt es noch drei weitere Hochfeste von Heiligen, deren Reliquien in der
                Krypta des Freisinger Doms aufbewahrt werden: St. Nonnosus (2. September), St.
                Justinus (4. August) und Bischof Lambert von Freising (18. September). Weitere
                typische Elemente des Freisinger Kalendars sind die Feiern für die hl. Sigismund (28.
                April) und Willibald (7. Juli) sowie für die Domkirchweihe (2. Mai).</p>
-            <p xml:lang="de">Für die Feier des Festtags des <hi rend="bold">hl. Korbinian</hi>, dem
+            <p xml:lang="de">Für die Feier des Festtags des <hi rend="bold"
+                  >hl. Korbinian</hi>, dem
                ersten Bischof von Freising, ist im Ordinarius ein besonderer Hinweis zu finden: Da
                sein Sterbetag mit dem Fest Mariä Geburt zusammenfällt, wurde das Gedächtnis auf den
-               folgenden Tag, den 9. September, verschoben (<hi rend="italic">Cumque nostri
+               folgenden Tag, den 9. September, verschoben (<hi
+                  rend="italic"
+                  >Cumque nostri
                   sanctissimi patroni Corbiniani festum sit in die nativitatis virginis Mariae,
                   propter quod sequenti die officium eius pleno officio celebrare
                consuevimus</hi>.). Aus dem Sonderoffizium für Korbinian sang man an diesem Tag aber
-               nur Teile (dritte Nocturn). Das vollständige Offizium erklang erst am Tag seiner <hi rend="italic">Translatio</hi> am 20. November.</p>
+               nur Teile (dritte Nocturn). Das vollständige Offizium erklang erst am Tag seiner <hi
+                  rend="italic">Translatio</hi> am 20. November.</p>
             <p>
                <hi rend="italic">von Gionata Brusa</hi>
             </p>
