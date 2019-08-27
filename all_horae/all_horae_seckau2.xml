@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>List of Incipits and Genres</title>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table cols="2">
+                <head>Horae</head>
+                <row>
+                    <cell role="horae">Ad vesperas</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In matutinum</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Officium</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In laudibus</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In adventu domini sabbato</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">ad vesperas</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad completorum</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad matutinum</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Laudes</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad primam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad tertiam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">in aspersione fontis</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad processionem</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad missam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad sextam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad nonam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In secundis vesperis</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad completorium</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In matutinis laudibus</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In secunda vespera</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad laudes</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In matutinali officio</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Matutinae laudes</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">ad missam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">ad cursus</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In nocturnali officio</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Completorium</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Missa</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">laudes</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad missam in galli cantu</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad missam in primo mane</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In secunda =start_ergaenzung=vespera=end_ergaenzung=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Publica missa</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad horas</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Vespera</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad reliquos cursus</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad matitinum</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad cursus</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">ad processionem</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">ad matutinum</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">De dominicis ante septuagesimam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">ad primam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In tertio nocturno</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Matutinale officium</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ordo in purificatione sanctae Mariae</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">ad horas</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad nocturnos</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">in prima et secunda vespera</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Officium ad missam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad aspersionem</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">missa</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Matutinum</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">sexta</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ordo in feria quarta cinerum</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad secundas vesperas</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Ad primam=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ordo ad benedicendas palmas</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Benedictio ignis</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad mandatum pauperum</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In refectorio</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad mandatum fratrum</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ordo in parasceve</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad salutandam crucem</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad communionem</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Processio ad sepulchrum</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ordo in sabbato sancto</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad refectorium</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad collactionem</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ante matutinas</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad sextam et nonam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">ad completorium=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad primam et ad reliquos cursus</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Antiphonae in evangelio</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad =start_ergaenzung=secundas=end_ergaenzung= vesperas</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Matutinale vero officium</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">in secundis vesperis</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Officium vero missae</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">MAd missam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">prior missa</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In reditu</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad aspersionem fontis</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad nocturnum</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Hora tertia</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ordo in sabbato sancto pentecostes</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad tertiam et ad alias horas</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">De ieiunio aestivale</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad priorem missam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad aliam missam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad secundam missam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad horas et ad vesperas</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Ad laudes=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Ad horas=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=In secunda vespera=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In vesperis</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In completorio</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=In primis vesperis=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=In secundis vesperis=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Ad missam=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_rasur=Ad priorem missam=end_rasur=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Ad completorium=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad matutinas</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">officium de sancto Eusebio</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad missam de sancta Maria</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Officium missae</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Hermetis martyris =start_rasur=prior missa=end_rasur=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Prior missa de sancta Sabina</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">In officio missae</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae"
+                        >=start_rasur_entziffert=Prima missa de sancto Gorgonio=end_rasur_entziffert=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae"
+                        >=start_rasur_entziffert=Ad priorem missam de sanctis=end_rasur_entziffert=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad primam missam</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Publica vero missa</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Ad vesperas=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Laude=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Ad tertiam=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=rasur=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie_In primis vesperis=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Gelasii papae</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae"
+                        >Benedictiones super lectiones dominicis diebus et festis</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae"
+                        >=start_ergaenzung=Benedictiones in nativitate domini=end_ergaenzung=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Feria secunda</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Feria tertia</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Feria quarta</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Feria quinta</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Feria sexta</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Sabbato</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae"
+                        >=start_ergaenzung=De beata Maria virgine=end_ergaenzung=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae"
+                        >Ad vesperas et ad matutinas in noctibus sabbatorum et in festis novem lectionum</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">Item alio modo in feriis</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput i.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput ii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput iii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput iv.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput v.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput vi.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput vii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput viii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput ix.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput x.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xi.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xiii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xiv.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xv.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xvi.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xvii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xviii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xix.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xx.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxi.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxiii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxiv.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxv.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxvi.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxvii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxviii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxix.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxx.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxxi.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxxii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxxiii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxxiv.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxxv.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxxvi.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxxvii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxxviii.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xxxix.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+                <row>
+                    <cell role="horae">=start_marginalie=Caput xl.=end_marginalie=</cell>
+                    <cell> </cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>
