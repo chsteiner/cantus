@@ -18,7 +18,9 @@
 \usepackage{microtype}
 \usepackage{reledmac}
 \makeindex[title=Personen,name=pers]
+\makeindex[title=Funktionsbezeichnungen,name=func]
 \makeindex[title=Orte,name=ort]
+\makeindex[title=Index der Feste,name=feste]
 \makeindex[title=Index der Incipits,name=incipits]
 \Xarrangement[A]{normal}
 \arrangementX[A]{paragraph}
@@ -43,7 +45,9 @@
 <xsl:text>
 \endnumbering
 \printindex[pers]
+\printindex[func]
 \printindex[ort]
+\printindex[feste]
 \printindex[incipits]
 \end{document}
 </xsl:text>
@@ -76,6 +80,9 @@
     </xsl:template>
     <xsl:template match="t:seg[@ana = '#function']">
         <xsl:value-of select="."/>
+        <xsl:text>\edindex[func]{</xsl:text>
+        <xsl:value-of select="."/>
+        <xsl:text>}</xsl:text>
     </xsl:template>
     <xsl:template match="t:del">
         <xsl:choose>
@@ -290,7 +297,7 @@
             </xsl:variable>
             <xsl:text>\vspace{2mm}</xsl:text>
             <xsl:text>\pstart \textbf{</xsl:text>
-            <xsl:value-of select="$nummerierung"/><xsl:text>. </xsl:text><xsl:apply-templates/>
+            <xsl:value-of select="$nummerierung"/><xsl:text>. </xsl:text><xsl:apply-templates/><xsl:text>\edindex[feste]{</xsl:text><xsl:value-of select="."/><xsl:text>}</xsl:text>
             <xsl:text>}\pend </xsl:text>
             <xsl:text>&#xd;</xsl:text>
         </xsl:if>
