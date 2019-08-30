@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
    <teiHeader xml:id="hirsau">
       <fileDesc>
          <titleStmt>
@@ -46,31 +47,39 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/ikm/home/">Österreichische Akademie der
+               <orgName ref="http://d-nb.info/gnd/1043809171"
+                  corresp="https://www.oeaw.ac.at/ikm/home/"
+                  >Österreichische Akademie der
                         Wissenschaften Institut für kunst- und musikhistorische Forschungen,
                         Abteilung Musikwissenschaft</orgName>
             </publisher>
             <authority>
-               <orgName ref="http://d-nb.info/gnd/1137284463" corresp="https://informationsmodellierung.uni-graz.at">Zentrum für
+               <orgName ref="http://d-nb.info/gnd/1137284463"
+                  corresp="https://informationsmodellierung.uni-graz.at"
+                  >Zentrum für
                         Informationsmodellierung - Austrian Centre for Digital Humanities,
                         Karl-Franzens-Universität Graz</orgName>
             </authority>
             <distributor>
-               <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset
+               <orgName ref="https://gams.uni-graz.at"
+                  >GAMS - Geisteswissenschaftliches Asset
                         Management System</orgName>
             </distributor>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0">Creative
+               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0"
+                  >Creative
                         Commons BY-NC-ND 3.0</licence>
             </availability>
             <date when="2018">2018</date>
             <idno type="PID">o:cantus.hirsau</idno>
          </publicationStmt>
          <seriesStmt>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network -
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"
+               >Cantus Network -
                     semantisch erweiterte Digitale Edition der Libri ordinarii der Metropole
                     Salzburg</title>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en">Cantus Network - a
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en"
+               >Cantus Network - a
                     semantically enriched digital edition of Libri ordinarii of the Salzburg
                     metropolitan province.</title>
             <respStmt>
@@ -111,13 +120,15 @@
             <msDesc>
                <msIdentifier>
                   <altIdentifier>
-                     <placeName>Ergänzungen u.a. aus Anton Hänggi: Der Rheinauer Liber ordinarius, Freiburg<date when="1957">1957</date>
+                     <placeName>Ergänzungen u.a. aus Anton Hänggi: Der Rheinauer Liber ordinarius, Freiburg<date
+                           when="1957">1957</date>
                      </placeName>
                      <idno n="CH-Zz RH 74b">CH-Zz RH 74b</idno>
                   </altIdentifier>
                </msIdentifier>
             </msDesc>
-            <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+            <list type="traktate"
+               xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
                <item xml:id="Durandus">
                   <bibl>
                      <title>Rationale Divinorum Officiorum</title>
@@ -349,7 +360,9 @@
                      <placeName/>
                      <date/>
                      <series/>
-                     <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
+                     <ref
+                        target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="
+                     />
                   </bibl>
                </item>
             </list>
@@ -401,11 +414,12 @@
          </projectDesc>
       </encodingDesc>
       <profileDesc>
-         <abstract facs="#STARTPAGE_IMG">
-            <ab type="image_title" xml:lang="de">Beginn des Hirsauer <hi rend="italic">Liber Ordinarius</hi> (D-FUl_Aa72)</ab>
+         <abstract facs="#STARTPAGE_IMG" xml:lang="de">
+            <ab type="image_title">Beginn des Hirsauer <hi rend="italic"
+               >Liber Ordinarius</hi> (D-FUl_Aa72)</ab>
             <ab type="head">Der Hirsauer <hi rend="italic">Liber Ordinarius</hi>
             </ab>
-            <p style="primary" xml:lang="de">Coming Soon!</p>
+            <p style="primary">Coming Soon!</p>
             <p/>
          </abstract>
       </profileDesc>

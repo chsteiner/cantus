@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
    <teiHeader xml:id="freising">
       <fileDesc>
          <titleStmt>
             <title>
                <pb n="1r" xml:id="FREI.001r"/>
-               <note type="supplied">H</note>ic incipit prima pars huius <note type="supplied">operis</note> videlicet ordo seu breviarum de horis canonicis, quid legendum et
+               <note type="supplied">H</note>ic incipit prima pars huius <note type="supplied"
+                  >operis</note> videlicet ordo seu breviarum de horis canonicis, quid legendum et
                canendum sit per circulum anni de tempore secundum modum freisingensem. Et primo de
                adventu domini <del>sabbato ad vesperas super psalmos dominica prima</del> sic
                incipiendo.</title>
@@ -35,21 +37,27 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/ikm/home/">Österreichische Akademie der
+               <orgName ref="http://d-nb.info/gnd/1043809171"
+                  corresp="https://www.oeaw.ac.at/ikm/home/"
+                  >Österreichische Akademie der
                   Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung
                   Musikwissenschaft</orgName>
             </publisher>
             <authority>
-               <orgName ref="http://d-nb.info/gnd/1137284463" corresp="https://informationsmodellierung.uni-graz.at">Zentrum für
+               <orgName ref="http://d-nb.info/gnd/1137284463"
+                  corresp="https://informationsmodellierung.uni-graz.at"
+                  >Zentrum für
                   Informationsmodellierung - Austrian Centre for Digital Humanities,
                   Karl-Franzens-Universität Graz</orgName>
             </authority>
             <distributor>
-               <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset
+               <orgName ref="https://gams.uni-graz.at"
+                  >GAMS - Geisteswissenschaftliches Asset
                   Management System</orgName>
             </distributor>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0">Creative Commons
+               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0"
+                  >Creative Commons
                   BY-NC-ND 3.0</licence>
             </availability>
             <date when="2017">2017</date>
@@ -57,9 +65,11 @@
          </publicationStmt>
          <!-- nicht objektbezogen; fürs gesamte Projekt-->
          <seriesStmt>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network - semantisch
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"
+               >Cantus Network - semantisch
                erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en">Cantus Network - a
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en"
+               >Cantus Network - a
                semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan
                province.</title>
             <respStmt>
@@ -101,7 +111,8 @@
             <msDesc>
                <msIdentifier>
                   <altIdentifier>
-                     <placeName>Domkirche St. Maria und Korbinian Freising<date from="1414" to="1414">1414</date>
+                     <placeName>Domkirche St. Maria und Korbinian Freising<date from="1414"
+                           to="1414">1414</date>
                      </placeName>
                      <idno n="D-Mu 4° Cod. 157">München, Universitätsbibliothek, Cod. 157</idno>
                   </altIdentifier>
@@ -110,7 +121,8 @@
             <list type="secondary_sources">
                <item/>
             </list>
-            <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+            <list type="traktate"
+               xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
                <item xml:id="Durandus">
                   <bibl>
                      <title>Rationale Divinorum Officiorum</title>
@@ -342,7 +354,9 @@
                      <placeName/>
                      <date/>
                      <series/>
-                     <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
+                     <ref
+                        target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="
+                     />
                   </bibl>
                </item>
             </list>
@@ -392,54 +406,110 @@
       </encodingDesc>
       <!--Objektbezogen-->
       <profileDesc>
-         <abstract facs="#STARTPAGE_IMG">
-            <ab type="image_title" xml:lang="de">Beginn des Freisinger <hi rend="italic">Liber
+         <abstract facs="#STARTPAGE_IMG" xml:lang="de">
+            <ab type="image_title">Beginn des Freisinger <hi rend="italic"
+                  >Liber
                   Ordinarius</hi> (D-Mu 4° Cod. 157)</ab>
-            <ab type="head">Ein <hi rend="italic">Liber Ordinarius</hi> für die Kathedralkirche und
+            <ab type="head">Ein <hi rend="italic"
+               >Liber Ordinarius</hi> für die Kathedralkirche und
                Diözese Freising.</ab>
-            <p style="primary" xml:lang="de">Die nach dem Colophon vom 22. Oktober 1414 von <hi rend="italic">Fridricus Ruckel</hi> vollendete Handschrift München
-               Universitätsbibliothek 4° Cod. 157 ist ein <hi rend="italic">Liber Ordinarius</hi>,
+            <p style="primary">Die nach dem Colophon vom 22. Oktober 1414 von <hi rend="italic"
+                  >Fridricus Ruckel</hi> vollendete Handschrift München
+               Universitätsbibliothek 4° Cod. 157 ist ein <hi
+                  rend="italic"
+               >Liber Ordinarius</hi>,
                dessen Text, obwohl für den Gebrauch in der Diözese konzipiert, eindeutig auf der
                Liturgie der Freisinger Kathedrale basiert. Nach den alten Signaturen auf dem Rücken
                des Einbands und auf dem Vorsatzblatt wurde der Codex in der Universitätsbibliothek
                Ingolstadt aufbewahrt.</p>
-            <p xml:lang="de">Die Zuweisung der Handschrift für den Freisinger Gebrauch ist aufgrund
-               des Incipits eindeutig: <hi rend="italic">[H]ic incipit prima pars huius [operis]
+            <p>Die Zuweisung der Handschrift für den Freisinger Gebrauch ist aufgrund
+               des Incipits eindeutig: <hi
+                  rend="italic"
+                  >[H]ic incipit prima pars huius [operis]
                   videlicet ordo seu breviarium de horis canonicis, quid legendum seu canendum sit
                   per circulum anni de tempore secundum modum modum ecclesiae Freysingensis.</hi>
-               Diese Angabe wird auf fol. 84r nochmals wiederholt: <hi rend="italic">[H]ic incipit
+               Diese Angabe wird auf fol. 84r nochmals wiederholt: <hi
+                  rend="italic"
+                  >[H]ic incipit
                   secunda pars huius operis, videlicet ordo seu breviarium de horis canonicis, quid
                   legendum et cantandum sit per circulum anni de sanctis iuxta modum seu
                   observantiam antiquae huius ecclesie Freysingensis.</hi>
             </p>
-            <p xml:lang="de">Die zahlreich genannten Orte beziehen sich auf den Bischofssitz
-               Freising. Im <hi rend="italic">Liber Ordinarius</hi> werden vier Kirchen auf dem <hi rend="bold">Domberg</hi>, welcher in der Handschrift als <hi rend="italic">super
+            <p>Die zahlreich genannten Orte beziehen sich auf den Bischofssitz
+               Freising. Im <hi
+                  rend="italic">Liber Ordinarius</hi> werden vier Kirchen auf dem <hi rend="bold"
+                  >Domberg</hi>, welcher in der Handschrift als <hi rend="italic"
+                  >super
                   montem nostrum</hi> bezeichnet wird, genannt: Der Freisinger Dom, die Kirche des
                hl. Benedikt am Kreuzgang, das Kollegiatstift St. Johannes, das unmittelbar westlich
                des Doms liegt, und die ehemalige, ebenfalls im Westen gelegene Stiftskirche St.
                Andreas.</p>
-            <p xml:lang="de">Im <hi rend="italic">Liber Ordinarius</hi> werden zudem die
+            <p>Im <hi rend="italic"
+               >Liber Ordinarius</hi> werden zudem die
                Stadtpfarrkirche St. Georg, die bei der Markusprozession besucht wurde, und das
                ehemalige Kollegiatstift St. Veit Weihenstephan am Palmsonntag erwähnt. Beide
                befinden sich außerhalb des religiösen Zentrums am Domberg.</p>
-            <p xml:lang="de">Neben vielen Besonderheiten des Freisinger Sanctorale nehmen die Feste
-               der heiligen Patrone der Kathedrale, <hi rend="bold">Maria (Geburt) und
+            <p>Neben vielen Besonderheiten des Freisinger Sanctorale nehmen die Feste
+               der heiligen Patrone der Kathedrale, <hi
+                  rend="bold"
+               >Maria (Geburt) und
                   Korbinian</hi> am 8. September (mit Oktavfest), einen besonderen Stellenwert ein.
                Zusätzlich gibt es noch drei weitere Hochfeste von Heiligen, deren Reliquien in der
                Krypta des Freisinger Doms aufbewahrt werden: St. Nonnosus (2. September), St.
                Justinus (4. August) und Bischof Lambert von Freising (18. September). Weitere
                typische Elemente des Freisinger Kalendars sind die Feiern für die hl. Sigismund (28.
                April) und Willibald (7. Juli) sowie für die Domkirchweihe (2. Mai).</p>
-            <p xml:lang="de">Für die Feier des Festtags des <hi rend="bold">hl. Korbinian</hi>, dem
+            <p>Für die Feier des Festtags des <hi rend="bold"
+                  >hl. Korbinian</hi>, dem
                ersten Bischof von Freising, ist im Ordinarius ein besonderer Hinweis zu finden: Da
                sein Sterbetag mit dem Fest Mariä Geburt zusammenfällt, wurde das Gedächtnis auf den
-               folgenden Tag, den 9. September, verschoben (<hi rend="italic">Cumque nostri
+               folgenden Tag, den 9. September, verschoben (<hi
+                  rend="italic"
+                  >Cumque nostri
                   sanctissimi patroni Corbiniani festum sit in die nativitatis virginis Mariae,
                   propter quod sequenti die officium eius pleno officio celebrare
                consuevimus</hi>.). Aus dem Sonderoffizium für Korbinian sang man an diesem Tag aber
-               nur Teile (dritte Nocturn). Das vollständige Offizium erklang erst am Tag seiner <hi rend="italic">Translatio</hi> am 20. November.</p>
+               nur Teile (dritte Nocturn). Das vollständige Offizium erklang erst am Tag seiner <hi
+                  rend="italic">Translatio</hi> am 20. November.</p>
             <p>
                <hi rend="italic">von Gionata Brusa</hi>
+            </p>
+         </abstract>
+         <abstract facs="#STARTPAGE_IMG" xml:lang="en">
+            <ab type="image_title"
+               >Beginning of the Liber ordinarius for the cathedral church and diocese of Freising.</ab>
+            <ab type="head"
+               >A Liber ordinarius for the cathedral church and diocese of Freising.</ab>
+            <p style="primary"
+                  >According to the colophon of 22 October 1414, the manuscript München Universitätsbibliothek 4° Cod. 157 was completed by 
+               <hi
+                  rend="italic">Fridricus Ruckel</hi>. It is a <hi rend="italic"
+                  >Liber ordinarius</hi> whose text is clearly based upon the liturgy of Freising Cathedral, even though it was created for use within the diocese rather than in the cathedral itself. Older shelfmarks on the spine of the binding and the flyleaf reveal that the codex was held by Ingolstadt university library.</p>
+            <p>The incipit clearly attributes the manuscript to Freising: <hi rend="italic"
+                  >[H]ic incipit prima pars huius [operis] videlicet ordo seu breviarium de horis canonicis, quid legendum seu canendum sit per circulum anni de tempore secundum modum ecclesiae Freysingensis.</hi> This information is repeated on fol. 84r: <hi
+                  rend="italic"
+                  >[H]ic incipit secunda pars huius operis, videlicet ordo seu breviarium de horis canonicis, quid legendum et cantandum sit per circulum anni de sanctis iuxta modum seu observantiam antiquae huius ecclesie Freysingensis.</hi>
+            </p>
+            <p>The numerous places mentioned refer to the diocesan town of Freising. The <hi
+                  rend="italic">Liber ordinarius</hi> mentions four churches on the <hi rend="bold"
+                  >cathedral hill</hi>, referred to in the manuscript as <hi rend="italic"
+                  >super montem nostrum</hi>: Freising Cathedral, the Church of St. Benedikt in the cathedral cloisters, the collegiate church of St. Johannes, directly west of the cathedral, and the former monastery church of St. Andreas, also in the west.</p>
+            <p>The <hi rend="italic"
+               >Liber ordinarius</hi> also mentions the parish church of St. Georg, which was visited during the procession on St. Mark's Day, and the former collegiate church of St. Veit, Weihenstephan, on Palm Sunday. Both churches lie beyond the religious centre of the diocese on the cathedral hill.
+            </p>
+            <p>Among the many special features in the Freising
+               <hi rend="italic"
+                  >Sanctorale</hi>, the feasts for the cathedral's patron saints, <hi rend="bold"
+                  >Mary (Nativity) and Korbinian</hi> on 8 September (including the feast of the octave), are particularly significant. There are three further high feast days for saints whose relics lie in the crypt of Freising Cathedral: St. Nonnosus (2 September), St. Justinus (4 August) and Bishop Lambert of Freising (18 September). Further elements typical of the Freising calendar are the celebrations for St. Sigismund (28 April) and Willibald (7 July) and for the dedication of the cathedral (2 May).</p>
+            <p>The ordinarius contains a special note on the celebration for the feast of <hi
+                  rend="bold"
+                  >St. Korbinian</hi>, the first Bishop of Freising: as the day of his death coincided with the feast of the Nativity of Mary, his commemoration was moved to the following day, 9 September (<hi
+                  rend="italic"
+                  >Cumque nostri sanctissimi patroni Corbiniani festum sit in die nativitatis virginis Mariae, propter quod sequenti die officium eius pleno officio celebrare consuevimus</hi>). On this day, only parts (the Third Nocturn) of the special office for Korbinian were sung, however. The full office was only performed on 20 November, the day of his 
+               <hi
+                  rend="italic">translatio</hi>.</p>
+            <p>
+               <hi rend="italic">by Gionata Brusa</hi>
             </p>
          </abstract>
       </profileDesc>

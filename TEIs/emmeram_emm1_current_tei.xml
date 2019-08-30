@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
    <teiHeader xml:id="emmeram.emm1">
       <fileDesc>
          <titleStmt>
@@ -38,29 +39,37 @@
          </editionStmt>
          <publicationStmt>
             <publisher>
-               <orgName corresp="https://www.oeaw.ac.at/ikm/home/" ref="http://d-nb.info/gnd/1043809171"> Österreichische Akademie der Wissenschaften
+               <orgName corresp="https://www.oeaw.ac.at/ikm/home/"
+                  ref="http://d-nb.info/gnd/1043809171"
+                  > Österreichische Akademie der Wissenschaften
                   Institut für kunst- und musikhistorische Forschungen, Abteilung Musikwissenschaft
                </orgName>
             </publisher>
             <authority>
-               <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463"> Zentrum für Informationsmodellierung -
+               <orgName corresp="https://informationsmodellierung.uni-graz.at"
+                  ref="http://d-nb.info/gnd/1137284463"
+                  > Zentrum für Informationsmodellierung -
                   Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
             </authority>
             <distributor>
-               <orgName ref="https://gams.uni-graz.at"> GAMS - Geisteswissenschaftliches Asset
+               <orgName ref="https://gams.uni-graz.at"
+                  > GAMS - Geisteswissenschaftliches Asset
                   Management System</orgName>
             </distributor>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0">Creative Commons
+               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0"
+                  >Creative Commons
                   BY-NC-ND 3.0</licence>
             </availability>
             <date when="2018">2018</date>
             <idno type="PID">o:cantus.emmeram.emm1</idno>
          </publicationStmt>
          <seriesStmt>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"> Cantus Network - semantisch
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"
+               > Cantus Network - semantisch
                erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en"> Cantus Network - a
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en"
+               > Cantus Network - a
                semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan
                province.</title>
             <respStmt>
@@ -103,14 +112,16 @@
                   <altIdentifier>
                      <placeName>Regensburg, St. Emmeram<date from="1435" to="1435">1435</date>
                      </placeName>
-                     <idno n="Clm 14183" rend="EMM1">München, Bayerische Staatsbibliothek, Clm 14183</idno>
+                     <idno n="Clm 14183" rend="EMM1"
+                        >München, Bayerische Staatsbibliothek, Clm 14183</idno>
                   </altIdentifier>
                </msIdentifier>
             </msDesc>
             <list type="secondary_sources">
                <item/>
             </list>
-            <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+            <list type="traktate"
+               xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
                <item xml:id="Durandus">
                   <bibl>
                      <title>Rationale Divinorum Officiorum</title>
@@ -342,7 +353,9 @@
                      <placeName/>
                      <date/>
                      <series/>
-                     <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
+                     <ref
+                        target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="
+                     />
                   </bibl>
                </item>
             </list>
@@ -373,7 +386,8 @@
                Form und mit musikalischer Notation vor sich zu haben.</p>
          </projectDesc>
          <projectDesc xml:lang="en">
-            <p rend="head"> Liturgy and music in the medieval ecclesiastical province of Salzburg</p>
+            <p rend="head"
+               > Liturgy and music in the medieval ecclesiastical province of Salzburg</p>
             <p> For many centuries, the ecclesiastical province of Salzburg, along with its
                suffragan dioceses of Brixen, Freising, Regensburg and Salzburg, played a key role in
                the cultural history of Austria and Bavaria. It is thus all the more important that
@@ -392,15 +406,20 @@
          </projectDesc>
       </encodingDesc>
       <profileDesc>
-         <abstract facs="#STARTPAGE_IMG">
-            <ab type="image_title" xml:lang="de">Beginn des <hi rend="italic">Liber Ordinarius</hi> St. Emmeram (Clm 14428)</ab>
-            <ab type="head">Der <hi rend="italic">Liber Ordinarius</hi> des Regensburger Benediktinerklosters St. Emmeram</ab>
-            <p style="primary" xml:lang="de">Die drei Exemplare des Liber Ordinarius des Benediktinerklosters St. Emmeram in Regensburg (gegründet um 739) aus den Jahren 1435 bzw. 1444 gehören zu den bedeutendsten Quellen dieses Typus. Die liturgische Tradition des Klosters lässt sich zum Teil bis in die Karolingerzeit zurückverfolgen. Besonders geprägt wurde die Liturgie durch die Tätigkeit des hl. Wolfgangs, Bischof von Regensburg von 972-994. Im 11. Jahrhundert war das Kloster sehr produktiv in der Komposition von Sequenzen und Tropen. Zu dieser Zeit entstanden auch Heiligenoffizien für die Lokalheiligen Emmeram, Dionysius und Wolfgang.</p>
-            <p xml:lang="de">Alle drei <hi rend="italic">Libri Ordinarii</hi> stammen aus der Amtszeit des Abtes Wolfhard Strauss (reg. 1423-1451). Der älteste, der auf Pergament geschriebene D-Mbs clm 14428 der Bayerischen Staatsbibliothek München, trägt das Datum 23. Januar 1435 (begonnen oder vollendet). Clm 14183 ist eine Kopie, teils auf Papier, teils auf Pergament. Der Schreiber des Codex clm 14183, den Ian Rumbold mit Hermann Pötzlinger identifizierte, übernimmt das oben genannte Datum aus seiner Vorlage. Auch wenn diese Angabe vermutlich nicht exakt stimmt, ist eine Datierung 1435 oder 1436 durchaus möglich. Zu dieser Zeit war Pötzlinger möglicherweise Assistent in der Klosterschule (vgl. Rumbold, Hermann Pötzlinger’s ordinal). Pötzlinger ist bekannt als Schreiber des sogenannten „St. Emmeram Codex“ (D-Mbs clm 14274), eine Sammlung von meist mehrstimmiger Musik, die zum Teil im Umfeld der Wiener Universität entstand. </p>
-            <p xml:lang="de">Besonders interessant ist der dritte Ordinarius, clm 14073. An vielen Stellen bestätigt er eine Fortsetzung der Gebräuche von clm 14428 (und clm 14183), weist aber zahlreiche Änderungen inklusive Tilgungen und Ersetzungen auf, die vermutlich auf die Anpassung der Handschrift an die Vorschriften der monastischen Reform von Kastl hindeuten.</p>
-            <p xml:lang="de">Von hohem Wert für die Erforschung lokaler Gebräuche sind die zahlreichen Angaben zu Prozessionen an Festtagen zu Kapellen und Altären der Klosterkirche, aber auch zu weiteren Stationen auf dem Klostergelände. Mehrmals wird zudem das mehrstimmige Singen („organum“) oder die Verwendung der Orgeln erwähnt.</p>
-            <p xml:lang="de">Die Kalendare zu Beginn aller drei <hi rend="italic">Libri Ordinarii</hi> sind nicht Teil der Edition, obwohl sie wegen zahlreicher memorialer Einträge besonders informativ sind. Nach dem Kalender in clm 14428 folgt eine Computustabelle, in clm 14183 bzw. 14073 Notizen zu Gebräuchen im Advent und in der Fastenzeit. Am Ende von clm 14073 wurden nicht-liturgische Dokumente später hinzugefügt (vgl. die Beschreibungen von Wunderle bzw. Neske).</p>
-            <p xml:lang="de">
+         <abstract facs="#STARTPAGE_IMG" xml:lang="de">
+            <ab type="image_title">Beginn des <hi rend="italic"
+               >Liber Ordinarius</hi> St. Emmeram (Clm 14428)</ab>
+            <ab type="head">Der <hi rend="italic"
+               >Liber Ordinarius</hi> des Regensburger Benediktinerklosters St. Emmeram</ab>
+            <p style="primary"
+               >Die drei Exemplare des Liber Ordinarius des Benediktinerklosters St. Emmeram in Regensburg (gegründet um 739) aus den Jahren 1435 bzw. 1444 gehören zu den bedeutendsten Quellen dieses Typus. Die liturgische Tradition des Klosters lässt sich zum Teil bis in die Karolingerzeit zurückverfolgen. Besonders geprägt wurde die Liturgie durch die Tätigkeit des hl. Wolfgangs, Bischof von Regensburg von 972-994. Im 11. Jahrhundert war das Kloster sehr produktiv in der Komposition von Sequenzen und Tropen. Zu dieser Zeit entstanden auch Heiligenoffizien für die Lokalheiligen Emmeram, Dionysius und Wolfgang.</p>
+            <p>Alle drei <hi rend="italic"
+               >Libri Ordinarii</hi> stammen aus der Amtszeit des Abtes Wolfhard Strauss (reg. 1423-1451). Der älteste, der auf Pergament geschriebene D-Mbs clm 14428 der Bayerischen Staatsbibliothek München, trägt das Datum 23. Januar 1435 (begonnen oder vollendet). Clm 14183 ist eine Kopie, teils auf Papier, teils auf Pergament. Der Schreiber des Codex clm 14183, den Ian Rumbold mit Hermann Pötzlinger identifizierte, übernimmt das oben genannte Datum aus seiner Vorlage. Auch wenn diese Angabe vermutlich nicht exakt stimmt, ist eine Datierung 1435 oder 1436 durchaus möglich. Zu dieser Zeit war Pötzlinger möglicherweise Assistent in der Klosterschule (vgl. Rumbold, Hermann Pötzlinger’s ordinal). Pötzlinger ist bekannt als Schreiber des sogenannten „St. Emmeram Codex“ (D-Mbs clm 14274), eine Sammlung von meist mehrstimmiger Musik, die zum Teil im Umfeld der Wiener Universität entstand. </p>
+            <p>Besonders interessant ist der dritte Ordinarius, clm 14073. An vielen Stellen bestätigt er eine Fortsetzung der Gebräuche von clm 14428 (und clm 14183), weist aber zahlreiche Änderungen inklusive Tilgungen und Ersetzungen auf, die vermutlich auf die Anpassung der Handschrift an die Vorschriften der monastischen Reform von Kastl hindeuten.</p>
+            <p>Von hohem Wert für die Erforschung lokaler Gebräuche sind die zahlreichen Angaben zu Prozessionen an Festtagen zu Kapellen und Altären der Klosterkirche, aber auch zu weiteren Stationen auf dem Klostergelände. Mehrmals wird zudem das mehrstimmige Singen („organum“) oder die Verwendung der Orgeln erwähnt.</p>
+            <p>Die Kalendare zu Beginn aller drei <hi rend="italic"
+               >Libri Ordinarii</hi> sind nicht Teil der Edition, obwohl sie wegen zahlreicher memorialer Einträge besonders informativ sind. Nach dem Kalender in clm 14428 folgt eine Computustabelle, in clm 14183 bzw. 14073 Notizen zu Gebräuchen im Advent und in der Fastenzeit. Am Ende von clm 14073 wurden nicht-liturgische Dokumente später hinzugefügt (vgl. die Beschreibungen von Wunderle bzw. Neske).</p>
+            <p>
                <hi rend="italic">von David Hiley und Gionata Brusa</hi>
             </p>
          </abstract>
