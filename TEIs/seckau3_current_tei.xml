@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
    <teiHeader xml:id="seckau3">
       <fileDesc>
          <titleStmt>
             <title>
-               <note type="supplied">INCIPIT LIBER ORDINARIUS ECCLESIAE SECCOVIENSIS (1595-1600) ex Bibliotheca Universitatis Graecensis, Cod. 1566</note>
+               <note type="supplied"
+                  >INCIPIT LIBER ORDINARIUS ECCLESIAE SECCOVIENSIS (1595-1600) ex Bibliotheca Universitatis Graecensis, Cod. 1566</note>
             </title>
             <title type="short">Seckau (SE3)</title>
-            <title type="citation">Der Seckauer 'Liber ordinarius' Graz Universitätsbibliothek 1566</title>
+            <title type="citation"
+               >Der Seckauer 'Liber ordinarius' Graz Universitätsbibliothek 1566</title>
             <!-- verschiedene verantwortlichkeiten für digitale resource: Objektbezogen -->
             <respStmt>
                <resp>editor</resp>
@@ -39,24 +42,32 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/ikm/home/">Österreichische Akademie der Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung Musikwissenschaft</orgName>
+               <orgName ref="http://d-nb.info/gnd/1043809171"
+                  corresp="https://www.oeaw.ac.at/ikm/home/"
+                  >Österreichische Akademie der Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung Musikwissenschaft</orgName>
             </publisher>
             <authority>
-               <orgName ref="http://d-nb.info/gnd/1137284463" corresp="https://informationsmodellierung.uni-graz.at">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+               <orgName ref="http://d-nb.info/gnd/1137284463"
+                  corresp="https://informationsmodellierung.uni-graz.at"
+                  >Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
             </authority>
             <distributor>
-               <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+               <orgName ref="https://gams.uni-graz.at"
+                  >GAMS - Geisteswissenschaftliches Asset Management System</orgName>
             </distributor>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0">Creative Commons BY-NC-ND 3.0</licence>
+               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0"
+                  >Creative Commons BY-NC-ND 3.0</licence>
             </availability>
             <date when="2017">2017</date>
             <idno type="PID">o:cantus.seckau3</idno>
          </publicationStmt>
          <!-- nicht objektbezogen; fürs gesamte Projekt-->
          <seriesStmt>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network - semantisch erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en">Cantus Network - a semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan province.</title>
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"
+               >Cantus Network - semantisch erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en"
+               >Cantus Network - a semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan province.</title>
             <respStmt>
                <resp>Projektleitung</resp>
                <persName>
@@ -95,7 +106,8 @@
             <msDesc>
                <msIdentifier>
                   <altIdentifier>
-                     <placeName>Augustinerchorherrenstift Seckau<date from="1595" to="1600">1595-1600</date>
+                     <placeName>Augustinerchorherrenstift Seckau<date from="1595" to="1600"
+                           >1595-1600</date>
                      </placeName>
                      <idno n="A-Gu Ms. 1566">Graz, Universitätsbibliothek, Ms. 1566</idno>
                   </altIdentifier>
@@ -104,7 +116,8 @@
             <list type="secondary_sources">
                <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-Gu17/manifest"/>
             </list>
-            <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+            <list type="traktate"
+               xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
                <item xml:id="Durandus">
                   <bibl>
                      <title>Rationale Divinorum Officiorum</title>
@@ -336,7 +349,9 @@
                      <placeName/>
                      <date/>
                      <series/>
-                     <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
+                     <ref
+                        target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="
+                     />
                   </bibl>
                </item>
             </list>
@@ -361,26 +376,98 @@
       </encodingDesc>
       <!--Objektbezogen-->
       <profileDesc>
-         <abstract facs="#STARTPAGE_IMG">
-            <ab type="image_title" xml:lang="de">Beginn des Passau-Seckauer Liber Ordinarius (A-Gu 208)</ab>
-            <ab type="head">Die drei <hi rend="italic">Libri Ordinarii</hi> aus dem obersteirischen Chorherrenstift Seckau</ab>
-            <p style="primary" xml:lang="de">Im Jänner 1140 stiftete Adalram von Waldeck aus dem Geschlecht der Herren von Traisen (Niederösterreich) gemeinsam mit seiner Gattin Richiza in Feistritz/St. Marein bei Knittelfeld (Steiermark) ein <hi rend="bold">reguliertes Chorherren- und Chorfrauenstift</hi>. Das Stifterpaar übereignete die Gründung Erzbischof Konrad I. von Salzburg (ca. 1075-1147), der sie am <hi rend="bold">12. Juli 1140</hi> besiedeln ließ. Im Mai 1141 wählten die Chorherren im Kapitel unter Beisein des Bischofs Roman von Gurk (vor 1100–1167) den ehemaligen Salzburger Domherrn Wernher von Galler zu ihrem ersten Propst. Schon 1142 wurde die Stiftung jedoch an einen wenige Kilometer entfernten, ruhigeren Ort verlegt, aus dessen Bibliothek die drei vorgestellten <hi rend="italic">Libri Ordinarii</hi> stammen: <hi rend="bold">Seckau</hi>.</p>
-            <p xml:lang="de">Die Codices zählen zu den etwa 340 Handschriften, die im Zuge der Klosteraufhebungen unter Kaiser Joseph II. (1741-1790) im Jahr 1782 aus Seckau in den Besitz der Universitätsbibliothek Graz gelangten.</p>
+         <abstract facs="#STARTPAGE_IMG" xml:lang="de">
+            <ab type="image_title">Beginn des Passau-Seckauer Liber Ordinarius (A-Gu 208)</ab>
+            <ab type="head">Die drei <hi rend="italic"
+               >Libri Ordinarii</hi> aus dem obersteirischen Chorherrenstift Seckau</ab>
+            <p style="primary"
+                  >Im Jänner 1140 stiftete Adalram von Waldeck aus dem Geschlecht der Herren von Traisen (Niederösterreich) gemeinsam mit seiner Gattin Richiza in Feistritz/St. Marein bei Knittelfeld (Steiermark) ein <hi
+                  rend="bold"
+                  >reguliertes Chorherren- und Chorfrauenstift</hi>. Das Stifterpaar übereignete die Gründung Erzbischof Konrad I. von Salzburg (ca. 1075-1147), der sie am <hi
+                  rend="bold"
+                  >12. Juli 1140</hi> besiedeln ließ. Im Mai 1141 wählten die Chorherren im Kapitel unter Beisein des Bischofs Roman von Gurk (vor 1100–1167) den ehemaligen Salzburger Domherrn Wernher von Galler zu ihrem ersten Propst. Schon 1142 wurde die Stiftung jedoch an einen wenige Kilometer entfernten, ruhigeren Ort verlegt, aus dessen Bibliothek die drei vorgestellten <hi
+                  rend="italic">Libri Ordinarii</hi> stammen: <hi rend="bold">Seckau</hi>.</p>
+            <p>Die Codices zählen zu den etwa 340 Handschriften, die im Zuge der Klosteraufhebungen unter Kaiser Joseph II. (1741-1790) im Jahr 1782 aus Seckau in den Besitz der Universitätsbibliothek Graz gelangten.</p>
             <ab type="head">Codex Graz, Univ.-Bibl., Ms 208 (Seckau-1)</ab>
-            <p xml:lang="de">Der älteste Seckauer <hi rend="italic">Liber Ordinarius</hi> A-Gu 208 ist eine unauffällige, nicht ganz vollständig erhaltene romanische Pergamenthandschrift (12./13. Jahrhundert), die zum größten Teil von einer einzigen Hand, die sich auch in weiteren Codices der Seckauer Bibliothek findet, geschrieben wurde. Der Codex, dessen Incipit ihn als „ORDO siue Breuiarium de ecclesiasticis obseruationibus quomodo legendum vel canendum sit per circulum anni“ (Ms. 208, fol. 1r) ausweist, vermerkt auf seinen 46 Folien in Kurzform die Liturgie einer regulierten Kanonikergemeinschaft. Er wurde in späterer Zeit (16./17. Jahrhundert) mit einem papierenen Anhang vereint, der liturgische Gesangsteile, notiert in römischer Quadratnotation, überliefert (Ms 208, foll. 47-70).</p>
-            <p xml:lang="de">Die im Grazer Handschriftenkatalog als „Directorium liturgicum Salisburgense ad usum ecclesiae collegiatae Seccoviensis“ beschriebene Quelle überliefert in ihrer Anlageform liturgische Gewohnheiten aus dem Raum der mittelalterlichen <hi rend="bold">Diözese Passau</hi> und wurde erst im Nachhinein durch eine sehr geübte, klein schreibende Hand überarbeitet und für den liturgischen Gebrauch von Seckau adaptiert. Das „neue“ Formular enthält sowohl Elemente der Passauer als auch der Salzburger Liturgie und kann als <hi rend="bold">Mischform</hi> beider Liturgiefamilien betrachtet werden.</p>
+            <p>Der älteste Seckauer <hi rend="italic"
+               >Liber Ordinarius</hi> A-Gu 208 ist eine unauffällige, nicht ganz vollständig erhaltene romanische Pergamenthandschrift (12./13. Jahrhundert), die zum größten Teil von einer einzigen Hand, die sich auch in weiteren Codices der Seckauer Bibliothek findet, geschrieben wurde. Der Codex, dessen Incipit ihn als „ORDO siue Breuiarium de ecclesiasticis obseruationibus quomodo legendum vel canendum sit per circulum anni“ (Ms. 208, fol. 1r) ausweist, vermerkt auf seinen 46 Folien in Kurzform die Liturgie einer regulierten Kanonikergemeinschaft. Er wurde in späterer Zeit (16./17. Jahrhundert) mit einem papierenen Anhang vereint, der liturgische Gesangsteile, notiert in römischer Quadratnotation, überliefert (Ms 208, foll. 47-70).</p>
+            <p>Die im Grazer Handschriftenkatalog als „Directorium liturgicum Salisburgense ad usum ecclesiae collegiatae Seccoviensis“ beschriebene Quelle überliefert in ihrer Anlageform liturgische Gewohnheiten aus dem Raum der mittelalterlichen <hi
+                  rend="bold"
+                  >Diözese Passau</hi> und wurde erst im Nachhinein durch eine sehr geübte, klein schreibende Hand überarbeitet und für den liturgischen Gebrauch von Seckau adaptiert. Das „neue“ Formular enthält sowohl Elemente der Passauer als auch der Salzburger Liturgie und kann als <hi
+                  rend="bold">Mischform</hi> beider Liturgiefamilien betrachtet werden.</p>
             <p>
-               <ref target="/o:cantus.seckau1.pac/sdef:TEI/get?mode=view:edition&amp;locale=de">Zum <hi rend="italic">Liber Ordinarius</hi> Seckau 1.</ref>
+               <ref target="/o:cantus.seckau1.pac/sdef:TEI/get?mode=view:edition&amp;locale=de"
+                     >Zum <hi rend="italic">Liber Ordinarius</hi> Seckau 1.</ref>
             </p>
             <ab type="head">Codex Graz, Univ.-Bibl., Ms 756 (Seckau 2)</ab>
-            <p xml:lang="de">Die zweite Quelle ist der etwa 150-170 Jahre jüngere Seckauer <hi rend="italic">Liber Ordinarius</hi> A-Gu 756 aus dem Jahr 1345. Diese Handschrift wurde 2009 im Rahmen einer Dissertation an der Kunstuniversität Graz unter dem Titel „Der Seckauer Liber ordinarius von 1345 (A-Gu 756) – Edition und Kommentar“ von Inga Behrendt vorgestellt und bietet einen Einblick in die vielgestaltige Liturgie des mittelalterlichen Augustiner Chorherrenstiftes im 14. Jahrhundert. Der Codex ist eine erweiterte Abschrift des älteren <hi rend="italic">Liber Ordinarius</hi> Ms 208 mit einem beigebundenen Cantionar, das liturgisches Eigen- und volkssprachiges Liedgut aus Seckau verzeichnet. Die Dissertation bietet ein Incipitverzeichnis dieses liturgischen Anhangs und erstmalig eine Besprechung der linienlosen Notation (adiastematische Neumen) aus dem 14. Jahrhundert in Seckau.</p>
+            <p>Die zweite Quelle ist der etwa 150-170 Jahre jüngere Seckauer <hi rend="italic"
+                  >Liber Ordinarius</hi> A-Gu 756 aus dem Jahr 1345. Diese Handschrift wurde 2009 im Rahmen einer Dissertation an der Kunstuniversität Graz unter dem Titel „Der Seckauer Liber ordinarius von 1345 (A-Gu 756) – Edition und Kommentar“ von Inga Behrendt vorgestellt und bietet einen Einblick in die vielgestaltige Liturgie des mittelalterlichen Augustiner Chorherrenstiftes im 14. Jahrhundert. Der Codex ist eine erweiterte Abschrift des älteren <hi
+                  rend="italic"
+               >Liber Ordinarius</hi> Ms 208 mit einem beigebundenen Cantionar, das liturgisches Eigen- und volkssprachiges Liedgut aus Seckau verzeichnet. Die Dissertation bietet ein Incipitverzeichnis dieses liturgischen Anhangs und erstmalig eine Besprechung der linienlosen Notation (adiastematische Neumen) aus dem 14. Jahrhundert in Seckau. Die hier vorliegende digitale Edition wurde von Gionata Brusa auf Grundlage des Originalmanuskripts Ms 756 neu transkribiert und ausgezeichnet.</p>
             <ab type="head">Codex Graz, Univ.-Bibl., Ms 1566 (Seckau 3)</ab>
-            <p xml:lang="de">Der dritte <hi rend="italic">Liber Ordinarius</hi> A-Gu 1566 ist die jüngste der drei Handschriften. Der Codex stammt aus dem letzten Jahrzehnt des 16. Jahrhunderts (zwischen 1595 und 1600) und gewährt Einblick in die mehr als 250 Jahre kontinuierliche liturgische und musikalische Entwicklung der Seckauer Liturgie nach der Verschriftlichung durch Ms 756. Auch er wurde im Rahmen einer 2016 abgeschlossenen Dissertation von Réka Miklós bearbeitet. Der <hi rend="italic">Liber Ordinarius</hi> gilt als eines der <hi rend="bold">spätesten Beispiele seiner Art</hi> und steht an der Schwelle zu den liturgisch-musikalischen Umwälzungen im Gefolge des Konzils von Trient. Es handelt sich somit um die letzte Dokumentation <hi rend="bold">Seckauer Eigenliturgie</hi> vor der Übernahme des römischen Ritus im Jahre 1600.</p>
+            <p>Der dritte <hi rend="italic"
+                  >Liber Ordinarius</hi> A-Gu 1566 ist die jüngste der drei Handschriften. Der Codex stammt aus dem letzten Jahrzehnt des 16. Jahrhunderts (zwischen 1595 und 1600) und gewährt Einblick in die mehr als 250 Jahre kontinuierliche liturgische und musikalische Entwicklung der Seckauer Liturgie nach der Verschriftlichung durch Ms 756. Auch er wurde im Rahmen einer 2016 abgeschlossenen Dissertation von Réka Miklós bearbeitet. Der <hi
+                  rend="italic">Liber Ordinarius</hi> gilt als eines der <hi rend="bold"
+                  >spätesten Beispiele seiner Art</hi> und steht an der Schwelle zu den liturgisch-musikalischen Umwälzungen im Gefolge des Konzils von Trient. Es handelt sich somit um die letzte Dokumentation <hi
+                  rend="bold"
+               >Seckauer Eigenliturgie</hi> vor der Übernahme des römischen Ritus im Jahre 1600.</p>
             <p>
                <hi rend="italic">von Thomas Csanády</hi>
             </p>
             <p>
-               <ref target="/o:cantus.seckau3/sdef:TEI/get?mode=view:edition&amp;locale=de">Zum <hi rend="italic">Liber Ordinarius</hi> Seckau 3.</ref>
+               <ref target="/o:cantus.seckau3/sdef:TEI/get?mode=view:edition&amp;locale=de">Zum <hi
+                     rend="italic">Liber Ordinarius</hi> Seckau 3.</ref>
+            </p>
+         </abstract>
+         <abstract facs="#STARTPAGE_IMG" xml:lang="en">
+            <ab type="image_title">Beginning of Codex Graz, Univ.-Bibl., Ms 208 (Seckau-1)</ab>
+            <ab type="head"
+               >The three Libri ordinarii from the Augustinian monastery of Seckau in Upper Styria.</ab>
+            <p style="primary"
+                  >In January 1140, Adalram von Waldeck, who came from the house of the lords of Traisen (Lower Austria), endowed a <hi
+                  rend="bold"
+                  >chapter of canons and canonesses regular</hi> in Feistritz/St. Marein near Knittelfeld (Styria) together with his wife Richiza. The couple transferred the foundation to Archbishop Konrad I. of Salzburg (c. 1075-1147), who had it settled on <hi
+                  rend="bold"
+                  >12 July 1140</hi>. In May 1141, the canons of the chapter chose Wernher von Galler, a former canon of Salzburg Cathedral, as their first provost in the presence of Bishop Roman of Gurk (before 1100-1167). In 1142, however, the foundation was already moved to a quieter location a few kilometres away: <hi
+                  rend="bold">Seckau</hi>. The three <hi rend="italic"
+               >Libri ordinarii</hi> presented here come from the library at Seckau.</p>
+            <p>These codices are among around 340 manuscripts from Seckau that ended up in the possession of Graz University Library following the dissolution of the monasteries under Emperor Joseph II (1741-1790) in 1782.</p>
+            <ab type="head">Codex Graz, Univ.-Bibl., Ms 208 (Seckau-1)</ab>
+            <p>The oldest Seckau
+               <hi rend="italic"
+                  >Liber ordinarius</hi> A-Gu 208 is an unremarkable Romanesque parchment manuscript (12th/13th century). It has not survived in its entirety. Most of the manuscript is written by a single hand also found in further codices of Seckau library. The codex's incipit identifies it as "ORDO siue Breuiarium de ecclesiasticis obseruationibus quomodo legendum vel canendum sit per circulum anni" (Ms. 208, fol. 1r). Its 46 folios detail the liturgy of a community of canons regular in short form. At a later point in time (16th/17th century) a paper appendix was added, which contains parts of liturgical chants, written in Roman square notation (Ms 208, fols. 47-70).
+            </p>
+            <p>The Graz manuscript catalogue describes this source as "Directorium liturgicum Salisburgense ad usum ecclesiae collegiatae Seccoviensis". In its original form, it transmits liturgical customs from the medieval 
+               <hi
+                  rend="bold"
+                  >diocese of Passau</hi> and was only later revised by a very practiced, small hand and adapted to the liturgical use of Seckau. The "new" formulary contains elements of both the Passau and the Salzburg liturgy and can be seen as a <hi
+                  rend="bold">hybrid</hi> of both liturgical families.</p>
+            <p>
+               <ref
+                  target="https://gams.uni-graz.at/o:cantus.seckau1.pac/sdef:TEI/get?mode=view:edition&amp;locale=de"
+                  >
+                 To the Liber ordinarius Seckau 1.
+               </ref>
+            </p>
+            <ab type="head">Codex Graz, Univ.-Bibl., Ms 756 (Seckau 2)</ab>
+            <p>The second source is the Seckau
+               <hi rend="italic"
+                  >Liber ordinarius</hi> A-Gu 756 of 1345, written roughly 150-170 years later. This manuscript was first presented by Inga Behrendt in 2009 as part of a Ph.D. thesis written at Graz University of the Performing Arts, titled "The Seckau Liber ordinarius of 1345 (A-Gu 756) – Edition and Commentary". The manuscript provides an insight into the varied liturgy of the medieval Augustinian monastery in the 14th century. The codex is an expanded copy of the older <hi
+                  rend="italic"
+                  >Liber ordinarius</hi> Ms 208 and is bound together with a collection of <hi
+                  rend="italic"
+               >cantiones</hi> that records local liturgical songs, including in the vernacular, from Seckau. Behrendt's thesis provides a table of the incipits in this liturgical appendix and is the first work to discuss the 14th-century lined notation (adiastematic neumes) in Seckau. This digital edition has been newly transcribed and encoded by Gionata Brusa on the basis of the original manuscript Ms 756.
+            </p>
+            <ab type="head">Codex Graz, Univ.-Bibl., Ms 1566 (Seckau 3)</ab>
+            <p>The third <hi rend="italic"
+                  >Liber ordinarius</hi> A-Gu 1566 is the most recent of the three manuscripts. This codex dates to the last decade of the 16th century (between 1595 and 1600) and provides an insight into the more than 250 years of continuous liturgical and musical development in Seckau's liturgy since it was first written down in Ms 756. This manuscript also formed the topic of a doctoral thesis, completed in 2016 by Réka Miklós. This 
+               <hi
+                  rend="italic">Liber ordinarius</hi> represents one of the <hi rend="bold"
+                  >latest examples of its kind</hi> and stands upon the threshold of the radical liturgical and musical changes that took place in the wake of the Council of Trent. It thus constitutes the last documentation of <hi
+                  rend="bold"
+               >Seckau's local liturgy</hi> before the adoption of the Roman rite in 1600.</p>
+            <p>
+               <hi rend="italic">by Thomas Csanády</hi>
             </p>
          </abstract>
       </profileDesc>

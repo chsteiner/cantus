@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
    <teiHeader xml:id="passau">
       <fileDesc>
          <titleStmt>
@@ -45,24 +46,32 @@
          </editionStmt>
          <publicationStmt>
             <publisher>
-               <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/ikm/home/">Österreichische Akademie der Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung Musikwissenschaft</orgName>
+               <orgName ref="http://d-nb.info/gnd/1043809171"
+                  corresp="https://www.oeaw.ac.at/ikm/home/"
+                  >Österreichische Akademie der Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung Musikwissenschaft</orgName>
             </publisher>
             <authority>
-               <orgName ref="http://d-nb.info/gnd/1137284463" corresp="https://informationsmodellierung.uni-graz.at">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+               <orgName ref="http://d-nb.info/gnd/1137284463"
+                  corresp="https://informationsmodellierung.uni-graz.at"
+                  >Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
             </authority>
             <distributor>
-               <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+               <orgName ref="https://gams.uni-graz.at"
+                  >GAMS - Geisteswissenschaftliches Asset Management System</orgName>
             </distributor>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0">Creative Commons BY-NC-ND 3.0</licence>
+               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0"
+                  >Creative Commons BY-NC-ND 3.0</licence>
             </availability>
             <date when="2017">2017</date>
             <idno type="PID">o:cantus.passau.ur</idno>
          </publicationStmt>
          <!-- nicht objektbezogen; fürs gesamte Projekt-->
          <seriesStmt>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network - semantisch erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en">Cantus Network - a semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan province.</title>
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"
+               >Cantus Network - semantisch erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en"
+               >Cantus Network - a semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan province.</title>
             <respStmt>
                <resp>Projektleitung</resp>
                <persName>
@@ -106,25 +115,33 @@
                      <idno rend="SP1" n="A-SPL 83/3">St. Paul, Benediktinerstift, Cod. 83/3</idno>
                   </altIdentifier>
                   <altIdentifier>
-                     <placeName>Stadtpfarrkirche St. Veit Krems?<date from="1364" to="1364">um 1364</date>
+                     <placeName>Stadtpfarrkirche St. Veit Krems?<date from="1364" to="1364"
+                           >um 1364</date>
                      </placeName>
-                     <idno rend="SVE" n="A-Wn Cod. 1874">Wien, Österreichische Nationalbibliothek, Cod. 1874</idno>
+                     <idno rend="SVE" n="A-Wn Cod. 1874"
+                        >Wien, Österreichische Nationalbibliothek, Cod. 1874</idno>
                   </altIdentifier>
                   <altIdentifier>
-                     <placeName>Pfarrkirche St. Martin Klosterneuburg<date from="1325" to="1350">2. Viertel 14. Jahrhundert</date>
+                     <placeName>Pfarrkirche St. Martin Klosterneuburg<date from="1325" to="1350"
+                           >2. Viertel 14. Jahrhundert</date>
                      </placeName>
-                     <idno rend="KNB" n="A-KN 1194">Klosterneuburg, Augustiner-Chorherrenstift, Cod. 1194</idno>
+                     <idno rend="KNB" n="A-KN 1194"
+                        >Klosterneuburg, Augustiner-Chorherrenstift, Cod. 1194</idno>
                   </altIdentifier>
                   <altIdentifier>
-                     <placeName>Pfarre des Prämonstratenserklosters St. Salvator (Niederbayern)<date from="1400" to="1425">1. Viertel 15. Jahrhundert</date>
+                     <placeName>Pfarre des Prämonstratenserklosters St. Salvator (Niederbayern)<date
+                           from="1400" to="1425">1. Viertel 15. Jahrhundert</date>
                      </placeName>
-                     <idno rend="SAL" n="A-Wn Cod. Ser.n. 39563">Wien, Österreichische Nationalbibliothek, Cod. Ser.n. 39563</idno>
+                     <idno rend="SAL" n="A-Wn Cod. Ser.n. 39563"
+                        >Wien, Österreichische Nationalbibliothek, Cod. Ser.n. 39563</idno>
                      <note>nur teilweise codiert</note>
                   </altIdentifier>
                   <altIdentifier>
-                     <placeName>St. Stephan Wien<date from="1375" to="1400">4. Viertel 14. Jahrhundert</date>
+                     <placeName>St. Stephan Wien<date from="1375" to="1400"
+                           >4. Viertel 14. Jahrhundert</date>
                      </placeName>
-                     <idno rend="WIE" n="A-Wn Cod. 4712">Wien, Österreichische Nationalbibliothek, Cod. 4712</idno>
+                     <idno rend="WIE" n="A-Wn Cod. 4712"
+                        >Wien, Österreichische Nationalbibliothek, Cod. 4712</idno>
                      <note>nur teilweise codiert</note>
                   </altIdentifier>
                </msIdentifier>
@@ -142,7 +159,8 @@
                <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-SPL49-3/manifest"/>
                <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-WIL148/manifest"/>
             </list>
-            <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+            <list type="traktate"
+               xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
                <item xml:id="Durandus">
                   <bibl>
                      <title>Rationale Divinorum Officiorum</title>
@@ -374,7 +392,9 @@
                      <placeName/>
                      <date/>
                      <series/>
-                     <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
+                     <ref
+                        target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="
+                     />
                   </bibl>
                </item>
             </list>
@@ -399,18 +419,84 @@
       </encodingDesc>
       <!--Objektbezogen-->
       <profileDesc>
-         <abstract facs="#STARTPAGE_IMG">
-            <ab type="image_title" xml:lang="de">Beginn des Passauer Liber Ordinarius (A-Wn Cod. 1874)</ab>
-            <ab type="head">Der <hi rend="italic">Liber ordinarius</hi> der mittelalterlichen Diözese Passau.</ab>
-            <p style="primary" xml:lang="de">Der mittelalterliche Sprengel des einstmaligen <hi rend="bold">Donaubistums Passau</hi> erfasste den südostwärtigen Teil des Herzogtums Bayern sowie den größten Teil des habsburgischen Erzherzogtums Österreich (mit der Ausnahme des zum Erzbistum Salzburg gehörigen südwestlichen Raumes rund um Wiener Neustadt). Mit der Gründung des Hofbistums Wien 1469/80 begann die sukzessive Verdrängung des Bistums Passau aus seinem österreichischen Sprengel, die mit der Einrichtung der Diözesen Linz und St. Pölten durch Kaiser Joseph II. im Jahr 1783/85 endete. Das Bistum Passau war über viele Jahrhunderte hinweg maßgeblich an der <hi rend="bold">kulturgeschichtlichen Entwicklung Österreichs</hi> ober- und unterhalb der Enns beteiligt.</p>
-            <p xml:lang="de">
-               <hi rend="italic">Incipit ordo sive breviarium de ecclesiasticis observationibus quid legendum sit vel cantandum per circulum anni secundum Pataviensem ecclesiam</hi>. In dieser Präambel der „kirchlichen Gewohnheiten“ wird die Kirche von Passau als Ursprung der im Ordo enthaltenen Tradition bezeichnet. Der <hi rend="italic">Liber ordinarius</hi> Passau (LOP) enthält tatsächlich die Liturgie, wie sie die Passauer Domkanoniker zur Zeit der Kompilation feierten. Anhand der Verbreitungsgeschichte des LOP kann man jedoch eindeutig erkennen, dass der Terminus <hi rend="italic">ecclesia Pataviensis</hi> nicht nur die Kathedrale, sondern <hi rend="bold">alle Kirchen der Diözese</hi> miteinbeziehen soll.</p>
-            <p xml:lang="de">Für die Edition des LOP konnten acht Abschriften ausfindig gemacht werden. Die älteste Kopie ist zwischen <hi rend="bold">1227 und 1240</hi> entstanden, die jüngste in der ersten Hälfte des 15. Jhs. Da sich die Abschriften jedoch nur marginal unterscheiden, wurden für die kritische Edition der Texte nur drei bzw. fünf Quellen herangezogen. Der zu erwartende Mehraufwand für die Kodierung der weitestgehend identen weiteren Quellen stünde in keinem sinnvollen Verhältnis zum Erkenntnismehrgewinn. Folgende Handschriften wurden vollständig codiert: <hi rend="bold">SP1: A-SPL 83/3</hi> (Spital am Pyhrn, um 1233), <hi rend="bold">SVE: A-Wn Cod. 1874</hi> (Stadtpfarrkirche St. Veit Krems?, um 1364) und <hi rend="bold">KNB: A-KN 1194</hi> (Pfarrkirche St. Martin Klosterneuburg, 2. Viertel 14. Jh.). Aus folgenden Handschriften wurden lediglich wichtige Informationen zu Prozessionswegen oder zu herausragenden Handlungen ergänzt: WIE: A-Wn Cod. 4712
+         <abstract facs="#STARTPAGE_IMG" xml:lang="de">
+            <ab type="image_title">Beginn des Passauer Liber Ordinarius (A-Wn Cod. 1874)</ab>
+            <ab type="head">Der <hi rend="italic"
+               >Liber ordinarius</hi> der mittelalterlichen Diözese Passau.</ab>
+            <p style="primary">Der mittelalterliche Sprengel des einstmaligen <hi rend="bold"
+                  >Donaubistums Passau</hi> erfasste den südostwärtigen Teil des Herzogtums Bayern sowie den größten Teil des habsburgischen Erzherzogtums Österreich (mit der Ausnahme des zum Erzbistum Salzburg gehörigen südwestlichen Raumes rund um Wiener Neustadt). Mit der Gründung des Hofbistums Wien 1469/80 begann die sukzessive Verdrängung des Bistums Passau aus seinem österreichischen Sprengel, die mit der Einrichtung der Diözesen Linz und St. Pölten durch Kaiser Joseph II. im Jahr 1783/85 endete. Das Bistum Passau war über viele Jahrhunderte hinweg maßgeblich an der <hi
+                  rend="bold"
+               >kulturgeschichtlichen Entwicklung Österreichs</hi> ober- und unterhalb der Enns beteiligt.</p>
+            <p>
+               <hi rend="italic"
+                  >Incipit ordo sive breviarium de ecclesiasticis observationibus quid legendum sit vel cantandum per circulum anni secundum Pataviensem ecclesiam</hi>. In dieser Präambel der „kirchlichen Gewohnheiten“ wird die Kirche von Passau als Ursprung der im Ordo enthaltenen Tradition bezeichnet. Der <hi
+                  rend="italic"
+                  >Liber ordinarius</hi> Passau (LOP) enthält tatsächlich die Liturgie, wie sie die Passauer Domkanoniker zur Zeit der Kompilation feierten. Anhand der Verbreitungsgeschichte des LOP kann man jedoch eindeutig erkennen, dass der Terminus <hi
+                  rend="italic">ecclesia Pataviensis</hi> nicht nur die Kathedrale, sondern <hi
+                  rend="bold">alle Kirchen der Diözese</hi> miteinbeziehen soll.</p>
+            <p>Für die Edition des LOP konnten acht Abschriften ausfindig gemacht werden. Die älteste Kopie ist zwischen <hi
+                  rend="bold"
+                  >1227 und 1240</hi> entstanden, die jüngste in der ersten Hälfte des 15. Jhs. Da sich die Abschriften jedoch nur marginal unterscheiden, wurden für die kritische Edition der Texte nur drei bzw. fünf Quellen herangezogen. Der zu erwartende Mehraufwand für die Kodierung der weitestgehend identen weiteren Quellen stünde in keinem sinnvollen Verhältnis zum Erkenntnismehrgewinn. Folgende Handschriften wurden vollständig codiert: <hi
+                  rend="bold">SP1: A-SPL 83/3</hi> (Spital am Pyhrn, um 1233), <hi rend="bold"
+                  >SVE: A-Wn Cod. 1874</hi> (Stadtpfarrkirche St. Veit Krems?, um 1364) und <hi
+                  rend="bold"
+               >KNB: A-KN 1194</hi> (Pfarrkirche St. Martin Klosterneuburg, 2. Viertel 14. Jh.). Aus folgenden Handschriften wurden lediglich wichtige Informationen zu Prozessionswegen oder zu herausragenden Handlungen ergänzt: WIE: A-Wn Cod. 4712
           (Dom St. Stephan Wien, Ende 14. Jh.) und SAL: A-Wn Cod. Ser.n. 39563 (Pfarre des Klosters St. Salvator, 1. Viertel 15. Jh.). Weitere, nicht codierte Quellen: D-Mbs Clm 2725 (Pfarre des Zisterzienserklosters Aldersbach, 2. Viertel 14. Jh.), A-KN CCl 965 (Pfarre des Klosters Klosterneuburg, um 1380), A-SPL Cod. 51/3 (Kollegiatstift Spital am Pyhrn, 1423), A-ME Cod. 1934 und Cod. 1114 (Pfarren des Klosters Melk, 1422 bzw. 1. Hälfte des 15. Jhs.).</p>
-            <p xml:lang="de">Ein konkreter Anlass für die Zusammenstellung des Regelbuches ist nicht erkennbar, wenngleich unter Bischof Gebhard (1222-32) Bestrebungen zur Reform des Diözesanklerus erkennbar werden. Im Auftrag von Papst Gregors IX. ließ Gebhard ab 1229 strenge Visitationen der Klöster und Pfarreien seiner Diözese durchführen. Dieses rigorose Vorgehen war nicht zuletzt Ursache für seine Absetzung im Jahr 1232. Sein Nachfolger <hi rend="bold">Bischof Rüdiger von Bergheim</hi> (reg. 1233-1250) entstammte einem Salzburger Ministerialiengeschlecht. Seit 1198 war er Domherr in Salzburg, von 1208 bis 1222 Pfarrer von Salzburghofen, Spitalmeister und Probst des Augustinerchorherrenklosters Zell am See, ab 1215 Domherr in Passau und von 1216 bis 1233 Bischof des neu gegründeten Salzburger Eigenbistums Chiemsee. Der <hi rend="italic">Liber ordinarius Salisburgensis</hi> (LOS) wurde spätestens 1198 zusammengestellt, just in dem Jahr, als Rüdiger als Salzburger Domherr berufen
-          worden ist. In einem Gedicht hat sich der Schreiber des LOS verewigt: ... <hi rend="italic">Scribam presbiterum placato Deo Rudigerum</hi> ... Es spricht vieles dafür, die beiden Rüdiger als ein und dieselbe Person zu sehen.</p>
+            <p>Ein konkreter Anlass für die Zusammenstellung des Regelbuches ist nicht erkennbar, wenngleich unter Bischof Gebhard (1222-32) Bestrebungen zur Reform des Diözesanklerus erkennbar werden. Im Auftrag von Papst Gregors IX. ließ Gebhard ab 1229 strenge Visitationen der Klöster und Pfarreien seiner Diözese durchführen. Dieses rigorose Vorgehen war nicht zuletzt Ursache für seine Absetzung im Jahr 1232. Sein Nachfolger <hi
+                  rend="bold"
+                  >Bischof Rüdiger von Bergheim</hi> (reg. 1233-1250) entstammte einem Salzburger Ministerialiengeschlecht. Seit 1198 war er Domherr in Salzburg, von 1208 bis 1222 Pfarrer von Salzburghofen, Spitalmeister und Probst des Augustinerchorherrenklosters Zell am See, ab 1215 Domherr in Passau und von 1216 bis 1233 Bischof des neu gegründeten Salzburger Eigenbistums Chiemsee. Der <hi
+                  rend="italic"
+                  >Liber ordinarius Salisburgensis</hi> (LOS) wurde spätestens 1198 zusammengestellt, just in dem Jahr, als Rüdiger als Salzburger Domherr berufen
+          worden ist. In einem Gedicht hat sich der Schreiber des LOS verewigt: ... <hi
+                  rend="italic"
+               >Scribam presbiterum placato Deo Rudigerum</hi> ... Es spricht vieles dafür, die beiden Rüdiger als ein und dieselbe Person zu sehen.</p>
             <p>
                <hi rend="italic">von Robert Klugseder</hi>
+            </p>
+         </abstract>
+         <abstract facs="#STARTPAGE_IMG" xml:lang="en">
+            <ab type="image_title"
+               >Beginning of the Liber ordinarius of the medieval diocese of Passau</ab>
+            <ab type="head">The <hi rend="italic"
+               >Liber ordinarius</hi> of the medieval diocese of Passau</ab>
+            <p style="primary">The medieval <hi rend="bold"
+                  >"Danube" Diocese of Passau </hi>included the south-eastern part of the Duchy of Bavaria and the majority of the Habsburg-ruled Archduchy of Austria (with the exception of the south-western area around Wiener Neustadt, which formed part of the Archdiocese of Salzburg). After the <hi
+                  rend="italic"
+                  >Hofbistum</hi>
+               or "court diocese" of Vienna was established in 1469/80, the Diocese of Passau was gradually ousted from its Austrian regions, a development culminating in the establishment of the dioceses of Linz and St. Pölten by Emperor Joseph III in 1783/85. For many centuries, the Diocese of Passau played a leading role in <hi
+                  rend="bold"
+               >Austria's cultural-historical development</hi> both above and below the River Enns.</p>
+            <p>
+               <hi rend="italic"
+                  >Incipit ordo sive breviarium de ecclesiasticis observationibus quid legendum sit vel cantandum per circulum anni secundum Pataviensem ecclesiam</hi>. This preamble of "church customs" refers to Passau's church as the origin of the <hi
+                  rend="italic">ordo's</hi> tradition. The <hi rend="italic"
+                  >Liber ordinarius</hi> of Passau (LOP) does indeed contain the liturgy celebrated by Passau's cathedral canons at the time the <hi
+                  rend="italic"
+                  >Liber ordinarius</hi>
+               was compiled. However, the history of the LOP's dissemination shows clearly that the term "ecclesia Pataviensis" is meant to include not just the cathedral, but
+               <hi
+                  rend="bold">all churches in the diocese</hi>.</p>
+            <p>For our edition, we were able to locate eight copies of the LOP. The oldest was produced between 
+               <hi
+                  rend="bold"
+                  >1227 and 1240</hi>, the most recent in the first half of the 15th century. As the differences between the copies are only marginal, we decided to base our critical edition of the texts upon only three and five texts respectively. The additional expense and time required to code the other largely identical sources would have been disproportionate to the insights gained. The following manuscripts were coded in their entirety: <hi
+                  rend="bold">SP1: A-SPL 83/3</hi> (Spital am Pyhrn, c. 1233), <hi rend="bold"
+                  >SVE: A-Wn Cod. 1874</hi> (parish church of St. Veit, Krems?, c. 1364) and 
+               <hi
+                  rend="bold"
+               >KNB: A-KN 1194</hi> (parish church of St. Martin, Klosterneuburg, second quarter of the 14th century). Important supplementary information on processional routes and notable actions was taken from the following manuscripts: WIE: A-Wn Cod. 4712 (St. Stephen's Cathedral, Vienna, late 14th century) and SAL: A-Wn Cod. Ser.n. 39563 (parish of the monastery of St. Salvator, first quarter of the 15th century). Further uncoded sources: D-Mbs Clm 2725 (parish of the Cistercian monastery of Aldersbach, second quarter of the 14th century), A-KN CCl 965 (parish of Klosterneuburg monastery, c. 1380), A-SPA Cod. 51/3 (collegiate monastery Spital am Pyhrn, 1423), A-ME Cod. 1934 and Cod. 1114 (parishes of Melk monastery, 1422 and first half of the 15th century respectively).
+            </p>
+            <p>As far as we can tell, the rulebook's compilation was not inspired by any concrete occasion, even though efforts to reform the diocese's clergy are evident under Bishop Gebhard (1222-32). Gebhard ordered strict visitations of his diocese's parishes and monasteries to be carried out from 1229 onwards at the behest of Pope Gregory IX. These rigorous proceedings were one of reasons for his deposition in 1232. His successor 
+               <hi
+                  rend="bold"
+                  >Bishop Rüdiger von Bergheim</hi> (1233-1250) came from a Salzburg ministerial dynasty and became a canon of Salzburg Cathedral in 1198. From 1208 to 1222, he was the parish priest in Salzburghofen and the infirmarian and provost of the Augustinian monastery of Zell am See. In 1215 he became a canon of Passau Cathedral, and from 1216 to 1233 he was bishop of Salzburg's newly founded proprietary diocese of Chiemsee. The 
+               <hi
+                  rend="italic"
+                  >Liber ordinarius Salisburgensis</hi> (LOS) was compiled in 1198 at the latest, precisely the year in which Rüdiger was appointed a canon of Salzburg Cathedral. The scribe of the LOS immortalised himself in a poem: ... <hi
+                  rend="italic"
+               >Scribam presbiterum placato Deo Rudigerum</hi> ... There is strong reason to assume that both Rüdigers were one and the same person.</p>
+            <p>
+               <hi rend="italic">by Robert Klugseder</hi>
             </p>
          </abstract>
       </profileDesc>

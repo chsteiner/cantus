@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:l="http://cantus.oeaw.ac.at">
    <teiHeader xml:id="salzburg">
       <fileDesc>
          <titleStmt>
@@ -59,29 +60,37 @@
          </editionStmt>
          <publicationStmt>
             <publisher>
-               <orgName corresp="https://www.oeaw.ac.at/ikm/home/" ref="http://d-nb.info/gnd/1043809171"> Österreichische Akademie der Wissenschaften
+               <orgName corresp="https://www.oeaw.ac.at/ikm/home/"
+                  ref="http://d-nb.info/gnd/1043809171"
+                  > Österreichische Akademie der Wissenschaften
                   Institut für kunst- und musikhistorische Forschungen, Abteilung Musikwissenschaft
                </orgName>
             </publisher>
             <authority>
-               <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463"> Zentrum für Informationsmodellierung -
+               <orgName corresp="https://informationsmodellierung.uni-graz.at"
+                  ref="http://d-nb.info/gnd/1137284463"
+                  > Zentrum für Informationsmodellierung -
                   Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
             </authority>
             <distributor>
-               <orgName ref="https://gams.uni-graz.at"> GAMS - Geisteswissenschaftliches Asset
+               <orgName ref="https://gams.uni-graz.at"
+                  > GAMS - Geisteswissenschaftliches Asset
                   Management System</orgName>
             </distributor>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0">Creative Commons
+               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0"
+                  >Creative Commons
                   BY-NC-ND 3.0</licence>
             </availability>
             <date when="2018">2018</date>
             <idno type="PID">o:cantus.salzburg.ur</idno>
          </publicationStmt>
          <seriesStmt>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"> Cantus Network - semantisch
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"
+               > Cantus Network - semantisch
                erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en"> Cantus Network - a
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en"
+               > Cantus Network - a
                semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan
                province.</title>
             <respStmt>
@@ -124,18 +133,22 @@
                   <altIdentifier>
                      <placeName>Domstift Salzburg<date from="1198" to="1198">um 1198</date>
                      </placeName>
-                     <idno n="Cod. M II 6" rend="SAL">Salzburg, Universitätsbibliothek, Cod. M II
+                     <idno n="Cod. M II 6" rend="SAL"
+                        >Salzburg, Universitätsbibliothek, Cod. M II
                         6</idno>
                   </altIdentifier>
                   <altIdentifier>
-                     <placeName>Chorherrenstift Ranshofen<date from="1200" to="1210">Anfang 13.
+                     <placeName>Chorherrenstift Ranshofen<date from="1200" to="1210"
+                           >Anfang 13.
                            Jahrhundert</date>
                      </placeName>
-                     <idno n="Clm 12635" rend="RA"> München, Bayerische Staatsbibliothek, Clm 12635
+                     <idno n="Clm 12635" rend="RA"
+                        > München, Bayerische Staatsbibliothek, Clm 12635
                      </idno>
                   </altIdentifier>
                   <altIdentifier>
-                     <placeName>Chorherrenstifte Suben und Vorau<date from="1200" to="1210">Anfang
+                     <placeName>Chorherrenstifte Suben und Vorau<date from="1200" to="1210"
+                           >Anfang
                            13. Jahrhundert</date>
                      </placeName>
                      <idno n="Cod. 99" rend="VO"> Vorau, Stiftsbibliothek, Cod. 99</idno>
@@ -145,7 +158,8 @@
             <list type="secondary_sources">
                <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-VOR333/manifest"/>
             </list>
-            <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+            <list type="traktate"
+               xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
                <item xml:id="Durandus">
                   <bibl>
                      <title>Rationale Divinorum Officiorum</title>
@@ -377,7 +391,9 @@
                      <placeName/>
                      <date/>
                      <series/>
-                     <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
+                     <ref
+                        target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="
+                     />
                   </bibl>
                </item>
             </list>
@@ -408,7 +424,8 @@
                Form und mit musikalischer Notation vor sich zu haben.</p>
          </projectDesc>
          <projectDesc xml:lang="en">
-            <p rend="head"> Liturgy and music in the medieval ecclesiastical province of Salzburg</p>
+            <p rend="head"
+               > Liturgy and music in the medieval ecclesiastical province of Salzburg</p>
             <p> For many centuries, the ecclesiastical province of Salzburg, along with its
                suffragan dioceses of Brixen, Freising, Regensburg and Salzburg, played a key role in
                the cultural history of Austria and Bavaria. It is thus all the more important that
@@ -427,11 +444,13 @@
          </projectDesc>
       </encodingDesc>
       <profileDesc>
-         <abstract facs="#STARTPAGE_IMG">
-            <ab type="image_title" xml:lang="de"> Beginn des Salzburger Liber Ordinarius (Cod. M II
+         <abstract facs="#STARTPAGE_IMG" xml:lang="de">
+            <ab type="image_title"
+               > Beginn des Salzburger Liber Ordinarius (Cod. M II
                6)</ab>
             <ab type="head"> Der Salzburger <emph>Liber ordinarius</emph> aus dem Jahre 1198.</ab>
-            <p style="primary" xml:lang="de"> Mit aller Wahrscheinlichkeit wurde der Salzburger
+            <p style="primary"
+                  > Mit aller Wahrscheinlichkeit wurde der Salzburger
                   <emph>Liber ordinarius</emph> im Jahre 1198 anlässlich der Weihe des zweiten Domes
                fertig gestellt. Dem Gotteshaus aus Stein sollte auch ein wohlgeordnetes geistiges
                Haus gegenüberstehen, die sichtbare Architektur sollte ein Pendant im Ordnungsgefüge
@@ -444,18 +463,18 @@
                Gesamtkompendium der <emph>Consuetudo Salisburgensis</emph>, eine umfassende
                Darstellung all dessen, was wann, wo, wie und vor allem auch warum im Gottesdienst zu
                geschehen hatte.</p>
-            <p xml:lang="de"> Diese liturgische ,Summe' wurde planvoll von einem Priester namens
+            <p> Diese liturgische ,Summe' wurde planvoll von einem Priester namens
                Rudigerus angelegt und ausgeführt. Diesen Rudigerus hat jüngst Robert Klugseder als
                jenen Salzburger Chorherren identifiziert, der als späterer Passauer Bischof am
                Entstehen des <emph>Liber ordinarius</emph> für die Passauer Kathedrale beteiligt war
                Der Schreiber hat sich an etwas versteckter Stelle inmitten eines Gedichtes für die
                Nachwelt verewigt:</p>
-            <p xml:lang="de">
+            <p>
                <emph> C lausa vel archana lege tam, sed tibi plana<lb/> H inc dubios sana posita
                   formidine vana.<lb/> S cribam presbyterum placato deo Rudigerum.<lb/> H aec qui
                   collegit, et in unum lecta redegit.</emph>
             </p>
-            <p xml:lang="de"> Den Salzburger Chorherren war neben der Darstellung des korrekten
+            <p> Den Salzburger Chorherren war neben der Darstellung des korrekten
                Ablaufs der Liturgie auch deren theologische Begründung und Erklärung wichtig. Bis in
                kleinste Details hat Rudigerus Liturgieerklärungen aus zeitgenössischen theologischen
                Studienwerken in das Regelbuch der Salzburger Liturgie eingefügt. Das große Ausmaß
@@ -464,7 +483,7 @@
                gebetet, gesungen oder rituell ausgeführt worden ist. Die Darstellung der
                Begründungen liturgischer Handlungen stellt einen wichtigen, oft nicht beachteten
                Teilaspekt eines <emph>Liber ordinarius</emph> dar.</p>
-            <p xml:lang="de"> Codex M II 6 der Salzburger Universitätsbibliothek (SAL) enthält die
+            <p> Codex M II 6 der Salzburger Universitätsbibliothek (SAL) enthält die
                älteste Fassung des Salzburger Ordinarius. In dem Codex befinden sich zudem ein
                Kalendar sowie ein Computus, die etwas älter als der Hauptteil sind. Der planvoll
                angelegte Ordinarius trennt die Darstellung der Tagzeitenliturgie einschließlich des
@@ -485,7 +504,7 @@
                auch an die Notation gedacht und genügend Platz für Mehrtonneumen und Melismen
                gelassen. Seltene und wenig bekannte Gesänge sind mitunter auch vollständig
                vorhanden.</p>
-            <p xml:lang="de"> Dieser <emph>Liber ordinarius</emph> ist ein Zeugnis für 400 Jahre
+            <p> Dieser <emph>Liber ordinarius</emph> ist ein Zeugnis für 400 Jahre
                lebendige Liturgie und von deren Entwicklungen. Er weist zahlreiche Ergänzungen,
                Streichungen und Umarbeitungen auf. Den Urzustand von 1198 kann man glücklicherweise
                durch die Abschriften, in denen an anderer Stelle und weitaus weniger korrigiert
@@ -497,6 +516,53 @@
                Messerklärung.</p>
             <p>
                <hi rend="italic">von Franz Karl Praßl</hi>
+            </p>
+         </abstract>
+         <abstract facs="#STARTPAGE_IMG" xml:lang="en">
+            <ab type="image_title">Beginning of the Salzburg Liber ordinarius of 1198.</ab>
+            <ab type="head">The Salzburg Liber ordinarius of 1198.</ab>
+            <p style="primary">The Salzburg <hi rend="italic"
+                  >Liber ordinarius</hi>
+               was very probably completed in 1198 to mark the dedication of the second cathedral. The order and structure of liturgical actions was to mirror this visible architectural order. The reconstruction of the church buildings following a devastating fire, which also destroyed most of the codices, was to have its counterpart in a thorough reorganisation of the liturgy that represented the spiritual architecture of the course of the days, weeks and years. Thus the Salzburg <hi
+                  rend="italic"
+                  >Liber ordinarius</hi> was more than just a collection of rubrics and an enumeration of chants and prayers to be performed; it became a complete compendium of the <hi
+                  rend="italic"
+                  >Consuetudo Salisburgiensis</hi>, a comprehensive account of everything that had to happen in the service – and when, where, how and especially why.<lb/>This liturgical ‘sum' was systematically compiled and written down by a priest by the name of Rudigerus. Robert Klugseder has recently identified this Rudigerus as the Salzburg canon who later became Bishop of Passau and was involved in the creation of the <hi
+                  rend="italic"
+               >Liber ordinarius</hi> for Passau Cathedral. The scribe set himself a lasting, albeit slightly hidden memorial in the middle of a poem:</p>
+            <p>
+               <hi rend="italic">C lausa vel archana lege tam, sed tibi plana</hi>
+               <lb/>
+               <hi rend="italic">H inc dubios sana posita formidine vana.</hi>
+               <lb/>
+               <hi rend="italic">S cribam presbyterum placato deo Rudigerum.</hi>
+               <lb/>
+               <hi rend="italic">H aec qui collegit, et in unum lecta redegit.</hi>
+            </p>
+            <p>The Salzburg canons were concerned not only with depicting the correct order of the liturgy, but also with providing a theological justification and explanation for it. Rudigerus inserted explanations of even the smallest details of the liturgy, taken from contemporary theological studies, into the rulebook of the Salzburg liturgy. Compared to other <hi
+                  rend="italic"
+                  >Libri ordinarii</hi>, this large number of comments is rather unusual. Their purpose was to show why something particular was prayed, sung or ritually performed. Explanations of the reasons for liturgical actions form an important and often neglected partial aspect of a <hi
+                  rend="italic">Liber ordinarius</hi>.</p>
+            <p>Codex M II 6 of Salzburg University Library (SAL) contains the oldest version of the Salzburg <hi
+                  rend="italic">ordinarius</hi>. Its codex also contains a calendar and a <hi
+                  rend="italic">computus</hi> that are somewhat older than the main part. The <hi
+                  rend="italic"
+                  >ordinarius's</hi>
+               systematic structure separates the outline of the liturgy of the hours, including the Office for the Dead, from the outline of the <hi
+                  rend="italic"
+                  >ordo missae</hi> and the proper of the mass. The Salzburg mass rite and its explanations are located in the middle of the book, resulting in a clear three-part structure: liturgy of the hours – <hi
+                  rend="italic">ordo missae</hi> – <hi rend="italic"
+               >proprium missae</hi>. The book would not be complete without its notation, which after all depicts the way the liturgy should sound. All chant incipits are notated in German neumes in a form typical of Salzburg Cathedral. Furthermore, the codex contains a complete tonary: for each antiphon, both the psalm tone and the difference are noted at the side of the page – the psalm tone in Roman numerals and the difference in the form of neumes. The same goes for the Introit chants. The codex's layout, which in most cases allocated an entire line to the incipits, means that quite long sections of individual pieces are present, which, especially in the Gradual part, allows us to draw precise, comprehensive conclusions concerning notation practice in the cathedral, which has some characteristic differences to the practice in the neighbouring Benedictine monastery of St. Peter. Luckily the scribe of the texts, Rudigerus, took the musical notation into account and left sufficient space for neumatic and melismatic neumes. Some rare and less well-known chants are present in their entirety.
+            </p>
+            <p>This <hi rend="italic"
+                  >Liber ordinarius</hi> attests 400 years of living liturgy and its developments. It contains numerous additions, deletions and revisions. Fortunately, its original 1198 state can be reconstructed easily thanks to its copies, where different and far fewer corrections were made. These are the <hi
+                  rend="italic"
+                  >ordinarius</hi> of Ranshofen, Bayerische Staatsbibliothek München Clm 12635 (RA), and the 
+               <hi
+                  rend="italic"
+               >ordinarius</hi> of Suben, which later ended up in Vorau, where it was adapted to the Vorau liturgy (Vorau Codex 99, VO). The Ranshofen Codex is a complete copy, while the Vorau version contains only the antiphonary and gradual part, without the mass rite and the explanations of the mass.</p>
+            <p>
+               <hi rend="italic">by Franz Karl Praßl</hi>
             </p>
          </abstract>
       </profileDesc>
