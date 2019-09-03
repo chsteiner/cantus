@@ -315,7 +315,7 @@
                     <xsl:value-of select="substring(@rend, 2)"/>
                     <xsl:text>'}</xsl:text>
                 </xsl:when>
-                <xsl:when test="@corresp"/>
+                <xsl:when test="starts-with(@corresp,'#./preceding-sibling')"/>
                 <xsl:when test="$exclude_genres"/>
                 <xsl:when test="@subtype = 'supplied'">
                     <xsl:text>[</xsl:text>
