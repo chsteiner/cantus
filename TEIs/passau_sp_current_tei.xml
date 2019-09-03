@@ -74,8 +74,8 @@
                   >GAMS - Geisteswissenschaftliches Asset Management System</orgName>
             </distributor>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0"
-                  >Creative Commons BY-NC-ND 3.0</licence>
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0"
+                  >Creative Commons BY-NC 4.0</licence>
             </availability>
             <date when="2017">2017</date>
             <idno type="PID">o:cantus.passau.sp</idno>
