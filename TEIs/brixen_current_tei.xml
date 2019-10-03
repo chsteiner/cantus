@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader xml:id="brixen">
     <fileDesc>
       <titleStmt>
         <title>
-          <pb n="28r" xml:id="BRI.028r"/>INCIPIT BREVIARIUM PER CIRCULUM ANNI <add type="marginal"
-            >DIRECTORIUM CHORI BRIXINENSIS SAECULI XIII</add>
+          <pb n="28r" xml:id="BRI.028r"/>INCIPIT BREVIARIUM PER CIRCULUM ANNI <add type="marginal">DIRECTORIUM CHORI BRIXINENSIS SAECULI XIII</add>
         </title>
         <title type="short">Brixen</title>
         <title type="citation">Der 'Liber ordinarius Brixinensis'</title>
@@ -34,31 +32,24 @@
       </titleStmt>
       <publicationStmt>
         <publisher>
-          <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/ikm/home/"
-            >Österreichische Akademie der Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung Musikwissenschaft</orgName>
+          <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/ikm/home/">Österreichische Akademie der Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung Musikwissenschaft</orgName>
         </publisher>
         <authority>
-          <orgName ref="http://d-nb.info/gnd/1137284463"
-            corresp="https://informationsmodellierung.uni-graz.at"
-            >Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+          <orgName ref="http://d-nb.info/gnd/1137284463" corresp="https://informationsmodellierung.uni-graz.at">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
         </authority>
         <distributor>
-          <orgName ref="https://gams.uni-graz.at"
-            >GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
         </distributor>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-nc/4.0"
-            >Creative Commons BY-NC 4.0</licence>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
         </availability>
         <date when="2017">2017</date>
         <idno type="PID">o:cantus.brixen</idno>
       </publicationStmt>
       <!-- nicht objektbezogen; fürs gesamte Projekt-->
       <seriesStmt>
-        <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"
-          >Cantus Network - semantisch erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
-        <title ref="http://gams.uni-graz.at/cantus" xml:lang="en"
-          >Cantus Network - a semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan province.</title>
+        <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network - semantisch erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
+        <title ref="http://gams.uni-graz.at/cantus" xml:lang="en">Cantus Network - a semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan province.</title>
         <respStmt>
           <resp>Projektleitung</resp>
           <persName>
@@ -99,16 +90,14 @@
             <altIdentifier>
               <placeName>Diözese Brixen<date from="1250" to="1300">2. Hälfte 13. Jh.</date>
               </placeName>
-              <idno n="I-SCAcc VII A 10"
-                >San Candido, Biblioteca della Collegiata, Cod. VII A 10</idno>
+              <idno n="I-SCAcc VII A 10">San Candido, Biblioteca della Collegiata, Cod. VII A 10</idno>
             </altIdentifier>
           </msIdentifier>
         </msDesc>
         <list type="secondary_sources">
           <item/>
         </list>
-        <list type="traktate"
-          xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+        <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
           <item xml:id="Durandus">
             <bibl>
               <title>Rationale Divinorum Officiorum</title>
@@ -340,9 +329,7 @@
               <placeName/>
               <date/>
               <series/>
-              <ref
-                target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="
-              />
+              <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
             </bibl>
           </item>
         </list>
@@ -368,34 +355,15 @@
     <!--Objektbezogen-->
     <profileDesc>
       <abstract facs="#STARTPAGE_IMG" xml:lang="de">
-        <ab type="image_title">Beginn des Brixener <hi rend="italic"
-          >Liber Ordinarius</hi> (I-SCA VII A 10)</ab>
+        <ab type="image_title">Beginn des Brixener <hi rend="italic">Liber Ordinarius</hi> (I-SCA VII A 10)</ab>
         <ab type="head">Der Brixner <hi rend="italic">Liber Ordinarius</hi>
         </ab>
-        <p style="primary"
-            >Bis zum Jahr 1920 war die Stadt Brixen/Bressanone Bischofssitz einer großen Diözese, die sich nicht nur im Süden über die Alpen erstreckte, sondern auch in Nordtirol entlang des Inns. Während des 10. Jahrhunderts wurde Brixen zum kirchlichen Zentrum. Definitiv ab 990, als der Bischofssitz von <hi
-            rend="bold"
-            >Säben (Sabiona)</hi>, einem Bistum, dessen Ursprung ungeklärt bleibt, nach Brixen verlegt wurde. Die Diözese von Säben war ursprünglich Teil des <hi
-            rend="bold"
-          >Patriarchats von Aquileia</hi> und kam im Jahr 798 zur neugegründeten Metropole Salzburg.</p>
-        <p>Heute wird eine Kopie des <hi rend="italic"
-            >Liber Ordinarius</hi> von Brixen in der Bibliothek des <hi rend="bold"
-            >Kollegiatstifts Innichen (San Candido)</hi> aufbewahrt (Codex VII A 10). Der Regeltext ist Teil einer komplexen liturgischen Sammelhandschrift, welche unter anderen ein Kalendar – secundum consuetudinem ecclesiae Brixinensis – enthält, der in der zweiten Hälfte des 13. Jahrhunderts geschrieben wurde.</p>
-        <p>Leider ist der <hi rend="italic"
-          >Liber Ordinarius</hi> unvollständig. Es fehlen zwei wichtige Teile – von den Laudes des Gründonnerstags bis zum Fest Papst Urbans sowie von Samstag nach Pfingsten bis zum Festtag der Heiligen Gervasius und Protasius. Der Regeltext endet abrupt mit dem Fest Vincula Petri.</p>
-        <p>Ungeachtet dessen ist der <hi rend="italic"
-            >Liber Ordinarius</hi> die älteste erhaltene Quelle für die Liturgie von Brixen. Obwohl der Text keinerlei Hinweise gibt, können wir ihn – entsprechend paläographischer und kodikologischer Befunde – der <hi
-            rend="bold"
-          >zweiten Hälfte des 13. Jahrhunderts</hi> zuweisen. Das Vorhandensein des Eigenoffiziums für Ingenuin und Albuin, den Zweitpatronen der Kathedrale von Brixen, weist deutlich auf die Provenienz des Ordinarius hin.</p>
-        <p>Darüber hinaus sind alle im Text <hi rend="bold"
-            >erwähnten Kirchen bzw. Kapellen</hi> mit dem bischöflichen Zentrum in Brixen verbunden: Die Kapellen für die heilige Maria und den heiligen Johannes sind im Kreuzgang auf der rechten Seite des Dombezirks zu finden, während sich auf der anderen Seite die Pfarrkirche von St. Michael erhebt. Das vierte, heute nicht mehr existierende Gotteshaus <hi
-            rend="italic"
-            >Sancta Crux in Insulam</hi> lag ebenfalls nicht weit vom Dom entfernt. Man erreichte die Kirche über eine Brücke in der Nähe des heutigen Priesterseminars über die Eisach, die zusammen mit dem Fluss Rienz eine kleine Halbinsel bildet. Ferner erinnert der <hi
-            rend="italic"
-          >Liber Ordinarius</hi> an zwei Orte in der Kathedrale: Den St. Agnes- Altar, deren Kult sehr wichtig wurde, nachdem Papst Damasus II. (1047-1048), ein ehemaliger Bischof von Brixen, ihre Reliquien der Diözese stiftete. Ferner an das sepulchrum beati Hartmanni, Bischof von Brixen, der unmittelbar nach seinem Tod 1164 seliggesprochen wurde.</p>
-        <p>Das Manuskript stellt die einzige Quelle dar, die das Repertoire der <hi rend="bold"
-            >Introitus-Tropen</hi>, die in Brixen während des Mittelalters verwendet wurden, überliefert. Obgleich unvollständig, ist es dem im südostdeutschen Raum verbreiteten Archetypus des so genannten „Kurztropars Typus β“ – gemäß der Nomenklatur von Andreas Haug – sehr ähnlich. Zusätzlich zu den Standardtropen für Nativitas Domini, Stephani, Ioannis Evangelista, Epiphania, Purificatio, Ascensio und Pentecosten sind solche für die <hi
-            rend="bold">Bistumspatrone Ingenuin und Albuinus</hi> enthalten.</p>
+        <p style="primary">Bis zum Jahr 1920 war die Stadt Brixen/Bressanone Bischofssitz einer großen Diözese, die sich nicht nur im Süden über die Alpen erstreckte, sondern auch in Nordtirol entlang des Inns. Während des 10. Jahrhunderts wurde Brixen zum kirchlichen Zentrum. Definitiv ab 990, als der Bischofssitz von <hi rend="bold">Säben (Sabiona)</hi>, einem Bistum, dessen Ursprung ungeklärt bleibt, nach Brixen verlegt wurde. Die Diözese von Säben war ursprünglich Teil des <hi rend="bold">Patriarchats von Aquileia</hi> und kam im Jahr 798 zur neugegründeten Metropole Salzburg.</p>
+        <p>Heute wird eine Kopie des <hi rend="italic">Liber Ordinarius</hi> von Brixen in der Bibliothek des <hi rend="bold">Kollegiatstifts Innichen (San Candido)</hi> aufbewahrt (Codex VII A 10). Der Regeltext ist Teil einer komplexen liturgischen Sammelhandschrift, welche unter anderen ein Kalendar – secundum consuetudinem ecclesiae Brixinensis – enthält, der in der zweiten Hälfte des 13. Jahrhunderts geschrieben wurde.</p>
+        <p>Leider ist der <hi rend="italic">Liber Ordinarius</hi> unvollständig. Es fehlen zwei wichtige Teile – von den Laudes des Gründonnerstags bis zum Fest Papst Urbans sowie von Samstag nach Pfingsten bis zum Festtag der Heiligen Gervasius und Protasius. Der Regeltext endet abrupt mit dem Fest Vincula Petri.</p>
+        <p>Ungeachtet dessen ist der <hi rend="italic">Liber Ordinarius</hi> die älteste erhaltene Quelle für die Liturgie von Brixen. Obwohl der Text keinerlei Hinweise gibt, können wir ihn – entsprechend paläographischer und kodikologischer Befunde – der <hi rend="bold">zweiten Hälfte des 13. Jahrhunderts</hi> zuweisen. Das Vorhandensein des Eigenoffiziums für Ingenuin und Albuin, den Zweitpatronen der Kathedrale von Brixen, weist deutlich auf die Provenienz des Ordinarius hin.</p>
+        <p>Darüber hinaus sind alle im Text <hi rend="bold">erwähnten Kirchen bzw. Kapellen</hi> mit dem bischöflichen Zentrum in Brixen verbunden: Die Kapellen für die heilige Maria und den heiligen Johannes sind im Kreuzgang auf der rechten Seite des Dombezirks zu finden, während sich auf der anderen Seite die Pfarrkirche von St. Michael erhebt. Das vierte, heute nicht mehr existierende Gotteshaus <hi rend="italic">Sancta Crux in Insulam</hi> lag ebenfalls nicht weit vom Dom entfernt. Man erreichte die Kirche über eine Brücke in der Nähe des heutigen Priesterseminars über die Eisach, die zusammen mit dem Fluss Rienz eine kleine Halbinsel bildet. Ferner erinnert der <hi rend="italic">Liber Ordinarius</hi> an zwei Orte in der Kathedrale: Den St. Agnes- Altar, deren Kult sehr wichtig wurde, nachdem Papst Damasus II. (1047-1048), ein ehemaliger Bischof von Brixen, ihre Reliquien der Diözese stiftete. Ferner an das sepulchrum beati Hartmanni, Bischof von Brixen, der unmittelbar nach seinem Tod 1164 seliggesprochen wurde.</p>
+        <p>Das Manuskript stellt die einzige Quelle dar, die das Repertoire der <hi rend="bold">Introitus-Tropen</hi>, die in Brixen während des Mittelalters verwendet wurden, überliefert. Obgleich unvollständig, ist es dem im südostdeutschen Raum verbreiteten Archetypus des so genannten „Kurztropars Typus β“ – gemäß der Nomenklatur von Andreas Haug – sehr ähnlich. Zusätzlich zu den Standardtropen für Nativitas Domini, Stephani, Ioannis Evangelista, Epiphania, Purificatio, Ascensio und Pentecosten sind solche für die <hi rend="bold">Bistumspatrone Ingenuin und Albuinus</hi> enthalten.</p>
         <p>
           <hi rend="italic">von Gionata Brusa</hi>
         </p>
@@ -403,44 +371,16 @@
       <abstract facs="#STARTPAGE_IMG" xml:lang="en">
         <ab type="image_title">Beginning of the Brixen (Bressanone) Liber ordinarius.</ab>
         <ab type="head">The Brixen (Bressanone) Liber ordinarius.</ab>
-        <p style="primary"
-            >Up until 1920, the city of Brixen/Bressanone was the episcopal see of a large diocese that extended not only over the Alps to the south, but also into North Tyrol along the River Inn. Brixen became a church centre during the 10th century – definitely from 990 onwards, when the episcopal see was moved there from 
-            <hi
-            rend="bold"
-            >Säben (Sabiona)</hi>, a diocese whose origins are still unknown. The diocese of Säben was originally part of the <hi
-            rend="bold"
-          >Patriarchate of Aquileia</hi> and was allocated to the newly founded metropolitan diocese of Salzburg in 798.</p>
+        <p style="primary">Up until 1920, the city of Brixen/Bressanone was the episcopal see of a large diocese that extended not only over the Alps to the south, but also into North Tyrol along the River Inn. Brixen became a church centre during the 10th century – definitely from 990 onwards, when the episcopal see was moved there from 
+            <hi rend="bold">Säben (Sabiona)</hi>, a diocese whose origins are still unknown. The diocese of Säben was originally part of the <hi rend="bold">Patriarchate of Aquileia</hi> and was allocated to the newly founded metropolitan diocese of Salzburg in 798.</p>
         <p>Today, a copy of the Brixen
-            <hi rend="italic"
-            >Liber ordinarius</hi> is held in the Library of the <hi rend="bold"
-            >Collegiate Monastery of Innichen (San Candido)</hi> (Codex VII A 10). The text of the rule forms part of a complex liturgical composite manuscript, which among other things includes a calendar – <hi
-            rend="italic"
-          >secundum consuetudinem ecclesiae Brixinensis</hi> – written during the second half of the 13th century.</p>
-        <p>Unfortunately, the <hi rend="italic"
-            >Liber ordinarius</hi> is incomplete. Two important sections are missing – from the Lauds of Maundy Thursday to the feast of Pope Urban and from the Saturday after Pentecost to the feast of Saints Gervasius and Protasius. The rule text ends abruptly with the feast <hi
-            rend="italic">Vincula Petri</hi>.</p>
-        <p>This notwithstanding, the <hi rend="italic"
-            >Liber ordinarius</hi> is the oldest surviving source of Brixen's liturgy. Even though the text itself does not contain any pointers, we can date it to the 
-            <hi
-            rend="bold"
-            >second half of the 13th century</hi> in line with palaeographic and codicological findings. The presence of the proper office for Ingenuin and Albuin, Brixen Cathedral's second patron saints, is a clear indication of the <hi
-            rend="italic">ordinarius's</hi> provenance.</p>
-        <p>Furthermore, all of the <hi rend="bold"
-            >churches and chapels mentioned</hi> in the text are associated with the episcopal centre in Brixen: the chapels for St. Mary and St. John are to be found in the cloisters on the right side of the cathedral precinct, while the parish church of St. Michael is on the other side. The fourth church <hi
-            rend="italic"
-            >Sancta Crux in Insulam</hi>, which no longer exists today, was also not far from the cathedral and could be accessed via a bridge (close to today's seminary) over the River Eisach, which formed a small peninsula together with the River Rienz. Furthermore, the 
-            <hi
-            rend="italic"
-            >Liber ordinarius</hi> mentions two important locations in the cathedral itself: the altar to St. Agnes, whose cult became very important after Pope Damasus II (1047-1048), a former Bishop of Brixen, gave her relics to the diocese, and the <hi
-            rend="italic"
-          >sepulchrum beati Hartmanni</hi>, Bishop of Brixen, who was beatified directly after his death in 1164.</p>
-        <p>The manuscript is the only source to transmit the repertory of <hi rend="bold"
-            >Introit tropes</hi> used in Brixen during the Middle Ages. Even though it is incomplete, it is very similar to the archetype of the so-called "short trope Type β" – to use Andreas Haug's nomenclature. In addition to the standard tropes for <hi
-            rend="italic">Nativitatis Domini</hi>, <hi rend="italic">Stephani</hi>, <hi
-            rend="italic">Ioannis Evangelista</hi>, <hi rend="italic">Epiphania</hi>, <hi
-            rend="italic">Purificatio</hi>, <hi rend="italic">Ascensio</hi> and <hi rend="italic"
-            >Pentecosten</hi>, the manuscript contains tropes for the <hi rend="bold"
-            >diocesan patron saints Ingenuin and Albuinus</hi>.</p>
+            <hi rend="italic">Liber ordinarius</hi> is held in the Library of the <hi rend="bold">Collegiate Monastery of Innichen (San Candido)</hi> (Codex VII A 10). The text of the rule forms part of a complex liturgical composite manuscript, which among other things includes a calendar – <hi rend="italic">secundum consuetudinem ecclesiae Brixinensis</hi> – written during the second half of the 13th century.</p>
+        <p>Unfortunately, the <hi rend="italic">Liber ordinarius</hi> is incomplete. Two important sections are missing – from the Lauds of Maundy Thursday to the feast of Pope Urban and from the Saturday after Pentecost to the feast of Saints Gervasius and Protasius. The rule text ends abruptly with the feast <hi rend="italic">Vincula Petri</hi>.</p>
+        <p>This notwithstanding, the <hi rend="italic">Liber ordinarius</hi> is the oldest surviving source of Brixen's liturgy. Even though the text itself does not contain any pointers, we can date it to the 
+            <hi rend="bold">second half of the 13th century</hi> in line with palaeographic and codicological findings. The presence of the proper office for Ingenuin and Albuin, Brixen Cathedral's second patron saints, is a clear indication of the <hi rend="italic">ordinarius's</hi> provenance.</p>
+        <p>Furthermore, all of the <hi rend="bold">churches and chapels mentioned</hi> in the text are associated with the episcopal centre in Brixen: the chapels for St. Mary and St. John are to be found in the cloisters on the right side of the cathedral precinct, while the parish church of St. Michael is on the other side. The fourth church <hi rend="italic">Sancta Crux in Insulam</hi>, which no longer exists today, was also not far from the cathedral and could be accessed via a bridge (close to today's seminary) over the River Eisach, which formed a small peninsula together with the River Rienz. Furthermore, the 
+            <hi rend="italic">Liber ordinarius</hi> mentions two important locations in the cathedral itself: the altar to St. Agnes, whose cult became very important after Pope Damasus II (1047-1048), a former Bishop of Brixen, gave her relics to the diocese, and the <hi rend="italic">sepulchrum beati Hartmanni</hi>, Bishop of Brixen, who was beatified directly after his death in 1164.</p>
+        <p>The manuscript is the only source to transmit the repertory of <hi rend="bold">Introit tropes</hi> used in Brixen during the Middle Ages. Even though it is incomplete, it is very similar to the archetype of the so-called "short trope Type β" – to use Andreas Haug's nomenclature. In addition to the standard tropes for <hi rend="italic">Nativitatis Domini</hi>, <hi rend="italic">Stephani</hi>, <hi rend="italic">Ioannis Evangelista</hi>, <hi rend="italic">Epiphania</hi>, <hi rend="italic">Purificatio</hi>, <hi rend="italic">Ascensio</hi> and <hi rend="italic">Pentecosten</hi>, the manuscript contains tropes for the <hi rend="bold">diocesan patron saints Ingenuin and Albuinus</hi>.</p>
         <p>
           <hi rend="italic">by Gionata Brusa</hi>
         </p>

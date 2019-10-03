@@ -40,7 +40,7 @@
                 </row>
                 <row>
                     <cell role="horae">Ad tertiam</cell>
-                    <cell> </cell>
+                    <cell>T</cell>
                 </row>
                 <row>
                     <cell role="horae"/>
@@ -128,7 +128,7 @@
                 </row>
                 <row>
                     <cell role="horae">Ad missam</cell>
-                    <cell> </cell>
+                    <cell>MI</cell>
                 </row>
                 <row>
                     <cell role="horae">Ad missam officium</cell>
