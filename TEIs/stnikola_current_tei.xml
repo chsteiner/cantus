@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:id="stnikola">
       <fileDesc>
          <titleStmt>
@@ -42,37 +41,29 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName ref="http://d-nb.info/gnd/1043809171"
-                  corresp="https://www.oeaw.ac.at/ikm/home/"
-                  >Österreichische Akademie der
+               <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/ikm/home/">Österreichische Akademie der
                   Wissenschaften Institut für kunst- und musikhistorische Forschungen, Abteilung
                   Musikwissenschaft</orgName>
             </publisher>
             <authority>
-               <orgName ref="http://d-nb.info/gnd/1137284463"
-                  corresp="https://informationsmodellierung.uni-graz.at"
-                  >Zentrum für
+               <orgName ref="http://d-nb.info/gnd/1137284463" corresp="https://informationsmodellierung.uni-graz.at">Zentrum für
                   Informationsmodellierung - Austrian Centre for Digital Humanities,
                   Karl-Franzens-Universität Graz</orgName>
             </authority>
             <distributor>
-               <orgName ref="https://gams.uni-graz.at"
-                  >GAMS - Geisteswissenschaftliches Asset
+               <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset
                   Management System</orgName>
             </distributor>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-nc/4.0"
-                  >Creative Commons BY-NC 4.0</licence>
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
             </availability>
             <date when="2017">2017</date>
             <idno type="PID">o:cantus.stnikola</idno>
          </publicationStmt>
          <seriesStmt>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de"
-               >Cantus Network - semantisch
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network - semantisch
                erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
-            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en"
-               >Cantus Network - a
+            <title ref="http://gams.uni-graz.at/cantus" xml:lang="en">Cantus Network - a
                semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan
                province.</title>
             <respStmt>
@@ -115,8 +106,7 @@
                   <altIdentifier>
                      <placeName>St. Nikola Passau<date from="1140" to="1160">um 1150</date>
                      </placeName>
-                     <idno n="A-Wn Cod. 1482"
-                        >Wien, Österreichische Nationalbibliothek, Cod.
+                     <idno n="A-Wn Cod. 1482">Wien, Österreichische Nationalbibliothek, Cod.
                         1482</idno>
                   </altIdentifier>
                </msIdentifier>
@@ -124,8 +114,7 @@
             <list type="secondary_sources">
                <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-LIs209/manifest"/>
             </list>
-            <list type="traktate"
-               xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+            <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
                <item xml:id="Durandus">
                   <bibl>
                      <title>Rationale Divinorum Officiorum</title>
@@ -359,9 +348,7 @@
                      <placeName/>
                      <date/>
                      <series/>
-                     <ref
-                        target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="
-                     />
+                     <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
                   </bibl>
                </item>
             </list>
@@ -412,55 +399,30 @@
       </encodingDesc>
       <profileDesc>
          <abstract facs="#STARTPAGE_IMG" xml:lang="de">
-            <ab type="image_title"
-               >Beginn des Liber Ordinarius des Mengotus (A-Wn Cod.
+            <ab type="image_title">Beginn des Liber Ordinarius des Mengotus (A-Wn Cod.
                1482)</ab>
-            <ab type="head">Der Liber ordinarius des Mengotus aus dem Augustiner<hi rend="shy"
-                  >&amp;shy;</hi>chorherrenkloster St. Nikola vor Passau.</ab>
-            <p style="primary"
-                  >In der Diözese Passau erfuhr die von Papst Gregor VII.
-               (†1085) auf der Lateran<hi
-                  rend="shy">&amp;shy;</hi>synode von 1059 initiierte <hi rend="bold"
-                  >Chorherrenbewegung</hi> große Resonanz. <hi rend="bold"
-                  >Bischof
-                  Altmann</hi> (†1091) gründete in der Folge das regulierte (Augustiner-) Chor<hi
-                  rend="shy">&amp;shy;</hi>herren<hi rend="shy">&amp;shy;</hi>kloster <hi
-                  rend="bold">St. Nikola</hi> vor den Stadttoren Passaus (um 1067). Die Gemein<hi
-                  rend="shy"
-                  >&amp;shy;</hi>schaft sollte Ausbildungsstätte und Vorbild für den Dom-
-               und Diözesan<hi
-                  rend="shy"
-                  >&amp;shy;</hi>klerus sein und die Ideen der
+            <ab type="head">Der Liber ordinarius des Mengotus aus dem Augustiner<hi rend="shy">&amp;shy;</hi>chorherrenkloster St. Nikola vor Passau.</ab>
+            <p style="primary">In der Diözese Passau erfuhr die von Papst Gregor VII.
+               (†1085) auf der Lateran<hi rend="shy">&amp;shy;</hi>synode von 1059 initiierte <hi rend="bold">Chorherrenbewegung</hi> große Resonanz. <hi rend="bold">Bischof
+                  Altmann</hi> (†1091) gründete in der Folge das regulierte (Augustiner-) Chor<hi rend="shy">&amp;shy;</hi>herren<hi rend="shy">&amp;shy;</hi>kloster <hi rend="bold">St. Nikola</hi> vor den Stadttoren Passaus (um 1067). Die Gemein<hi rend="shy">&amp;shy;</hi>schaft sollte Ausbildungsstätte und Vorbild für den Dom-
+               und Diözesan<hi rend="shy">&amp;shy;</hi>klerus sein und die Ideen der
                Gregorianischen Kirchenreform vermitteln. Die durch Altmann initiierte
                Chorherrenbewegung strahlte weit über die Diözesangrenzen hinaus. Etwa 50 Jahre
                später stellte sich Erzbischof Konrad I. von Salzburg (†1147) vor diese Bewegung. Er
                wandelte das mit unregulierten Chorherren besetzte Salzburger Domstift in ein
-               reguliertes Augustiner<hi
-                  rend="shy"
-               >&amp;shy;</hi>chorherrenstift um. Viele Klöster,
+               reguliertes Augustiner<hi rend="shy">&amp;shy;</hi>chorherrenstift um. Viele Klöster,
                auch aus der Diözese Passau, schlossen sich dem von Konrad initiierten Salzburger
                Chorherrenverband an.</p>
-            <p>Der <hi rend="italic"
-                  >Liber ordinarius</hi> des Mengotus (A-Wn Cod.
+            <p>Der <hi rend="italic">Liber ordinarius</hi> des Mengotus (A-Wn Cod.
                1482), um 1150-60 niedergeschrieben, war bis 1806 Teil der Domkapitelbibliothek
-               Salzburg. Ent<hi
-                  rend="shy"
-                  >&amp;shy;</hi>gegen älterer Zuschreibungen kann dieser
-                  <hi
-                  rend="italic"
-                  >Liber ordinarius</hi> eindeutig nach St. Nikola Passau verortet
+               Salzburg. Ent<hi rend="shy">&amp;shy;</hi>gegen älterer Zuschreibungen kann dieser
+                  <hi rend="italic">Liber ordinarius</hi> eindeutig nach St. Nikola Passau verortet
                werden. Der Codex ist bekannt als das früheste Zeugnis des deutschsprachigen
-               Osterliedes <hi
-                  rend="bold"
-                  >„Christ ist erstanden“</hi>. „Mengotus“ enthält eine
+               Osterliedes <hi rend="bold">„Christ ist erstanden“</hi>. „Mengotus“ enthält eine
                Passauer Chorherrenliturgie. Für das Fest des Klosterpatrons ist folgendes Formular
-               vorgesehen: „In festo s. Nicolai ad vesperas R. <hi
-                  rend="italic">Beatus
-                  Nicolaus</hi>. <hi rend="italic"
-                  >Te deum laudamus</hi> et <hi rend="italic"
-                  >Gloria
-                  in excelsis</hi> dicitur. Officium <hi rend="italic"
-                  >Statuit ei</hi>. Festive
+               vorgesehen: „In festo s. Nicolai ad vesperas R. <hi rend="italic">Beatus
+                  Nicolaus</hi>. <hi rend="italic">Te deum laudamus</hi> et <hi rend="italic">Gloria
+                  in excelsis</hi> dicitur. Officium <hi rend="italic">Statuit ei</hi>. Festive
                omnia sicut de apostolo. … Postea de s. Andrea“. Nikolaus wird als Hochfest gefeiert,
                die Oktavfeier des zweiten Klosterpatrons Andreas kommemoriert. Zudem sind Formulare
                für das Hauptfest des hl. Andreas (mit Vigil am Vortag und Angaben für die Tage in
@@ -470,28 +432,20 @@
                statt, der Spitalkirche von St. Nikola. In der zweiten Weihnachtsvesper wird der hl.
                Stephanus ad „sanctum Stephanum“ kommemoriert. Im Jahr 1227 wird diesem damals
                bereits bestehenden Stephanusaltar eine Stiftung zu Teil. Ein bei der Palmprozession
-               erwähntes Atrium (Vorhalle, Westbau) der Klosterkirche ist bauhistorisch ge<hi
-                  rend="shy">&amp;shy;</hi>sichert.</p>
-            <p>Der bereits erwähnte Schreiber <hi rend="bold"
-                  >Mengotus</hi> hat sich
-               am Ende des <hi rend="italic"
-                  >Liber ordinarius</hi> verewigt: „Obsecro te, quicumque
+               erwähntes Atrium (Vorhalle, Westbau) der Klosterkirche ist bauhistorisch ge<hi rend="shy">&amp;shy;</hi>sichert.</p>
+            <p>Der bereits erwähnte Schreiber <hi rend="bold">Mengotus</hi> hat sich
+               am Ende des <hi rend="italic">Liber ordinarius</hi> verewigt: „Obsecro te, quicumque
                hec legeris vel transscripseris memento in bonum Mengoti peccatoris …“. In den
                Regesten der Passauer Bischöfe erwähnt Egon Boshof einen Mengotus, Passauer Kanoniker
                und Archidiakon, der nach 1187 als Zeuge in Urkunden auftritt. Vielleicht ist in
                diesem Domkanoniker der Schreiber des Ordo identifiziert.</p>
-            <p>Der <hi rend="italic"
-                  >Liber ordinarius</hi> von St. Nikola war Vorbild
+            <p>Der <hi rend="italic">Liber ordinarius</hi> von St. Nikola war Vorbild
                für den Passauer und auch für den Salzburger Regeltext. Allen Ordinarii sind
                zahlreiche liturgische Kommentare gemein. Darüber hinaus ist eine weitgehend
                übereinstimmende liturgische Tradition Bestandteil der Regelbücher aus St. Nikola,
-               der Passauer Chor<hi
-                  rend="shy"
-                  >&amp;shy;</hi>herrenklöster (A-Gu 208,
+               der Passauer Chor<hi rend="shy">&amp;shy;</hi>herrenklöster (A-Gu 208,
                fragmentarischer Ordo aus St. Florian) und der Domkirche bzw. der Diözese (u.a. A-SPA
-               83/3). Die sogenannte „Weltzeiten<hi
-                  rend="shy"
-                  >&amp;shy;</hi>klammer“ (Bericht über
+               83/3). Die sogenannte „Weltzeiten<hi rend="shy">&amp;shy;</hi>klammer“ (Bericht über
                die „sex aetas“) verbindet „Mengotus“ mit Ordinarii, die von Salzburg abhängig sind
                (Salzburg, Vorau, Suben, Ranshofen, Waldhausen und St. Florian). Beide Diözesan- und
                die Chorherrentraditionen zeigen zudem eine deutliche Abhängigkeit von den
@@ -499,17 +453,11 @@
                durch die Hirsauer Reformklöster, sondern bereits zur Zeit Altmanns im deutschen
                Südosten initiiert wurde. So beinhalten die frühesten Quellen die „Rheinauer“
                Sonderoffizien für Papst Gregor, für Afra, Mauritius und Gallus. Ferner wurden
-               zahlreiche Rubriken aus dem Micrologus des <hi
-                  rend="bold"
-                  >Bernold von Konstanz</hi>
+               zahlreiche Rubriken aus dem Micrologus des <hi rend="bold">Bernold von Konstanz</hi>
                (†1100) übernommen. Bernold und Altmann waren Weggefährten und überzeugte Anhänger
-               der Gregoria<hi
-                  rend="shy"
-                  >&amp;shy;</hi>nischen Reform. In einigen Rubriken nennt
+               der Gregoria<hi rend="shy">&amp;shy;</hi>nischen Reform. In einigen Rubriken nennt
                „Mengotus“ Papst Gregor VII. als Autorität und zitiert aus Gregors „Regula canonica“,
-               in der u.a. das auf der Lateran<hi
-                  rend="shy"
-               >&amp;shy;</hi>synode beschlossene
+               in der u.a. das auf der Lateran<hi rend="shy">&amp;shy;</hi>synode beschlossene
                besitzlose Zusammenleben von Kanonikern festgelegt ist.</p>
             <p>Musik-liturgische Quellen aus dem Mittelalter bzw. der frühen Neuzeit
                aus St. Nikola waren bis vor Kurzem nicht bekannt. Drei Breviere ohne musikalische
@@ -521,38 +469,26 @@
                Umfeld von St. Nikola in Gebrauch war. Der aufwändig illuminierte Codex wurde
                vermutlich im vierten Viertel des 13. Jahrhunderts hergestellt. Dieser enthält auch
                besondere Gesänge für den Passauer Diözesanpatron Valentin sowie für die beiden
-               Klosterpatrone Andreas und Nikolaus, für Letzteren die <hi
-                  rend="bold">Cantio</hi>
-               <hi rend="italic"
-                  >Nicolai solemnia sua praesens familia</hi>. Bemerkenswert ist das
+               Klosterpatrone Andreas und Nikolaus, für Letzteren die <hi rend="bold">Cantio</hi>
+               <hi rend="italic">Nicolai solemnia sua praesens familia</hi>. Bemerkenswert ist das
                neumierte Antiphonar Clm 16141 der Bayerischen Staatsbibliothek München. Das um 1300
                angefertigte Gesangbuch war in einer Klosterpfarre von St. Nikola in Gebrauch. Es
-               stellt eine der <hi
-                  rend="bold"
-                  >ältesten Offiziumsquellen mit musikalischer
-                  Notation</hi> für die Passauer Diözesan<hi
-                  rend="shy"
-               >&amp;shy;</hi>liturgie dar.
+               stellt eine der <hi rend="bold">ältesten Offiziumsquellen mit musikalischer
+                  Notation</hi> für die Passauer Diözesan<hi rend="shy">&amp;shy;</hi>liturgie dar.
                Ein kunstvoll ausgestattetes Chormissale, das heute unter der Signatur 74 in der
                Stiftsbibliothek Melk aufbewahrt wird und im vierten Viertel des 15. Jahrhunderts
                entstanden sein dürfte, enthält ebenfalls Hinweise auf St. Nikola. Eine Verwendung im
                Kloster erscheint jedoch fraglich, da es wiederum eine Passauer Diözesan- und keine
                Chorherrentradition beinhaltet.</p>
             <p>Eindeutig dem Gebrauch der Passauer Chorherren zuweisen lässt sich ein
-               1593 hergestelltes <hi
-                  rend="bold"
-                  >Prozessionar</hi>. Das mit gotischer
+               1593 hergestelltes <hi rend="bold">Prozessionar</hi>. Das mit gotischer
                Choralnotation auf Linien notierte Buch wird heute unter der Handschriftensignatur
-               209 in der Oberöster<hi
-                  rend="shy"
-                  >&amp;shy;</hi>reichischen Landesbibliothek Linz
+               209 in der Oberöster<hi rend="shy">&amp;shy;</hi>reichischen Landesbibliothek Linz
                aufbewahrt. Der kleinformatige Codex enthält 164 gezählte Folien und ausschließlich
                Gesänge, die bei den täglichen Prozessionen im Kloster und im näheren Umfeld von St.
                Nikola, zum Vortrag kamen. Interessant ist, dass das Textrepertoire und die Melodien
                immer noch die mittelalterliche liturgische Tradition wiederspiegeln. Das mit dem
-               Wappen des <hi
-                  rend="bold"
-               >Propstes Abraham Anzengruber</hi> (regiert 1585-1599) und
+               Wappen des <hi rend="bold">Propstes Abraham Anzengruber</hi> (regiert 1585-1599) und
                der Jahreszahl 1593 ausgestattete Titelblatt enthält nachfolgenden Text:
                „Responsorium. In usum Monasterii S. Nicolai extra muros Passavienses“. Der
                zeitgenössische Einband trägt als Blindstempel ebenfalls das Wappen des Propstes mit
@@ -562,9 +498,7 @@
                Herren- und Heiligenfeste getrennt voneinander berücksichtigt wurden. Etliche
                Rubriken weisen auf besondere Anlässe, Prozessionswege oder Orte bzw. Kapellen hin.
                So fand in der Christnacht (und an weiteren Festtagen) eine Prozession in die Krypta
-               der Klosterkirche statt. Dabei trugen die <hi
-                  rend="bold"
-                  >„Rectores“</hi> (Leiter der
+               der Klosterkirche statt. Dabei trugen die <hi rend="bold">„Rectores“</hi> (Leiter der
                Schola) als besonderen Sologesang den Tropus „Facturae plasmator et conditor“ vor.
                Bei der feierlichen Prozession am Palmsonntag, die zu Beginn in eine Kapelle führte,
                werden die verschiedenen Akteure genannt: Neben dem Rektor waren die „pueri“
@@ -572,35 +506,23 @@
                den darauffolgenden Tagen den Hymnus „Tellus ac aethra“. Am Karfreitag wurden die
                Improperien im Wechsel von „duo regentes“, „chorus puerorum“ und dem „chorus“
                gesungen. Danach folgte die Kreuzverehrung des „clero et praeposito“ (Geistliche und
-               Propst) und die Anbetung am hl. Grab. Am Karsamstag sangen der <hi
-                  rend="bold"
-                  >Knabenchor und der Chor alternatim</hi> den Hymnus „Inventor rutili“,
-               anschließend folgte die Heiligen<hi
-                  rend="shy"
-                  >&amp;shy;</hi>litanei „circa
+               Propst) und die Anbetung am hl. Grab. Am Karsamstag sangen der <hi rend="bold">Knabenchor und der Chor alternatim</hi> den Hymnus „Inventor rutili“,
+               anschließend folgte die Heiligen<hi rend="shy">&amp;shy;</hi>litanei „circa
                baptisterium“. Ausführlich werden die Prozessionswege in der Osternacht zum hl. Grab,
                zum Eingang und zum Chor der Kirche beschrieben, wobei hier zum ersten Mal der Kantor
                genannt wird. Bemerkenswert ist, dass die im Mittelalter weit verbreiteten Gesänge
-               für die <hi
-                  rend="italic"
-                  >Visitatio sepulchri</hi> nicht erwähnt werden. Es ist gut
+               für die <hi rend="italic">Visitatio sepulchri</hi> nicht erwähnt werden. Es ist gut
                möglich, dass dieser Brauch am Ende des 16. Jahrhunderts nicht mehr üblich war. Für
                die Zeit nach Ostern folgen nun einige Suffragialgesänge für Maria, die Patrone
                Andreas, Pantaleon und Nikolaus sowie für den Ordenspatron Augustinus. Bei den
-               Gesängen für die Bittprozessionen vor Christi Himmelfahrt wird die Kloster<hi
-                  rend="shy">&amp;shy;</hi>pfarrkirche <hi rend="bold"
-                  >St. Jakob</hi> erwähnt und
+               Gesängen für die Bittprozessionen vor Christi Himmelfahrt wird die Kloster<hi rend="shy">&amp;shy;</hi>pfarrkirche <hi rend="bold">St. Jakob</hi> erwähnt und
                ein Gesang aus dem Sonderoffizium für den Heiligen vorgeschlagen. Weitere, im Jahr
                1631 hinzugefügte Rubriken verweisen auf Stationes „ad sanctum Ioannem“
                (Johannesspital am Rindermarkt) und „ad sanctum Paulum“ (Stadtpfarrkirche St. Paul am
                Eingang zum Dombezirk). Die Prozession endete „ad sanctum Stephanum“, also in der
-               Domkirche. Am folgenden Tag führte der Weg über die Heilig<hi
-                  rend="shy">&amp;shy;</hi>Geist<hi rend="shy"
-                  >&amp;shy;</hi>Spitalkirche (Heiliggeistgasse)
+               Domkirche. Am folgenden Tag führte der Weg über die Heilig<hi rend="shy">&amp;shy;</hi>Geist<hi rend="shy">&amp;shy;</hi>Spitalkirche (Heiliggeistgasse)
                zum Dom und über St. Jakob (Bahnhofsstraße) zurück nach St. Nikola. An Christi
-               Himmelfahrt und Pfingsten führten Prozessionen <hi
-                  rend="bold"
-                  >„ad insulam“</hi>.
+               Himmelfahrt und Pfingsten führten Prozessionen <hi rend="bold">„ad insulam“</hi>.
                Hier wurde eine kleine Kirche zu Ehren Maria Magdalenas besucht, die sich am linken
                Innufer (auf Höhe der heutigen Eisenbahnbrücke) befand und zu St. Nikola gehörte. In
                der vollständig vom Inn umfluteten Kirche sangen die Scholares Strophen des Hymnus
@@ -609,31 +531,21 @@
                festivitate D. Nicolai patroni nostri“. Herausragend sind Gesänge aus dem
                Sonderoffizium für den hl. Florian, die hier zum Teil unikal mit Melodien überliefert
                sind. Der Ursprung dieser Historia ist im Augustinerchorherrenkloster St. Florian bei
-               Linz zu finden. Nur hier mit Melodien überliefert sind zudem Gesänge für den <hi
-                  rend="bold"
-                  >Klosterpatron Pantaleon</hi>. Eine besondere Bedeutung scheint auch
+               Linz zu finden. Nur hier mit Melodien überliefert sind zudem Gesänge für den <hi rend="bold">Klosterpatron Pantaleon</hi>. Eine besondere Bedeutung scheint auch
                der hl. Agatha zugekommen zu sein. So ist unter den Suffragialgesängen ein
-               Responsorium für die Heilige vorgesehen. Es ist gut möglich, dass die hervor<hi
-                  rend="shy"
-               >&amp;shy;</hi>gehobene Stellung Agathas mit der alten Klosterpfarre
+               Responsorium für die Heilige vorgesehen. Es ist gut möglich, dass die hervor<hi rend="shy">&amp;shy;</hi>gehobene Stellung Agathas mit der alten Klosterpfarre
                Aidenbach zu tun hat, deren Kirche ein Agathapatrozinium führt.</p>
             <p>Prozessionare enthalten in der Regel nicht nur Gesänge, die während des
                Gehens zum Vortrag kamen, sondern auch solche, die an den Stationen notwendig waren
-               (z.B. Gesänge für die Messe in Stationskirchen, zur Kommemo<hi
-                  rend="shy"
-                  >&amp;shy;</hi>ratio an besonderen Altären, für besondere Riten wie die
-               Fußwaschung am Grün<hi
-                  rend="shy">&amp;shy;</hi>donnerstag oder die Lichter<hi rend="shy"
-                  >&amp;shy;</hi>prozession an Maria Reinigung). Für diese besonderen
+               (z.B. Gesänge für die Messe in Stationskirchen, zur Kommemo<hi rend="shy">&amp;shy;</hi>ratio an besonderen Altären, für besondere Riten wie die
+               Fußwaschung am Grün<hi rend="shy">&amp;shy;</hi>donnerstag oder die Lichter<hi rend="shy">&amp;shy;</hi>prozession an Maria Reinigung). Für diese besonderen
                Riten waren auch nur für diesen Zweck komponierte Gesänge vorgesehen. Der größere
                Teil der Prozessionare besteht jedoch aus Responsorien, Antiphonen und Hymnen aus dem
                regulären Offiziumsrepertoire der betreffenden Institution. So fanden vor allem die
                großen Responsorien der Matutin Verwendung. Für das Temporale sind das in der Regel
                allgemein übliche Gesänge. Das Proprium einer Institution wird durch die Auswahl für
                das jeweilige Fest bestimmt. Interessanter sind hingegen die Gesänge für das
-               Sanctorale, vorallem wenn man diese aus <hi
-                  rend="bold"
-               >Historiae</hi> (meist
+               Sanctorale, vorallem wenn man diese aus <hi rend="bold">Historiae</hi> (meist
                gereimte Sonderoffizien) für lokal bedeutende Heilige entnahm. Für St. Nikola sind
                das neben den bereits erwähnten Historiae für Florian und Pantaleon die für Maria,
                Maria Magdalena, Jakob, Anna, Augustinus, Kaiserin Kunigunde und Ursula.</p>
@@ -642,105 +554,39 @@
             </p>
          </abstract>
          <abstract facs="#STARTPAGE_IMG" xml:lang="en">
-            <ab type="image_title"
-               >Beginning of the Liber ordinarius of Mengotus from the theugustinian monastery St. Nikola outside Passau.</ab>
-            <ab type="head"
-               >The Liber ordinarius of Mengotus from the Augustinian monastery St. Nikola outside Passau.</ab>
-            <p style="primary">In the diocese of Passau, there was a strong response to the <hi
-                  rend="bold"
-                  >movement of Augustinian canons</hi> initiated by Pope Gregory VII (†1085) at the Lateran synod of 1059. <hi
-                  rend="bold"
-                  >Bishop Altmann</hi> (†1091) subsequently founded the (Augustinian) chapter of canons regular <hi
-                  rend="bold"
-               >St. Nikola</hi> outside Passau's city gates (around 1067). This community was to be both the model and the educational establishment for the cathedral and diocesan clergy, spreading the ideas of the Gregorian church reform. The movement of canons initiated by Altmann was influential far beyond the borders of the diocese. Around 50 years later, Archbishop Konrad I of Salzburg (†1147) became a proponent of this movement. He changed Salzburg's cathedral chapter, which hitherto had been inhabited by canons who did not follow a particular rule, into a chapter of Augustinian canons regular. Many monasteries, including from the diocese of Passau, joined the group of Salzburg canons initiated by Konrad.
+            <ab type="image_title">Beginning of the Liber ordinarius of Mengotus from the theugustinian monastery St. Nikola outside Passau.</ab>
+            <ab type="head">The Liber ordinarius of Mengotus from the Augustinian monastery St. Nikola outside Passau.</ab>
+            <p style="primary">In the diocese of Passau, there was a strong response to the <hi rend="bold">movement of Augustinian canons</hi> initiated by Pope Gregory VII (†1085) at the Lateran synod of 1059. <hi rend="bold">Bishop Altmann</hi> (†1091) subsequently founded the (Augustinian) chapter of canons regular <hi rend="bold">St. Nikola</hi> outside Passau's city gates (around 1067). This community was to be both the model and the educational establishment for the cathedral and diocesan clergy, spreading the ideas of the Gregorian church reform. The movement of canons initiated by Altmann was influential far beyond the borders of the diocese. Around 50 years later, Archbishop Konrad I of Salzburg (†1147) became a proponent of this movement. He changed Salzburg's cathedral chapter, which hitherto had been inhabited by canons who did not follow a particular rule, into a chapter of Augustinian canons regular. Many monasteries, including from the diocese of Passau, joined the group of Salzburg canons initiated by Konrad.
             </p>
-            <p>The <hi rend="italic"
-                  >Liber ordinarius</hi> of Mengotus (A-Wn Cod. 1482), written down around 1150-60, belonged to the library of Salzburg's cathedral chapter until 1806. Counter to earlier ascriptions, this <hi
-                  rend="italic"
-                  >Liber ordinarius</hi>
-               can be identified as clearly from St. Nikola in Passau. The codex is famous as the earliest source of the German vernacular Easter song <hi
-                  rend="bold"
-                  >"Christ ist erstanden"</hi>. "Mengotus" includes a liturgy of the Passau canons. It sets out the following formulary for the feast of the monastery's patron saint: "In festo s. Nicolai ad vesperas R. <hi
-                  rend="italic">Beatus Nicolaus</hi>. <hi rend="italic">Te deum laudamus</hi> et <hi
-                  rend="italic"
-                  >Gloria in excelsis</hi>
+            <p>The <hi rend="italic">Liber ordinarius</hi> of Mengotus (A-Wn Cod. 1482), written down around 1150-60, belonged to the library of Salzburg's cathedral chapter until 1806. Counter to earlier ascriptions, this <hi rend="italic">Liber ordinarius</hi>
+               can be identified as clearly from St. Nikola in Passau. The codex is famous as the earliest source of the German vernacular Easter song <hi rend="bold">"Christ ist erstanden"</hi>. "Mengotus" includes a liturgy of the Passau canons. It sets out the following formulary for the feast of the monastery's patron saint: "In festo s. Nicolai ad vesperas R. <hi rend="italic">Beatus Nicolaus</hi>. <hi rend="italic">Te deum laudamus</hi> et <hi rend="italic">Gloria in excelsis</hi>
                dicitur. Officium
-               <hi
-                  rend="italic"
-               >Statuit ei</hi>. Festive omnia sicut de apostolo. … Postea de s. Andrea". St. Nicholas's Day is celebrated as a solemnity and the octave of the monastery's second patron saint, Andrew, is commemorated. Furthermore, there are formularies for the main feast day of St. Andrew (including a vigil on the preceding day and notes for the days of the octave after St. Andrew's Day) and for Pantaleon (the monastery's third patron saint, "novem lectiones et non vacatur"). The feast of St. James (patron saint of the monastery's parish church St. Jakobus) is emphasised particularly. The first Christmas mass took place "ad sanctam Mariam", in the church of St. Nikola's infirmary. The Second Vespers of Christmas commemorates St. Stephen "ad sanctum Stephanum" – the altar dedicated to this saint. In 1227, an endowment was made for this altar, which already existed. Architectural history verifies the existence of an atrium (porch, westwork) mentioned in the Palm Sunday procession.
+               <hi rend="italic">Statuit ei</hi>. Festive omnia sicut de apostolo. … Postea de s. Andrea". St. Nicholas's Day is celebrated as a solemnity and the octave of the monastery's second patron saint, Andrew, is commemorated. Furthermore, there are formularies for the main feast day of St. Andrew (including a vigil on the preceding day and notes for the days of the octave after St. Andrew's Day) and for Pantaleon (the monastery's third patron saint, "novem lectiones et non vacatur"). The feast of St. James (patron saint of the monastery's parish church St. Jakobus) is emphasised particularly. The first Christmas mass took place "ad sanctam Mariam", in the church of St. Nikola's infirmary. The Second Vespers of Christmas commemorates St. Stephen "ad sanctum Stephanum" – the altar dedicated to this saint. In 1227, an endowment was made for this altar, which already existed. Architectural history verifies the existence of an atrium (porch, westwork) mentioned in the Palm Sunday procession.
             </p>
-            <p>The abovementioned scribe <hi rend="bold"
-                  >Mengotus</hi> immortalised himself at the end of the <hi rend="italic"
-                  >Liber ordinarius</hi>: "Obsecro te, quicumque hec legeris vel transscripseris memento in bonum Mengoti peccatoris …". In the 
-               <hi
-                  rend="italic"
-                  >regesta</hi> of the bishops of Passau, Egon Boshof mentions a Mengotus, a canon and archdean of Passau, who appears as a witness in documents after 1187. Perhaps this cathedral canon is the same person as the scribe who produced the 
-               <hi
-                  rend="italic">ordo</hi>.</p>
-            <p>The <hi rend="italic"
-                  >Liber ordinarius</hi> of St. Nikola was the model for both the Passau and the Salzburg rulebook. All <hi
-                  rend="italic"
-                  >ordinarii</hi> have numerous liturgical comments in common. Furthermore, the rulebooks from St. Nikola, the Passau chapters of canons (A-Gu 208, fragmentary 
-               <hi
-                  rend="italic"
-                  >ordo</hi> from St. Florian) and the cathedral and diocese (incl. A-SPA 83/3) share a largely consistent liturgical tradition. The so-called "world seasons bracket" (a report on the "sex aetas") links "Mengotus" to 
-               <hi
-                  rend="italic"
-                  >ordinarii</hi> dependent on Salzburg (Salzburg, Vorau, Suben, Ranshofen, Waldhausen and St. Florian). Furthermore, both the diocesan and the canonical traditions exhibit a clear dependency on the 11th-century liturgical developments in the region around Lake Constance, which were initiated in south-eastern Germany in Altmann's time, not only during the Hirsau reform. Thus the earliest sources contain the "Rheinau" special offices for Pope Gregory, Afra, Maurice (Mauritius) and Gallus. Furthermore, many rubrics were adopted from the <hi
-                  rend="italic">Micrologus</hi> by <hi rend="bold"
-               >Bernold of Constance</hi> (†1100). Bernold and Altmann were like minds and staunch supporters of the Gregorian Reform. In some rubrics, "Mengotus" mentions Pope Gregory VII as an authority and quotes from his "Regula canonica", which among other things sets out the rules for the communal, propertyless life of canons determined at the Lateran synod.</p>
+            <p>The abovementioned scribe <hi rend="bold">Mengotus</hi> immortalised himself at the end of the <hi rend="italic">Liber ordinarius</hi>: "Obsecro te, quicumque hec legeris vel transscripseris memento in bonum Mengoti peccatoris …". In the 
+               <hi rend="italic">regesta</hi> of the bishops of Passau, Egon Boshof mentions a Mengotus, a canon and archdean of Passau, who appears as a witness in documents after 1187. Perhaps this cathedral canon is the same person as the scribe who produced the 
+               <hi rend="italic">ordo</hi>.</p>
+            <p>The <hi rend="italic">Liber ordinarius</hi> of St. Nikola was the model for both the Passau and the Salzburg rulebook. All <hi rend="italic">ordinarii</hi> have numerous liturgical comments in common. Furthermore, the rulebooks from St. Nikola, the Passau chapters of canons (A-Gu 208, fragmentary 
+               <hi rend="italic">ordo</hi> from St. Florian) and the cathedral and diocese (incl. A-SPA 83/3) share a largely consistent liturgical tradition. The so-called "world seasons bracket" (a report on the "sex aetas") links "Mengotus" to 
+               <hi rend="italic">ordinarii</hi> dependent on Salzburg (Salzburg, Vorau, Suben, Ranshofen, Waldhausen and St. Florian). Furthermore, both the diocesan and the canonical traditions exhibit a clear dependency on the 11th-century liturgical developments in the region around Lake Constance, which were initiated in south-eastern Germany in Altmann's time, not only during the Hirsau reform. Thus the earliest sources contain the "Rheinau" special offices for Pope Gregory, Afra, Maurice (Mauritius) and Gallus. Furthermore, many rubrics were adopted from the <hi rend="italic">Micrologus</hi> by <hi rend="bold">Bernold of Constance</hi> (†1100). Bernold and Altmann were like minds and staunch supporters of the Gregorian Reform. In some rubrics, "Mengotus" mentions Pope Gregory VII as an authority and quotes from his "Regula canonica", which among other things sets out the rules for the communal, propertyless life of canons determined at the Lateran synod.</p>
             <p>Until recently, no medieval or early modern musical-liturgical sources from St. Nikola were known. Three 15th-century breviaries without musical notation, now held in the Bayerische Staatsbibliothek in Munich under shelfmarks Clm 16141-16143, convey a comprehensive picture of St. Nikola's liturgical tradition. A breviary (winter part) with unlined neume notation in use in the milieu of St. Nikola has survived in the library of the Augustinian monastery of Vorau (Styria), where it bears the shelfmark 90. This lavishly illuminated codex was probably created in the last quarter of the 13th century. It also contains special chants for Valentine, the patron saint of the diocese of Passau, and for the monastery's two patron saints Andrew and Nicholas, including the 
-               <hi
-                  rend="bold">cantio</hi>
-               <hi rend="italic"
-                  >Nicolai solemnia sua praesens familia</hi> for the latter. The neumed antiphonary Bayerische Staatsbibliothek Clm 16141 is noteworthy. This book of chant, written around 1300, was in use in a monastery parish of St. Nikola. It is one of the 
-               <hi
-                  rend="bold"
-               >oldest sources of offices with musical notation</hi> for Passau's diocesan liturgy. An elaborate choir missal, which is now held in Melk monastery library under the shelfmark 74 and was probably produced in the last quarter of the 15th century, also contains references to St. Nikola. However, it seems unlikely that it was intended for monastic use, as it contains a Passau diocesan, not a canonical tradition.
+               <hi rend="bold">cantio</hi>
+               <hi rend="italic">Nicolai solemnia sua praesens familia</hi> for the latter. The neumed antiphonary Bayerische Staatsbibliothek Clm 16141 is noteworthy. This book of chant, written around 1300, was in use in a monastery parish of St. Nikola. It is one of the 
+               <hi rend="bold">oldest sources of offices with musical notation</hi> for Passau's diocesan liturgy. An elaborate choir missal, which is now held in Melk monastery library under the shelfmark 74 and was probably produced in the last quarter of the 15th century, also contains references to St. Nikola. However, it seems unlikely that it was intended for monastic use, as it contains a Passau diocesan, not a canonical tradition.
             </p>
-            <p>A <hi rend="bold"
-                  >processional</hi> produced in 1593 can be attributed clearly to the canons of Passau. This book, written in lined Gothic chant notation, is now held in the State Library of Upper Austria in Linz under manuscript shelfmark 209. The small-format codex is made up of 164 numbered folios and contains only chants that were performed during the daily processions in the monastery and in the vicinity of St. Nikola. What is interesting is that the repertory of texts and melodies continues to reflect the medieval liturgical tradition. The title page is decorated with the coat of arms of 
-               <hi
-                  rend="bold"
-               >Provost Abraham Anzengruber</hi> (held office 1585-1599) and the year 1593, and contains the following text: "Responsorium. In usum Monasterii S. Nicolai extra muros Passavienses". The contemporary binding is marked with a blind stamp of the provost's coat of arms and the year 1588, the insignia "A" and the text "DOMINUS PRAEPOSITUS NICOL[AI] ABRAHAMUS ÄNTZENGRUEBER" running from cover to cover across the spine.
+            <p>A <hi rend="bold">processional</hi> produced in 1593 can be attributed clearly to the canons of Passau. This book, written in lined Gothic chant notation, is now held in the State Library of Upper Austria in Linz under manuscript shelfmark 209. The small-format codex is made up of 164 numbered folios and contains only chants that were performed during the daily processions in the monastery and in the vicinity of St. Nikola. What is interesting is that the repertory of texts and melodies continues to reflect the medieval liturgical tradition. The title page is decorated with the coat of arms of 
+               <hi rend="bold">Provost Abraham Anzengruber</hi> (held office 1585-1599) and the year 1593, and contains the following text: "Responsorium. In usum Monasterii S. Nicolai extra muros Passavienses". The contemporary binding is marked with a blind stamp of the provost's coat of arms and the year 1588, the insignia "A" and the text "DOMINUS PRAEPOSITUS NICOL[AI] ABRAHAMUS ÄNTZENGRUEBER" running from cover to cover across the spine.
             </p>
-            <p>The order of chants in the processional follows the church year, with the feasts of Jesus Christ and those of saints in separate sections. Numerous rubrics draw attention to particular occasions, processional routes and places or chapels. Thus a procession to the crypt of the monastery church took place on Christmas Eve (as well as on other feast days). During the procession, the "<hi
-                  rend="bold">rectores</hi>" (the directors of the <hi rend="italic"
-                  >schola</hi>) performed the trope "Facturae plasmator et conditor" as a solo chant. For the solemn procession on Palm Sunday, the first station of which was a chapel, the various actors involved are listed: they include not only the rector, but the "pueri" (choirboys), who sang the hymn "Gloria laus et honor". The following day the boys performed the hymn "Tellus ac aethra". On Good Friday, the 
-               <hi
-                  rend="italic"
-                  >Improperia</hi>
-               were sung in turn by "duo regentes", "chorus puerorum" and the "chorus". This was followed by the veneration of the Cross by the "clero et praeposito" (the clergy and provost) and the adoration at the Holy Sepulchre. On Easter Saturday, the <hi
-                  rend="bold">choirboys and the choir </hi>
-               <hi rend="bold"
-                  >alternatim</hi> sang the hymn "Inventor ruti", followed by the saints' litany "circa baptisterium". The processional routes of the Easter vigil – to the Holy Sepulchre, the entrance and the choir of the church – are described in detail; here, the cantor is referred to for the first time. Strikingly, the chants for the 
-               <hi
-                  rend="italic"
-                  >Visitatio sepulchri</hi>, which were widespread during the Middle Ages, are not mentioned. It is possible that this custom was not longer common in the late 16th century. For the time after Easter, a few suffrages follow for the Holy Virgin, the patron saints Andrew, Pantaleon and Nicholas, and the order's patron saint Augustine. The section with the chants for the petitionary processions before Ascension Day mentions the monastery's parish church 
-               <hi
-                  rend="bold"
-                  >St. Jakob</hi> and suggests a chant from the saint's special office. Further rubrics added in 1631 refer to stations "ad sanctum Ioannem" (the Johannesspital [infirmary] at the Rindermarkt) and "ad sanctum Paulum" (the parish church of St. Paul at the entrance to the cathedral precinct). The procession ended "ad sanctum Stephanum", that is, in the cathedral. The following day, the route led from the Heiliggeist-Spitalkirche (the infirmary church in the Heiliggeistgasse) to the cathedral and then back to St. Nikola via St. Jakob (Bahnhofsstraße). On Ascension Day and Whit Sunday, processions were made
-               <hi
-                  rend="bold"
-                  >"ad insulam"</hi>. Here, the procession visited a little church dedicated to Mary Magdalene that was located on the left bank of the River Inn (the site of today's railway bridge) and belonged to St. Nikola. In this church, completely surrounded by the river, the <hi
-                  rend="italic"
-                  >scholares</hi> sang verses of the hymn "Salve festa dies". On Corpus Christi the following week, the festive procession once again made a stop in St. Jakob. The Sanctorale starts with "In festivitate D. Nicolai patroni nostri". Chants from the special office for St. Florian are particularly interesting; this source is the only one to transmit them with their melodies. This 
-               <hi
-                  rend="italic"
-                  >historia</hi> originated in the Augustine monastery of St. Florian near Linz. The manuscript is also the only source of chants with melodies for the <hi
-                  rend="bold"
-               >monastery's patron saint Pantaleon</hi>. St. Agatha also seems to have held particular significance, and thus the suffrages include a responsory for her. It is possible that Agatha's prominence has to do with the old monastery parish of Aidenbach, whose church is dedicated to Agatha.</p>
-            <p>Processionals usually contain not only the chants performed while walking, but also those required at the various stations (e.g. chants for mass in the station churches, for commemoration at special altars, for particular rites such as the washing of feet on Maundy Thursday or the procession of candles on the feast of the Purification of the Virgin). For these special rites, chants composed solely for this purpose were provided. However, the greater part of the processionals is made up of responsories, antiphons and hymns from the regular office repertory of the institution in question. Thus the large responsories of Matins were used first and foremost. For the <hi
-                  rend="italic"
-                  >Temporale</hi>, these are usually the generally common chants. An institution's <hi
-                  rend="italic"
-                  >Proprium</hi>
-               is determined by the selection for the respective feast. The chants for the <hi
-                  rend="italic">Sanctorale</hi> are more interesting, especially if taken from <hi
-                  rend="bold"
-                  >historiae</hi> (usually rhymed special offices) for locally important saints. For St. Nikola, these <hi
-                  rend="italic"
-               >historiae</hi> include those for Mary, Mary Magdalene, Jakob, Anna, Augustine, Empress Kunigunde and Ursula, besides the abovementioned ones for Florian and Pantaleon.
+            <p>The order of chants in the processional follows the church year, with the feasts of Jesus Christ and those of saints in separate sections. Numerous rubrics draw attention to particular occasions, processional routes and places or chapels. Thus a procession to the crypt of the monastery church took place on Christmas Eve (as well as on other feast days). During the procession, the "<hi rend="bold">rectores</hi>" (the directors of the <hi rend="italic">schola</hi>) performed the trope "Facturae plasmator et conditor" as a solo chant. For the solemn procession on Palm Sunday, the first station of which was a chapel, the various actors involved are listed: they include not only the rector, but the "pueri" (choirboys), who sang the hymn "Gloria laus et honor". The following day the boys performed the hymn "Tellus ac aethra". On Good Friday, the 
+               <hi rend="italic">Improperia</hi>
+               were sung in turn by "duo regentes", "chorus puerorum" and the "chorus". This was followed by the veneration of the Cross by the "clero et praeposito" (the clergy and provost) and the adoration at the Holy Sepulchre. On Easter Saturday, the <hi rend="bold">choirboys and the choir </hi>
+               <hi rend="bold">alternatim</hi> sang the hymn "Inventor ruti", followed by the saints' litany "circa baptisterium". The processional routes of the Easter vigil – to the Holy Sepulchre, the entrance and the choir of the church – are described in detail; here, the cantor is referred to for the first time. Strikingly, the chants for the 
+               <hi rend="italic">Visitatio sepulchri</hi>, which were widespread during the Middle Ages, are not mentioned. It is possible that this custom was not longer common in the late 16th century. For the time after Easter, a few suffrages follow for the Holy Virgin, the patron saints Andrew, Pantaleon and Nicholas, and the order's patron saint Augustine. The section with the chants for the petitionary processions before Ascension Day mentions the monastery's parish church 
+               <hi rend="bold">St. Jakob</hi> and suggests a chant from the saint's special office. Further rubrics added in 1631 refer to stations "ad sanctum Ioannem" (the Johannesspital [infirmary] at the Rindermarkt) and "ad sanctum Paulum" (the parish church of St. Paul at the entrance to the cathedral precinct). The procession ended "ad sanctum Stephanum", that is, in the cathedral. The following day, the route led from the Heiliggeist-Spitalkirche (the infirmary church in the Heiliggeistgasse) to the cathedral and then back to St. Nikola via St. Jakob (Bahnhofsstraße). On Ascension Day and Whit Sunday, processions were made
+               <hi rend="bold">"ad insulam"</hi>. Here, the procession visited a little church dedicated to Mary Magdalene that was located on the left bank of the River Inn (the site of today's railway bridge) and belonged to St. Nikola. In this church, completely surrounded by the river, the <hi rend="italic">scholares</hi> sang verses of the hymn "Salve festa dies". On Corpus Christi the following week, the festive procession once again made a stop in St. Jakob. The Sanctorale starts with "In festivitate D. Nicolai patroni nostri". Chants from the special office for St. Florian are particularly interesting; this source is the only one to transmit them with their melodies. This 
+               <hi rend="italic">historia</hi> originated in the Augustine monastery of St. Florian near Linz. The manuscript is also the only source of chants with melodies for the <hi rend="bold">monastery's patron saint Pantaleon</hi>. St. Agatha also seems to have held particular significance, and thus the suffrages include a responsory for her. It is possible that Agatha's prominence has to do with the old monastery parish of Aidenbach, whose church is dedicated to Agatha.</p>
+            <p>Processionals usually contain not only the chants performed while walking, but also those required at the various stations (e.g. chants for mass in the station churches, for commemoration at special altars, for particular rites such as the washing of feet on Maundy Thursday or the procession of candles on the feast of the Purification of the Virgin). For these special rites, chants composed solely for this purpose were provided. However, the greater part of the processionals is made up of responsories, antiphons and hymns from the regular office repertory of the institution in question. Thus the large responsories of Matins were used first and foremost. For the <hi rend="italic">Temporale</hi>, these are usually the generally common chants. An institution's <hi rend="italic">Proprium</hi>
+               is determined by the selection for the respective feast. The chants for the <hi rend="italic">Sanctorale</hi> are more interesting, especially if taken from <hi rend="bold">historiae</hi> (usually rhymed special offices) for locally important saints. For St. Nikola, these <hi rend="italic">historiae</hi> include those for Mary, Mary Magdalene, Jakob, Anna, Augustine, Empress Kunigunde and Ursula, besides the abovementioned ones for Florian and Pantaleon.
             </p>
             <p>
                <hi rend="italic">by Robert Klugseder</hi>
