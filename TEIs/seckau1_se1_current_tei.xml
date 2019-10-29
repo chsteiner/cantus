@@ -379,6 +379,9 @@
             </p>
             <ab type="head">Codex Graz, Univ.-Bibl., Ms 756 (Seckau 2)</ab>
             <p>Die zweite Quelle ist der etwa 150-170 Jahre jüngere Seckauer <hi rend="italic">Liber Ordinarius</hi> A-Gu 756 aus dem Jahr 1345. Diese Handschrift wurde 2009 im Rahmen einer Dissertation an der Kunstuniversität Graz unter dem Titel „Der Seckauer Liber ordinarius von 1345 (A-Gu 756) – Edition und Kommentar“ von Inga Behrendt vorgestellt und bietet einen Einblick in die vielgestaltige Liturgie des mittelalterlichen Augustiner Chorherrenstiftes im 14. Jahrhundert. Der Codex ist eine erweiterte Abschrift des älteren <hi rend="italic">Liber Ordinarius</hi> Ms 208 mit einem beigebundenen Cantionar, das liturgisches Eigen- und volkssprachiges Liedgut aus Seckau verzeichnet. Die Dissertation bietet ein Incipitverzeichnis dieses liturgischen Anhangs und erstmalig eine Besprechung der linienlosen Notation (adiastematische Neumen) aus dem 14. Jahrhundert in Seckau. Die hier vorliegende digitale Edition wurde von Gionata Brusa auf Grundlage des Originalmanuskripts Ms 756 neu transkribiert und ausgezeichnet.</p>
+            <p>
+               <ref target="/o:cantus.seckau2/sdef:TEI/get?mode=view:edition&amp;locale=de" rendition="editorial view">Zum <hi rend="italic">Liber Ordinarius</hi> Seckau 2.</ref>
+            </p>
             <ab type="head">Codex Graz, Univ.-Bibl., Ms 1566 (Seckau 3)</ab>
             <p>Der dritte <hi rend="italic">Liber Ordinarius</hi> A-Gu 1566 ist die jüngste der drei Handschriften. Der Codex stammt aus dem letzten Jahrzehnt des 16. Jahrhunderts (zwischen 1595 und 1600) und gewährt Einblick in die mehr als 250 Jahre kontinuierliche liturgische und musikalische Entwicklung der Seckauer Liturgie nach der Verschriftlichung durch Ms 756. Auch er wurde im Rahmen einer 2016 abgeschlossenen Dissertation von Réka Miklós bearbeitet. Der <hi rend="italic">Liber Ordinarius</hi> gilt als eines der <hi rend="bold">spätesten Beispiele seiner Art</hi> und steht an der Schwelle zu den liturgisch-musikalischen Umwälzungen im Gefolge des Konzils von Trient. Es handelt sich somit um die letzte Dokumentation <hi rend="bold">Seckauer Eigenliturgie</hi> vor der Übernahme des römischen Ritus im Jahre 1600.</p>
             <p>
@@ -400,7 +403,7 @@
             <p>The Graz manuscript catalogue describes this source as "Directorium liturgicum Salisburgense ad usum ecclesiae collegiatae Seccoviensis". In its original form, it transmits liturgical customs from the medieval 
                <hi rend="bold">diocese of Passau</hi> and was only later revised by a very practiced, small hand and adapted to the liturgical use of Seckau. The "new" formulary contains elements of both the Passau and the Salzburg liturgy and can be seen as a <hi rend="bold">hybrid</hi> of both liturgical families.</p>
             <p>
-               <ref target="https://gams.uni-graz.at/o:cantus.seckau1.pac/sdef:TEI/get?mode=view:edition&amp;locale=de">
+               <ref target="https://gams.uni-graz.at/o:cantus.seckau1.pac/sdef:TEI/get?mode=view:edition&amp;locale=en">
                   To the Liber ordinarius Seckau 1.
                </ref>
             </p>
