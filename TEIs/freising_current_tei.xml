@@ -54,7 +54,7 @@
             <date when="2017">2017</date>
             <idno type="PID">o:cantus.freising</idno>
          </publicationStmt>
-         <!-- nicht objektbezogen fürs gesamte Projekt-->
+         <!-- nicht objektbezogen; fürs gesamte Projekt-->
          <seriesStmt>
             <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network - semantisch
                erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
