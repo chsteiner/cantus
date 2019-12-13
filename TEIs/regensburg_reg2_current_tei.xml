@@ -36,15 +36,15 @@
   <text>
     <body xml:space="preserve">
       <div>
-        <head><note type="supplied"><metamark function="variant" xml:id="V.1">PROLOGUS</metamark></note></head>
+        <head><note type="supplied">PROLOGUS</note></head>
         <div>
-          <metamark function="variant" xml:id="V.2"><ab><pb n="316"/>Excerpta in codice membraneo maiori forma, qui est Ratisbonae apud fratres minores conventuales. </ab></metamark>
+          <ab><pb n="316"/>Excerpta in codice membraneo maiori forma, qui est Ratisbonae apud fratres minores conventuales.</ab>
         </div>
       </div>
       <div>
         <head><note type="supplied">INCIPIT LIBER ORDINARIUS ECCLESIAE RATISPONENSIS</note></head>
         <div>
-          <metamark function="variant" xml:id="V.3"><ab>Et ego <seg ana="#person">Nicolaus Purchardus de Amberga summissarius</seg> iam fere quinquaginta annis cum hoc breviarium ad rogatum totius <seg ana="#function">capituli</seg> incepi et perfeci. </ab></metamark>
+          <ab>Et ego <seg ana="#person">Nicolaus Purchardus de Amberga summissarius</seg> iam fere quinquaginta annis cum hoc breviarium ad rogatum totius <seg ana="#function">capituli</seg> incepi et perfeci.</ab>
         </div>
       </div>
       <div>
@@ -52,74 +52,74 @@
         <div type="time:1">
           <ab ana="#head"><label>Missa</label></ab>
           <ab>
-            <seg ana="#IN" subtype="supplied" type="incipit">In virtute tua domine</seg>. <seg ana="#CL" rend="#OR" type="incipit">Deus qui nobis honorabilem diem</seg>. Secunda oratio <metamark function="variant" xml:id="V.4">pro defuncto famulo dicto <seg ana="#person">Pulo comite</seg>, qui hoc festum instituit</metamark>. Tertia de dominica. </ab>
+            <seg ana="#IN" subtype="supplied" type="incipit">In virtute tua domine</seg>. <seg ana="#CL" rend="#OR" type="incipit">Deus qui nobis honorabilem diem</seg>. Secunda oratio pro defuncto famulo dicto <seg ana="#person">Pulo comite</seg>, qui hoc festum instituit. Tertia de dominica.</ab>
         </div>
       </div>
       <div>
         <head>IN FESTO SANCTI BENEDICTI ABBATIS</head>
         <div type="time:1">
           <ab ana="#head"><label><note type="supplied">Ad missam</note></label></ab>
-          <metamark function="variant" xml:id="V.5"><ab> Secunda oratio pro domino <seg ana="#person">Hennrico de Roteneck episcopo Ratisponensi</seg>, qui hoc festum instituit. </ab>
-            <ab>Nota quod octava annuntiationis virginis Mariae in <seg ana="#function">choro Ratisponensi</seg> per omnia instituta est celebrari a domino <seg ana="#person">Andrea custode</seg>. Ad missam vero dantur presentiae de domo custodiae tam <seg ana="#function">vicariis</seg> quam <seg ana="#function">altaristis</seg> maioris <seg ana="#place">ecclesiae Ratisponensis</seg>. Et sex denarii ad offertorio pro domino <seg ana="#person">Andrea</seg>, qui hoc festum instituit. </ab></metamark>
+          <ab> Secunda oratio pro domino <seg ana="#person">Hennrico de Roteneck episcopo Ratisponensi</seg>, qui hoc festum instituit.</ab>
+            <ab>Nota quod octava annuntiationis virginis Mariae in <seg ana="#function">choro Ratisponensi</seg> per omnia instituta est celebrari a domino <seg ana="#person">Andrea custode</seg>. Ad missam vero dantur presentiae de domo custodiae tam <seg ana="#function">vicariis</seg> quam <seg ana="#function">altaristis</seg> maioris <seg ana="#place">ecclesiae Ratisponensis</seg>. Et sex denarii ad offertorio pro domino <seg ana="#person">Andrea</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
         <head>DOMINICA IN QUINQUAGESIMA</head>
         <div>
-          <metamark function="variant" xml:id="V.6"><ab>Finita tertia aspersio et processio fit ut in superiori dominica scilicet in septuagesima, nisi quod hodie in processione non portantur cappae. Et hoc propter carnis brevius <seg ana="#function">presbyterorum</seg>. <add type="marginal">fastenzeit. </add></ab></metamark>
+          <ab>Finita tertia aspersio et processio fit ut in superiori dominica scilicet in septuagesima, nisi quod hodie in processione non portantur cappae. Et hoc propter carnis brevius <seg ana="#function">presbyterorum</seg>. <add type="marginal">fastenzeit. </add></ab>
         </div>
       </div>
       <div>
         <head>DOMINICA RESURRECTIONIS</head>
         <div type="time:1">
           <ab ana="#head"><label><note type="supplied">Ad processionem</note></label></ab>
-          <metamark function="variant" xml:id="V.7"><ab> Post aspersionem fit processio sollemnis in <seg ana="#place">claustrum</seg> cum cappis melioribus et quattuor vexillis maioribus et aspersorio et omnibus monstrantiis, quas <seg ana="#function">vicarii</seg> portant. <seg ana="#function">Diacono</seg> vero portante crucem magnam et <seg ana="#function">subdiaconus</seg> plenarium. Et ita vadant ante <seg ana="#place">capellam omnium sanctorum</seg> cum <seg ana="#AP" type="incipit">Christo resurgens</seg> praemisso <seg ana="#VS" type="incipit">In resurrectione tua</seg>. <seg ana="#OR" type="incipit">Praesta quaesumus omnipotens deus</seg>. Deinde vadant <seg ana="#function">duo scholares</seg> cantantes <seg ana="#HY" type="incipit">Salve festa dies</seg>. Et <seg ana="#function">chorus</seg> post primum versum repetat <seg ana="#HY" subtype="supplied" type="incipit">Salve festa</seg>. <pb n="317"/>Quondam etiam <seg ana="#function">populus</seg> cantabat <seg ana="#HY" subtype="supplied" type="incipit">Christ ist erstanden. Alleluia alleluia</seg>. <seg ana="#HV" subtype="supplied" type="incipit">Der sullen wir alle fro sein</seg>, sed nostris temporibus est aboletum. Sed <seg ana="#function">pueri</seg> cantent tres vel quattuor versus de hymno et <seg ana="#function">chorus</seg> respondeat. Cum vero pervenimus ante <seg ana="#place">capellam sancti Stephani</seg>
-              <seg ana="#function">cantores</seg> imponant <seg ana="#AP" type="incipit">Cum rex gloriae</seg>, cum qua vadant ad <seg ana="#place">sanctum Ioannem</seg>, et ibi perficiant eam, et <seg ana="#function">sacerdos</seg> dicit <seg ana="#VS" type="incipit">Surrexit dominus de sepulchro</seg>. <seg ana="#OR" type="incipit">Deus qui nos resurrectionis dominicae</seg>. Deinde redeant in <seg ana="#place">monasterium</seg> ante <seg ana="#place">altare sanctae crucis</seg> cantantes <seg ana="#AP" type="incipit">Sedit angelus</seg>, et stantes in longitudine <seg ana="#place">monasterii</seg>. Et dum veniunt ad illum locum, ubi cantatur <seg ana="#AV" subtype="supplied" type="incipit">Nolite metuere</seg>, tunc vadant <seg ana="#function">cantores</seg> et cantant <seg ana="#AV" type="incipit">Crucifixum</seg>. <seg ana="#function">Chorus</seg> respondat <seg ana="#AV" subtype="supplied" type="incipit">Nolite</seg>. Dum veniunt ad locum ubi canitur <seg ana="#AV" corresp="#./preceding-sibling::AV[1]" subtype="supplied" type="incipit">Alleluia</seg> ascendant <seg ana="#place">chorum</seg> et ibi cantetur alius versus <seg ana="#AV" subtype="supplied" type="incipit">Recordamini quoniam</seg>. <seg ana="#function">Chorus</seg> respondet <seg ana="#AV" corresp="#./preceding-sibling::AV[1]" subtype="supplied" type="incipit">Alleluia</seg>. Deinde <seg ana="#function">episcopus</seg> faciat pronuntiare indulgentias omnibus praesentibus. Et notandum quod in omnibus processionibus sollemnibus et etiam dominicalibus <seg ana="#function">canonici sancti Ioannis</seg> interesse debent. Deinde <seg ana="#function">cantores</seg> imponunt ad missam introitum. </ab></metamark>
+          <ab> Post aspersionem fit processio sollemnis in <seg ana="#place">claustrum</seg> cum cappis melioribus et quattuor vexillis maioribus et aspersorio et omnibus monstrantiis, quas <seg ana="#function">vicarii</seg> portant. <seg ana="#function">Diacono</seg> vero portante crucem magnam et <seg ana="#function">subdiaconus</seg> plenarium. Et ita vadant ante <seg ana="#place">capellam omnium sanctorum</seg> cum <seg ana="#AP" type="incipit">Christo resurgens</seg> praemisso <seg ana="#VS" type="incipit">In resurrectione tua</seg>. <seg ana="#OR" type="incipit">Praesta quaesumus omnipotens deus</seg>. Deinde vadant <seg ana="#function">duo scholares</seg> cantantes <seg ana="#HY" type="incipit">Salve festa dies</seg>. Et <seg ana="#function">chorus</seg> post primum versum repetat <seg ana="#HY" subtype="supplied" type="incipit">Salve festa</seg>. <pb n="317"/>Quondam etiam <seg ana="#function">populus</seg> cantabat <seg ana="#HY" subtype="supplied" type="incipit">Christ ist erstanden. Alleluia alleluia</seg>. <seg ana="#HV" subtype="supplied" type="incipit">Der sullen wir alle fro sein</seg>, sed nostris temporibus est aboletum. Sed <seg ana="#function">pueri</seg> cantent tres vel quattuor versus de hymno et <seg ana="#function">chorus</seg> respondeat. Cum vero pervenimus ante <seg ana="#place">capellam sancti Stephani</seg>
+              <seg ana="#function">cantores</seg> imponant <seg ana="#AP" type="incipit">Cum rex gloriae</seg>, cum qua vadant ad <seg ana="#place">sanctum Ioannem</seg>, et ibi perficiant eam, et <seg ana="#function">sacerdos</seg> dicit <seg ana="#VS" type="incipit">Surrexit dominus de sepulchro</seg>. <seg ana="#OR" type="incipit">Deus qui nos resurrectionis dominicae</seg>. Deinde redeant in <seg ana="#place">monasterium</seg> ante <seg ana="#place">altare sanctae crucis</seg> cantantes <seg ana="#AP" type="incipit">Sedit angelus</seg>, et stantes in longitudine <seg ana="#place">monasterii</seg>. Et dum veniunt ad illum locum, ubi cantatur <seg ana="#AV" subtype="supplied" type="incipit">Nolite metuere</seg>, tunc vadant <seg ana="#function">cantores</seg> et cantant <seg ana="#AV" type="incipit">Crucifixum</seg>. <seg ana="#function">Chorus</seg> respondat <seg ana="#AV" subtype="supplied" type="incipit">Nolite</seg>. Dum veniunt ad locum ubi canitur <seg ana="#AV" corresp="#./preceding-sibling::AV[1]" subtype="supplied" type="incipit">Alleluia</seg> ascendant <seg ana="#place">chorum</seg> et ibi cantetur alius versus <seg ana="#AV" subtype="supplied" type="incipit">Recordamini quoniam</seg>. <seg ana="#function">Chorus</seg> respondet <seg ana="#AV" corresp="#./preceding-sibling::AV[1]" subtype="supplied" type="incipit">Alleluia</seg>. Deinde <seg ana="#function">episcopus</seg> faciat pronuntiare indulgentias omnibus praesentibus. Et notandum quod in omnibus processionibus sollemnibus et etiam dominicalibus <seg ana="#function">canonici sancti Ioannis</seg> interesse debent. Deinde <seg ana="#function">cantores</seg> imponunt ad missam introitum.</ab>
         </div>
       </div>
       <div>
         <head>IN TERTIA DOMINICA POST OCTAVAM RESURRECTIONIS</head>
         <div type="time:1">
           <ab ana="#head"><label><note type="supplied">Ad missam</note></label></ab>
-          <metamark function="variant" xml:id="V.8"><ab>
-              <seg ana="#SE" type="incipit">Rex deus dei agne</seg>, quam instituit <seg ana="#person">magister Syboto quondam scholasticus Ratisponensis</seg>. Et cantatur omni dominica usque in ascensionem domini. </ab></metamark>
+          <ab>
+              <seg ana="#SE" type="incipit">Rex deus dei agne</seg>, quam instituit <seg ana="#person">magister Syboto quondam scholasticus Ratisponensis</seg>. Et cantatur omni dominica usque in ascensionem domini.</ab>
         </div>
       </div>
       <div>
         <head>IN FESTO SANCTI MARCI</head>
         <div>
-          <ab>Post missam sancti Marci cantatur sexta. </ab>
+          <ab>Post missam sancti Marci cantatur sexta.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label><note type="supplied">Ad processionem</note></label></ab>
-          <metamark function="variant" xml:id="V.9"><ab> Interim conveniant <seg ana="#function">canonici veteris capellae</seg> ac <seg ana="#function">sancti Ioannis</seg> ad <seg ana="#place">chorum</seg>. Et <seg ana="#function">decanus</seg> vel <seg ana="#function">senior</seg> incipit <seg ana="#AP" type="incipit">Exurge domine</seg>. <seg ana="#PS" type="incipit">Salvum fac</seg>. Interim etiam <seg ana="#function">summissarius</seg>, qui est <seg ana="#function">ebdomadarius</seg>, legat <seg ana="#PS" type="incipit">Domine ne in furore</seg>, et hoc apud <seg ana="#place">pulpitum</seg> in medio <seg ana="#place">chori</seg> et ordinatur processio ad <seg ana="#place">sanctum salvatorem</seg>. <seg ana="#function">Decanus</seg> incipit <seg ana="#AP" type="incipit">Surgite sancti</seg>. <seg ana="#AP" type="incipit">De Hierusalem</seg>. <seg ana="#AP" type="incipit">Cum iucunditate</seg>. Et sic transeuntes prope <seg ana="#place">sanctum Ioannem</seg>. <seg ana="#function">Cantores plebanorum</seg> sequentes processionem incipiunt <seg ana="#RPP" type="incipit">Iste est</seg> <gap/>. Deinde cum pervenerint versus <seg ana="#place">inferius monasterium</seg>, tunc imponant <seg ana="#AP" type="incipit">Sancta Maria</seg>. <pb n="318"/>Postea antiphona de sancto Georgio <seg ana="#AP" subtype="supplied" type="incipit">Filiae Hierusalem</seg>. Cum vero venerint prope <seg ana="#place">sanctam Barbaram</seg> imponant <seg ana="#RPP" type="incipit">Regnum mundi</seg>, et sic intrantes <seg ana="#place">claustrum minorum</seg>
+          <ab> Interim conveniant <seg ana="#function">canonici veteris capellae</seg> ac <seg ana="#function">sancti Ioannis</seg> ad <seg ana="#place">chorum</seg>. Et <seg ana="#function">decanus</seg> vel <seg ana="#function">senior</seg> incipit <seg ana="#AP" type="incipit">Exurge domine</seg>. <seg ana="#PS" type="incipit">Salvum fac</seg>. Interim etiam <seg ana="#function">summissarius</seg>, qui est <seg ana="#function">ebdomadarius</seg>, legat <seg ana="#PS" type="incipit">Domine ne in furore</seg>, et hoc apud <seg ana="#place">pulpitum</seg> in medio <seg ana="#place">chori</seg> et ordinatur processio ad <seg ana="#place">sanctum salvatorem</seg>. <seg ana="#function">Decanus</seg> incipit <seg ana="#AP" type="incipit">Surgite sancti</seg>. <seg ana="#AP" type="incipit">De Hierusalem</seg>. <seg ana="#AP" type="incipit">Cum iucunditate</seg>. Et sic transeuntes prope <seg ana="#place">sanctum Ioannem</seg>. <seg ana="#function">Cantores plebanorum</seg> sequentes processionem incipiunt <seg ana="#RPP" type="incipit">Iste est</seg> <gap/>. Deinde cum pervenerint versus <seg ana="#place">inferius monasterium</seg>, tunc imponant <seg ana="#AP" type="incipit">Sancta Maria</seg>. <pb n="318"/>Postea antiphona de sancto Georgio <seg ana="#AP" subtype="supplied" type="incipit">Filiae Hierusalem</seg>. Cum vero venerint prope <seg ana="#place">sanctam Barbaram</seg> imponant <seg ana="#RPP" type="incipit">Regnum mundi</seg>, et sic intrantes <seg ana="#place">claustrum minorum</seg>
               <seg ana="#function">chorus</seg> imponat <seg ana="#AP" type="incipit">Salvator mundi</seg>. Interim <seg ana="#function">submissarii</seg> cum <seg ana="#function">subdiacono</seg> coram altari dicunt <seg ana="#PS" type="incipit">Miserere mei</seg>. <seg ana="#PS" type="incipit">Domine exaudi</seg>. Sequitur <seg ana="#VS" type="incipit">Gaudete iusti</seg>. Generalis <seg ana="#OR" type="incipit">Concede quaesumus omnipotens deus ut sanctam</seg>. Postea in exitu incipiatur <seg ana="#AP" type="incipit">Oremus dilectissimi</seg>. Cum vero perveniunt ante <seg ana="#place">sanctum Sebaldum</seg> imponatur <seg ana="#AP" type="incipit">Iste cognovit</seg>. Tandem exeuntes <seg ana="#place">civitatem</seg> ad <seg ana="#place">portam orientis</seg> cantatur <seg ana="#RPP" type="incipit">Beatus Nicolaus</seg>. Cum vero pervenerint prope <seg ana="#place">sanctam Mariam Magdalenam</seg> imponant <seg ana="#RPP" type="incipit">Accessit ad pedes</seg>. Et hodie non intrant <seg ana="#place">ecclesiam sancti Petri</seg>, sed prope transeuntes incipiunt <seg ana="#AP" type="incipit">Ait Petrus</seg>. Cum vero pervenerint ad <seg ana="#place">crucem</seg> prope <seg ana="#place">fossatum sanctum Paulum</seg>, ibi primi portantes cruces expectant processionem. Demum <seg ana="#function">cantores</seg> imponunt <seg ana="#AP" type="incipit">O gloriosum</seg>. Et cum pervenerint extra muros versus <seg ana="#place">superius monasterium</seg> incipiunt <seg ana="#AP" type="incipit">Alme redemptoris</seg>. Et dum processerint ad <seg ana="#place">sanctum Andream</seg> cantant <seg ana="#AP" type="incipit">Cum pervenisset</seg>. Et cum perveniunt ad <seg ana="#place">sanctum Emmeramum</seg> cantent primo antiphonam de sancto Wolfgango <seg ana="#AP" subtype="supplied" type="incipit">Beate pontifex</seg>. Deinde cantant antiphonam de sancto Emmeramo <seg ana="#AP" subtype="supplied" type="incipit">Ave sacerdos</seg>. Deinde cum venerint ad <seg ana="#place">sanctum Aegidium</seg> cantatur <seg ana="#AP" type="incipit">Iste cognovit</seg>. Et cum intraverint <seg ana="#place">portam civitatis</seg> ad <seg ana="#place">sanctum Iacobum</seg> cantetur <seg ana="#AP" type="incipit">Isti sunt viri sancti</seg>. Et hodie non intrant. Dein itur ad capellam <seg ana="#place">sancti Michaelis</seg>. Ibi intrantes cantent <seg ana="#RPP" type="incipit">Te sanctum dominum</seg>. <seg ana="#OR" type="incipit">Perpetuum nobis</seg>. Dicantur duo psalmi: <seg ana="#PS" type="incipit">De profundis</seg>, <seg ana="#PS" type="incipit">Domine exaudi</seg> ii. Deinde <seg ana="#LT" subtype="supplied" type="incipit">Kyrie</seg> cum <seg ana="#PN" subtype="supplied" type="incipit">Pater noster</seg>. Oratio pro peccatis. Deinde <seg ana="#function">chorus</seg> aliquantulum requiescit. Deinde reditur ad <seg ana="#place">chorum</seg> cum letania <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison. Christe eleison</seg>. <seg ana="#LT" subtype="supplied" type="incipit">Sancta Maria ora pro nobis</seg>. Et post quamlibet orationem <seg ana="#function">populus</seg> repetat <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison. Kyrie eleison</seg>. Et cum venerint ante fondamentum econtra <seg ana="#place">domum custodiae</seg>
               <seg ana="#function">canonici veteris capellae</seg> faciunt processionem cum suis <pb n="319"/>et redeant domum. Et finita letania cum cantatur <seg ana="#LT" subtype="supplied" type="incipit">Omnes sancti</seg>
-              <seg ana="#function">plebanus maior</seg> surgat et indulgeat his qui secuti sunt processionem comedere laticinia. </ab></metamark>
-          <ab>Et tunc cantatur nona. </ab>
-          <metamark function="variant" xml:id="V.10"><ab subtype="marginal">Et nota quod in secundis vesperis sancti Marci peragitur anniversarius <seg ana="#person">episcopi Ioannis</seg> coram <seg ana="#place">altari sancti Andreae</seg> de nocte cum vigiliis et de mane cum missa defunctorum in eodem altari et dantur praesentiae per totum <seg ana="#function">chorum</seg> et sex denarii <seg ana="#function">summissariis</seg> per totum. </ab></metamark>
+              <seg ana="#function">plebanus maior</seg> surgat et indulgeat his qui secuti sunt processionem comedere laticinia.</ab>
+          <ab>Et tunc cantatur nona.</ab>
+          <ab subtype="marginal">Et nota quod in secundis vesperis sancti Marci peragitur anniversarius <seg ana="#person">episcopi Ioannis</seg> coram <seg ana="#place">altari sancti Andreae</seg> de nocte cum vigiliis et de mane cum missa defunctorum in eodem altari et dantur praesentiae per totum <seg ana="#function">chorum</seg> et sex denarii <seg ana="#function">summissariis</seg> per totum.</ab>
         </div>
       </div>
       <div>
         <head>IN VIGILIA APOSTOLORUM PHILIPPI ET IACOBI</head>
         <div>
-          <metamark function="variant" xml:id="V.11"><ab>Peragitur anniversarius <seg ana="#person">ducis Wilhelmi de Monaco</seg>, necnon et ceterorum <seg ana="#function">ducum <choice><sic>Babariae</sic><corr>Bavariae</corr></choice> ex parte Castri in Werd</seg>. Et hoc si commode fieri possit. Si vero non, tunc peragitur infra octavas. Iussitque ut quilibet <seg ana="#function">episcopus</seg>, qui tunc foret, annuatim tres dimidias libras denariorum Ratisponensium det. Ita quod quattuordecim schilling denariorum, et dentur pro praesentiis <seg ana="#function">canonicis</seg> et omnibus <seg ana="#function">vicariis</seg> et <seg ana="#function">altaristis</seg>. Alios quattuordecim solidos <add type="marginal">- seu in silling - </add> denariorum dentur <seg ana="#function">magistro fraternitatum</seg> ad agendum omnibus et singulis, quae ad anniversarium pertinent, videlicet in ardentibus candelis de nocte ad vigilias et de mane ad missam et elemosina, et sexdecim denarios ad offertorium. Et etiam quod istae vigiliae cum pulsu et aliis sollemnitatibus peragerentur, videlicet legendo lectiones <seg ana="#LE" subtype="supplied" type="incipit">Parce mihi domine</seg>, et quod <seg ana="#function">canonici</seg> legant vigilias de nocte, et <seg ana="#function">decanus</seg> vel <seg ana="#function">senior</seg> cantabit missas defunctorum. </ab></metamark>
+          <ab>Peragitur anniversarius <seg ana="#person">ducis Wilhelmi de Monaco</seg>, necnon et ceterorum <seg ana="#function">ducum <choice><sic>Babariae</sic><corr>Bavariae</corr></choice> ex parte Castri in Werd</seg>. Et hoc si commode fieri possit. Si vero non, tunc peragitur infra octavas. Iussitque ut quilibet <seg ana="#function">episcopus</seg>, qui tunc foret, annuatim tres dimidias libras denariorum Ratisponensium det. Ita quod quattuordecim schilling denariorum, et dentur pro praesentiis <seg ana="#function">canonicis</seg> et omnibus <seg ana="#function">vicariis</seg> et <seg ana="#function">altaristis</seg>. Alios quattuordecim solidos <add type="marginal">- seu in silling - </add> denariorum dentur <seg ana="#function">magistro fraternitatum</seg> ad agendum omnibus et singulis, quae ad anniversarium pertinent, videlicet in ardentibus candelis de nocte ad vigilias et de mane ad missam et elemosina, et sexdecim denarios ad offertorium. Et etiam quod istae vigiliae cum pulsu et aliis sollemnitatibus peragerentur, videlicet legendo lectiones <seg ana="#LE" subtype="supplied" type="incipit">Parce mihi domine</seg>, et quod <seg ana="#function">canonici</seg> legant vigilias de nocte, et <seg ana="#function">decanus</seg> vel <seg ana="#function">senior</seg> cantabit missas defunctorum.</ab>
         </div>
       </div>
       <div>
         <head>IN DIEBUS ROGATIONUM. FERIA SECUNDA</head>
         <div type="time:1">
           <ab ana="#head"><label><note type="supplied">Ad missam</note></label></ab>
-          <ab> Post tertiam cantatur missa <seg ana="#IN" subtype="supplied" type="incipit">Exaudiat</seg>. </ab>
+          <ab> Post tertiam cantatur missa <seg ana="#IN" subtype="supplied" type="incipit">Exaudiat</seg>.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.12"><note type="supplied">Ad processionem</note></metamark></label></ab>
-          <metamark function="variant" xml:id="V.13"><ab> Post sextam <seg ana="#function">decanus</seg> incipit <seg ana="#AP" subtype="supplied" type="incipit">Exurge domine</seg>. <seg ana="#PS" type="incipit">Salvum fac</seg>. Et praesentibus <seg ana="#function">canonicis veteris capellae</seg> et <seg ana="#function">sancti Ioannis</seg>. Interim veniat <seg ana="#function">summissarius</seg> indutus cappa et <seg ana="#function">subdiaconus</seg> portans reliquias in scrinio et acolitus portans crucem sine vexillo, quod chnopf<unclear/> vocatur ambo in cappis et legant <seg ana="#PS" type="incipit">Domine ne in fuore</seg>. <seg ana="#PS" type="incipit">Beati quorum</seg>. Deinde oratio pro peccatis. Deinde ordinetur processio cum <seg ana="#AP" type="incipit">Surgite sancti</seg>. <seg ana="#AP" type="incipit">Cum iucunditate</seg>. Versus <seg ana="#place">portam civitatis</seg> apud <seg ana="#place">sanctum Paulum</seg> et hoc cum quattuor vexillis de <seg ana="#place">ecclesia cathedrali</seg> et duobus vexillis de <seg ana="#place">veteri capella</seg> et crux sine vexillo. Et <seg ana="#function">sacerdos</seg> et <seg ana="#function">subdiaconus</seg> immediate vadant ante processionem. Vexilla vero portentur ante <seg ana="#function">populum</seg> et sic cantantes vulgaria <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg> procedant ad processionem. Cum vero pervenerint ante <seg ana="#place">parochiam maiorem</seg> cantet <pb n="320"/><seg ana="#AP" type="incipit">Iste cognovit</seg>. Et cum venerint ante <seg ana="#place">curiam salzeburgensem</seg> cantent antiphona de sancto Ruperto <seg ana="#AP" subtype="supplied" type="incipit">Beatus vir</seg>. Cum vero pervenerint ad <seg ana="#place">veterem capellam</seg> cantent <seg ana="#AP" type="incipit">Sancta Maria</seg>. Et hodie non intrant, sed vadant per testudinem prope <seg ana="#place">turrim</seg>. Cum venerint ad <seg ana="#place">sanctum Ingeminium</seg><add type="marginal">vel <seg ana="place">Ingenuinum</seg></add> cantent <seg ana="#AP" type="incipit">Iste cognovit</seg>. Ante <seg ana="#place">sanctum Godehardum</seg>
+          <ab ana="#head"><label><note type="supplied">Ad processionem</note></label></ab>
+          <ab> Post sextam <seg ana="#function">decanus</seg> incipit <seg ana="#AP" subtype="supplied" type="incipit">Exurge domine</seg>. <seg ana="#PS" type="incipit">Salvum fac</seg>. Et praesentibus <seg ana="#function">canonicis veteris capellae</seg> et <seg ana="#function">sancti Ioannis</seg>. Interim veniat <seg ana="#function">summissarius</seg> indutus cappa et <seg ana="#function">subdiaconus</seg> portans reliquias in scrinio et acolitus portans crucem sine vexillo, quod chnopf<unclear/> vocatur ambo in cappis et legant <seg ana="#PS" type="incipit">Domine ne in fuore</seg>. <seg ana="#PS" type="incipit">Beati quorum</seg>. Deinde oratio pro peccatis. Deinde ordinetur processio cum <seg ana="#AP" type="incipit">Surgite sancti</seg>. <seg ana="#AP" type="incipit">Cum iucunditate</seg>. Versus <seg ana="#place">portam civitatis</seg> apud <seg ana="#place">sanctum Paulum</seg> et hoc cum quattuor vexillis de <seg ana="#place">ecclesia cathedrali</seg> et duobus vexillis de <seg ana="#place">veteri capella</seg> et crux sine vexillo. Et <seg ana="#function">sacerdos</seg> et <seg ana="#function">subdiaconus</seg> immediate vadant ante processionem. Vexilla vero portentur ante <seg ana="#function">populum</seg> et sic cantantes vulgaria <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg> procedant ad processionem. Cum vero pervenerint ante <seg ana="#place">parochiam maiorem</seg> cantet <pb n="320"/><seg ana="#AP" type="incipit">Iste cognovit</seg>. Et cum venerint ante <seg ana="#place">curiam salzeburgensem</seg> cantent antiphona de sancto Ruperto <seg ana="#AP" subtype="supplied" type="incipit">Beatus vir</seg>. Cum vero pervenerint ad <seg ana="#place">veterem capellam</seg> cantent <seg ana="#AP" type="incipit">Sancta Maria</seg>. Et hodie non intrant, sed vadant per testudinem prope <seg ana="#place">turrim</seg>. Cum venerint ad <seg ana="#place">sanctum Ingeminium</seg><add type="marginal">vel <seg ana="place">Ingenuinum</seg></add> cantent <seg ana="#AP" type="incipit">Iste cognovit</seg>. Ante <seg ana="#place">sanctum Godehardum</seg>
               <seg ana="#AP" subtype="supplied" type="incipit">Filiae Hierusalem</seg>. Postea de sancto Benedicto in <seg ana="#place">curia regis</seg>
               <seg ana="#AP" subtype="supplied" type="incipit">Iste cognovit</seg>. Deinde ante <seg ana="#place">sanctum Paulum</seg> cantatur <seg ana="#AP" subtype="supplied" type="incipit">O gloriosi</seg>. Deinde vadant ad <seg ana="#place">sanctum Petrum extra muros urbis</seg> et stantes in longitudine <seg ana="#place">monasterii</seg> cantent <seg ana="#AP" type="incipit">Petrus</seg>. Sequitur <seg ana="#OR" type="incipit">Deus qui beatum Petrum</seg>. Interim <seg ana="#function">summissarii</seg> legunt psalmos, scilicet <seg ana="#PS" subtype="supplied" type="incipit">Domine ne in furore</seg>, <seg ana="#PS" type="incipit">Miserere</seg>. Deinde exeat apud ianuam, ubi intravit, et per vicum extra <seg ana="#place">monasterium</seg> incipiendo <seg ana="#AP" type="incipit">Oremus dilectissimi</seg>. Et itur versus <seg ana="#place">Prul</seg>. Et <seg ana="#function">laicis</seg> in via <seg ana="#LT" subtype="supplied" type="incipit">Kyrie</seg>
               <seg ana="#place">theotunice</seg> cantantibus. Et cum venerint in <seg ana="#place">Pruel</seg> stantes coram <seg ana="#place">altari sancti spiritus</seg> incipiant <seg ana="#AP" subtype="supplied" type="incipit">Veni sancte spiritus</seg>, et in fine incipiant <seg ana="#AP" corresp="#./preceding-sibling::AP[1]" subtype="supplied" type="incipit">Alleluia</seg>. Sequitur <seg ana="#OR" type="incipit">Deus qui corda fidelium</seg>. Deinde dicant <seg ana="#PS" type="incipit">Domine exaudi</seg> i et orationem pro peccatis. Deinde intrent <seg ana="#place">chorum</seg> et cantent <seg ana="#AP" type="incipit">Filiae Hierusalem</seg>. Dein <seg ana="#function">monachi</seg> vero cantent <seg ana="#AP" subtype="supplied" type="incipit">Lux perpetua</seg>. Sequitur oratio de sancto Vito et de <seg ana="#function">patronis</seg>. Postea legant <seg ana="#PS" type="incipit">De profundis</seg>, <seg ana="#PS" type="incipit">Domine exaudi</seg>. Sequitur oratio pro peccatis. Deinde vadant ad capitulum et quiescunt ad medium tempus ibi. Et <seg ana="#function">plebanus maioris ecclesiae</seg> hac die propinabit quattuor ciphos vini gallici pro <seg ana="#function">canonicis</seg> ibi existentibus et ceteris <seg ana="#function">presbyteris</seg>. Quae consuetudo laudabiliter ab antiquis observata est et fuit usque huc. Postquam vero biberint et morsellum panis ab <seg ana="#function">abbate</seg> acceperint ad intervallum dimidiae horae surgant et faciunt processionem ad <seg ana="#place">civitatem</seg> cantantes <seg ana="#AP" type="incipit">Surgite sancti</seg>. <seg ana="#function">Laicis</seg> vero cantantibus <seg ana="#place">theutunicum</seg>
-              <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg>. Et cum venerint ante <seg ana="#place">portam civitatis</seg> ad <seg ana="#place">sanctum Emmeramum</seg> cantent <seg ana="#LT" type="incipit">Kyrie eleison. Christe eleison</seg>. <seg ana="#LT" subtype="supplied" type="incipit">Christe audi nos</seg>. <seg ana="#LT" subtype="supplied" type="incipit">Sancta Maria ora pro nobis ad dominum</seg>. <seg ana="#function">Laicis</seg> semper respondentibus <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg>. Et cum venerint ad <pb n="321"/><seg ana="#place">curiam sancti Cassiani</seg> tunc <seg ana="#function">canonici veteris capellae</seg> ordinent processionem in <seg ana="#place">chorum</seg> suum. Dum processi<unclear/> pervenerint in <seg ana="#place">chorum</seg> et cantatum fuerit <seg ana="#LT" subtype="supplied" type="incipit">Omnes sancti</seg> surgat <seg ana="#function">plebanus maior</seg> et det licentiam comedendi laticinia omnibus qui in bono et devoto proposito secuti sunt processionem. </ab>
-            <ab><del>Postea</del> Deinde cantetur tertia. </ab></metamark>
+              <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg>. Et cum venerint ante <seg ana="#place">portam civitatis</seg> ad <seg ana="#place">sanctum Emmeramum</seg> cantent <seg ana="#LT" type="incipit">Kyrie eleison. Christe eleison</seg>. <seg ana="#LT" subtype="supplied" type="incipit">Christe audi nos</seg>. <seg ana="#LT" subtype="supplied" type="incipit">Sancta Maria ora pro nobis ad dominum</seg>. <seg ana="#function">Laicis</seg> semper respondentibus <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg>. Et cum venerint ad <pb n="321"/><seg ana="#place">curiam sancti Cassiani</seg> tunc <seg ana="#function">canonici veteris capellae</seg> ordinent processionem in <seg ana="#place">chorum</seg> suum. Dum processi<unclear/> pervenerint in <seg ana="#place">chorum</seg> et cantatum fuerit <seg ana="#LT" subtype="supplied" type="incipit">Omnes sancti</seg> surgat <seg ana="#function">plebanus maior</seg> et det licentiam comedendi laticinia omnibus qui in bono et devoto proposito secuti sunt processionem.</ab>
+            <ab><del>Postea</del> Deinde cantetur tertia.</ab>
         </div>
       </div>
       <div>
@@ -127,58 +127,58 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Exudivit de templo</seg>. Postea canitur sexta. </ab>
+            <seg ana="#IN" type="incipit">Exudivit de templo</seg>. Postea canitur sexta.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><metamark function="variant" xml:id="V.14"><seg>Interim ordinetur </seg></metamark><label><metamark function="variant" xml:id="V.15">processio</metamark></label></ab>
-          <metamark function="variant" xml:id="V.16"><ab> ut supra. <seg ana="#function">Decanus</seg> incipit <seg ana="#AP" type="incipit">Exurge domine</seg>. Interim legit <seg ana="#function">summissarius</seg> coram <seg ana="#place">pulpito</seg> in <seg ana="#place">choro</seg> hos psalmos: <seg ana="#PS" subtype="supplied" type="incipit">Domine ne in furore</seg>, <seg ana="#PS" type="incipit">Beati quorum</seg>, <seg ana="#PS" type="incipit">Miserere mei</seg>. Sequitur oratio pro peccatis. Deinde fiat processio cum <seg ana="#AP" type="incipit">Surgite sancti</seg>. <seg ana="#AN" type="incipit">Cum iucunditate</seg>. Et cum venerint ad <seg ana="#place">sanctum Ioannem</seg> cantent <seg ana="#AP" type="incipit">Domine suscipe me</seg>. Ad <seg ana="#place">Achirchen</seg> cantetur <seg ana="#RPP" type="incipit">Cives apostolorum</seg>. Ante testudinem cantent <seg ana="#RPP" subtype="supplied" type="incipit">Beatus Nicolaus</seg>. Ante <seg ana="#place">sanctum Laurentium</seg> cantent <seg ana="#RPP" type="incipit">Beatus vir Laurentius</seg>. Ante <seg ana="#place">capellam sancti Michaelis</seg> super portam cantent <seg ana="#RPP" subtype="supplied" type="incipit">Te sanctum dominum</seg>. Deinde introent ad <seg ana="#place">sanctum Iacobum</seg> stantes in <seg ana="#place">choro</seg> et cantent <seg ana="#AP" type="incipit">Isti sunt viri</seg>. <seg ana="#OR" type="incipit">Esto domine plebi tuae</seg>. Deinde dicatur <seg ana="#PS" type="incipit">Domine exaudi</seg>. Sequitur oratio pro peccatis. Interim <seg ana="#function">scholares</seg> colligant a <seg ana="#function">canonicis</seg> denarios ad hymnum qui canitur in reversione videlicet <seg ana="#HY" subtype="supplied" type="incipit">Humili prece</seg>. Deinde faciant processionem versus <seg ana="#place">Pruefing</seg> cum <seg ana="#AP" type="incipit">Oremus dilectissimi</seg>. <seg ana="#function">Laicis</seg> in via cantantibus <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg>. Et dum venerint in <seg ana="#function">Pruefling</seg> stent in medio <seg ana="#place">monasterii</seg> ante <seg ana="#place">aram sanctae crucis</seg> cantent <seg ana="#AP" type="incipit">O crux</seg>. Sequitur oratio de sancta cruce. Dein dicatur <seg ana="#PS" type="incipit">De profundis</seg>. Sequitur oratio pro peccatis. <pb n="322"/>Deinde intrent in <seg ana="#place">chorum</seg> et cantent <seg ana="#AP" type="incipit">Filiae Hierusalem</seg>. Oratio de sancto Geor<note type="supplied">g</note>io dicitur. Deinde <seg ana="#function">monachi</seg> cantent <seg ana="#AP" type="incipit">Lux perpetua</seg>. Oratio de sancto Georgio. Deinde dicitur <seg ana="#PS" type="incipit">Domine exaudi</seg>. Sequitur oratio pro peccatis. Deinde bibant de dente sancti Geor<note type="supplied">g</note>ii. Postea vadant ad capitulum et quiescunt. Et hodie <seg ana="#function">plebanus sancti Cassiani</seg> propinat quattuor ciphos vini italici. Et <seg ana="#function">abbas</seg> dat vinum, panes et ova secundum tenorem suum. Et postquam parum quiescerint conveniant in <seg ana="#place">monasterio</seg> et faciant processionem ad <seg ana="#place">civitatem</seg> cum <seg ana="#AP" type="incipit">Surgite sancti</seg>. Et <seg ana="#function">laicis</seg> in via cantantibus <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg>. Et dum venerint supra <seg ana="#place">lapideum pontem</seg>, qui est in media via, stent, et iterato ordinent processionem. Et <seg ana="#function">quattuor scholares</seg> tum alternatim unum et unum cantent versus <seg ana="#HY" subtype="supplied" type="incipit">Humili prece</seg> cum reliquis. <seg ana="#function">Choro</seg> post quemlibet versum respondente <seg ana="#HY" subtype="supplied" type="incipit">Humili prece</seg> vel <seg ana="#HV" subtype="supplied" type="incipit">Ad te clamantes</seg>. Et sic cantantes procedant donec versus finiantur. Et <seg ana="#function">laicis</seg> interim tacentibus. Finitis versibus <seg ana="#function">laici</seg> cantent <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg>. Postquam venerint ad <seg ana="#place">portam sancti Iacobi</seg> incipiant <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison. Christe eleison. Kyrie eleison</seg>. <seg ana="#LT" subtype="supplied" type="incipit">Christe audi nos</seg> vel <seg ana="#LT" subtype="supplied" type="incipit">Aufer a nobis</seg>. <seg ana="#function">Laicis</seg> post quamlibet orationem respondentibus <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg>, vel <seg ana="#LT" subtype="supplied" type="incipit">Miserere miserere</seg>, vel <seg ana="#LT" subtype="supplied" type="incipit">Exaudi exaudi exaudi domine preces nostras</seg>. <seg ana="#LT" subtype="supplied" type="incipit">Sancta Maria ora pro nobis</seg>. Et sic cantando vadant per <seg ana="#place">civitatem</seg>, ita quod in <seg ana="#place">choro</seg> letania finiatur. Sed cum venerint ante <seg ana="#place">ecclesiam cathedralem</seg>, tunc <seg ana="#function">domini veteris capellae</seg> vadant domum. Finita letania in <seg ana="#place">choro</seg>
-              <seg ana="#function">plebanum maior</seg> vel <seg ana="#function">vicarius</seg> suus det <seg ana="#function">laicis</seg> licentiam comedere carnes. Et hoc ex institutione concilii sanctae <seg ana="#place">Salzburgensis ecclesiae</seg>. </ab>
-            <ab>Deinde cantetur nona. </ab></metamark>
+          <ab ana="#head"><seg>Interim ordinetur </seg><label>processio</label></ab>
+          <ab> ut supra. <seg ana="#function">Decanus</seg> incipit <seg ana="#AP" type="incipit">Exurge domine</seg>. Interim legit <seg ana="#function">summissarius</seg> coram <seg ana="#place">pulpito</seg> in <seg ana="#place">choro</seg> hos psalmos: <seg ana="#PS" subtype="supplied" type="incipit">Domine ne in furore</seg>, <seg ana="#PS" type="incipit">Beati quorum</seg>, <seg ana="#PS" type="incipit">Miserere mei</seg>. Sequitur oratio pro peccatis. Deinde fiat processio cum <seg ana="#AP" type="incipit">Surgite sancti</seg>. <seg ana="#AN" type="incipit">Cum iucunditate</seg>. Et cum venerint ad <seg ana="#place">sanctum Ioannem</seg> cantent <seg ana="#AP" type="incipit">Domine suscipe me</seg>. Ad <seg ana="#place">Achirchen</seg> cantetur <seg ana="#RPP" type="incipit">Cives apostolorum</seg>. Ante testudinem cantent <seg ana="#RPP" subtype="supplied" type="incipit">Beatus Nicolaus</seg>. Ante <seg ana="#place">sanctum Laurentium</seg> cantent <seg ana="#RPP" type="incipit">Beatus vir Laurentius</seg>. Ante <seg ana="#place">capellam sancti Michaelis</seg> super portam cantent <seg ana="#RPP" subtype="supplied" type="incipit">Te sanctum dominum</seg>. Deinde introent ad <seg ana="#place">sanctum Iacobum</seg> stantes in <seg ana="#place">choro</seg> et cantent <seg ana="#AP" type="incipit">Isti sunt viri</seg>. <seg ana="#OR" type="incipit">Esto domine plebi tuae</seg>. Deinde dicatur <seg ana="#PS" type="incipit">Domine exaudi</seg>. Sequitur oratio pro peccatis. Interim <seg ana="#function">scholares</seg> colligant a <seg ana="#function">canonicis</seg> denarios ad hymnum qui canitur in reversione videlicet <seg ana="#HY" subtype="supplied" type="incipit">Humili prece</seg>. Deinde faciant processionem versus <seg ana="#place">Pruefing</seg> cum <seg ana="#AP" type="incipit">Oremus dilectissimi</seg>. <seg ana="#function">Laicis</seg> in via cantantibus <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg>. Et dum venerint in <seg ana="#function">Pruefling</seg> stent in medio <seg ana="#place">monasterii</seg> ante <seg ana="#place">aram sanctae crucis</seg> cantent <seg ana="#AP" type="incipit">O crux</seg>. Sequitur oratio de sancta cruce. Dein dicatur <seg ana="#PS" type="incipit">De profundis</seg>. Sequitur oratio pro peccatis. <pb n="322"/>Deinde intrent in <seg ana="#place">chorum</seg> et cantent <seg ana="#AP" type="incipit">Filiae Hierusalem</seg>. Oratio de sancto Geor<note type="supplied">g</note>io dicitur. Deinde <seg ana="#function">monachi</seg> cantent <seg ana="#AP" type="incipit">Lux perpetua</seg>. Oratio de sancto Georgio. Deinde dicitur <seg ana="#PS" type="incipit">Domine exaudi</seg>. Sequitur oratio pro peccatis. Deinde bibant de dente sancti Geor<note type="supplied">g</note>ii. Postea vadant ad capitulum et quiescunt. Et hodie <seg ana="#function">plebanus sancti Cassiani</seg> propinat quattuor ciphos vini italici. Et <seg ana="#function">abbas</seg> dat vinum, panes et ova secundum tenorem suum. Et postquam parum quiescerint conveniant in <seg ana="#place">monasterio</seg> et faciant processionem ad <seg ana="#place">civitatem</seg> cum <seg ana="#AP" type="incipit">Surgite sancti</seg>. Et <seg ana="#function">laicis</seg> in via cantantibus <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg>. Et dum venerint supra <seg ana="#place">lapideum pontem</seg>, qui est in media via, stent, et iterato ordinent processionem. Et <seg ana="#function">quattuor scholares</seg> tum alternatim unum et unum cantent versus <seg ana="#HY" subtype="supplied" type="incipit">Humili prece</seg> cum reliquis. <seg ana="#function">Choro</seg> post quemlibet versum respondente <seg ana="#HY" subtype="supplied" type="incipit">Humili prece</seg> vel <seg ana="#HV" subtype="supplied" type="incipit">Ad te clamantes</seg>. Et sic cantantes procedant donec versus finiantur. Et <seg ana="#function">laicis</seg> interim tacentibus. Finitis versibus <seg ana="#function">laici</seg> cantent <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg>. Postquam venerint ad <seg ana="#place">portam sancti Iacobi</seg> incipiant <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison. Christe eleison. Kyrie eleison</seg>. <seg ana="#LT" subtype="supplied" type="incipit">Christe audi nos</seg> vel <seg ana="#LT" subtype="supplied" type="incipit">Aufer a nobis</seg>. <seg ana="#function">Laicis</seg> post quamlibet orationem respondentibus <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg>, vel <seg ana="#LT" subtype="supplied" type="incipit">Miserere miserere</seg>, vel <seg ana="#LT" subtype="supplied" type="incipit">Exaudi exaudi exaudi domine preces nostras</seg>. <seg ana="#LT" subtype="supplied" type="incipit">Sancta Maria ora pro nobis</seg>. Et sic cantando vadant per <seg ana="#place">civitatem</seg>, ita quod in <seg ana="#place">choro</seg> letania finiatur. Sed cum venerint ante <seg ana="#place">ecclesiam cathedralem</seg>, tunc <seg ana="#function">domini veteris capellae</seg> vadant domum. Finita letania in <seg ana="#place">choro</seg>
+              <seg ana="#function">plebanum maior</seg> vel <seg ana="#function">vicarius</seg> suus det <seg ana="#function">laicis</seg> licentiam comedere carnes. Et hoc ex institutione concilii sanctae <seg ana="#place">Salzburgensis ecclesiae</seg>.</ab>
+            <ab>Deinde cantetur nona.</ab>
         </div>
       </div>
       <div>
         <head>QUARTA FERIA IN VIGILIA ASCENSIONIS</head>
         <div type="time:1">
           <ab ana="#head"><label><note type="supplied">Ad missam</note></label></ab>
-          <ab> Post tertiam cantetur missa <seg ana="#IN" type="incipit">Vocem iucunditatis</seg>. </ab>
+          <ab> Post tertiam cantetur missa <seg ana="#IN" type="incipit">Vocem iucunditatis</seg>.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.17"><note type="supplied">Ad processionem</note></metamark></label></ab>
-          <metamark function="variant" xml:id="V.18"><ab> Post sextam <seg ana="#function">decanus</seg> incipit <seg ana="#AP" type="incipit">Exurge domine</seg>. <pb n="323"/>Sequitur oratio. Deinde dicuntur duo psalmi, scilicet <seg ana="#PS" subtype="supplied" type="incipit">Domine ne in furore</seg>, <seg ana="#PS" type="incipit">Beati quorum</seg>. Oratio pro peccatis. Deinde peractis sollemnitatibus hesternis fiat processio ad <seg ana="#place">veterem capellam</seg> cum <seg ana="#AP" type="incipit">Surgite sancti</seg>. <seg ana="#AP" type="incipit">Cum iucunditatem</seg>. <seg ana="#AP" type="incipit">De Hierusalem</seg>. Et cum venerint ante <seg ana="#place">parochiam maiorem</seg> cantent antiphonam de sancto Udalrico <seg ana="#AP" subtype="supplied" type="incipit">Iste cognovit</seg>. Ante <seg ana="#place">curiam Salzburgensem</seg> cantetur antiphona de sancto Ruperto <seg ana="#AP" subtype="supplied" type="incipit">Beatus vir</seg>. Et cum venerint ad <seg ana="#place">veterem capellam</seg> stant in <seg ana="#place">monasterio</seg> et cantent <seg ana="#AP" type="incipit">Regina caeli</seg>. Sequitur oratio de beata virgine. Deinde dicitur <seg ana="#PS" type="incipit">Domine ne in furore</seg>. Sequitur oratio pro peccatis. Deinde faciant processionem ad <seg ana="#place">sanctum Paulum</seg> cum <seg ana="#AP" type="incipit">Oremus dilectissimi</seg>. Et in via cantent ante <seg ana="#place">sanctum Ingenuinum</seg>
+          <ab ana="#head"><label><note type="supplied">Ad processionem</note></label></ab>
+          <ab> Post sextam <seg ana="#function">decanus</seg> incipit <seg ana="#AP" type="incipit">Exurge domine</seg>. <pb n="323"/>Sequitur oratio. Deinde dicuntur duo psalmi, scilicet <seg ana="#PS" subtype="supplied" type="incipit">Domine ne in furore</seg>, <seg ana="#PS" type="incipit">Beati quorum</seg>. Oratio pro peccatis. Deinde peractis sollemnitatibus hesternis fiat processio ad <seg ana="#place">veterem capellam</seg> cum <seg ana="#AP" type="incipit">Surgite sancti</seg>. <seg ana="#AP" type="incipit">Cum iucunditatem</seg>. <seg ana="#AP" type="incipit">De Hierusalem</seg>. Et cum venerint ante <seg ana="#place">parochiam maiorem</seg> cantent antiphonam de sancto Udalrico <seg ana="#AP" subtype="supplied" type="incipit">Iste cognovit</seg>. Ante <seg ana="#place">curiam Salzburgensem</seg> cantetur antiphona de sancto Ruperto <seg ana="#AP" subtype="supplied" type="incipit">Beatus vir</seg>. Et cum venerint ad <seg ana="#place">veterem capellam</seg> stant in <seg ana="#place">monasterio</seg> et cantent <seg ana="#AP" type="incipit">Regina caeli</seg>. Sequitur oratio de beata virgine. Deinde dicitur <seg ana="#PS" type="incipit">Domine ne in furore</seg>. Sequitur oratio pro peccatis. Deinde faciant processionem ad <seg ana="#place">sanctum Paulum</seg> cum <seg ana="#AP" type="incipit">Oremus dilectissimi</seg>. Et in via cantent ante <seg ana="#place">sanctum Ingenuinum</seg>
               <seg ana="#AP" type="incipit">Iste cognovit</seg>. Ante <seg ana="#place">sanctum Godehardum</seg> in <seg ana="#place">curia Altacensium</seg> canitur <seg ana="#AP" type="incipit">Beatus vir</seg>. Et ibidem in <seg ana="#place">curia regis</seg> cantetur antiphona de sancto Benedicto <seg ana="#AP" subtype="supplied" type="incipit">Iste cognovit</seg>. Deinde intrent ad <seg ana="#place">sanctum Paulum</seg> et stantes ante altare ipsius et cantent <seg ana="#AP" type="incipit">O gloriosum lumen</seg>. Sequitur <seg ana="#OR" type="incipit">Deus qui multitudinem</seg>. Deinde dicitur <seg ana="#PS" type="incipit">Miserere mei</seg>. Sequitur oratio pro peccatis. Deind faciant processionem ad <seg ana="#place">superius monasterium</seg> cum <seg ana="#AP" type="incipit">Ad te domine confugium</seg>. Stantes ad <seg ana="#place">superius monasterium</seg> in medio <seg ana="#place">monasterii</seg> cantant <seg ana="#AP" type="incipit">Alma redemptoris</seg>. Sequitur oratio de beata virgine. Deinde <seg ana="#PS" type="incipit">Domine exaudi</seg>. Sequitur oratio pro peccatis. Deinde faciunt processionem ad <seg ana="#place">sanctum Emmeramum</seg> cum <seg ana="#AP" type="incipit">Omnipotens deus</seg>. Cum autem venerint ante <seg ana="#place">parochiam superioris monasterii</seg> cantent <seg ana="#AP" type="incipit">Domine deus noster</seg>. Deinde cum venerint ad <seg ana="#place">sanctum Emmeramum</seg> primo intrent <seg ana="#place">criptam sancti Wolfgangi</seg> ab alio latere, et ibi stantes cantent <seg ana="#AP" type="incipit">Beate pontifex</seg>. Sequitur <seg ana="#OR" type="incipit">Omnipotens sempiterne deus qui populo tuo</seg>. Deinde dicatur <seg ana="#PS" type="incipit">De profundis</seg>. Sequitur oratio pro peccatis. Deinde per aliam ianuam exeuntes vadant ad <seg ana="#place">chorum</seg>
               <pb n="324"/>cantantes <seg ana="#AP" type="incipit">Ave sacerdos apostolice</seg>. <seg ana="#OR" type="incipit">Deus qui beatum Emmeramum</seg>. Deinde <seg ana="#PS" type="incipit">Domine exaudi</seg>. Sequitur oratio pro peccatis. Deinde faciant processionem domum revertentes cum letania <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison. Christe</seg>. <seg ana="#LT" subtype="supplied" type="incipit">Christe audi nos</seg>. <seg ana="#LT" subtype="supplied" type="incipit">Sancta Maria ora pro nobis ad dominum</seg>. <seg ana="#LT" subtype="supplied" type="incipit">Christe audi nos</seg>. <seg ana="#function">Laicis</seg> post quemlibet orationem respondentibus <seg ana="#LT" subtype="supplied" type="incipit">Kyrie eleison</seg>. Et sic letania finiatur in <seg ana="#place">choro</seg>. Cum autem vadunt de <seg ana="#place">curia sancti Cassiani</seg>
-              <seg ana="#function">domini de veteri capella</seg> vadunt domum, et <seg ana="#function">plebanus maior</seg> vel eius <seg ana="#function">vicarius</seg> det licentiam comedendi lacticinia semel. Interim cum domini vadunt cum processione, <seg ana="#function">conventus inferioris et superioris monasterii</seg> et <seg ana="#function">sancti Pauli</seg> conveniunt ad ecclesiam nostram. Qui omnes sollemniter cum pulsatione suscipiuntur. Et candelis interim in <seg ana="#place">tribuna</seg> ardentibus. Et reliquae stent in altari. Et statim cum tepetis in formulis. Et hoc propter <seg ana="#function">abbatissas</seg> ibi stantes. </ab></metamark>
+              <seg ana="#function">domini de veteri capella</seg> vadunt domum, et <seg ana="#function">plebanus maior</seg> vel eius <seg ana="#function">vicarius</seg> det licentiam comedendi lacticinia semel. Interim cum domini vadunt cum processione, <seg ana="#function">conventus inferioris et superioris monasterii</seg> et <seg ana="#function">sancti Pauli</seg> conveniunt ad ecclesiam nostram. Qui omnes sollemniter cum pulsatione suscipiuntur. Et candelis interim in <seg ana="#place">tribuna</seg> ardentibus. Et reliquae stent in altari. Et statim cum tepetis in formulis. Et hoc propter <seg ana="#function">abbatissas</seg> ibi stantes.</ab>
         </div>
       </div>
       <div>
         <head>FESTO ASCENSIONIS</head>
         <div>
-          <ab>Post tertiam et aspersionem. </ab>
+          <ab>Post tertiam et aspersionem.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.19"><note type="supplied">Ad processionem</note></metamark></label></ab>
-          <metamark function="variant" xml:id="V.20"><ab> Deinde ordinetur sollemnis processio ad <seg ana="#place">inferius monasterium</seg> cum <seg ana="#AP" type="incipit">Christe qui regnas</seg> et exeuntes magnam ianuam finita antiphona stantes secundum ordinem in <seg ana="#place">ecclesia sancti Erhardi</seg> et tunc <seg ana="#function">cantores</seg> imponant <seg ana="#HV" rend="#HY" type="incipit">Oramus domine</seg>. Deinde <seg ana="#function">chorus dominarum</seg> ut can<gap/>. Et iterum <seg ana="#function">chorus</seg>
+          <ab ana="#head"><label><note type="supplied">Ad processionem</note></label></ab>
+          <ab> Deinde ordinetur sollemnis processio ad <seg ana="#place">inferius monasterium</seg> cum <seg ana="#AP" type="incipit">Christe qui regnas</seg> et exeuntes magnam ianuam finita antiphona stantes secundum ordinem in <seg ana="#place">ecclesia sancti Erhardi</seg> et tunc <seg ana="#function">cantores</seg> imponant <seg ana="#HV" rend="#HY" type="incipit">Oramus domine</seg>. Deinde <seg ana="#function">chorus dominarum</seg> ut can<gap/>. Et iterum <seg ana="#function">chorus</seg>
               <seg ana="#HV" subtype="supplied" type="incipit">Praesta hoc genitor</seg>. Et tunc respondet <seg ana="#function">chorus monialium</seg>
               <seg ana="#HV" corresp="#./preceding-sibling::HV[1]" subtype="supplied" type="incipit">Amen</seg>. Deinde dicitur <seg ana="#VS" type="incipit">Ascendit deus</seg>. <seg ana="#OR" type="incipit">Concede quaesumus</seg>. Deinde procedant <seg ana="#function">duo pueri</seg> coram altare cantantes versus <seg ana="#HY" subtype="supplied" type="incipit">Salve festa dies</seg>. <seg ana="#HV" subtype="supplied" type="incipit">Qua deus ascendit victor et astra petit</seg>. Et sic redeunt ad <seg ana="#place">monasterium</seg>. Et cum venerint ante <seg ana="#place">parochiam</seg>
               <seg ana="#function">cantor</seg> imponat <seg ana="#AP" type="incipit">Sedit angelus</seg>. Cum qua vadant ad <seg ana="#place">monasterium</seg>. Et dum venerint ibi <seg ana="#AV" subtype="supplied" type="incipit">Nolite metuere</seg>. Praecedant <seg ana="#function">duo domini</seg>
-              <del>cantores</del> cantantes versum <seg ana="#AV" subtype="supplied" type="incipit">Crucifixum</seg>. <seg ana="#AV" subtype="supplied" type="incipit">Recordamini</seg>. Et hoc foras <seg ana="#place">chorum</seg>. His cantatis reditur ad <seg ana="#place">chorum</seg>. </ab></metamark>
+              <del>cantores</del> cantantes versum <seg ana="#AV" subtype="supplied" type="incipit">Crucifixum</seg>. <seg ana="#AV" subtype="supplied" type="incipit">Recordamini</seg>. Et hoc foras <seg ana="#place">chorum</seg>. His cantatis reditur ad <seg ana="#place">chorum</seg>.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label>Ad nonam</label></ab>
           <ab>
-            <pb n="325"/>Nota quod omnes candelae in <seg ana="#place">choro</seg> illuminentur tam in corona quam in <seg ana="#place">tribuna</seg>. Et <seg ana="#function">maior in choro</seg> alta voce incipit <metamark function="variant" xml:id="V.21"><seg ana="#VAR" subtype="supplied" type="incipit">Deus in adiutorium</seg></metamark>. <seg ana="#HV" rend="#HY" type="incipit">Oramus domine</seg>. <seg ana="#AN" type="incipit">Videntibus illis</seg>, quam etiam <seg ana="#function">maior</seg> incipit. Capitulum de ascensione. <seg ana="#RB" type="incipit">Ascendo ad patrem</seg>. <seg ana="#RV" type="incipit">Deum meum</seg>. Minor <seg ana="#VS" type="incipit">Ascendens Christus</seg>. <seg ana="#OR" type="incipit">Concede quaesumus omnipotens</seg>. </ab>
+            <pb n="325"/>Nota quod omnes candelae in <seg ana="#place">choro</seg> illuminentur tam in corona quam in <seg ana="#place">tribuna</seg>. Et <seg ana="#function">maior in choro</seg> alta voce incipit <seg ana="#VAR" subtype="supplied" type="incipit">Deus in adiutorium</seg>. <seg ana="#HV" rend="#HY" type="incipit">Oramus domine</seg>. <seg ana="#AN" type="incipit">Videntibus illis</seg>, quam etiam <seg ana="#function">maior</seg> incipit. Capitulum de ascensione. <seg ana="#RB" type="incipit">Ascendo ad patrem</seg>. <seg ana="#RV" type="incipit">Deum meum</seg>. Minor <seg ana="#VS" type="incipit">Ascendens Christus</seg>. <seg ana="#OR" type="incipit">Concede quaesumus omnipotens</seg>.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.22"><note type="supplied">De ludo in ascensione</note></metamark></label></ab>
-          <metamark function="variant" xml:id="V.23"><ab> Deinde assint <seg ana="#function">cantores</seg> super <seg ana="#place">tribuna</seg> ubi legitur evangelium et incipiant <seg ana="#OF" type="incipit">Viri Galilaei</seg>. <seg ana="#function">Chorus</seg> respondet <seg ana="#AN" subtype="supplied" type="incipit">O rex gloriae</seg>. <seg ana="#function">Cantores</seg> iterum <seg ana="#AN" subtype="supplied" type="incipit">Non vos <choice>
+          <ab ana="#head"><label><note type="supplied">De ludo in ascensione</note></label></ab>
+          <ab> Deinde assint <seg ana="#function">cantores</seg> super <seg ana="#place">tribuna</seg> ubi legitur evangelium et incipiant <seg ana="#OF" type="incipit">Viri Galilaei</seg>. <seg ana="#function">Chorus</seg> respondet <seg ana="#AN" subtype="supplied" type="incipit">O rex gloriae</seg>. <seg ana="#function">Cantores</seg> iterum <seg ana="#AN" subtype="supplied" type="incipit">Non vos <choice>
                   <sic>relinquo</sic>
                   <corr>relinquam</corr>
                 </choice></seg>. <seg ana="#function">Chorus</seg>
               <seg ana="#AN" subtype="supplied" type="incipit">Veni sancte</seg>. <seg ana="#function">Cantores</seg>
               <seg ana="#AN" subtype="supplied" type="incipit">Paraclitus</seg>. <seg ana="#function">Chorus</seg>
               <seg ana="#HV" subtype="supplied" type="incipit">Praesta hoc genitor</seg>. <seg ana="#function">Cantores</seg>
-              <seg ana="#RP" subtype="supplied" type="incipit">Ite in orbem</seg>. Et sic finitum est. Et si possent habere instrumenta musicalia laudabile esset. </ab>
-            <ab>Item eadem nocte, vor den dingstag, ab antiqua et laudabili consuetudine <seg ana="#function">episcopus</seg> debet dare de iure unam collationem <seg ana="#function">canonicis</seg> et <seg ana="#function">vicariis</seg>. </ab></metamark>
+              <seg ana="#RP" subtype="supplied" type="incipit">Ite in orbem</seg>. Et sic finitum est. Et si possent habere instrumenta musicalia laudabile esset.</ab>
+            <ab>Item eadem nocte, vor den dingstag, ab antiqua et laudabili consuetudine <seg ana="#function">episcopus</seg> debet dare de iure unam collationem <seg ana="#function">canonicis</seg> et <seg ana="#function">vicariis</seg>.</ab>
         </div>
       </div>
       <div>
@@ -186,28 +186,28 @@
         <div type="time:1">
           <ab ana="#head"><label><note type="supplied">Ad missam</note></label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Spiritus domini</seg>. <metamark function="variant" xml:id="V.24">Cantetur sollemnissime</metamark>
-            <seg ana="#KY" subtype="supplied" type="incipit">Kyrie eleison</seg> cum <seg ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis</seg>. <seg ana="#CL" rend="#OR" type="incipit">Deus qui hodierna die</seg> sola tamen. <seg ana="#EP" type="incipit">Dum complerentur</seg>. Primum <seg ana="#ALV" type="incipit">Emitte</seg>. Secundum <seg ana="#AL" subtype="supplied" type="incipit">Alleluia</seg>, quod incipiunt <seg ana="#function">duo pueri</seg>, et <seg ana="#function">chorus</seg> repetat cum finali. Item <seg ana="#function">chorus</seg> stando cantet <seg ana="#ALV" type="incipit">Veni sancte spiritus</seg>. Interim fit pulsus cum duabus magnis campanis <metamark function="variant" xml:id="V.25">et corona praeparata cum sertis et deintus pendens corona. Quam coronam exsolvant <seg ana="#function">iuvenes canonici</seg></metamark>. <seg ana="#SE" type="incipit">Sancti spiritus</seg>. <seg ana="#EV" type="incipit">Si quis diligit</seg>. </ab>
+            <seg ana="#IN" type="incipit">Spiritus domini</seg>. Cantetur sollemnissime
+            <seg ana="#KY" subtype="supplied" type="incipit">Kyrie eleison</seg> cum <seg ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis</seg>. <seg ana="#CL" rend="#OR" type="incipit">Deus qui hodierna die</seg> sola tamen. <seg ana="#EP" type="incipit">Dum complerentur</seg>. Primum <seg ana="#ALV" type="incipit">Emitte</seg>. Secundum <seg ana="#AL" subtype="supplied" type="incipit">Alleluia</seg>, quod incipiunt <seg ana="#function">duo pueri</seg>, et <seg ana="#function">chorus</seg> repetat cum finali. Item <seg ana="#function">chorus</seg> stando cantet <seg ana="#ALV" type="incipit">Veni sancte spiritus</seg>. Interim fit pulsus cum duabus magnis campanis et corona praeparata cum sertis et deintus pendens corona. Quam coronam exsolvant <seg ana="#function">iuvenes canonici</seg>. <seg ana="#SE" type="incipit">Sancti spiritus</seg>. <seg ana="#EV" type="incipit">Si quis diligit</seg>.</ab>
         </div>
       </div>
       <div>
         <head>OCTAVA PENTECOSTES</head>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.26">Post vesperas</metamark></label></ab>
-          <metamark function="variant" xml:id="V.27"><ab> Deinde sollemne cantetur <seg ana="#BD" subtype="supplied" type="incipit">Benedicamus domino alleluia alleluia</seg>. Deinde itur cum processione ad ambitum. Et <seg ana="#function">scholares</seg> recipiunt se sub <seg ana="#place">ianua capellae sancti Stephani</seg> cantantes alta voce <seg ana="#SV" subtype="supplied" type="incipit">Ergo nos supplicantes</seg>. Et <pb n="326"/>hoc tam diu donec ipsis per <seg ana="#function">episcopum</seg>, vel <seg ana="#function">praepositum</seg>, vel <seg ana="#function">decanum</seg> licentia impetretur. Deinde <seg ana="#function">domini</seg> cum <seg ana="#function">scholaribus</seg> vadunt ad <seg ana="#place">porticum apud scholas</seg>, quae strata debet esset tapetiis. Vel si pluvia fuerit sedeant in medio ambitu similiter strato. Et tunc <seg ana="#function">cellerarius</seg> propinet vinum gallicum pro <seg ana="#function">dominis</seg> et urnam vini <choice>
+          <ab ana="#head"><label>Post vesperas</label></ab>
+          <ab> Deinde sollemne cantetur <seg ana="#BD" subtype="supplied" type="incipit">Benedicamus domino alleluia alleluia</seg>. Deinde itur cum processione ad ambitum. Et <seg ana="#function">scholares</seg> recipiunt se sub <seg ana="#place">ianua capellae sancti Stephani</seg> cantantes alta voce <seg ana="#SV" subtype="supplied" type="incipit">Ergo nos supplicantes</seg>. Et <pb n="326"/>hoc tam diu donec ipsis per <seg ana="#function">episcopum</seg>, vel <seg ana="#function">praepositum</seg>, vel <seg ana="#function">decanum</seg> licentia impetretur. Deinde <seg ana="#function">domini</seg> cum <seg ana="#function">scholaribus</seg> vadunt ad <seg ana="#place">porticum apud scholas</seg>, quae strata debet esset tapetiis. Vel si pluvia fuerit sedeant in medio ambitu similiter strato. Et tunc <seg ana="#function">cellerarius</seg> propinet vinum gallicum pro <seg ana="#function">dominis</seg> et urnam vini <choice>
                 <sic>babarici</sic>
                 <corr>bavarici</corr>
-              </choice> et urnam medonis, et <seg ana="#function">cellerarius</seg> cum <seg ana="#function">acolytis</seg>, <seg ana="#function">canonicis</seg> vel aliis <seg ana="#function">diaconibus</seg> et <seg ana="#function">subdiaconibus</seg> assint, ut ministrent. Hoc p<note type="supplied">er</note>acto <seg ana="#function">scholares</seg> vadunt ad <seg ana="#place">chorum</seg> cantantes <seg ana="#SV" subtype="supplied" type="incipit">Ergo nos supplicantes</seg>. </ab></metamark>
+              </choice> et urnam medonis, et <seg ana="#function">cellerarius</seg> cum <seg ana="#function">acolytis</seg>, <seg ana="#function">canonicis</seg> vel aliis <seg ana="#function">diaconibus</seg> et <seg ana="#function">subdiaconibus</seg> assint, ut ministrent. Hoc p<note type="supplied">er</note>acto <seg ana="#function">scholares</seg> vadunt ad <seg ana="#place">chorum</seg> cantantes <seg ana="#SV" subtype="supplied" type="incipit">Ergo nos supplicantes</seg>.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><seg>Demum</seg><label> ad completorium</label></ab>
-          <ab> redimus ad cottidianum cantum. </ab>
+          <ab> redimus ad cottidianum cantum.</ab>
         </div>
       </div>
       <div>
         <head>FERIA SECUNDA POST OCTAVAM PENTECOSTES</head>
         <div>
-          <ab>Peragitur festum sanctae trinitatis. </ab>
+          <ab>Peragitur festum sanctae trinitatis.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
@@ -215,78 +215,78 @@
             <seg ana="#IN" type="incipit">Benedicta sit sancta</seg>. <seg ana="#CL" rend="#OR" type="incipit">Omnipotens <choice>
                 <sic>sancte</sic>
                 <corr>sempiterne</corr>
-              </choice> deus qui dedisti</seg>. Secunda <metamark function="variant" xml:id="V.28">pro <seg ana="#person">magistro Eberhardo sacerdote</seg> qui hoc festum instituit. Tertia quam velis</metamark>. </ab>
+              </choice> deus qui dedisti</seg>. Secunda pro <seg ana="#person">magistro Eberhardo sacerdote</seg> qui hoc festum instituit. Tertia quam velis.</ab>
         </div>
       </div>
       <div>
-        <head>FERIA QUARTA <metamark function="variant" xml:id="V.29">ANTE FESTUM CORPORIS CHRISTI</metamark></head>
+        <head>FERIA QUARTA ANTE FESTUM CORPORIS CHRISTI</head>
         <div>
-          <metamark function="variant" xml:id="V.30"><ab>Et nota quandocumque in <seg ana="#function">choro</seg> peragitur festum beatae virginis, vel Petri, vel aliorum apostolorum, vel sancti Stephani, vel sancti Augustini tunc in processione nihil canitur de illis, sicut hac nocte de beata virgine. </ab></metamark>
+          <ab>Et nota quandocumque in <seg ana="#function">choro</seg> peragitur festum beatae virginis, vel Petri, vel aliorum apostolorum, vel sancti Stephani, vel sancti Augustini tunc in processione nihil canitur de illis, sicut hac nocte de beata virgine.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
-          <metamark function="variant" xml:id="V.31"><ab>
-              <seg ana="#IN" type="incipit">Salve sancta parens</seg>. <seg ana="#CL" rend="#OR" type="incipit">Concede nos famulos</seg>. Secunda pro <seg ana="#person">episcopo Chunrado de Laichling</seg>. Tertia de trinitate. </ab></metamark>
+          <ab>
+              <seg ana="#IN" type="incipit">Salve sancta parens</seg>. <seg ana="#CL" rend="#OR" type="incipit">Concede nos famulos</seg>. Secunda pro <seg ana="#person">episcopo Chunrado de Laichling</seg>. Tertia de trinitate.</ab>
         </div>
       </div>
       <div>
         <head>IN FESTO CORPORIS CHRISTI</head>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.32"><note type="supplied">Ad aspersionem</note></metamark></label></ab>
-          <metamark function="variant" xml:id="V.33"><ab> Post tertiam fiat aspersio solito more cantando <seg ana="#AP" subtype="supplied" type="incipit">Asperges me</seg>. </ab></metamark>
+          <ab ana="#head"><label><note type="supplied">Ad aspersionem</note></label></ab>
+          <ab> Post tertiam fiat aspersio solito more cantando <seg ana="#AP" subtype="supplied" type="incipit">Asperges me</seg>.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.34"><note type="supplied">Ad processionem</note></metamark></label></ab>
-          <metamark function="variant" xml:id="V.35"><ab> Deinde ordinetur sollemnis processio ad ambitum ita ut primo praecedant longiores candelae processionem. Deinde ordinetur processio et <seg ana="#function">cantores</seg> imponant <seg ana="#RPP" type="incipit">Immolabit haedum</seg>. Postea vero <seg ana="#function">domini de capitulo</seg> et <seg ana="#function">summissarii</seg> in cappis sollemnibus. Postea <seg ana="#function">vicarii</seg> cum monstrantiis et reliquiis. Ultimo vero <seg ana="#function">episcopus</seg>, si adest. Si vero non, tunc <seg ana="#function">praepositus</seg>, vel <seg ana="#function">decanus</seg>, ascendat ad altare praecedentibus <seg ana="#function">ministris</seg>, <seg ana="#function">diacono</seg> et <seg ana="#function">subdiacono</seg>. Et cum magna <pb n="327"/>reverentia levet monstrantiam, in qua sit corpus dominicum inclusum praesentibus ibidem <seg ana="#function">camerario</seg> et <seg ana="#function">schulteto</seg><add type="marginal"> De<unclear/> puto. </add> qui cum omni reverentia deducunt eum praecedentibus candelis omnium <seg ana="#function">fraternitatum</seg> per <seg ana="#place">civitatem</seg> et vexillis et campanibilibus sonantibus. Etiam, si fieri possit, assint ibi etiam instrumenta musicalia et <seg ana="#function">cantores</seg>, qui alternatim cantent. Et sic procedant usque ad <seg ana="#place">omnes sanctos</seg> in ambitu. Ibi <seg ana="#function">cantores</seg> imponant <seg ana="#AP" type="incipit">Salvator mundi</seg>. <seg ana="#VS" type="incipit">Exultent iusti</seg>. <seg ana="#OR" type="incipit">Concede quaesumus omnipotens deus ut sancta dei genitrix</seg>. Postmodum <seg ana="#function">cantores</seg> imponant <seg ana="#RPP" type="incipit">Homo quidam</seg> cum <seg ana="#RV" type="incipit">Venite</seg>, cum quo vadant per <seg ana="#place">ambos porticus</seg> ascendentes gradus apud <seg ana="#place">scholas</seg>, et transeant per <seg ana="#place">curiam ducis</seg>. Et venientes ad <seg ana="#place">sanctum Ioannem</seg>
+          <ab ana="#head"><label><note type="supplied">Ad processionem</note></label></ab>
+          <ab> Deinde ordinetur sollemnis processio ad ambitum ita ut primo praecedant longiores candelae processionem. Deinde ordinetur processio et <seg ana="#function">cantores</seg> imponant <seg ana="#RPP" type="incipit">Immolabit haedum</seg>. Postea vero <seg ana="#function">domini de capitulo</seg> et <seg ana="#function">summissarii</seg> in cappis sollemnibus. Postea <seg ana="#function">vicarii</seg> cum monstrantiis et reliquiis. Ultimo vero <seg ana="#function">episcopus</seg>, si adest. Si vero non, tunc <seg ana="#function">praepositus</seg>, vel <seg ana="#function">decanus</seg>, ascendat ad altare praecedentibus <seg ana="#function">ministris</seg>, <seg ana="#function">diacono</seg> et <seg ana="#function">subdiacono</seg>. Et cum magna <pb n="327"/>reverentia levet monstrantiam, in qua sit corpus dominicum inclusum praesentibus ibidem <seg ana="#function">camerario</seg> et <seg ana="#function">schulteto</seg><add type="marginal"> De<unclear/> puto. </add> qui cum omni reverentia deducunt eum praecedentibus candelis omnium <seg ana="#function">fraternitatum</seg> per <seg ana="#place">civitatem</seg> et vexillis et campanibilibus sonantibus. Etiam, si fieri possit, assint ibi etiam instrumenta musicalia et <seg ana="#function">cantores</seg>, qui alternatim cantent. Et sic procedant usque ad <seg ana="#place">omnes sanctos</seg> in ambitu. Ibi <seg ana="#function">cantores</seg> imponant <seg ana="#AP" type="incipit">Salvator mundi</seg>. <seg ana="#VS" type="incipit">Exultent iusti</seg>. <seg ana="#OR" type="incipit">Concede quaesumus omnipotens deus ut sancta dei genitrix</seg>. Postmodum <seg ana="#function">cantores</seg> imponant <seg ana="#RPP" type="incipit">Homo quidam</seg> cum <seg ana="#RV" type="incipit">Venite</seg>, cum quo vadant per <seg ana="#place">ambos porticus</seg> ascendentes gradus apud <seg ana="#place">scholas</seg>, et transeant per <seg ana="#place">curiam ducis</seg>. Et venientes ad <seg ana="#place">sanctum Ioannem</seg>
               <seg ana="#function">cantores</seg> imponant <seg ana="#AP" type="incipit">O quam suavis</seg>. Sequitur oratio de corpore Christi. Postea vadant ad summum cantantes <seg ana="#RPP" type="incipit">Salve nobilis</seg> cum <seg ana="#RV" type="incipit">Odor tuus</seg>, et stantes in longitudine <seg ana="#place">monasterii</seg>
-              <seg ana="#function">episcopus</seg> vel <seg ana="#function">decanus</seg> dice<del>n</del>t <seg ana="#OR" type="incipit">Supplicationes servorum</seg>. Postea ascendant <seg ana="#place">chorum</seg> et <seg ana="#function">cantores</seg> imponant <seg ana="#HV" type="incipit">Tantum ergo</seg>. Ibi <seg ana="#function">episcopus</seg> data reverenter panis benedictione locet corpus dominicum super altare. Et postea indutus casula et dicat <seg ana="#VAR" subtype="supplied" type="incipit">Confiteor</seg>. </ab></metamark>
+              <seg ana="#function">episcopus</seg> vel <seg ana="#function">decanus</seg> dice<del>n</del>t <seg ana="#OR" type="incipit">Supplicationes servorum</seg>. Postea ascendant <seg ana="#place">chorum</seg> et <seg ana="#function">cantores</seg> imponant <seg ana="#HV" type="incipit">Tantum ergo</seg>. Ibi <seg ana="#function">episcopus</seg> data reverenter panis benedictione locet corpus dominicum super altare. Et postea indutus casula et dicat <seg ana="#VAR" subtype="supplied" type="incipit">Confiteor</seg>.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label><note type="supplied">Ad missam</note></label></ab>
           <ab>
-            <metamark function="variant" xml:id="V.36">Interim <seg ana="#function">cantores</seg> imponant</metamark>
-            <seg ana="#IN" type="incipit">Cibavit eos</seg>. <metamark function="variant" xml:id="V.37">Sollemne</metamark>
-            <seg ana="#KY" subtype="supplied" type="incipit">Kyrie eleison</seg> cum <seg ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis</seg>. <seg ana="#CL" rend="#OR" type="incipit">Deus qui nobis in sacramento</seg>. Secunda oratio <metamark function="variant" xml:id="V.38">pro domino <seg ana="#person">Arbone archidiacono et sacerdote</seg>, qui hoc festum instituit</metamark>. Tertia de sancta trinitate. <metamark function="variant" xml:id="V.39">Auf dem <unclear/>: ex institutione domini <seg ana="#person">Ioannis Gkrad canonici</seg> dantur per <seg ana="#function">magistrum sacristiae</seg> infra octavas corporis Christi omni die pro collecta duo denarii.</metamark>
+            Interim <seg ana="#function">cantores</seg> imponant
+            <seg ana="#IN" type="incipit">Cibavit eos</seg>. Sollemne
+            <seg ana="#KY" subtype="supplied" type="incipit">Kyrie eleison</seg> cum <seg ana="#GL" subtype="supplied" type="incipit">Gloria in excelsis</seg>. <seg ana="#CL" rend="#OR" type="incipit">Deus qui nobis in sacramento</seg>. Secunda oratio pro domino <seg ana="#person">Arbone archidiacono et sacerdote</seg>, qui hoc festum instituit. Tertia de sancta trinitate. Auf dem <unclear/>: ex institutione domini <seg ana="#person">Ioannis Gkrad canonici</seg> dantur per <seg ana="#function">magistrum sacristiae</seg> infra octavas corporis Christi omni die pro collecta duo denarii.
           </ab>
         </div>
       </div>
       <div>
-        <head><metamark function="variant" xml:id="V.40">DOMINICA INFRA OCTAVAM CORPORIS CHRISTI</metamark></head>
+        <head>DOMINICA INFRA OCTAVAM CORPORIS CHRISTI</head>
         <div>
-          <metamark function="variant" xml:id="V.41"><ab>Hac die postquam ultima hora <add type="marginal">Laudes nempe, de quibus mora antea, sermo fuit. </add> fuit facta statim fit pulsus primae missae in summo et aliis omnibus <seg ana="#place">conventibus</seg>, ita quod mane omnes ex<pb n="328"/>pediant ecclesias suas. Et postmodum hora secunda diei conveniunt omnes <seg ana="#function">praelati</seg>, <seg ana="#function">canonici</seg>, <seg ana="#function">abbatissae</seg>, nec non et omnes <seg ana="#function">mendicantes</seg> cum suis <seg ana="#function">conventibus</seg> in <seg ana="#place">summo</seg>. </ab></metamark>
+          <ab>Hac die postquam ultima hora <add type="marginal">Laudes nempe, de quibus mora antea, sermo fuit. </add> fuit facta statim fit pulsus primae missae in summo et aliis omnibus <seg ana="#place">conventibus</seg>, ita quod mane omnes ex<pb n="328"/>pediant ecclesias suas. Et postmodum hora secunda diei conveniunt omnes <seg ana="#function">praelati</seg>, <seg ana="#function">canonici</seg>, <seg ana="#function">abbatissae</seg>, nec non et omnes <seg ana="#function">mendicantes</seg> cum suis <seg ana="#function">conventibus</seg> in <seg ana="#place">summo</seg>.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.42"><note type="supplied">Ad aspersionem</note></metamark></label></ab>
-          <metamark function="variant" xml:id="V.43"><ab> Et post primam fiat aspersio solum in <seg ana="#place">choro</seg>, ut moris est, cum <seg ana="#AP" type="incipit">Asperges me</seg>. Postmodum canitur tertia. </ab></metamark>
+          <ab ana="#head"><label><note type="supplied">Ad aspersionem</note></label></ab>
+          <ab> Et post primam fiat aspersio solum in <seg ana="#place">choro</seg>, ut moris est, cum <seg ana="#AP" type="incipit">Asperges me</seg>. Postmodum canitur tertia.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.44"><note type="supplied">Ad missam</note></metamark></label></ab>
-          <metamark function="variant" xml:id="V.45"><ab> Interim <seg ana="#function">suffraganeus</seg>, vel alius <seg ana="#function">canonicus</seg>, induit se ad cantandum missam de corpore Christi sollemniter cum integra <seg ana="#SE" type="incipit">Lauda Sion</seg>. </ab></metamark>
+          <ab ana="#head"><label><note type="supplied">Ad missam</note></label></ab>
+          <ab> Interim <seg ana="#function">suffraganeus</seg>, vel alius <seg ana="#function">canonicus</seg>, induit se ad cantandum missam de corpore Christi sollemniter cum integra <seg ana="#SE" type="incipit">Lauda Sion</seg>.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.46"><note type="supplied">Ad processionem</note></metamark></label></ab>
-          <metamark function="variant" xml:id="V.47"><ab> Completa vero missa et congregatis omnibus ordinetur processio versus <seg ana="#place">portam orientalem civitatis</seg>. Et primo procedant longiores <choice>
+          <ab ana="#head"><label><note type="supplied">Ad processionem</note></label></ab>
+          <ab> Completa vero missa et congregatis omnibus ordinetur processio versus <seg ana="#place">portam orientalem civitatis</seg>. Et primo procedant longiores <choice>
                 <sic>candellae</sic>
                 <corr>candelae</corr>
-              </choice>, ut supra visum est. Deinde <seg ana="#function">fistulatores</seg> antecedant processionem, ne impediant <seg ana="#function">cantores</seg>. Postea sequitur processio congregata de omnibus ecclesiis totius civitatis et <seg ana="#function">scholares</seg> de aliis ecclesiis vadant in principio processionis. Sed <seg ana="#function">rector</seg> in summo habeat suos congregatos, qui sciant cantare cum ceteris <seg ana="#function">rectoribus</seg>, nec non et <seg ana="#function">succentoribus</seg> eum iuvantibus et incipiunt cantare <seg ana="#RPP" type="incipit">Homo quidam</seg>. <seg ana="#RPP" type="incipit">Immolabit haedum</seg>. <seg ana="#HY" type="incipit">Pange lingua</seg>. Item <seg ana="#HY" subtype="supplied" type="incipit">Verbum supernum</seg>. <seg ana="#SE" type="incipit">Lauda Sion</seg>. Item <seg ana="#HY" subtype="supplied" type="incipit">Ave vivens hostia</seg>. Et hoc si sciant et repetant illa quousque revertantur. Postea vero sequantur <seg ana="#person">augustinenses</seg>. Postea <seg ana="#person">minores fratres</seg>. Demum <seg ana="#person">praedicatores</seg>. His ordinatis veniat <seg ana="#function">abbatissa sancti Pauli</seg> cum suis <seg ana="#function">monialibus</seg>. Deinde <seg ana="#function">abbatissa superioris monasterii</seg> cum suis. Et <seg ana="#function">inferioris monasterii abbatissa</seg> cum suis <seg ana="#function">monialibus</seg>. Postea <seg ana="#function">monachi sancti Iacobi</seg>. Et demum <seg ana="#function">monachi de sancto Emmeramo</seg>. Postea vero <seg ana="#function">canonici</seg>: primo <seg ana="#place">sancti Ioannis</seg>, demum <seg ana="#place">veteris capellae</seg>, et postea de <seg ana="#place">summo</seg>. His rite expeditis ordinantur aliqui, qui praecedant schutaria cum candelis suis. Et ut in veritate comperi, quia quaelibet <seg ana="#function">fraternitas</seg> eligit sibi unum specialem <seg ana="#function">conventum</seg>, cui hac die cum candelis suis velit subire. Et similiter cum musicis instrumentis hoc idem fit. Ideo non multum de illo oportuit me investigare, dummodo secundum ordinem, <pb n="329"/>ut supra visum est in prima ordinatione. In reliquiis eodem modo fiat. Et quod servi pis<unclear/> secundum antiquam consuetudinem immediate cum suis duabus candelis antecedunt corpus domini cum <gap/> et ceteri eorum complices. His ita disposititis <seg ana="#function">episcopus</seg> cum aliis <seg ana="#function">praelatiis</seg> sibi eadem die assistentibus exeant de <seg ana="#place">sacrario</seg>. Et <seg ana="#function">episcopus</seg> cum omni devotione sumat corpus dominicum aliis <seg ana="#function">praelatis</seg> praecedentibus eum. Et assint ibi etiam instrumenta musicalia et <seg ana="#function">cantores</seg> per totum ut in die sancto visum est. Et cum pervenerint ad <seg ana="#place">portam orientalem</seg> legat <seg ana="#function">diaconus</seg> sub porta <seg ana="#EV" type="incipit">In principio erat verbum</seg>. Et <seg ana="#function">episcopus</seg> subiungat versum et orationem. Tunc si placet <seg ana="#function">episcopo abbas sancti Emmerami</seg> iuvat eum portare usque ad <seg ana="#place">portam sancti Emmerami</seg>, et ibidem legat <seg ana="#EV" type="incipit">Liber generationis</seg> et ambas orationes. Postea si placeat <seg ana="#function">abbas sancti Iacobi</seg> recipiat et portet usque ad <seg ana="#place">portam in Prenprun</seg>. Et ibidem in valle legatur tertium <seg ana="#EV" subtype="supplied" type="incipit">Fuit in diebus Herodis</seg> cum orationibus. Postmodum <seg ana="#function">episcopus</seg>, vel <seg ana="#function">suffraganeus</seg>, sumat corpus dominicum et portat usque ad <seg ana="#place">lapideum pontem</seg>. Et ibi legatur evangelium secundum Marcum <seg ana="#EV" subtype="supplied" type="incipit">Initium evangelii Iesu Christi sicut scriptum est in Isaia</seg>. Et <seg ana="#function">episcopus</seg> dicat orationes. Postea vadant ad <seg ana="#place">summum</seg>. Et <seg ana="#function">episcopus</seg> coram <seg ana="#place">summo altari</seg> data benedictione dat omnibus indulgentias. Et sic omnes cantando vadant ad ecclesias suas. Et <seg ana="#function">summissarius maior</seg> invitet omnes socios, qui iuverunt cantare tam versibus quam instrumentis, ad <seg ana="#place">domum summissariae</seg>. Et ibi tunc provideat ipsis de bono convivio. Ad quod <seg ana="#function">cives</seg> ministrabant unam libram danarii Ratisbonensis. De quibus <seg ana="#function">campanatores</seg> recipiunt octo grossos pro pulsu. </ab></metamark>
+              </choice>, ut supra visum est. Deinde <seg ana="#function">fistulatores</seg> antecedant processionem, ne impediant <seg ana="#function">cantores</seg>. Postea sequitur processio congregata de omnibus ecclesiis totius civitatis et <seg ana="#function">scholares</seg> de aliis ecclesiis vadant in principio processionis. Sed <seg ana="#function">rector</seg> in summo habeat suos congregatos, qui sciant cantare cum ceteris <seg ana="#function">rectoribus</seg>, nec non et <seg ana="#function">succentoribus</seg> eum iuvantibus et incipiunt cantare <seg ana="#RPP" type="incipit">Homo quidam</seg>. <seg ana="#RPP" type="incipit">Immolabit haedum</seg>. <seg ana="#HY" type="incipit">Pange lingua</seg>. Item <seg ana="#HY" subtype="supplied" type="incipit">Verbum supernum</seg>. <seg ana="#SE" type="incipit">Lauda Sion</seg>. Item <seg ana="#HY" subtype="supplied" type="incipit">Ave vivens hostia</seg>. Et hoc si sciant et repetant illa quousque revertantur. Postea vero sequantur <seg ana="#person">augustinenses</seg>. Postea <seg ana="#person">minores fratres</seg>. Demum <seg ana="#person">praedicatores</seg>. His ordinatis veniat <seg ana="#function">abbatissa sancti Pauli</seg> cum suis <seg ana="#function">monialibus</seg>. Deinde <seg ana="#function">abbatissa superioris monasterii</seg> cum suis. Et <seg ana="#function">inferioris monasterii abbatissa</seg> cum suis <seg ana="#function">monialibus</seg>. Postea <seg ana="#function">monachi sancti Iacobi</seg>. Et demum <seg ana="#function">monachi de sancto Emmeramo</seg>. Postea vero <seg ana="#function">canonici</seg>: primo <seg ana="#place">sancti Ioannis</seg>, demum <seg ana="#place">veteris capellae</seg>, et postea de <seg ana="#place">summo</seg>. His rite expeditis ordinantur aliqui, qui praecedant schutaria cum candelis suis. Et ut in veritate comperi, quia quaelibet <seg ana="#function">fraternitas</seg> eligit sibi unum specialem <seg ana="#function">conventum</seg>, cui hac die cum candelis suis velit subire. Et similiter cum musicis instrumentis hoc idem fit. Ideo non multum de illo oportuit me investigare, dummodo secundum ordinem, <pb n="329"/>ut supra visum est in prima ordinatione. In reliquiis eodem modo fiat. Et quod servi pis<unclear/> secundum antiquam consuetudinem immediate cum suis duabus candelis antecedunt corpus domini cum <gap/> et ceteri eorum complices. His ita disposititis <seg ana="#function">episcopus</seg> cum aliis <seg ana="#function">praelatiis</seg> sibi eadem die assistentibus exeant de <seg ana="#place">sacrario</seg>. Et <seg ana="#function">episcopus</seg> cum omni devotione sumat corpus dominicum aliis <seg ana="#function">praelatis</seg> praecedentibus eum. Et assint ibi etiam instrumenta musicalia et <seg ana="#function">cantores</seg> per totum ut in die sancto visum est. Et cum pervenerint ad <seg ana="#place">portam orientalem</seg> legat <seg ana="#function">diaconus</seg> sub porta <seg ana="#EV" type="incipit">In principio erat verbum</seg>. Et <seg ana="#function">episcopus</seg> subiungat versum et orationem. Tunc si placet <seg ana="#function">episcopo abbas sancti Emmerami</seg> iuvat eum portare usque ad <seg ana="#place">portam sancti Emmerami</seg>, et ibidem legat <seg ana="#EV" type="incipit">Liber generationis</seg> et ambas orationes. Postea si placeat <seg ana="#function">abbas sancti Iacobi</seg> recipiat et portet usque ad <seg ana="#place">portam in Prenprun</seg>. Et ibidem in valle legatur tertium <seg ana="#EV" subtype="supplied" type="incipit">Fuit in diebus Herodis</seg> cum orationibus. Postmodum <seg ana="#function">episcopus</seg>, vel <seg ana="#function">suffraganeus</seg>, sumat corpus dominicum et portat usque ad <seg ana="#place">lapideum pontem</seg>. Et ibi legatur evangelium secundum Marcum <seg ana="#EV" subtype="supplied" type="incipit">Initium evangelii Iesu Christi sicut scriptum est in Isaia</seg>. Et <seg ana="#function">episcopus</seg> dicat orationes. Postea vadant ad <seg ana="#place">summum</seg>. Et <seg ana="#function">episcopus</seg> coram <seg ana="#place">summo altari</seg> data benedictione dat omnibus indulgentias. Et sic omnes cantando vadant ad ecclesias suas. Et <seg ana="#function">summissarius maior</seg> invitet omnes socios, qui iuverunt cantare tam versibus quam instrumentis, ad <seg ana="#place">domum summissariae</seg>. Et ibi tunc provideat ipsis de bono convivio. Ad quod <seg ana="#function">cives</seg> ministrabant unam libram danarii Ratisbonensis. De quibus <seg ana="#function">campanatores</seg> recipiunt octo grossos pro pulsu.</ab>
         </div>
       </div>
       <div>
-        <head><metamark function="variant" xml:id="V.48">IN OCTAVA CORPORIS CHRISTI</metamark></head>
+        <head>IN OCTAVA CORPORIS CHRISTI</head>
         <div>
-          <metamark function="variant" xml:id="V.49"><ab>Per totum ut in die sancto. Et nota quod quando <seg ana="#function">sacerdos</seg> benedictionem ad missam dedit, statim assit <seg ana="#function">plebanus</seg> cum sociis suis et recipiunt corpus Christi de manibus <pb n="330"/><seg ana="#function">sacerdotis</seg> et portet illud ad <seg ana="#place">parochiam</seg>
-              <seg ana="#function">sociis</seg> vel <seg ana="#function">canonicis</seg> eum deducentibus. </ab></metamark>
+          <ab>Per totum ut in die sancto. Et nota quod quando <seg ana="#function">sacerdos</seg> benedictionem ad missam dedit, statim assit <seg ana="#function">plebanus</seg> cum sociis suis et recipiunt corpus Christi de manibus <pb n="330"/><seg ana="#function">sacerdotis</seg> et portet illud ad <seg ana="#place">parochiam</seg>
+              <seg ana="#function">sociis</seg> vel <seg ana="#function">canonicis</seg> eum deducentibus.</ab>
         </div>
       </div>
       <div>
-        <head><metamark function="variant" xml:id="V.50">DE SABBATO</metamark></head>
+        <head>DE SABBATO</head>
         <div>
-          <metamark function="variant" xml:id="V.51"><ab>Notandum quod ab hinc usque ad adventum domini omni sabbato erit plenum officium cum novem lectionibus de beata virgine. </ab></metamark>
+          <ab>Notandum quod ab hinc usque ad adventum domini omni sabbato erit plenum officium cum novem lectionibus de beata virgine.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Salve sancta parens</seg>. <seg ana="#OR" type="incipit">Famulorum tuorum</seg>. Secunda <metamark function="variant" xml:id="V.52">oratio pro anima <seg ana="#person">episcopi Chonradi de Laichling</seg>, qui hoc festum instituit</metamark>. Tertia oratio de sancto Ioanne evangelista. </ab>
+            <seg ana="#IN" type="incipit">Salve sancta parens</seg>. <seg ana="#OR" type="incipit">Famulorum tuorum</seg>. Secunda oratio pro anima <seg ana="#person">episcopi Chonradi de Laichling</seg>, qui hoc festum instituit. Tertia oratio de sancto Ioanne evangelista.</ab>
         </div>
       </div>
       <div>
@@ -294,18 +294,18 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">In virtute tua</seg>. Secunda <metamark function="variant" xml:id="V.53">oratio pro domino <seg ana="#person">Eberhardo comite praeposito</seg> nostro, qui hoc festum instituit</metamark>. </ab>
+            <seg ana="#IN" type="incipit">In virtute tua</seg>. Secunda oratio pro domino <seg ana="#person">Eberhardo comite praeposito</seg> nostro, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
         <head>IN NATIVITATE SANCTORUM ACHACII ET SOCIORUM EIUS</head>
         <div>
-          <metamark function="variant" xml:id="V.54"><ab><del>Pul</del> Pulsentur terrores. </ab></metamark>
+          <ab><del>Pul</del> Pulsentur terrores.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" subtype="supplied" type="incipit"><metamark function="variant" xml:id="V.55">Gaudeamus</metamark></seg>. Secunda <metamark function="variant" xml:id="V.56">oratio pro domino <seg ana="#person">Rugero Loebellayco</seg>, qui hoc festum instituit</metamark>. </ab>
+            <seg ana="#IN" subtype="supplied" type="incipit">Gaudeamus</seg>. Secunda oratio pro domino <seg ana="#person">Rugero Loebellayco</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
@@ -313,36 +313,36 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Multa<note type="supplied">e</note> tribulationes</seg>. Secunda <metamark function="variant" xml:id="V.57">oratio pro domino <seg ana="#person">Adlaberto de Pleistein diacono</seg>, qui hoc festum instituit</metamark>. </ab>
+            <seg ana="#IN" type="incipit">Multa<note type="supplied">e</note> tribulationes</seg>. Secunda oratio pro domino <seg ana="#person">Adlaberto de Pleistein diacono</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
-        <head><metamark function="variant" xml:id="V.58"><note type="supplied">IN VIGILIA SANCTI PETRI</note></metamark></head>
+        <head><note type="supplied">IN VIGILIA SANCTI PETRI</note></head>
         <div>
-          <metamark function="variant" xml:id="V.59"><ab>Hodie, hoc est ante vigilias sancti Petri apostoli, quod dominus <seg ana="#person">Hennricus de Roteneckh Ratisponensis episcopus</seg> intituit, habeatur memoria omnium benefactorum <seg ana="#place">ecclesia Ratisponensis</seg> hoc modo. </ab></metamark>
+          <ab>Hodie, hoc est ante vigilias sancti Petri apostoli, quod dominus <seg ana="#person">Hennricus de Roteneckh Ratisponensis episcopus</seg> intituit, habeatur memoria omnium benefactorum <seg ana="#place">ecclesia Ratisponensis</seg> hoc modo.</ab>
         </div>
       </div>
       <div>
-        <head><metamark function="variant" xml:id="V.60"><note type="supplied">IN FESTO VISITATIONIS BEATAE VIRGINIS MARIAE</note></metamark></head>
+        <head><note type="supplied">IN FESTO VISITATIONIS BEATAE VIRGINIS MARIAE</note></head>
         <div>
-          <metamark function="variant" xml:id="V.61"><ab>In die sanctorum Processi et Martiniani pergaitur festum visitationis beatae virginis Mariae cum terroribus. </ab></metamark>
+          <ab>In die sanctorum Processi et Martiniani pergaitur festum visitationis beatae virginis Mariae cum terroribus.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit"><metamark function="variant" xml:id="V.62">Gaudeamus omnes</metamark></seg>. Secunda oratio <metamark function="variant" xml:id="V.63">pro domino <seg ana="#person">Alberto episcopo Ratisponensi nato de Stauff</seg>, qui hoc salubre festum instituit in consolatione animae suae. Et debent dati praesentiae per totum <seg ana="#function">chorum</seg> et sex danarii <seg ana="#function">summissariis</seg> pro collecta imponenda</metamark>. </ab>
+            <seg ana="#IN" type="incipit">Gaudeamus omnes</seg>. Secunda oratio pro domino <seg ana="#person">Alberto episcopo Ratisponensi nato de Stauff</seg>, qui hoc salubre festum instituit in consolatione animae suae. Et debent dati praesentiae per totum <seg ana="#function">chorum</seg> et sex danarii <seg ana="#function">summissariis</seg> pro collecta imponenda.</ab>
         </div>
       </div>
       <div>
-        <head><metamark function="variant" xml:id="V.64"><note type="supplied">IN TRANSLATIONE SANCTAE CATHARINAE</note></metamark></head>
+        <head><note type="supplied">IN TRANSLATIONE SANCTAE CATHARINAE</note></head>
         <div>
-          <ab>In crastino sancti Udalrici peragitur translatio sanctae Catharinae virginis cum terroribus. </ab>
+          <ab>In crastino sancti Udalrici peragitur translatio sanctae Catharinae virginis cum terroribus.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.65">Ad missam</metamark></label></ab>
-          <metamark function="variant" xml:id="V.66"><ab>
+          <ab ana="#head"><label>Ad missam</label></ab>
+          <ab>
               <seg ana="#IN" type="incipit">Gaudeamus omnes</seg>. Secunda oratio pro domino <seg ana="#person">Wolfhardo Ebnaer canonico et plebano</seg>
-              <pb n="341"/>maioris ecclesiae, qui hoc festum instituit. Ad dandum xii solidos denariorum, de quibus primo debent dari presentiae per totum <seg ana="#function">chorum</seg> omnibus <seg ana="#function">vicariis</seg>. Necessario et sex denarii <seg ana="#function">summissariis</seg> pro collecta imponenda. Item componistis sex denarii pro pulsu. Reliqua vero dividantur inter <seg ana="#function">canonicos</seg>. </ab></metamark>
+              <pb n="341"/>maioris ecclesiae, qui hoc festum instituit. Ad dandum xii solidos denariorum, de quibus primo debent dari presentiae per totum <seg ana="#function">chorum</seg> omnibus <seg ana="#function">vicariis</seg>. Necessario et sex denarii <seg ana="#function">summissariis</seg> pro collecta imponenda. Item componistis sex denarii pro pulsu. Reliqua vero dividantur inter <seg ana="#function">canonicos</seg>.</ab>
         </div>
       </div>
       <div>
@@ -350,7 +350,7 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Gaudeamus omnes</seg>. Secunda <metamark function="variant" xml:id="V.67">oratio pro domino <seg ana="#person">Altmanno comite de Rotenek sacerdote praeposito</seg>, qui hoc festum instituit</metamark>. </ab>
+            <seg ana="#IN" type="incipit">Gaudeamus omnes</seg>. Secunda oratio pro domino <seg ana="#person">Altmanno comite de Rotenek sacerdote praeposito</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
@@ -358,7 +358,7 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Mihi autem</seg>. Secunda <metamark function="variant" xml:id="V.68">oratio pro domino <seg ana="#person">Gozwino de Porta subdiacono</seg>, qui hoc festum instituit</metamark>. </ab>
+            <seg ana="#IN" type="incipit">Mihi autem</seg>. Secunda oratio pro domino <seg ana="#person">Gozwino de Porta subdiacono</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
@@ -367,14 +367,14 @@
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
             <seg ana="#IN" type="incipit">Os iusti meditabitur</seg>. Secunda <note type="supplied">oratio</note>
-            <metamark function="variant" xml:id="V.69">pro <seg ana="#person">magistro Udalrico de Hachelstat subdiacono</seg>, qui <note type="supplied">hoc</note> festum instituit</metamark>. </ab>
+            pro <seg ana="#person">magistro Udalrico de Hachelstat subdiacono</seg>, qui <note type="supplied">hoc</note> festum instituit.</ab>
         </div>
       </div>
       <div>
         <head>IN NATIVITATE SANCTAE CHRISTINAE</head>
         <div type="time:1">
           <ab ana="#head"><label><note type="supplied">Ad missam</note></label></ab>
-          <ab> Secunda <metamark function="variant" xml:id="V.70">oratio pro <seg ana="#person">Bertholdo Kameredi subdiacono</seg>, qui hoc festum instituit</metamark>. </ab>
+          <ab> Secunda oratio pro <seg ana="#person">Bertholdo Kameredi subdiacono</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
@@ -383,7 +383,7 @@
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
             <seg ana="#IN" type="incipit">Mihi autem</seg>. Secunda <note type="supplied">oratio</note>
-            <metamark function="variant" xml:id="V.71">pro <seg ana="#person">episcopo Heinrico de Rotenek</seg>, qui hoc festum in summis celebrari instituit.</metamark>
+            pro <seg ana="#person">episcopo Heinrico de Rotenek</seg>, qui hoc festum in summis celebrari instituit.
           </ab>
         </div>
       </div>
@@ -392,7 +392,7 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Dum medium silentium</seg>. Secunda <metamark function="variant" xml:id="V.72">oratio pro magistro <seg ana="#person">Ulrico de Dornbeck praeposito ecclesiae nostrae sacerdote</seg></metamark>. </ab>
+            <seg ana="#IN" type="incipit">Dum medium silentium</seg>. Secunda oratio pro magistro <seg ana="#person">Ulrico de Dornbeck praeposito ecclesiae nostrae sacerdote</seg>.</ab>
         </div>
       </div>
       <div>
@@ -401,7 +401,7 @@
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
             <seg ana="#IN" type="incipit">In virtute tua</seg>. Secunda <note type="supplied">oratio</note>
-            <metamark function="variant" xml:id="V.73">pro domino <seg ana="#person">Chunrado de Swarzenburg decano sacerdote et canonico nostrae ecclesiae</seg>, qui hoc festum instituit cum <pb n="342"/>cum decem solidis denariorum ad distribuendum in manus omnium <seg ana="#function">vicariorum</seg></metamark>. </ab>
+            pro domino <seg ana="#person">Chunrado de Swarzenburg decano sacerdote et canonico nostrae ecclesiae</seg>, qui hoc festum instituit cum <pb n="342"/>cum decem solidis denariorum ad distribuendum in manus omnium <seg ana="#function">vicariorum</seg>.</ab>
         </div>
       </div>
       <div>
@@ -409,13 +409,13 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Gaudeamus omnes</seg>. Secunda <metamark function="variant" xml:id="V.74">oratio pro <seg ana="#person">magistro Gundakaro scholastico et nostro subdiacono</seg></metamark>. </ab>
+            <seg ana="#IN" type="incipit">Gaudeamus omnes</seg>. Secunda oratio pro <seg ana="#person">magistro Gundakaro scholastico et nostro subdiacono</seg>.</ab>
         </div>
       </div>
       <div>
-        <head><metamark function="variant" xml:id="V.75">IN FESTO SANCTI PETRI APOSTOLI</metamark></head>
+        <head>IN FESTO SANCTI PETRI APOSTOLI</head>
         <div>
-          <metamark function="variant" xml:id="V.76"><ab>Nota quod hodie erit processio sollemnis sicut in die sancti Petri, quam instituit dominus <seg ana="#person"><note type="supplied">Chunradus</note> de Swarzenburg decanus ecclesiae Ratisponensis</seg>. </ab></metamark>
+          <ab>Nota quod hodie erit processio sollemnis sicut in die sancti Petri, quam instituit dominus <seg ana="#person"><note type="supplied">Chunradus</note> de Swarzenburg decanus ecclesiae Ratisponensis</seg>.</ab>
         </div>
       </div>
       <div>
@@ -423,7 +423,7 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Etenim sederunt</seg>. Secunda <metamark function="variant" xml:id="V.77">oratio pro domino <seg ana="#person">Adalberto quondam Ratisponensi episcopo dicto de Peitingaeu</seg>, qui hoc festum instituit</metamark>. </ab>
+            <seg ana="#IN" type="incipit">Etenim sederunt</seg>. Secunda oratio pro domino <seg ana="#person">Adalberto quondam Ratisponensi episcopo dicto de Peitingaeu</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
@@ -431,7 +431,7 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Os iusti</seg>. Secunda <metamark function="variant" xml:id="V.78">oratio pro <seg ana="#person">magistro Sibotone scholastico</seg>, qui hoc festum instituit</metamark>. </ab>
+            <seg ana="#IN" type="incipit">Os iusti</seg>. Secunda oratio pro <seg ana="#person">magistro Sibotone scholastico</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
@@ -439,7 +439,7 @@
         <div type="time:1">
           <ab ana="#head"><label><note type="supplied">Ad missam</note></label></ab>
           <ab>
-            <seg ana="#function">Cantor</seg> imponat <seg ana="#IN" type="incipit">In excelso throno</seg>. Secunda <metamark function="variant" xml:id="V.79">oratio pro <seg ana="#person">Chunrado sacerdote plebano de Hunelstorf</seg>, qui hoc praesens festum instituit</metamark>. </ab>
+            <seg ana="#function">Cantor</seg> imponat <seg ana="#IN" type="incipit">In excelso throno</seg>. Secunda oratio pro <seg ana="#person">Chunrado sacerdote plebano de Hunelstorf</seg>, qui hoc praesens festum instituit.</ab>
         </div>
       </div>
       <div>
@@ -447,7 +447,7 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Os iusti</seg>. Secunda <metamark function="variant" xml:id="V.80">oratio pro domino <seg ana="#person">Ulrico de Hachelstat nostro canonico</seg>, qui hoc festum instituit</metamark>. </ab>
+            <seg ana="#IN" type="incipit">Os iusti</seg>. Secunda oratio pro domino <seg ana="#person">Ulrico de Hachelstat nostro canonico</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
@@ -455,7 +455,7 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">In medio ecclesiae</seg>. <metamark function="variant" xml:id="V.81">Secunda oratio pro domino <seg ana="#person">Hennrico episcopo Ratisponensi de Rotenekk</seg>, qui hoc festum instituit</metamark>. </ab>
+            <seg ana="#IN" type="incipit">In medio ecclesiae</seg>. Secunda oratio pro domino <seg ana="#person">Hennrico episcopo Ratisponensi de Rotenekk</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
@@ -463,7 +463,7 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">In virtute tua</seg>. Secunda <metamark function="variant" xml:id="V.82">oratio pro <seg ana="#person">Kalhoho archidiacono</seg>, qui hoc festum instituit</metamark>. <pb n="343"/></ab>
+            <seg ana="#IN" type="incipit">In virtute tua</seg>. Secunda oratio pro <seg ana="#person">Kalhoho archidiacono</seg>, qui hoc festum instituit. <pb n="343"/></ab>
         </div>
       </div>
       <div>
@@ -471,44 +471,44 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Os iusti</seg>. <metamark function="variant" xml:id="V.83">Secunda <note type="supplied">oratio</note> pro domino <seg ana="#function">praeposito sancti Magni</seg>.</metamark>
+            <seg ana="#IN" type="incipit">Os iusti</seg>. Secunda <note type="supplied">oratio</note> pro domino <seg ana="#function">praeposito sancti Magni</seg>.
           </ab>
         </div>
       </div>
       <div>
-        <head><metamark function="variant" xml:id="V.84"><note type="supplied">IN TRICESIMO ASSUMPTIONIS</note></metamark></head>
+        <head><note type="supplied">IN TRICESIMO ASSUMPTIONIS</note></head>
         <div>
-          <metamark function="variant" xml:id="V.85"><ab>Nota. Tricesimus festi assumptionis beatissimae virginis Mariae omni anno peragitur proxima die ante festum exaltationis sanctae crucis. </ab></metamark>
+          <ab>Nota. Tricesimus festi assumptionis beatissimae virginis Mariae omni anno peragitur proxima die ante festum exaltationis sanctae crucis.</ab>
         </div>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.86">Ad missam</metamark></label></ab>
-          <metamark function="variant" xml:id="V.87"><ab> per totum ut in die sancto. Secunda oratio pro domino <seg ana="#person">Connrado Haunspeck summissario</seg>, qui hoc festum instituit. </ab></metamark>
+          <ab ana="#head"><label>Ad missam</label></ab>
+          <ab> per totum ut in die sancto. Secunda oratio pro domino <seg ana="#person">Connrado Haunspeck summissario</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
-        <head><metamark function="variant" xml:id="V.88"><note type="supplied">IN QUADRAGESIMO ASSUMPTIONIS</note></metamark></head>
+        <head><note type="supplied">IN QUADRAGESIMO ASSUMPTIONIS</note></head>
         <div>
-          <metamark function="variant" xml:id="V.89"><ab>In nativitate sanctae Teclae virginis peragitur quadragesimus assumptionis Mariae virginis, quem instituit dominus <seg ana="#person">Nicolaus Purchardi de Ambega summissarius huius ecclesiae</seg> perpetuis temporibus sollemnizari. Pro quo exposuit primo sexaginta florenos in auro. Item antiphonarium novum pro duodecim libris denariorum. Item graduale ad <seg ana="#function">scholas</seg> valens quattuor libris. Pro quibus omnibus domini de capitulo dabunt decem solidos denariorum Ratisponensium annuatim in festo praedicto sanctae Teclae. Qui sic expenduntur: Primo duodecim denarii <seg ana="#function">componistis</seg><add type="marginal">componistis, laeuter. </add> ad <seg ana="#place">turri<note type="supplied">m</note></seg> pro terroribus pulsandis. Item sex denarii ad offertorium pro familiariis. Postea omnibus <seg ana="#function">vicariis</seg> et <seg ana="#function">altaristis chori</seg> de nocte duo denarii, et ad missam duo <gap/> cum admonitione impositionis unius collectae pro defuncto sacerdote. Reliquum vero, quod supererit, domini dividunt intra se. </ab></metamark>
+          <ab>In nativitate sanctae Teclae virginis peragitur quadragesimus assumptionis Mariae virginis, quem instituit dominus <seg ana="#person">Nicolaus Purchardi de Ambega summissarius huius ecclesiae</seg> perpetuis temporibus sollemnizari. Pro quo exposuit primo sexaginta florenos in auro. Item antiphonarium novum pro duodecim libris denariorum. Item graduale ad <seg ana="#function">scholas</seg> valens quattuor libris. Pro quibus omnibus domini de capitulo dabunt decem solidos denariorum Ratisponensium annuatim in festo praedicto sanctae Teclae. Qui sic expenduntur: Primo duodecim denarii <seg ana="#function">componistis</seg><add type="marginal">componistis, laeuter. </add> ad <seg ana="#place">turri<note type="supplied">m</note></seg> pro terroribus pulsandis. Item sex denarii ad offertorium pro familiariis. Postea omnibus <seg ana="#function">vicariis</seg> et <seg ana="#function">altaristis chori</seg> de nocte duo denarii, et ad missam duo <gap/> cum admonitione impositionis unius collectae pro defuncto sacerdote. Reliquum vero, quod supererit, domini dividunt intra se.</ab>
         </div>
       </div>
       <div>
         <head>DE SANCTO RUPERTO</head>
         <div>
-          <metamark function="variant" xml:id="V.90"><ab subtype="marginal">Ad 25 septembris ut in indice huius codicis videndum. </ab></metamark>
+          <ab subtype="marginal">Ad 25 septembris ut in indice huius codicis videndum.</ab>
         </div>
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
             <seg ana="#IN" type="incipit">Statuit ei</seg>. Secunda <note type="supplied">oratio</note>
-            <metamark function="variant" xml:id="V.91">pro domino <seg ana="#person">Cunnrado de Chefring</seg>, qui hoc festum instituit</metamark>. </ab>
+            pro domino <seg ana="#person">Cunnrado de Chefring</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
-        <head><metamark function="variant" xml:id="V.92">IN NATIVITATE SANCTORUM CYPRIANI MARTYRIS ET IUSTINAE VIRGINIS</metamark></head>
+        <head>IN NATIVITATE SANCTORUM CYPRIANI MARTYRIS ET IUSTINAE VIRGINIS</head>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.93">Ad missam</metamark></label></ab>
-          <metamark function="variant" xml:id="V.94"><ab>
-              <seg ana="#IN" type="incipit">Salus autem</seg>. Secunda <note type="supplied">oratio</note> pro domino <seg ana="#person">Chunrado de Curia canonico</seg>, qui hoc festum instituit. </ab></metamark>
+          <ab ana="#head"><label>Ad missam</label></ab>
+          <ab>
+              <seg ana="#IN" type="incipit">Salus autem</seg>. Secunda <note type="supplied">oratio</note> pro domino <seg ana="#person">Chunrado de Curia canonico</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
@@ -516,19 +516,19 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Os iusti</seg>. <metamark function="variant" xml:id="V.95">Secunda oratio pro domino <seg ana="#person">Hennrico duce <choice>
+            <seg ana="#IN" type="incipit">Os iusti</seg>. Secunda oratio pro domino <seg ana="#person">Hennrico duce <choice>
                   <sic>Babariae</sic>
                   <corr>Bavariae</corr>
-                </choice></seg>, qui hoc festum instituit.</metamark>
+                </choice></seg>, qui hoc festum instituit.
           </ab>
         </div>
       </div>
       <div>
-        <head><metamark function="variant" xml:id="V.96">IN OCTAVA SANCTI MICHAELIS</metamark></head>
+        <head>IN OCTAVA SANCTI MICHAELIS</head>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.97">Ad missam</metamark></label></ab>
-          <metamark function="variant" xml:id="V.98"><ab>
-              <seg ana="#IN" type="incipit">Benedicite domino</seg>. Secunda oratio pro domino <seg ana="#person">Chunnrado de Satelpogen</seg>, qui <pb n="344"/>hoc festum instituit. Et dantur sex denarii ad offertorium. </ab></metamark>
+          <ab ana="#head"><label>Ad missam</label></ab>
+          <ab>
+              <seg ana="#IN" type="incipit">Benedicite domino</seg>. Secunda oratio pro domino <seg ana="#person">Chunnrado de Satelpogen</seg>, qui <pb n="344"/>hoc festum instituit. Et dantur sex denarii ad offertorium.</ab>
         </div>
       </div>
       <div>
@@ -536,23 +536,23 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Statuit ei</seg>. Secunda oratio <metamark function="variant" xml:id="V.99">pro domino <seg ana="#person">episcopo Ratisponensi Heinrico dicto de Rotenekke</seg>, qui hoc festum instituit</metamark>. </ab>
+            <seg ana="#IN" type="incipit">Statuit ei</seg>. Secunda oratio pro domino <seg ana="#person">episcopo Ratisponensi Heinrico dicto de Rotenekke</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
-        <head><metamark function="variant" xml:id="V.100">IN TRANSLATIONE SANCTI ERHARDI EPISCOPI</metamark></head>
+        <head>IN TRANSLATIONE SANCTI ERHARDI EPISCOPI</head>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.101">Ad missam</metamark></label></ab>
-          <metamark function="variant" xml:id="V.102"><ab>
-              <seg ana="#IN" type="incipit">Statuit ei</seg>. Secunda oratio pro domino <seg ana="#person">Ioanne Ock canonico et confratre nostro</seg>, qui hoc festum instituit. Et debent dari praesentiae per totum <seg ana="#function">chorum</seg> sex denarii pro collecta imponenda. </ab></metamark>
+          <ab ana="#head"><label>Ad missam</label></ab>
+          <ab>
+              <seg ana="#IN" type="incipit">Statuit ei</seg>. Secunda oratio pro domino <seg ana="#person">Ioanne Ock canonico et confratre nostro</seg>, qui hoc festum instituit. Et debent dari praesentiae per totum <seg ana="#function">chorum</seg> sex denarii pro collecta imponenda.</ab>
         </div>
       </div>
       <div>
         <head>IN TRANSLATIONE SANCTI AUGUSTINI EPISCOPI</head>
         <div type="time:1">
-          <ab ana="#head"><label><metamark function="variant" xml:id="V.103">Ad missam</metamark></label></ab>
-          <metamark function="variant" xml:id="V.104"><ab>
-              <seg ana="#IN" type="incipit">In medio ecclesiae</seg>. Secunda oratio pro domino <seg ana="#person">Heinrico de Rotenekk episcopo Ratisponensi</seg>, qui hoc festum instituit. </ab></metamark>
+          <ab ana="#head"><label>Ad missam</label></ab>
+          <ab>
+              <seg ana="#IN" type="incipit">In medio ecclesiae</seg>. Secunda oratio pro domino <seg ana="#person">Heinrico de Rotenekk episcopo Ratisponensi</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
@@ -560,7 +560,7 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">In virtute tua</seg>. Secunda <metamark function="variant" xml:id="V.105">oratio pro domino <seg ana="#person">Chunrado dicto de Lupurchk</seg>, qui hoc festum instituit</metamark>. </ab>
+            <seg ana="#IN" type="incipit">In virtute tua</seg>. Secunda oratio pro domino <seg ana="#person">Chunrado dicto de Lupurchk</seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
@@ -568,18 +568,18 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" subtype="supplied" type="incipit">Gaudeamus</seg>. Secunda <metamark function="variant" xml:id="V.106">oratio pro domino <seg ana="#person">Heinrico duce <choice>
+            <seg ana="#IN" subtype="supplied" type="incipit">Gaudeamus</seg>. Secunda oratio pro domino <seg ana="#person">Heinrico duce <choice>
                   <sic>Babariae</sic>
                   <corr>Bavariae</corr>
-                </choice></seg>, qui hoc festum instituit</metamark>. </ab>
+                </choice></seg>, qui hoc festum instituit.</ab>
         </div>
       </div>
       <div>
         <head>DE SANCTO LEONARDO</head>
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
-          <metamark function="variant" xml:id="V.107"><ab>
-              <seg ana="#IN" type="incipit">Os iusti</seg>. Secunda <note type="supplied">oratio</note> pro domino <seg ana="#person">Philippo scolastico ecclesiae maioris</seg>. </ab></metamark>
+          <ab>
+              <seg ana="#IN" type="incipit">Os iusti</seg>. Secunda <note type="supplied">oratio</note> pro domino <seg ana="#person">Philippo scolastico ecclesiae maioris</seg>.</ab>
         </div>
       </div>
       <div>
@@ -588,7 +588,7 @@
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
             <seg ana="#IN" subtype="supplied" type="incipit">Gaudeamus omnes</seg>. Secunda <note type="supplied">oratio</note>
-            <metamark function="variant" xml:id="V.108">pro domino <seg ana="#person">Ioanne episcopo Ratisponensi</seg>, qui hoc festum instituit. Et dentur praesentiae per totum <seg ana="#function">chorum</seg>. Et dantur sex denarii ad offertorium pro collecta</metamark>. </ab>
+            pro domino <seg ana="#person">Ioanne episcopo Ratisponensi</seg>, qui hoc festum instituit. Et dentur praesentiae per totum <seg ana="#function">chorum</seg>. Et dantur sex denarii ad offertorium pro collecta.</ab>
         </div>
       </div>
       <div>
@@ -596,7 +596,7 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Statuit ei</seg>. Secunda <metamark function="variant" xml:id="V.109">oratio pro domino <seg ana="#person">Ottone dicto de Hagentrul canonico</seg>, qui hoc festum instituit</metamark>. <pb n="345"/></ab>
+            <seg ana="#IN" type="incipit">Statuit ei</seg>. Secunda oratio pro domino <seg ana="#person">Ottone dicto de Hagentrul canonico</seg>, qui hoc festum instituit. <pb n="345"/></ab>
         </div>
       </div>
       <div>
@@ -604,8 +604,8 @@
         <div type="time:1">
           <ab ana="#head"><label>Ad missam</label></ab>
           <ab>
-            <seg ana="#IN" type="incipit">Gaudeamus</seg>. Secunda <metamark function="variant" xml:id="V.110">oratio pro domino <seg ana="#person">Heinricho de Teispech subdiacono</seg>, qui hoc festum instituit</metamark>. </ab>
-          <metamark function="variant" xml:id="V.111"><ab>Finitum est breviarium istud in vigilia Mariae Magdalenae anno domini millesimo quadringentesimo quadragesimo secundo. </ab></metamark>
+            <seg ana="#IN" type="incipit">Gaudeamus</seg>. Secunda oratio pro domino <seg ana="#person">Heinricho de Teispech subdiacono</seg>, qui hoc festum instituit.</ab>
+          <ab>Finitum est breviarium istud in vigilia Mariae Magdalenae anno domini millesimo quadringentesimo quadragesimo secundo.</ab>
         </div>
       </div>
     </body>
