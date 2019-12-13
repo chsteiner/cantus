@@ -34,7 +34,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body>
+    <body xml:space="preserve">
       <div>
         <head><note type="supplied"><metamark function="variant" xml:id="V.1">PROLOGUS</metamark></note></head>
         <div>
