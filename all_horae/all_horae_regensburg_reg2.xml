@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>List of Incipits and Genres</title>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table cols="2">
+                <head>Horae</head>
+                <row>
+                    <cell role="horae">Missa</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad missam</cell>
+                    <cell>MI</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad processionem</cell>
+                    <cell>PRO</cell>
+                </row>
+                <row>
+                    <cell role="horae">processio</cell>
+                    <cell>PRO</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad nonam</cell>
+                    <cell>N</cell>
+                </row>
+                <row>
+                    <cell role="horae">De ludo in ascensione</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">Post vesperas</cell>
+                    <cell>X</cell>
+                </row>
+                <row>
+                    <cell role="horae">ad completorium</cell>
+                    <cell>C</cell>
+                </row>
+                <row>
+                    <cell role="horae">Ad aspersionem</cell>
+                    <cell>X</cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>

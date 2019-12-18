@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>List of Feasts</title>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table cols="2">
+                <head>Feasts</head>
+                <row role="label">
+                    <cell role="label">Feast</cell>
+                    <cell role="label">Cantus ID</cell>
+                    <cell role="label">Commune</cell>
+                </row>
+                <row n="2">
+                    <cell>PROLOGUS</cell>
+                    <cell ana="CDB">add00001</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="3">
+                    <cell>INCIPIT LIBER ORDINARIUS ECCLESIAE RATISPONENSIS</cell>
+                    <cell ana="CDB">add99999</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="4">
+                    <cell>IN FESTO SANCTI BLASII</cell>
+                    <cell ana="CDB">14020300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="5">
+                    <cell>IN FESTO SANCTI BENEDICTI ABBATIS</cell>
+                    <cell ana="CDB">14032100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="6">
+                    <cell>DOMINICA IN QUINQUAGESIMA</cell>
+                    <cell ana="CDB">06031000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="7">
+                    <cell>DOMINICA RESURRECTIONIS</cell>
+                    <cell ana="CDB">08011000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="8">
+                    <cell>IN TERTIA DOMINICA POST OCTAVAM RESURRECTIONIS</cell>
+                    <cell ana="CDB"> </cell>
+                    <cell ana="Commune">08041000</cell>
+                </row>
+                <row n="9">
+                    <cell>IN FESTO SANCTI MARCI</cell>
+                    <cell ana="CDB">14042500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="10">
+                    <cell>IN VIGILIA APOSTOLORUM PHILIPPI ET IACOBI</cell>
+                    <cell ana="CDB">14043030</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="11">
+                    <cell>IN DIEBUS ROGATIONUM. FERIA SECUNDA</cell>
+                    <cell ana="CDB">08062000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="12">
+                    <cell>FERIA TERTIA ROGATIONUM</cell>
+                    <cell ana="CDB">08063000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="13">
+                    <cell>QUARTA FERIA IN VIGILIA ASCENSIONIS</cell>
+                    <cell ana="CDB">08064000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="14">
+                    <cell>FESTO ASCENSIONIS</cell>
+                    <cell ana="CDB">08065000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="15">
+                    <cell>IN FESTO PENTECOSTES</cell>
+                    <cell ana="CDB">08081000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="16">
+                    <cell>OCTAVA PENTECOSTES</cell>
+                    <cell ana="CDB">08081008</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="17">
+                    <cell>FERIA SECUNDA POST OCTAVAM PENTECOSTES</cell>
+                    <cell ana="CDB">09012000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="18">
+                    <cell>FERIA QUARTA ANTE FESTUM CORPORIS CHRISTI</cell>
+                    <cell ana="CDB">09014000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="19">
+                    <cell>IN FESTO CORPORIS CHRISTI</cell>
+                    <cell ana="CDB">09015000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="20">
+                    <cell>DOMINICA INFRA OCTAVAM CORPORIS CHRISTI</cell>
+                    <cell ana="CDB">09021010</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="21">
+                    <cell>IN OCTAVA CORPORIS CHRISTI</cell>
+                    <cell ana="CDB">09025000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="22">
+                    <cell>DE SABBATO</cell>
+                    <cell ana="CDB">04007000</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="23">
+                    <cell>IN NATIVITATE SANCTI ERASMI</cell>
+                    <cell ana="CDB">14060300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="24">
+                    <cell>IN NATIVITATE SANCTORUM ACHACII ET SOCIORUM EIUS</cell>
+                    <cell ana="CDB">14062220</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="25">
+                    <cell>IN FESTO SANCTORUM IOANNIS ET PAULI</cell>
+                    <cell ana="CDB">14062600</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="26">
+                    <cell>IN VIGILIA SANCTI PETRI</cell>
+                    <cell ana="CDB">14062810</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="27">
+                    <cell>IN FESTO VISITATIONIS BEATAE VIRGINIS MARIAE</cell>
+                    <cell ana="CDB">14070200</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="28">
+                    <cell>IN TRANSLATIONE SANCTAE CATHARINAE</cell>
+                    <cell ana="CDB">14070510</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="29">
+                    <cell>IN NATIVITATE SANCTAE MARGARETHAE</cell>
+                    <cell ana="CDB">14072010</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="30">
+                    <cell>IN FESTO DIVISIONIS APOSTOLORUM</cell>
+                    <cell ana="CDB">14071510</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="31">
+                    <cell>IN NATIVITATE SANCTI ALEXI</cell>
+                    <cell ana="CDB">14071700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="32">
+                    <cell>IN NATIVITATE SANCTAE CHRISTINAE</cell>
+                    <cell ana="CDB">14072400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="33">
+                    <cell>IN FESTO SANCTI IACOBI</cell>
+                    <cell ana="CDB">14072500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="34">
+                    <cell>IN NATIVITATE SANCTAE ANNAE MATRIS BEATAE VIRGINIS</cell>
+                    <cell ana="CDB">14072610</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="35">
+                    <cell>IN FESTO PANTALEONIS</cell>
+                    <cell ana="CDB">14072700</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="36">
+                    <cell>IN FESTO SANCTAE MARTHAE VIRGINIS</cell>
+                    <cell ana="CDB">14072930</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="37">
+                    <cell>IN FESTO SANCTI PETRI APOSTOLI</cell>
+                    <cell ana="CDB">14062900</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="38">
+                    <cell>IN INVENTIONE SANCTI STEPHANI PROTOMARTYRIS</cell>
+                    <cell ana="CDB">14080300</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="39">
+                    <cell>IN NATIVITATE SANCTI DOMINICI</cell>
+                    <cell ana="CDB">14080820</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="40">
+                    <cell>IN TRANSFIGURATIONE DOMINI</cell>
+                    <cell ana="CDB">14080600</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="41">
+                    <cell>DE SANCTO BERNARDO</cell>
+                    <cell ana="CDB">14082010</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="42">
+                    <cell>IN NATIVITATE SANCTI AUGUSTINI EPISCOPI</cell>
+                    <cell ana="CDB">14082800</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="43">
+                    <cell>IN DECOLLATIONE SANCTI IOANNIS BAPTISTAE</cell>
+                    <cell ana="CDB">14082900</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="44">
+                    <cell>DE SANCTO MAGNO CONFESSORE</cell>
+                    <cell ana="CDB">14090610</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="45">
+                    <cell>IN TRICESIMO ASSUMPTIONIS</cell>
+                    <cell ana="CDB">14091310</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="46">
+                    <cell>IN QUADRAGESIMO ASSUMPTIONIS</cell>
+                    <cell ana="CDB">14092310</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="47">
+                    <cell>DE SANCTO RUPERTO</cell>
+                    <cell ana="CDB">14092420</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="48">
+                    <cell>IN NATIVITATE SANCTORUM CYPRIANI MARTYRIS ET IUSTINAE VIRGINIS</cell>
+                    <cell ana="CDB">14092600</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="49">
+                    <cell>IN NATIVITATE SANCTI FRANCISCI CONFESSORIS</cell>
+                    <cell ana="CDB">14100400</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="50">
+                    <cell>IN OCTAVA SANCTI MICHAELIS</cell>
+                    <cell ana="CDB">14100610</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="51">
+                    <cell>IN TRANSLATIONE SANCTI WOLFGANGI EPISCOPI</cell>
+                    <cell ana="CDB">14100720</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="52">
+                    <cell>IN TRANSLATIONE SANCTI ERHARDI EPISCOPI</cell>
+                    <cell ana="CDB">14100860</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="53">
+                    <cell>IN TRANSLATIONE SANCTI AUGUSTINI EPISCOPI</cell>
+                    <cell ana="CDB">14101120</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="54">
+                    <cell>IN NATIVITATE SANCTI COLOMANI MARTYRIS</cell>
+                    <cell ana="CDB">14101320</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="55">
+                    <cell>IN NATIVITATE UNDECIM MILIUM VIRGINUM</cell>
+                    <cell ana="CDB">14102100</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="56">
+                    <cell>DE SANCTO LEONARDO</cell>
+                    <cell ana="CDB">14110610</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="57">
+                    <cell>DE SANCTA ELISABETH</cell>
+                    <cell ana="CDB">14111900</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="58">
+                    <cell>DE SANCTO CORBINIANO</cell>
+                    <cell ana="CDB">14112020</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+                <row n="59">
+                    <cell>IN NATIVITATE SANCTAE MARTYRIS ET VIRGINIS CATHARINAE</cell>
+                    <cell ana="CDB">14112500</cell>
+                    <cell ana="Commune"> </cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>
