@@ -169,6 +169,16 @@
             <series>PL 161, 1041-1344</series>
         </bibl>
     </item>
+    <item xml:id="HistoriaLongobardorum">
+        <bibl>
+            <title>Historia Longobardorum</title>
+            <author>Paulus Diaconus</author>
+            <editor>BETHMANN u. WAITZ</editor>
+            <placeName>Hannover</placeName>
+            <date>1878</date>
+            <series>MGH.SL I, 45-187</series>
+        </bibl>
+    </item>
     <item xml:id="AH">
         <bibl>
             <title>Analecta hymnica medii aevi Vol. I-LV</title>
