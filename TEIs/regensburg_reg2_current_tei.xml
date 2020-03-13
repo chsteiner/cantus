@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader xml:id="regensburg.reg2">
     <fileDesc>
       <titleStmt>
@@ -39,13 +38,11 @@
       </titleStmt>
       <publicationStmt>
         <publisher>
-          <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/ikm/home/"
-            >Österreichische Akademie der Wissenschaften Institut für kunst- und musikhistorische
+          <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/ikm/home/">Österreichische Akademie der Wissenschaften Institut für kunst- und musikhistorische
             Forschungen, Abteilung Musikwissenschaft</orgName>
         </publisher>
         <authority>
-          <orgName ref="http://d-nb.info/gnd/1137284463"
-            corresp="https://informationsmodellierung.uni-graz.at">Zentrum für
+          <orgName ref="http://d-nb.info/gnd/1137284463" corresp="https://informationsmodellierung.uni-graz.at">Zentrum für
             Informationsmodellierung - Austrian Centre for Digital Humanities,
             Karl-Franzens-Universität Graz</orgName>
         </authority>
@@ -114,8 +111,7 @@
         <list type="secondary_sources">
           <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-SFxi480/manifest"/>
         </list>
-        <list type="traktate"
-          xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+        <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
           <item xml:id="Durandus">
             <bibl>
               <title>Rationale Divinorum Officiorum</title>
@@ -348,9 +344,7 @@
               <placeName/>
               <date/>
               <series/>
-              <ref
-                target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="
-              />
+              <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
             </bibl>
           </item>
         </list>
@@ -406,8 +400,7 @@
           Diözese Regensburg</ab>
         <p style="primary">Die Handschrift München Bayerische Staatsbibliothek Clm 26947 beinhaltet
           neben einem Kalendar einen <hi rend="italic">Liber Ordinarius</hi> für den Gebrauch in der
-          Regensburger Bischofskirche. Das Incipit verweist eindeutig auf Regensburg: <hi
-            rend="italic">Incipit breviarium secundum ordinem Ratisbonensem</hi>. Es handelt sich
+          Regensburger Bischofskirche. Das Incipit verweist eindeutig auf Regensburg: <hi rend="italic">Incipit breviarium secundum ordinem Ratisbonensem</hi>. Es handelt sich
           hier um die einzige erhaltene und vollständige Kopie des Regelbuchs. Der Codex wurde bis
           1876 in der <hi rend="italic">Biblioteca Publica Ratisbonensis</hi> aufbewahrt und kam
           erst in dem genannten Jahr an die Hofbibliothek in München</p>
@@ -439,8 +432,7 @@
           die Erwähnung eines hölzernen Behelfstabernakels (truca) in der Sakristei für die Zeit von
           Gründonnerstag bis Karsamstag. Anstelle der allgemein üblichen Armenfußwaschung am
           Gründonnerstag trat im Regensburger Dom die von Domkanonikern, ehrwürdigen Laien und
-          Bürgern, denen als Geschenk unter anderen Wein und Met überreicht wurde: … <hi
-            rend="italic">Deinde iterum veniat cellerarius cum iunioribus adultis et portent in
+          Bürgern, denen als Geschenk unter anderen Wein und Met überreicht wurde: … <hi rend="italic">Deinde iterum veniat cellerarius cum iunioribus adultis et portent in
             novis scutellis primo seniori, deinde omnibus canonicis clericis ibi sedentibus et
             laicis honestis et civibus quattuor poma et duas oblatas et picarium vini et
             medonis</hi> …</p>
@@ -470,10 +462,8 @@
         <ab type="head">A Liber ordinarius for the cathedral church and diocese of Regensburg.</ab>
         <p style="primary">The manuscript München Bayerische Staatsbibliothek Clm 26947 contains not
           only a calendar, but a <hi rend="italic">Liber ordinarius</hi> for use in Regensburg's
-          episcopal church. The Incipit contains a clear reference to Regensburg: <hi rend="italic"
-            >Incipit breviarium secundum ordinem Ratisbonensem</hi>. This manuscript is the only
-          surviving complete copy of the rulebook. The codex was kept in the <hi rend="italic"
-            >Biblioteca Publica Ratisbonensis</hi> until 1876, when it was moved to Munich's court
+          episcopal church. The Incipit contains a clear reference to Regensburg: <hi rend="italic">Incipit breviarium secundum ordinem Ratisbonensem</hi>. This manuscript is the only
+          surviving complete copy of the rulebook. The codex was kept in the <hi rend="italic">Biblioteca Publica Ratisbonensis</hi> until 1876, when it was moved to Munich's court
           library.</p>
         <p>The locations, altars and other items mentioned in the <hi rend="italic">Liber
             ordinarius</hi> clearly refer to the cathedral of St. Peter and the neighbouring sacred
@@ -488,11 +478,9 @@
         <p>Among the codex's many special liturgical features, the ritual acts performed at the
           cathedral's choir screen, built in 1320, stand out particularly. They focused upon the two
           screen altars, dedicated to the Holy Cross and the Virgin Mary respectively. This is also
-          where the <hi rend="italic">Planctus Mariae</hi> took place on Good Friday. This <hi
-            rend="italic">Lamentatio</hi> was probably introduced at the behest of the cathedral
+          where the <hi rend="italic">Planctus Mariae</hi> took place on Good Friday. This <hi rend="italic">Lamentatio</hi> was probably introduced at the behest of the cathedral
           canon Konrad von Megenberg (1309-1374), who became familiar with this custom during his
-          sojourns in France. Megenberg is also the author of liturgical treatises as well as a <hi
-            rend="italic">vita</hi> and a <hi rend="italic">historia</hi> for the local Regensburg
+          sojourns in France. Megenberg is also the author of liturgical treatises as well as a <hi rend="italic">vita</hi> and a <hi rend="italic">historia</hi> for the local Regensburg
           saint Erhard (these were not included in the <hi rend="italic">Liber ordinarius</hi>). The
           instructions for the diocese's patron saint Wolfgang's feast set out two masses, but the
             <hi rend="italic">historia</hi> by Hermannus Contractus was not customarily used during
@@ -502,12 +490,10 @@
           St. Stephanus in the cloisters). The high number of liturgical functionaries is unusual:
           the bishop, canons, provost, dean, choir, <hi rend="italic">schola</hi>, cantors etc., as
           well as <hi rend="italic">ad minus duodecim canonicis sancti Ioannis</hi>. Another
-          interesting feature is the mention of a makeshift wooden tabernacle (<hi rend="italic"
-            >truca</hi>) in the vestry for the period from Maundy Thursday to Easter Saturday.
+          interesting feature is the mention of a makeshift wooden tabernacle (<hi rend="italic">truca</hi>) in the vestry for the period from Maundy Thursday to Easter Saturday.
           Instead of the usual washing of the feet of the poor on Maundy Thursday, in Regensburg
           Cathedral the feet of the cathedral canons, venerable laymen and citizens were washed.
-          These individuals were offered wine and mead as gifts among other things: … <hi
-            rend="italic">Deinde iterum veniat cellerarius cum iunioribus adultis et portent in
+          These individuals were offered wine and mead as gifts among other things: … <hi rend="italic">Deinde iterum veniat cellerarius cum iunioribus adultis et portent in
             novis scutellis primo seniori, deinde omnibus canonicis clericis ibi sedentibus et
             laicis honestis et civibus quattuor poma et duas oblatas et picarium vini et
             medonis</hi> …</p>
@@ -516,8 +502,7 @@
           the cathedral liturgy. Furthermore, a special office for St. Blasius, the patron saint of
           Regensburg's Dominican church, was customary. Other special liturgical features include
           special chants for St. Florinus from the Vinschgau in South Tyrol, whose relics were
-          already brought to Regensburg in the 10th century, as well as two feast days for the <hi
-            rend="italic">Visitatio Mariae</hi> (28 April and 2 July) and St. Thomas Becket (28
+          already brought to Regensburg in the 10th century, as well as two feast days for the <hi rend="italic">Visitatio Mariae</hi> (28 April and 2 July) and St. Thomas Becket (28
           December and the <hi rend="italic">translatio</hi> on 14 July). Of course the feast of the
           cathedral's dedication on 30 June is also present. An extensive collection of processional
           chants (<hi rend="italic">ad suffragium</hi>) on Trinity Sunday is typical of the liturgy
@@ -607,7 +592,7 @@
   <text>
     <body xml:space="preserve">
       <div>
-        <head xml:id="feast.add00001.1" corresp="#add99999"><note type="supplied">PROLOGUS</note></head>
+        <head xml:id="feast.add99999.1" corresp="#add99999"><note type="supplied">PROLOGUS</note></head>
         <div>
           <ab><pb n="316" xml:id="REG2.316"/>Excerpta in codice membraneo maiori forma, qui est Ratisbonae apud fratres minores conventuales.</ab>
         </div>
@@ -649,11 +634,11 @@
         </div>
       </div>
       <div>
-        <head xml:id="feast.08051000.7" corresp="08051000">IN TERTIA DOMINICA POST OCTAVAM RESURRECTIONIS</head>
+        <head xml:id="feast..7" corresp="08051000">IN TERTIA DOMINICA POST OCTAVAM RESURRECTIONIS</head>
         <div type="time:1">
-          <ab ana="#head"><label xml:id="office.nocdb.MI.4" n="MI"><note type="supplied">Ad missam</note></label></ab>
+          <ab ana="#head"><label xml:id="office..MI.4" n="MI"><note type="supplied">Ad missam</note></label></ab>
           <ab>
-              <seg xml:id="incipit.nocdb.MI.20" n="AH 50-240" ana="#SE" type="incipit">Rex deus dei agne</seg>, quam instituit <seg xml:id="person.magisterSybotoquondamscholasticusRatisponensis.nocdb.MI.6" ana="#person">magister Syboto quondam scholasticus Ratisponensis</seg>. Et cantatur omni dominica usque in ascensionem domini.</ab>
+              <seg xml:id="incipit..MI.20" n="AH 50-240" ana="#SE" type="incipit">Rex deus dei agne</seg>, quam instituit <seg xml:id="person.magisterSybotoquondamscholasticusRatisponensis..MI.6" ana="#person">magister Syboto quondam scholasticus Ratisponensis</seg>. Et cantatur omni dominica usque in ascensionem domini.</ab>
         </div>
       </div>
       <div>
