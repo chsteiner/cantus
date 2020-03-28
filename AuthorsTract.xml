@@ -201,6 +201,26 @@
             <ref target="http://cantusindex.org/"></ref>
         </bibl>
     </item>
+    <item xml:id="ConciliumBracarienseI">
+        <bibl>
+            <title>Concilium Bracariense I</title>
+            <author></author>
+            <editor></editor>
+            <placeName></placeName>
+            <date></date>
+            <series></series>
+        </bibl>
+    </item>
+    <item xml:id="ConciliumToletanumXI">
+        <bibl>
+            <title>Concilium Toletanum XI</title>
+            <author></author>
+            <editor></editor>
+            <placeName></placeName>
+            <date></date>
+            <series></series>
+        </bibl>
+    </item>
     <item xml:id="CorpOr">
         <bibl>
             <title>Corpus orationum Vol. I-XIII</title>
