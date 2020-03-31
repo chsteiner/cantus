@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list xmlns="http://www.tei-c.org/ns/1.0" type="traktate">
+<list type="traktate" xmlns="http://www.tei-c.org/ns/1.0">
     <item xml:id="Durandus">
         <bibl>
             <title>Rationale Divinorum Officiorum</title>
@@ -170,6 +169,16 @@
             <series>PL 161, 1041-1344</series>
         </bibl>
     </item>
+    <item xml:id="HistoriaLongobardorum">
+        <bibl>
+            <title>Historia Longobardorum</title>
+            <author>Paulus Diaconus</author>
+            <editor>BETHMANN u. WAITZ</editor>
+            <placeName>Hannover</placeName>
+            <date>1878</date>
+            <series>MGH.SL I, 45-187</series>
+        </bibl>
+    </item>
     <item xml:id="AH">
         <bibl>
             <title>Analecta hymnica medii aevi Vol. I-LV</title>
@@ -192,11 +201,31 @@
             <ref target="http://cantusindex.org/"></ref>
         </bibl>
     </item>
+    <item xml:id="ConciliumBracarienseI">
+        <bibl>
+            <title>Concilium Bracariense I</title>
+            <author></author>
+            <editor></editor>
+            <placeName></placeName>
+            <date></date>
+            <series></series>
+        </bibl>
+    </item>
+    <item xml:id="ConciliumToletanumXI">
+        <bibl>
+            <title>Concilium Toletanum XI</title>
+            <author></author>
+            <editor></editor>
+            <placeName></placeName>
+            <date></date>
+            <series></series>
+        </bibl>
+    </item>
     <item xml:id="CorpOr">
         <bibl>
             <title>Corpus orationum Vol. I-XIII</title>
             <author></author>
-            <editor>Edmond Eugene MOELLER, Jean-Marie CLÉMENT und Bertrandus COPPETIERS&apos;T WALLANT</editor>
+            <editor>Edmond Eugene MOELLER, Jean-Marie CLÉMENT und Bertrandus COPPETIERS'T WALLANT</editor>
             <placeName>Turnhout</placeName>
             <date>1992ff</date>
             <series>Corpus Christianorum, series Latina CLX B</series>
