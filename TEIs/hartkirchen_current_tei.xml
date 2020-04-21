@@ -19,14 +19,7 @@
                   <forename>Robert</forename>
                   <surname>Klugseder</surname>
                </persName>
-            </respStmt>
-            <respStmt>
-               <resp>contribution</resp>
-               <persName>
-                  <forename>Robert</forename>
-                  <surname>Klugseder</surname>
-               </persName>
-            </respStmt>
+            </respStmt> 
             <respStmt>
                <resp>digital processing, text-modelling</resp>
                <persName>
@@ -295,7 +288,7 @@
    <text>
       <body xml:space="preserve">    
       <div>
-        <head xml:id="feast.add00001.1" corresp="#add00001"><note type="supplied">PFARRAMTSBUCH HARTKIRCHEN AM INN</note></head> 
+        <head xml:id="add.1"> </head> 
         <div>
           <ab><pb n="001r" xml:id="HART.001r"/><note>Fünf Zeilen mit Nachträgen, schlecht lesbar</note></ab>
           <ab>Item <seg xml:id="person.pawer.add00001.comment.1" ana="#person"><unclear/>pawer</seg> zu <seg xml:id="place.Pocking.add00001.comment.1" ana="#place">Pocking</seg>
