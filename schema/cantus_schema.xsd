@@ -287,7 +287,7 @@
   <xs:element name="body">
     <xs:complexType>
       <xs:choice maxOccurs="unbounded">
-        <xs:element ref="ns1:div"/>
+        <xs:element name="div" type="ns1:div_1"/>
         <xs:element ref="ns1:pb"/>
       </xs:choice>
       <xs:attribute ref="xml:space" use="required"/>
@@ -435,13 +435,17 @@
       <xs:attribute ref="xml:id"/>
     </xs:complexType>
   </xs:element>
+  <xs:complexType name="div_1">
+    <xs:sequence>
+      <xs:element minOccurs="1" maxOccurs="1" ref="ns1:head"/>
+      <xs:element minOccurs="1" maxOccurs="1" ref="ns1:div"/>
+    </xs:sequence>
+  </xs:complexType>
   <xs:element name="div">
     <xs:complexType>
       <xs:sequence>
-        <xs:element minOccurs="0" ref="ns1:head"/>
         <xs:choice minOccurs="0" maxOccurs="unbounded">
           <xs:element ref="ns1:ab"/>
-          <xs:element ref="ns1:div"/>
           <xs:element ref="ns1:metamark"/>
           <xs:element ref="ns1:note"/>
           <xs:element ref="ns1:pb"/>
