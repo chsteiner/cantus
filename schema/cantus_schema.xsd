@@ -438,7 +438,10 @@
   <xs:complexType name="div_1">
     <xs:sequence>
       <xs:element minOccurs="1" maxOccurs="1" ref="ns1:head"/>
-      <xs:element minOccurs="1" maxOccurs="1" ref="ns1:div"/>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:div"/>
+        <xs:element ref="ns1:note"/>
+      </xs:choice>
     </xs:sequence>
   </xs:complexType>
   <xs:element name="div">
