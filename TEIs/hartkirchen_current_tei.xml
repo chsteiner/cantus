@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:id="hartkirchen">
       <fileDesc>
          <titleStmt>
-            <title type="main">
-              <pb n="1r" xml:id="REG.015r"/>PFARRAMTSBUCH HARTKIRCHEN AM INN</title>
+            <title type="main">PFARRAMTSBUCH HARTKIRCHEN AM INN</title>
             <title type="short">Hartkirchen</title>
             <title type="citation">Das Amtsbuch der Pfarre Hartkirchen am Inn</title>
-            <!-- verschiedene verantwortlichkeiten für digitale resource: Objektbezogen -->
             <respStmt>
                <resp>editor</resp>
                <persName>
@@ -38,10 +37,12 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/acdh/musikwissenschaft/">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage, Abteilung Musikwissenschaft</orgName>
+               <orgName ref="http://d-nb.info/gnd/1043809171"
+                        corresp="https://www.oeaw.ac.at/acdh/musikwissenschaft/">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage, Abteilung Musikwissenschaft</orgName>
             </publisher>
             <authority>
-               <orgName ref="http://d-nb.info/gnd/1137284463" corresp="https://informationsmodellierung.uni-graz.at">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+               <orgName ref="http://d-nb.info/gnd/1137284463"
+                        corresp="https://informationsmodellierung.uni-graz.at">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
             </authority>
             <distributor>
                <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
@@ -52,7 +53,6 @@
             <date when="2017">2017</date>
             <idno type="PID">o:cantus.regensburg</idno>
          </publicationStmt>
-         <!-- nicht objektbezogen; fürs gesamte Projekt-->
          <seriesStmt>
             <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network - semantisch erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
             <title ref="http://gams.uni-graz.at/cantus" xml:lang="en">Cantus Network - a semantically enriched digital edition of Libri ordinarii of the Salzburg metropolitan province.</title>
@@ -89,14 +89,13 @@
                <orgName>Österreichische Akademie der Wissenschaften: Digital Humanities. Langzeitprojekte zum kulturellen Erbe</orgName>
             </respStmt>
          </seriesStmt>
-         <!--objektbezogen-->
          <sourceDesc>
             <msDesc>
                <msIdentifier>
                   <altIdentifier>
                      <placeName>Pfarre Hartkirchen am Inn<date from="1490" to="1493">1490-1493</date>
                      </placeName>
-                    <idno n="D-Mhsa KL St. Nikola Passau 62">München, Bayerisches Hauptstaatsachiv, Kloster St. Nikola Passau, Amtsbücher und Akten 62</idno>
+                     <idno n="D-Mhsa KL St. Nikola Passau 62">München, Bayerisches Hauptstaatsachiv, Kloster St. Nikola Passau, Amtsbücher und Akten 62</idno>
                   </altIdentifier>
                </msIdentifier>
             </msDesc>
@@ -122,7 +121,6 @@
             <p>In scholarly studies of <emph>libri ordinarii</emph>, critical transcriptions of the Latin texts need to be followed up with an in-depth analysis of the origins of the liturgy and the commentaries. This project’s main aim will be to translate the <emph>libri ordinarii</emph> into TEI. As part of a second point of focus, the secondary sources – that is the liturgical and musical sources, such as graduals, missals, sequentiaries, antiphonars and so on – will be analysed and edited for uploading onto the online platform. The concrete shape of a chant, for example, will appear in its complete form (and with musical notation, if applicable) behind the incipits of the <emph>libri ordinarii</emph>.</p>
          </projectDesc>
       </encodingDesc>
-      <!--Objektbezogen-->
       <profileDesc>
          <abstract facs="#STARTPAGE_IMG" xml:lang="de">
             <ab type="image_title">Beginn des Pfarramtsbuches Hartkirchen am Inn (D-Mhsa KL St. Nikola Passau 62)</ab>
@@ -163,1447 +161,143 @@
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface start="#REG.VD">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-VD.jpg" xml:id="IMG.VD"/>
-      </surface>
-      <surface start="#REG.VDS">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-VDS.jpg" xml:id="IMG.VDS"/>
-      </surface>
-      <surface start="#REG.VSr">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-VSr.jpg" xml:id="IMG.VSr"/>
-      </surface>
-      <surface start="#REG.VSv">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-VSv.jpg" xml:id="IMG.VSv"/>
-      </surface>
-      <surface start="#REG.001r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-001r.jpg" xml:id="IMG.001r"/>
-      </surface>
-      <surface start="#REG.001v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-001v.jpg" xml:id="IMG.001v"/>
-      </surface>
-      <surface start="#REG.002r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-002r.jpg" xml:id="IMG.002r"/>
-      </surface>
-      <surface start="#REG.002v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-002v.jpg" xml:id="IMG.002v"/>
-      </surface>
-      <surface start="#REG.003r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-003r.jpg" xml:id="IMG.003r"/>
-      </surface>
-      <surface start="#REG.003v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-003v.jpg" xml:id="IMG.003v"/>
-      </surface>
-      <surface start="#REG.004r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-004r.jpg" xml:id="IMG.004r"/>
-      </surface>
-      <surface start="#REG.004v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-004v.jpg" xml:id="IMG.004v"/>
-      </surface>
-      <surface start="#REG.005r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-005r.jpg" xml:id="IMG.005r"/>
-      </surface>
-      <surface start="#REG.005v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-005v.jpg" xml:id="IMG.005v"/>
-      </surface>
-      <surface start="#REG.006r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-006r.jpg" xml:id="IMG.006r"/>
-      </surface>
-      <surface start="#REG.006v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-006v.jpg" xml:id="IMG.006v"/>
-      </surface>
-      <surface start="#REG.007r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-007r.jpg" xml:id="IMG.007r"/>
-      </surface>
-      <surface start="#REG.007v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-007v.jpg" xml:id="IMG.007v"/>
-      </surface>
-      <surface start="#REG.008r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-008r.jpg" xml:id="IMG.008r"/>
-      </surface>
-      <surface start="#REG.008v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-008v.jpg" xml:id="IMG.008v"/>
-      </surface>
-      <surface start="#REG.009r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-009r.jpg" xml:id="IMG.009r"/>
-      </surface>
-      <surface start="#REG.009v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-009v.jpg" xml:id="IMG.009v"/>
-      </surface>
-      <surface start="#REG.010r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-010r.jpg" xml:id="IMG.010r"/>
-      </surface>
-      <surface start="#REG.010v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-010v.jpg" xml:id="IMG.010v"/>
-      </surface>
-      <surface start="#REG.011r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-011r.jpg" xml:id="IMG.011r"/>
-      </surface>
-      <surface start="#REG.011v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-011v.jpg" xml:id="IMG.011v"/>
-      </surface>
-      <surface start="#REG.012r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-012r.jpg" xml:id="IMG.012r"/>
-      </surface>
-      <surface start="#REG.012v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-012v.jpg" xml:id="IMG.012v"/>
-      </surface>
-      <surface start="#REG.013r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-013r.jpg" xml:id="IMG.013r"/>
-      </surface>
-      <surface start="#REG.013v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-013v.jpg" xml:id="IMG.013v"/>
-      </surface>
-      <surface start="#REG.014r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-014r.jpg" xml:id="IMG.014r"/>
-      </surface>
-      <surface start="#REG.014v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-014v.jpg" xml:id="IMG.014v"/>
-      </surface>
-      <surface start="#REG.015r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-015r.jpg" xml:id="IMG.015r"/>
-      </surface>
-      <surface start="#REG.015v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-015v.jpg" xml:id="IMG.015v"/>
-      </surface>
-      <surface start="#REG.016r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-016r.jpg" xml:id="IMG.016r"/>
-      </surface>
-      <surface start="#REG.016v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-016v.jpg" xml:id="IMG.016v"/>
-      </surface>
-      <surface start="#REG.017r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-017r.jpg" xml:id="IMG.017r"/>
-      </surface>
-      <surface start="#REG.017v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-017v.jpg" xml:id="IMG.017v"/>
-      </surface>
-      <surface start="#REG.018r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-018r.jpg" xml:id="IMG.018r"/>
-      </surface>
-      <surface start="#REG.018v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-018v.jpg" xml:id="IMG.018v"/>
-      </surface>
-      <surface start="#REG.019r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-019r.jpg" xml:id="IMG.019r"/>
-      </surface>
-      <surface start="#REG.019v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-019v.jpg" xml:id="IMG.019v"/>
-      </surface>
-      <surface start="#REG.020r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-020r.jpg" xml:id="IMG.020r"/>
-      </surface>
-      <surface start="#REG.020v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-020v.jpg" xml:id="IMG.020v"/>
-      </surface>
-      <surface start="#REG.021r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-021r.jpg" xml:id="IMG.021r"/>
-      </surface>
-      <surface start="#REG.021v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-021v.jpg" xml:id="IMG.021v"/>
-      </surface>
-      <surface start="#REG.022r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-022r.jpg" xml:id="IMG.022r"/>
-      </surface>
-      <surface start="#REG.022v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-022v.jpg" xml:id="IMG.022v"/>
-      </surface>
-      <surface start="#REG.023r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-023r.jpg" xml:id="IMG.023r"/>
-      </surface>
-      <surface start="#REG.023v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-023v.jpg" xml:id="IMG.023v"/>
-      </surface>
-      <surface start="#REG.024r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-024r.jpg" xml:id="IMG.024r"/>
-      </surface>
-      <surface start="#REG.024v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-024v.jpg" xml:id="IMG.024v"/>
-      </surface>
-      <surface start="#REG.025r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-025r.jpg" xml:id="IMG.025r"/>
-      </surface>
-      <surface start="#REG.025v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-025v.jpg" xml:id="IMG.025v"/>
-      </surface>
-      <surface start="#REG.026r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-026r.jpg" xml:id="IMG.026r"/>
-      </surface>
-      <surface start="#REG.026v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-026v.jpg" xml:id="IMG.026v"/>
-      </surface>
-      <surface start="#REG.027r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-027r.jpg" xml:id="IMG.027r"/>
-      </surface>
-      <surface start="#REG.027v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-027v.jpg" xml:id="IMG.027v"/>
-      </surface>
-      <surface start="#REG.028r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-028r.jpg" xml:id="IMG.028r"/>
-      </surface>
-      <surface start="#REG.028v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-028v.jpg" xml:id="IMG.028v"/>
-      </surface>
-      <surface start="#REG.029r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-029r.jpg" xml:id="IMG.029r"/>
-      </surface>
-      <surface start="#REG.029v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-029v.jpg" xml:id="IMG.029v"/>
-      </surface>
-      <surface start="#REG.030r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-030r.jpg" xml:id="IMG.030r"/>
-      </surface>
-      <surface start="#REG.030v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-030v.jpg" xml:id="IMG.030v"/>
-      </surface>
-      <surface start="#REG.031r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-031r.jpg" xml:id="IMG.031r"/>
-      </surface>
-      <surface start="#REG.031v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-031v.jpg" xml:id="IMG.031v"/>
-      </surface>
-      <surface start="#REG.032r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-032r.jpg" xml:id="IMG.032r"/>
-      </surface>
-      <surface start="#REG.032v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-032v.jpg" xml:id="IMG.032v"/>
-      </surface>
-      <surface start="#REG.033r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-033r.jpg" xml:id="IMG.033r"/>
-      </surface>
-      <surface start="#REG.033v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-033v.jpg" xml:id="IMG.033v"/>
-      </surface>
-      <surface start="#REG.034r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-034r.jpg" xml:id="IMG.034r"/>
-      </surface>
-      <surface start="#REG.034v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-034v.jpg" xml:id="IMG.034v"/>
-      </surface>
-      <surface start="#REG.035r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-035r.jpg" xml:id="IMG.035r"/>
-      </surface>
-      <surface start="#REG.035v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-035v.jpg" xml:id="IMG.035v"/>
-      </surface>
-      <surface start="#REG.036r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-036r.jpg" xml:id="IMG.036r"/>
-      </surface>
-      <surface start="#REG.036v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-036v.jpg" xml:id="IMG.036v"/>
-      </surface>
-      <surface start="#REG.037r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-037r.jpg" xml:id="IMG.037r"/>
-      </surface>
-      <surface start="#REG.037v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-037v.jpg" xml:id="IMG.037v"/>
-      </surface>
-      <surface start="#REG.038r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-038r.jpg" xml:id="IMG.038r"/>
-      </surface>
-      <surface start="#REG.038v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-038v.jpg" xml:id="IMG.038v"/>
-      </surface>
-      <surface start="#REG.039r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-039r.jpg" xml:id="IMG.039r"/>
-      </surface>
-      <surface start="#REG.039v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-039v.jpg" xml:id="IMG.039v"/>
-      </surface>
-      <surface start="#REG.040r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-040r.jpg" xml:id="IMG.040r"/>
-      </surface>
-      <surface start="#REG.040v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-040v.jpg" xml:id="IMG.040v"/>
-      </surface>
-      <surface start="#REG.041r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-041r.jpg" xml:id="IMG.041r"/>
-      </surface>
-      <surface start="#REG.041v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-041v.jpg" xml:id="IMG.041v"/>
-      </surface>
-      <surface start="#REG.042r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-042r.jpg" xml:id="IMG.042r"/>
-      </surface>
-      <surface start="#REG.042v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-042v.jpg" xml:id="IMG.042v"/>
-      </surface>
-      <surface start="#REG.043r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-043r.jpg" xml:id="IMG.043r"/>
-      </surface>
-      <surface start="#REG.043v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-043v.jpg" xml:id="IMG.043v"/>
-      </surface>
-      <surface start="#REG.044r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-044r.jpg" xml:id="IMG.044r"/>
-      </surface>
-      <surface start="#REG.044v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-044v.jpg" xml:id="IMG.044v"/>
-      </surface>
-      <surface start="#REG.045r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-045r.jpg" xml:id="IMG.045r"/>
-      </surface>
-      <surface start="#REG.045v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-045v.jpg" xml:id="IMG.045v"/>
-      </surface>
-      <surface start="#REG.046r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-046r.jpg" xml:id="IMG.046r"/>
-      </surface>
-      <surface start="#REG.046v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-046v.jpg" xml:id="IMG.046v"/>
-      </surface>
-      <surface start="#REG.047r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-047r.jpg" xml:id="IMG.047r"/>
-      </surface>
-      <surface start="#REG.047v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-047v.jpg" xml:id="IMG.047v"/>
-      </surface>
-      <surface start="#REG.048r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-048r.jpg" xml:id="IMG.048r"/>
-      </surface>
-      <surface start="#REG.048v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-048v.jpg" xml:id="IMG.048v"/>
-      </surface>
-      <surface start="#REG.049r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-049r.jpg" xml:id="IMG.049r"/>
-      </surface>
-      <surface start="#REG.049v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-049v.jpg" xml:id="IMG.049v"/>
-      </surface>
-      <surface start="#REG.050r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-050r.jpg" xml:id="IMG.050r"/>
-      </surface>
-      <surface start="#REG.050v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-050v.jpg" xml:id="IMG.050v"/>
-      </surface>
-      <surface start="#REG.051r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-051r.jpg" xml:id="IMG.051r"/>
-      </surface>
-      <surface start="#REG.051v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-051v.jpg" xml:id="IMG.051v"/>
-      </surface>
-      <surface start="#REG.052r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-052r.jpg" xml:id="IMG.052r"/>
-      </surface>
-      <surface start="#REG.052v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-052v.jpg" xml:id="IMG.052v"/>
-      </surface>
-      <surface start="#REG.053r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-053r.jpg" xml:id="IMG.053r"/>
-      </surface>
-      <surface start="#REG.053v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-053v.jpg" xml:id="IMG.053v"/>
-      </surface>
-      <surface start="#REG.054r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-054r.jpg" xml:id="IMG.054r"/>
-      </surface>
-      <surface start="#REG.054v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-054v.jpg" xml:id="IMG.054v"/>
-      </surface>
-      <surface start="#REG.055r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-055r.jpg" xml:id="IMG.055r"/>
-      </surface>
-      <surface start="#REG.055v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-055v.jpg" xml:id="IMG.055v"/>
-      </surface>
-      <surface start="#REG.056r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-056r.jpg" xml:id="IMG.056r"/>
-      </surface>
-      <surface start="#REG.056v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-056v.jpg" xml:id="IMG.056v"/>
-      </surface>
-      <surface start="#REG.057r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-057r.jpg" xml:id="IMG.057r"/>
-      </surface>
-      <surface start="#REG.057v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-057v.jpg" xml:id="IMG.057v"/>
-      </surface>
-      <surface start="#REG.058r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-058r.jpg" xml:id="IMG.058r"/>
-      </surface>
-      <surface start="#REG.058v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-058v.jpg" xml:id="IMG.058v"/>
-      </surface>
-      <surface start="#REG.059r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-059r.jpg" xml:id="IMG.059r"/>
-      </surface>
-      <surface start="#REG.059v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-059v.jpg" xml:id="IMG.059v"/>
-      </surface>
-      <surface start="#REG.060r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-060r.jpg" xml:id="IMG.060r"/>
-      </surface>
-      <surface start="#REG.060v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-060v.jpg" xml:id="IMG.060v"/>
-      </surface>
-      <surface start="#REG.061r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-061r.jpg" xml:id="IMG.061r"/>
-      </surface>
-      <surface start="#REG.061v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-061v.jpg" xml:id="IMG.061v"/>
-      </surface>
-      <surface start="#REG.062r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-062r.jpg" xml:id="IMG.062r"/>
-      </surface>
-      <surface start="#REG.062v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-062v.jpg" xml:id="IMG.062v"/>
-      </surface>
-      <surface start="#REG.063r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-063r.jpg" xml:id="IMG.063r"/>
-      </surface>
-      <surface start="#REG.063v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-063v.jpg" xml:id="IMG.063v"/>
-      </surface>
-      <surface start="#REG.064r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-064r.jpg" xml:id="IMG.064r"/>
-      </surface>
-      <surface start="#REG.064v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-064v.jpg" xml:id="IMG.064v"/>
-      </surface>
-      <surface start="#REG.065r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-065r.jpg" xml:id="IMG.065r"/>
-      </surface>
-      <surface start="#REG.065v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-065v.jpg" xml:id="IMG.065v"/>
-      </surface>
-      <surface start="#REG.066r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-066r.jpg" xml:id="IMG.066r"/>
-      </surface>
-      <surface start="#REG.066v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-066v.jpg" xml:id="IMG.066v"/>
-      </surface>
-      <surface start="#REG.067r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-067r.jpg" xml:id="IMG.067r"/>
-      </surface>
-      <surface start="#REG.067v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-067v.jpg" xml:id="IMG.067v"/>
-      </surface>
-      <surface start="#REG.068r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-068r.jpg" xml:id="IMG.068r"/>
-      </surface>
-      <surface start="#REG.068v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-068v.jpg" xml:id="IMG.068v"/>
-      </surface>
-      <surface start="#REG.069r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-069r.jpg" xml:id="IMG.069r"/>
-      </surface>
-      <surface start="#REG.069v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-069v.jpg" xml:id="IMG.069v"/>
-      </surface>
-      <surface start="#REG.070r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-070r.jpg" xml:id="IMG.070r"/>
-      </surface>
-      <surface start="#REG.070v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-070v.jpg" xml:id="IMG.070v"/>
-      </surface>
-      <surface start="#REG.071r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-071r.jpg" xml:id="IMG.071r"/>
-      </surface>
-      <surface start="#REG.071v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-071v.jpg" xml:id="IMG.071v"/>
-      </surface>
-      <surface start="#REG.072r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-072r.jpg" xml:id="IMG.072r"/>
-      </surface>
-      <surface start="#REG.072v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-072v.jpg" xml:id="IMG.072v"/>
-      </surface>
-      <surface start="#REG.073r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-073r.jpg" xml:id="IMG.073r"/>
-      </surface>
-      <surface start="#REG.073v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-073v.jpg" xml:id="IMG.073v"/>
-      </surface>
-      <surface start="#REG.074r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-074r.jpg" xml:id="IMG.074r"/>
-      </surface>
-      <surface start="#REG.074v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-074v.jpg" xml:id="IMG.074v"/>
-      </surface>
-      <surface start="#REG.075r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-075r.jpg" xml:id="IMG.075r"/>
-      </surface>
-      <surface start="#REG.075v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-075v.jpg" xml:id="IMG.075v"/>
-      </surface>
-      <surface start="#REG.076r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-076r.jpg" xml:id="IMG.076r"/>
-      </surface>
-      <surface start="#REG.076v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-076v.jpg" xml:id="IMG.076v"/>
-      </surface>
-      <surface start="#REG.077r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-077r.jpg" xml:id="IMG.077r"/>
-      </surface>
-      <surface start="#REG.077v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-077v.jpg" xml:id="IMG.077v"/>
-      </surface>
-      <surface start="#REG.078r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-078r.jpg" xml:id="IMG.078r"/>
-      </surface>
-      <surface start="#REG.078v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-078v.jpg" xml:id="IMG.078v"/>
-      </surface>
-      <surface start="#REG.079r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-079r.jpg" xml:id="IMG.079r"/>
-      </surface>
-      <surface start="#REG.079v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-079v.jpg" xml:id="IMG.079v"/>
-      </surface>
-      <surface start="#REG.080r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-080r.jpg" xml:id="IMG.080r"/>
-      </surface>
-      <surface start="#REG.080v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-080v.jpg" xml:id="IMG.080v"/>
-      </surface>
-      <surface start="#REG.081r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-081r.jpg" xml:id="IMG.081r"/>
-      </surface>
-      <surface start="#REG.081v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-081v.jpg" xml:id="IMG.081v"/>
-      </surface>
-      <surface start="#REG.082r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-082r.jpg" xml:id="IMG.082r"/>
-      </surface>
-      <surface start="#REG.082v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-082v.jpg" xml:id="IMG.082v"/>
-      </surface>
-      <surface start="#REG.083r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-083r.jpg" xml:id="IMG.083r"/>
-      </surface>
-      <surface start="#REG.083v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-083v.jpg" xml:id="IMG.083v"/>
-      </surface>
-      <surface start="#REG.084r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-084r.jpg" xml:id="IMG.084r"/>
-      </surface>
-      <surface start="#REG.084v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-084v.jpg" xml:id="IMG.084v"/>
-      </surface>
-      <surface start="#REG.085r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-085r.jpg" xml:id="IMG.085r"/>
-      </surface>
-      <surface start="#REG.085v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-085v.jpg" xml:id="IMG.085v"/>
-      </surface>
-      <surface start="#REG.086r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-086r.jpg" xml:id="IMG.086r"/>
-      </surface>
-      <surface start="#REG.086v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-086v.jpg" xml:id="IMG.086v"/>
-      </surface>
-      <surface start="#REG.087r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-087r.jpg" xml:id="IMG.087r"/>
-      </surface>
-      <surface start="#REG.087v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-087v.jpg" xml:id="IMG.087v"/>
-      </surface>
-      <surface start="#REG.088r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-088r.jpg" xml:id="IMG.088r"/>
-      </surface>
-      <surface start="#REG.088v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-088v.jpg" xml:id="IMG.088v"/>
-      </surface>
-      <surface start="#REG.089r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-089r.jpg" xml:id="IMG.089r"/>
-      </surface>
-      <surface start="#REG.089v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-089v.jpg" xml:id="IMG.089v"/>
-      </surface>
-      <surface start="#REG.090r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-090r.jpg" xml:id="IMG.090r"/>
-      </surface>
-      <surface start="#REG.090v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-090v.jpg" xml:id="IMG.090v"/>
-      </surface>
-      <surface start="#REG.091r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-091r.jpg" xml:id="IMG.091r"/>
-      </surface>
-      <surface start="#REG.091v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-091v.jpg" xml:id="IMG.091v"/>
-      </surface>
-      <surface start="#REG.092r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-092r.jpg" xml:id="IMG.092r"/>
-      </surface>
-      <surface start="#REG.092v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-092v.jpg" xml:id="IMG.092v"/>
-      </surface>
-      <surface start="#REG.093r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-093r.jpg" xml:id="IMG.093r"/>
-      </surface>
-      <surface start="#REG.093v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-093v.jpg" xml:id="IMG.093v"/>
-      </surface>
-      <surface start="#REG.094r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-094r.jpg" xml:id="IMG.094r"/>
-      </surface>
-      <surface start="#REG.094v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-094v.jpg" xml:id="IMG.094v"/>
-      </surface>
-      <surface start="#REG.095r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-095r.jpg" xml:id="IMG.095r"/>
-      </surface>
-      <surface start="#REG.095v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-095v.jpg" xml:id="IMG.095v"/>
-      </surface>
-      <surface start="#REG.096r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-096r.jpg" xml:id="IMG.096r"/>
-      </surface>
-      <surface start="#REG.096v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-096v.jpg" xml:id="IMG.096v"/>
-      </surface>
-      <surface start="#REG.097r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-097r.jpg" xml:id="IMG.097r"/>
-      </surface>
-      <surface start="#REG.097v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-097v.jpg" xml:id="IMG.097v"/>
-      </surface>
-      <surface start="#REG.098r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-098r.jpg" xml:id="IMG.098r"/>
-      </surface>
-      <surface start="#REG.098v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-098v.jpg" xml:id="IMG.098v"/>
-      </surface>
-      <surface start="#REG.099r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-099r.jpg" xml:id="IMG.099r"/>
-      </surface>
-      <surface start="#REG.099v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-099v.jpg" xml:id="IMG.099v"/>
-      </surface>
-      <surface start="#REG.100r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-100r.jpg" xml:id="IMG.100r"/>
-      </surface>
-      <surface start="#REG.100v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-100v.jpg" xml:id="IMG.100v"/>
-      </surface>
-      <surface start="#REG.101r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-101r.jpg" xml:id="IMG.101r"/>
-      </surface>
-      <surface start="#REG.101v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-101v.jpg" xml:id="IMG.101v"/>
-      </surface>
-      <surface start="#REG.102r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-102r.jpg" xml:id="IMG.102r"/>
-      </surface>
-      <surface start="#REG.102v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-102v.jpg" xml:id="IMG.102v"/>
-      </surface>
-      <surface start="#REG.103r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-103r.jpg" xml:id="IMG.103r"/>
-      </surface>
-      <surface start="#REG.103v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-103v.jpg" xml:id="IMG.103v"/>
-      </surface>
-      <surface start="#REG.104r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-104r.jpg" xml:id="IMG.104r"/>
-      </surface>
-      <surface start="#REG.104v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-104v.jpg" xml:id="IMG.104v"/>
-      </surface>
-      <surface start="#REG.105r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-105r.jpg" xml:id="IMG.105r"/>
-      </surface>
-      <surface start="#REG.105v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-105v.jpg" xml:id="IMG.105v"/>
-      </surface>
-      <surface start="#REG.106r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-106r.jpg" xml:id="IMG.106r"/>
-      </surface>
-      <surface start="#REG.106v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-106v.jpg" xml:id="IMG.106v"/>
-      </surface>
-      <surface start="#REG.107r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-107r.jpg" xml:id="IMG.107r"/>
-      </surface>
-      <surface start="#REG.107v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-107v.jpg" xml:id="IMG.107v"/>
-      </surface>
-      <surface start="#REG.108r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-108r.jpg" xml:id="IMG.108r"/>
-      </surface>
-      <surface start="#REG.108v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-108v.jpg" xml:id="IMG.108v"/>
-      </surface>
-      <surface start="#REG.109r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-109r.jpg" xml:id="IMG.109r"/>
-      </surface>
-      <surface start="#REG.109v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-109v.jpg" xml:id="IMG.109v"/>
-      </surface>
-      <surface start="#REG.110r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-110r.jpg" xml:id="IMG.110r"/>
-      </surface>
-      <surface start="#REG.110v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-110v.jpg" xml:id="IMG.110v"/>
-      </surface>
-      <surface start="#REG.111r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-111r.jpg" xml:id="IMG.111r"/>
-      </surface>
-      <surface start="#REG.111v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-111v.jpg" xml:id="IMG.111v"/>
-      </surface>
-      <surface start="#REG.112r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-112r.jpg" xml:id="IMG.112r"/>
-      </surface>
-      <surface start="#REG.112v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-112v.jpg" xml:id="IMG.112v"/>
-      </surface>
-      <surface start="#REG.113r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-113r.jpg" xml:id="IMG.113r"/>
-      </surface>
-      <surface start="#REG.113v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-113v.jpg" xml:id="IMG.113v"/>
-      </surface>
-      <surface start="#REG.114r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-114r.jpg" xml:id="IMG.114r"/>
-      </surface>
-      <surface start="#REG.114v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-114v.jpg" xml:id="IMG.114v"/>
-      </surface>
-      <surface start="#REG.115r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-115r.jpg" xml:id="IMG.115r"/>
-      </surface>
-      <surface start="#REG.115v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-115v.jpg" xml:id="IMG.115v"/>
-      </surface>
-      <surface start="#REG.116r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-116r.jpg" xml:id="IMG.116r"/>
-      </surface>
-      <surface start="#REG.116v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-116v.jpg" xml:id="IMG.116v"/>
-      </surface>
-      <surface start="#REG.117r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-117r.jpg" xml:id="IMG.117r"/>
-      </surface>
-      <surface start="#REG.117v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-117v.jpg" xml:id="IMG.117v"/>
-      </surface>
-      <surface start="#REG.118r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-118r.jpg" xml:id="IMG.118r"/>
-      </surface>
-      <surface start="#REG.118v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-118v.jpg" xml:id="IMG.118v"/>
-      </surface>
-      <surface start="#REG.119r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-119r.jpg" xml:id="IMG.119r"/>
-      </surface>
-      <surface start="#REG.119v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-119v.jpg" xml:id="IMG.119v"/>
-      </surface>
-      <surface start="#REG.120r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-120r.jpg" xml:id="IMG.120r"/>
-      </surface>
-      <surface start="#REG.120v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-120v.jpg" xml:id="IMG.120v"/>
-      </surface>
-      <surface start="#REG.121r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-121r.jpg" xml:id="IMG.121r"/>
-      </surface>
-      <surface start="#REG.121v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-121v.jpg" xml:id="IMG.121v"/>
-      </surface>
-      <surface start="#REG.122r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-122r.jpg" xml:id="IMG.122r"/>
-      </surface>
-      <surface start="#REG.122v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-122v.jpg" xml:id="IMG.122v"/>
-      </surface>
-      <surface start="#REG.123r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-123r.jpg" xml:id="IMG.123r"/>
-      </surface>
-      <surface start="#REG.123v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-123v.jpg" xml:id="IMG.123v"/>
-      </surface>
-      <surface start="#REG.124r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-124r.jpg" xml:id="IMG.124r"/>
-      </surface>
-      <surface start="#REG.124v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-124v.jpg" xml:id="IMG.124v"/>
-      </surface>
-      <surface start="#REG.125r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-125r.jpg" xml:id="IMG.125r"/>
-      </surface>
-      <surface start="#REG.125v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-125v.jpg" xml:id="IMG.125v"/>
-      </surface>
-      <surface start="#REG.126r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-126r.jpg" xml:id="IMG.126r"/>
-      </surface>
-      <surface start="#REG.126v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-126v.jpg" xml:id="IMG.126v"/>
-      </surface>
-      <surface start="#REG.127r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-127r.jpg" xml:id="IMG.127r"/>
-      </surface>
-      <surface start="#REG.127v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-127v.jpg" xml:id="IMG.127v"/>
-      </surface>
-      <surface start="#REG.128r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-128r.jpg" xml:id="IMG.128r"/>
-      </surface>
-      <surface start="#REG.128v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-128v.jpg" xml:id="IMG.128v"/>
-      </surface>
-      <surface start="#REG.129r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-129r.jpg" xml:id="IMG.129r"/>
-      </surface>
-      <surface start="#REG.129v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-129v.jpg" xml:id="IMG.129v"/>
-      </surface>
-      <surface start="#REG.130r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-130r.jpg" xml:id="IMG.130r"/>
-      </surface>
-      <surface start="#REG.130v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-130v.jpg" xml:id="IMG.130v"/>
-      </surface>
-      <surface start="#REG.131r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-131r.jpg" xml:id="IMG.131r"/>
-      </surface>
-      <surface start="#REG.131v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-131v.jpg" xml:id="IMG.131v"/>
-      </surface>
-      <surface start="#REG.132r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-132r.jpg" xml:id="IMG.132r"/>
-      </surface>
-      <surface start="#REG.132v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-132v.jpg" xml:id="IMG.132v"/>
-      </surface>
-      <surface start="#REG.133r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-133r.jpg" xml:id="IMG.133r"/>
-      </surface>
-      <surface start="#REG.133v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-133v.jpg" xml:id="IMG.133v"/>
-      </surface>
-      <surface start="#REG.134r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-134r.jpg" xml:id="IMG.134r"/>
-      </surface>
-      <surface start="#REG.134v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-134v.jpg" xml:id="IMG.134v"/>
-      </surface>
-      <surface start="#REG.135r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-135r.jpg" xml:id="IMG.135r"/>
-      </surface>
-      <surface start="#REG.135v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-135v.jpg" xml:id="IMG.135v"/>
-      </surface>
-      <surface start="#REG.136r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-136r.jpg" xml:id="IMG.136r"/>
-      </surface>
-      <surface start="#REG.136v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-136v.jpg" xml:id="IMG.136v"/>
-      </surface>
-      <surface start="#REG.137r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-137r.jpg" xml:id="IMG.137r"/>
-      </surface>
-      <surface start="#REG.137v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-137v.jpg" xml:id="IMG.137v"/>
-      </surface>
-      <surface start="#REG.138r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-138r.jpg" xml:id="IMG.138r"/>
-      </surface>
-      <surface start="#REG.138v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-138v.jpg" xml:id="IMG.138v"/>
-      </surface>
-      <surface start="#REG.139r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-139r.jpg" xml:id="IMG.139r"/>
-      </surface>
-      <surface start="#REG.139v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-139v.jpg" xml:id="IMG.139v"/>
-      </surface>
-      <surface start="#REG.140r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-140r.jpg" xml:id="IMG.140r"/>
-      </surface>
-      <surface start="#REG.140v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-140v.jpg" xml:id="IMG.140v"/>
-      </surface>
-      <surface start="#REG.141r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-141r.jpg" xml:id="IMG.141r"/>
-      </surface>
-      <surface start="#REG.141v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-141v.jpg" xml:id="IMG.141v"/>
-      </surface>
-      <surface start="#REG.142r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-142r.jpg" xml:id="IMG.142r"/>
-      </surface>
-      <surface start="#REG.142v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-142v.jpg" xml:id="IMG.142v"/>
-      </surface>
-      <surface start="#REG.143r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-143r.jpg" xml:id="IMG.143r"/>
-      </surface>
-      <surface start="#REG.143v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-143v.jpg" xml:id="IMG.143v"/>
-      </surface>
-      <surface start="#REG.144r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-144r.jpg" xml:id="IMG.144r"/>
-      </surface>
-      <surface start="#REG.144v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-144v.jpg" xml:id="IMG.144v"/>
-      </surface>
-      <surface start="#REG.145r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-145r.jpg" xml:id="IMG.145r"/>
-      </surface>
-      <surface start="#REG.145v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-145v.jpg" xml:id="IMG.145v"/>
-      </surface>
-      <surface start="#REG.146r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-146r.jpg" xml:id="IMG.146r"/>
-      </surface>
-      <surface start="#REG.146v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-146v.jpg" xml:id="IMG.146v"/>
-      </surface>
-      <surface start="#REG.147r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-147r.jpg" xml:id="IMG.147r"/>
-      </surface>
-      <surface start="#REG.147v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-147v.jpg" xml:id="IMG.147v"/>
-      </surface>
-      <surface start="#REG.148r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-148r.jpg" xml:id="IMG.148r"/>
-      </surface>
-      <surface start="#REG.148v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-148v.jpg" xml:id="IMG.148v"/>
-      </surface>
-      <surface start="#REG.149r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-149r.jpg" xml:id="IMG.149r"/>
-      </surface>
-      <surface start="#REG.149v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-149v.jpg" xml:id="IMG.149v"/>
-      </surface>
-      <surface start="#REG.150r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-150r.jpg" xml:id="IMG.150r"/>
-      </surface>
-      <surface start="#REG.150v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-150v.jpg" xml:id="IMG.150v"/>
-      </surface>
-      <surface start="#REG.151r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-151r.jpg" xml:id="IMG.151r"/>
-      </surface>
-      <surface start="#REG.151v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-151v.jpg" xml:id="IMG.151v"/>
-      </surface>
-      <surface start="#REG.152r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-152r.jpg" xml:id="IMG.152r"/>
-      </surface>
-      <surface start="#REG.152v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-152v.jpg" xml:id="IMG.152v"/>
-      </surface>
-      <surface start="#REG.153r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-153r.jpg" xml:id="IMG.153r"/>
-      </surface>
-      <surface start="#REG.153v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-153v.jpg" xml:id="IMG.153v"/>
-      </surface>
-      <surface start="#REG.154r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-154r.jpg" xml:id="IMG.154r"/>
-      </surface>
-      <surface start="#REG.154v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-154v.jpg" xml:id="IMG.154v"/>
-      </surface>
-      <surface start="#REG.155r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-155r.jpg" xml:id="IMG.155r"/>
-      </surface>
-      <surface start="#REG.155v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-155v.jpg" xml:id="IMG.155v"/>
-      </surface>
-      <surface start="#REG.156r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-156r.jpg" xml:id="IMG.156r"/>
-      </surface>
-      <surface start="#REG.156v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-156v.jpg" xml:id="IMG.156v"/>
-      </surface>
-      <surface start="#REG.157r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-157r.jpg" xml:id="IMG.157r"/>
-      </surface>
-      <surface start="#REG.157v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-157v.jpg" xml:id="IMG.157v"/>
-      </surface>
-      <surface start="#REG.158r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-158r.jpg" xml:id="IMG.158r"/>
-      </surface>
-      <surface start="#REG.158v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-158v.jpg" xml:id="IMG.158v"/>
-      </surface>
-      <surface start="#REG.159r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-159r.jpg" xml:id="IMG.159r"/>
-      </surface>
-      <surface start="#REG.159v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-159v.jpg" xml:id="IMG.159v"/>
-      </surface>
-      <surface start="#REG.160r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-160r.jpg" xml:id="IMG.160r"/>
-      </surface>
-      <surface start="#REG.160v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-160v.jpg" xml:id="IMG.160v"/>
-      </surface>
-      <surface start="#REG.161r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-161r.jpg" xml:id="IMG.161r"/>
-      </surface>
-      <surface start="#REG.161v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-161v.jpg" xml:id="IMG.161v"/>
-      </surface>
-      <surface start="#REG.162r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-162r.jpg" xml:id="IMG.162r"/>
-      </surface>
-      <surface start="#REG.162v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-162v.jpg" xml:id="IMG.162v"/>
-      </surface>
-      <surface start="#REG.163r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-163r.jpg" xml:id="IMG.163r"/>
-      </surface>
-      <surface start="#REG.163v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-163v.jpg" xml:id="IMG.163v"/>
-      </surface>
-      <surface start="#REG.164r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-164r.jpg" xml:id="IMG.164r"/>
-      </surface>
-      <surface start="#REG.164v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-164v.jpg" xml:id="IMG.164v"/>
-      </surface>
-      <surface start="#REG.165r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-165r.jpg" xml:id="IMG.165r"/>
-      </surface>
-      <surface start="#REG.165v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-165v.jpg" xml:id="IMG.165v"/>
-      </surface>
-      <surface start="#REG.166r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-166r.jpg" xml:id="IMG.166r"/>
-      </surface>
-      <surface start="#REG.166v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-166v.jpg" xml:id="IMG.166v"/>
-      </surface>
-      <surface start="#REG.167r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-167r.jpg" xml:id="IMG.167r"/>
-      </surface>
-      <surface start="#REG.167v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-167v.jpg" xml:id="IMG.167v"/>
-      </surface>
-      <surface start="#REG.168r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-168r.jpg" xml:id="IMG.168r"/>
-      </surface>
-      <surface start="#REG.168v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-168v.jpg" xml:id="IMG.168v"/>
-      </surface>
-      <surface start="#REG.169r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-169r.jpg" xml:id="IMG.169r"/>
-      </surface>
-      <surface start="#REG.169v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-169v.jpg" xml:id="IMG.169v"/>
-      </surface>
-      <surface start="#REG.170r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-170r.jpg" xml:id="IMG.170r"/>
-      </surface>
-      <surface start="#REG.170v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-170v.jpg" xml:id="IMG.170v"/>
-      </surface>
-      <surface start="#REG.171r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-171r.jpg" xml:id="IMG.171r"/>
-      </surface>
-      <surface start="#REG.171v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-171v.jpg" xml:id="IMG.171v"/>
-      </surface>
-      <surface start="#REG.172r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-172r.jpg" xml:id="IMG.172r"/>
-      </surface>
-      <surface start="#REG.172v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-172v.jpg" xml:id="IMG.172v"/>
-      </surface>
-      <surface start="#REG.173r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-173r.jpg" xml:id="IMG.173r"/>
-      </surface>
-      <surface start="#REG.173v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-173v.jpg" xml:id="IMG.173v"/>
-      </surface>
-      <surface start="#REG.174r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-174r.jpg" xml:id="IMG.174r"/>
-      </surface>
-      <surface start="#REG.174v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-174v.jpg" xml:id="IMG.174v"/>
-      </surface>
-      <surface start="#REG.175r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-175r.jpg" xml:id="IMG.175r"/>
-      </surface>
-      <surface start="#REG.175v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-175v.jpg" xml:id="IMG.175v"/>
-      </surface>
-      <surface start="#REG.176r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-176r.jpg" xml:id="IMG.176r"/>
-      </surface>
-      <surface start="#REG.176v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-176v.jpg" xml:id="IMG.176v"/>
-      </surface>
-      <surface start="#REG.177r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-177r.jpg" xml:id="IMG.177r"/>
-      </surface>
-      <surface start="#REG.177v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-177v.jpg" xml:id="IMG.177v"/>
-      </surface>
-      <surface start="#REG.178r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-178r.jpg" xml:id="IMG.178r"/>
-      </surface>
-      <surface start="#REG.178v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-178v.jpg" xml:id="IMG.178v"/>
-      </surface>
-      <surface start="#REG.179r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-179r.jpg" xml:id="IMG.179r"/>
-      </surface>
-      <surface start="#REG.179v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-179v.jpg" xml:id="IMG.179v"/>
-      </surface>
-      <surface start="#REG.180r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-180r.jpg" xml:id="IMG.180r"/>
-      </surface>
-      <surface start="#REG.180v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-180v.jpg" xml:id="IMG.180v"/>
-      </surface>
-      <surface start="#REG.181r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-181r.jpg" xml:id="IMG.181r"/>
-      </surface>
-      <surface start="#REG.181v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-181v.jpg" xml:id="IMG.181v"/>
-      </surface>
-      <surface start="#REG.182r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-182r.jpg" xml:id="IMG.182r"/>
-      </surface>
-      <surface start="#REG.182v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-182v.jpg" xml:id="IMG.182v"/>
-      </surface>
-      <surface start="#REG.183r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-183r.jpg" xml:id="IMG.183r"/>
-      </surface>
-      <surface start="#REG.183v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-183v.jpg" xml:id="IMG.183v"/>
-      </surface>
-      <surface start="#REG.184r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-184r.jpg" xml:id="IMG.184r"/>
-      </surface>
-      <surface start="#REG.184v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-184v.jpg" xml:id="IMG.184v"/>
-      </surface>
-      <surface start="#REG.185r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-185r.jpg" xml:id="IMG.185r"/>
-      </surface>
-      <surface start="#REG.185v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-185v.jpg" xml:id="IMG.185v"/>
-      </surface>
-      <surface start="#REG.186r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-186r.jpg" xml:id="IMG.186r"/>
-      </surface>
-      <surface start="#REG.186v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-186v.jpg" xml:id="IMG.186v"/>
-      </surface>
-      <surface start="#REG.187r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-187r.jpg" xml:id="IMG.187r"/>
-      </surface>
-      <surface start="#REG.187v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-187v.jpg" xml:id="IMG.187v"/>
-      </surface>
-      <surface start="#REG.188r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-188r.jpg" xml:id="IMG.188r"/>
-      </surface>
-      <surface start="#REG.188v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-188v.jpg" xml:id="IMG.188v"/>
-      </surface>
-      <surface start="#REG.189r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-189r.jpg" xml:id="IMG.189r"/>
-      </surface>
-      <surface start="#REG.189v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-189v.jpg" xml:id="IMG.189v"/>
-      </surface>
-      <surface start="#REG.190r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-190r.jpg" xml:id="IMG.190r"/>
-      </surface>
-      <surface start="#REG.190v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-190v.jpg" xml:id="IMG.190v"/>
-      </surface>
-      <surface start="#REG.191r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-191r.jpg" xml:id="IMG.191r"/>
-      </surface>
-      <surface start="#REG.191v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-191v.jpg" xml:id="IMG.191v"/>
-      </surface>
-      <surface start="#REG.192r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-192r.jpg" xml:id="IMG.192r"/>
-      </surface>
-      <surface start="#REG.192v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-192v.jpg" xml:id="IMG.192v"/>
-      </surface>
-      <surface start="#REG.193r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-193r.jpg" xml:id="IMG.193r"/>
-      </surface>
-      <surface start="#REG.193v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-193v.jpg" xml:id="IMG.193v"/>
-      </surface>
-      <surface start="#REG.194r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-194r.jpg" xml:id="IMG.194r"/>
-      </surface>
-      <surface start="#REG.194v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-194v.jpg" xml:id="IMG.194v"/>
-      </surface>
-      <surface start="#REG.195r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-195r.jpg" xml:id="IMG.195r"/>
-      </surface>
-      <surface start="#REG.195v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-195v.jpg" xml:id="IMG.195v"/>
-      </surface>
-      <surface start="#REG.196r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-196r.jpg" xml:id="IMG.196r"/>
-      </surface>
-      <surface start="#REG.196v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-196v.jpg" xml:id="IMG.196v"/>
-      </surface>
-      <surface start="#REG.197r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-197r.jpg" xml:id="IMG.197r"/>
-      </surface>
-      <surface start="#REG.197v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-197v.jpg" xml:id="IMG.197v"/>
-      </surface>
-      <surface start="#REG.198r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-198r.jpg" xml:id="IMG.198r"/>
-      </surface>
-      <surface start="#REG.198v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-198v.jpg" xml:id="IMG.198v"/>
-      </surface>
-      <surface start="#REG.199r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-199r.jpg" xml:id="IMG.199r"/>
-      </surface>
-      <surface start="#REG.199v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-199v.jpg" xml:id="IMG.199v"/>
-      </surface>
-      <surface start="#REG.200r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-200r.jpg" xml:id="IMG.200r"/>
-      </surface>
-      <surface start="#REG.200v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-200v.jpg" xml:id="IMG.200v"/>
-      </surface>
-      <surface start="#REG.201r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-201r.jpg" xml:id="IMG.201r"/>
-      </surface>
-      <surface start="#REG.201v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-201v.jpg" xml:id="IMG.201v"/>
-      </surface>
-      <surface start="#REG.202r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-202r.jpg" xml:id="IMG.202r"/>
-      </surface>
-      <surface start="#REG.202v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-202v.jpg" xml:id="IMG.202v"/>
-      </surface>
-      <surface start="#REG.203r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-203r.jpg" xml:id="IMG.203r"/>
-      </surface>
-      <surface start="#REG.203v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-203v.jpg" xml:id="IMG.203v"/>
-      </surface>
-      <surface start="#REG.204r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-204r.jpg" xml:id="IMG.204r"/>
-      </surface>
-      <surface start="#REG.204v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-204v.jpg" xml:id="IMG.204v"/>
-      </surface>
-      <surface start="#REG.205r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-205r.jpg" xml:id="IMG.205r"/>
-      </surface>
-      <surface start="#REG.205v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-205v.jpg" xml:id="IMG.205v"/>
-      </surface>
-      <surface start="#REG.206r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-206r.jpg" xml:id="IMG.206r"/>
-      </surface>
-      <surface start="#REG.206v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-206v.jpg" xml:id="IMG.206v"/>
-      </surface>
-      <surface start="#REG.207r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-207r.jpg" xml:id="IMG.207r"/>
-      </surface>
-      <surface start="#REG.207v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-207v.jpg" xml:id="IMG.207v"/>
-      </surface>
-      <surface start="#REG.208r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-208r.jpg" xml:id="IMG.208r"/>
-      </surface>
-      <surface start="#REG.208v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-208v.jpg" xml:id="IMG.208v"/>
-      </surface>
-      <surface start="#REG.209r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-209r.jpg" xml:id="IMG.209r"/>
-      </surface>
-      <surface start="#REG.209v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-209v.jpg" xml:id="IMG.209v"/>
-      </surface>
-      <surface start="#REG.210r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-210r.jpg" xml:id="IMG.210r"/>
-      </surface>
-      <surface start="#REG.210v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-210v.jpg" xml:id="IMG.210v"/>
-      </surface>
-      <surface start="#REG.211r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-211r.jpg" xml:id="IMG.211r"/>
-      </surface>
-      <surface start="#REG.211v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-211v.jpg" xml:id="IMG.211v"/>
-      </surface>
-      <surface start="#REG.212r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-212r.jpg" xml:id="IMG.212r"/>
-      </surface>
-      <surface start="#REG.212v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-212v.jpg" xml:id="IMG.212v"/>
-      </surface>
-      <surface start="#REG.213r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-213r.jpg" xml:id="IMG.213r"/>
-      </surface>
-      <surface start="#REG.213v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-213v.jpg" xml:id="IMG.213v"/>
-      </surface>
-      <surface start="#REG.214r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-214r.jpg" xml:id="IMG.214r"/>
-      </surface>
-      <surface start="#REG.214v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-214v.jpg" xml:id="IMG.214v"/>
-      </surface>
-      <surface start="#REG.215-1r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-215-1r.jpg" xml:id="IMG.215-1r"/>
-      </surface>
-      <surface start="#REG.215-1v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-215-1v.jpg" xml:id="IMG.215-1v"/>
-      </surface>
-      <surface start="#REG.215-2r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-215-2r.jpg" xml:id="IMG.215-2r"/>
-      </surface>
-      <surface start="#REG.215-2v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-215-2v.jpg" xml:id="IMG.215-2v"/>
-      </surface>
-      <surface start="#REG.216r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-216r.jpg" xml:id="IMG.216r"/>
-      </surface>
-      <surface start="#REG.216v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-216v.jpg" xml:id="IMG.216v"/>
-      </surface>
-      <surface start="#REG.217r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-217r.jpg" xml:id="IMG.217r"/>
-      </surface>
-      <surface start="#REG.217v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-217v.jpg" xml:id="IMG.217v"/>
-      </surface>
-      <surface start="#REG.218r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-218r.jpg" xml:id="IMG.218r"/>
-      </surface>
-      <surface start="#REG.218v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-218v.jpg" xml:id="IMG.218v"/>
-      </surface>
-      <surface start="#REG.219r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-219r.jpg" xml:id="IMG.219r"/>
-      </surface>
-      <surface start="#REG.219v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-219v.jpg" xml:id="IMG.219v"/>
-      </surface>
-      <surface start="#REG.220r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-220r.jpg" xml:id="IMG.220r"/>
-      </surface>
-      <surface start="#REG.220v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-220v.jpg" xml:id="IMG.220v"/>
-      </surface>
-      <surface start="#REG.221r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-221r.jpg" xml:id="IMG.221r"/>
-      </surface>
-      <surface start="#REG.221v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-221v.jpg" xml:id="IMG.221v"/>
-      </surface>
-      <surface start="#REG.222r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-222r.jpg" xml:id="IMG.222r"/>
-      </surface>
-      <surface start="#REG.222v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-222v.jpg" xml:id="IMG.222v"/>
-      </surface>
-      <surface start="#REG.223r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-223r.jpg" xml:id="IMG.223r"/>
-      </surface>
-      <surface start="#REG.223v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-223v.jpg" xml:id="IMG.223v"/>
-      </surface>
-      <surface start="#REG.224r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-224r.jpg" xml:id="IMG.224r"/>
-      </surface>
-      <surface start="#REG.224v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-224v.jpg" xml:id="IMG.224v"/>
-      </surface>
-      <surface start="#REG.225r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-225r.jpg" xml:id="IMG.225r"/>
-      </surface>
-      <surface start="#REG.225v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-225v.jpg" xml:id="IMG.225v"/>
-      </surface>
-      <surface start="#REG.226r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-226r.jpg" xml:id="IMG.226r"/>
-      </surface>
-      <surface start="#REG.226v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-226v.jpg" xml:id="IMG.226v"/>
-      </surface>
-      <surface start="#REG.227r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-227r.jpg" xml:id="IMG.227r"/>
-      </surface>
-      <surface start="#REG.227v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-227v.jpg" xml:id="IMG.227v"/>
-      </surface>
-      <surface start="#REG.228r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-228r.jpg" xml:id="IMG.228r"/>
-      </surface>
-      <surface start="#REG.228v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-228v.jpg" xml:id="IMG.228v"/>
-      </surface>
-      <surface start="#REG.229r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-229r.jpg" xml:id="IMG.229r"/>
-      </surface>
-      <surface start="#REG.229v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-229v.jpg" xml:id="IMG.229v"/>
-      </surface>
-      <surface start="#REG.230r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-230r.jpg" xml:id="IMG.230r"/>
-      </surface>
-      <surface start="#REG.230v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-230v.jpg" xml:id="IMG.230v"/>
-      </surface>
-      <surface start="#REG.231r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-231r.jpg" xml:id="IMG.231r"/>
-      </surface>
-      <surface start="#REG.231v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-231v.jpg" xml:id="IMG.231v"/>
-      </surface>
-      <surface start="#REG.232r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-232r.jpg" xml:id="IMG.232r"/>
-      </surface>
-      <surface start="#REG.232v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-232v.jpg" xml:id="IMG.232v"/>
-      </surface>
-      <surface start="#REG.233r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-233r.jpg" xml:id="IMG.233r"/>
-      </surface>
-      <surface start="#REG.233v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-233v.jpg" xml:id="IMG.233v"/>
-      </surface>
-      <surface start="#REG.234r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-234r.jpg" xml:id="IMG.234r"/>
-      </surface>
-      <surface start="#REG.234v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-234v.jpg" xml:id="IMG.234v"/>
-      </surface>
-      <surface start="#REG.235r">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-235r.jpg" xml:id="IMG.235r"/>
-      </surface>
-      <surface start="#REG.235v">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-235v.jpg" xml:id="IMG.235v"/>
-      </surface>
-      <surface start="#REG.HDS">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-HDS.jpg" xml:id="IMG.HDS"/>
-      </surface>
-      <surface start="#REG.HD">
-         <graphic mimeType="image/jpeg" url="file:///D-MbsClm26947-HD.jpg" xml:id="IMG.HD"/>
+      <surface start="#HART.VDS">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-VDS.jpg"
+                  xml:id="IMG.VDS"/>
+      </surface>
+      <surface start="#HART.001r">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-001r.jpg"
+                  xml:id="IMG.001r"/>
+      </surface>
+      <surface start="#HART.001v">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-001v.jpg"
+                  xml:id="IMG.001v"/>
+      </surface>
+      <surface start="#HART.002r">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-002r.jpg"
+                  xml:id="IMG.002r"/>
+      </surface>
+      <surface start="#HART.002v">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-002v.jpg"
+                  xml:id="IMG.002v"/>
+      </surface>
+      <surface start="#HART.003r">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-003r.jpg"
+                  xml:id="IMG.003r"/>
+      </surface>
+      <surface start="#HART.003v">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-003v.jpg"
+                  xml:id="IMG.003v"/>
+      </surface>
+      <surface start="#HART.004r">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-004r.jpg"
+                  xml:id="IMG.004r"/>
+      </surface>
+      <surface start="#HART.004v">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-004v.jpg"
+                  xml:id="IMG.004v"/>
+      </surface>
+      <surface start="#HART.005r">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-005r.jpg"
+                  xml:id="IMG.005r"/>
+      </surface>
+      <surface start="#HART.005v">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-005v.jpg"
+                  xml:id="IMG.005v"/>
+      </surface>
+      <surface start="#HART.006r">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-006r.jpg"
+                  xml:id="IMG.006r"/>
+      </surface>
+      <surface start="#HART.006v">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-006v.jpg"
+                  xml:id="IMG.006v"/>
+      </surface>
+      <surface start="#HART.007r">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-007r.jpg"
+                  xml:id="IMG.007r"/>
+      </surface>
+      <surface start="#HART.007v">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-007v.jpg"
+                  xml:id="IMG.007v"/>
+      </surface>
+      <surface start="#HART.008r">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-008r.jpg"
+                  xml:id="IMG.008r"/>
+      </surface>
+      <surface start="#HART.008v">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-008v.jpg"
+                  xml:id="IMG.008v"/>
+      </surface>
+      <surface start="#HART.009r">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-009r.jpg"
+                  xml:id="IMG.009r"/>
+      </surface>
+      <surface start="#HART.009v">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-009v.jpg"
+                  xml:id="IMG.009v"/>
+      </surface>
+      <surface start="#HART.010r">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-010r.jpg"
+                  xml:id="IMG.010r"/>
+      </surface>
+      <surface start="#HART.010v">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-010v.jpg"
+                  xml:id="IMG.010v"/>
+      </surface>
+      <surface start="#HART.011r">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-011r.jpg"
+                  xml:id="IMG.011r"/>
+      </surface>
+      <surface start="#HART.011v">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-011v.jpg"
+                  xml:id="IMG.011v"/>
+      </surface>
+      <surface start="#HART.012r">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-012r.jpg"
+                  xml:id="IMG.012r"/>
+      </surface>
+      <surface start="#HART.012v">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-012v.jpg"
+                  xml:id="IMG.012v"/>
+      </surface>
+      <surface start="#HART.HDS">
+         <graphic mimeType="image/jpeg"
+                  url="file:///D-Mhsa-62-HDS.jpg"
+                  xml:id="IMG.013r"/>
       </surface>
    </facsimile>
-  <text>
-    <body xml:space="preserve">    
+   <text>
+      <body xml:space="preserve">    
       <div>
         <head xml:id="feast.add00001.1" corresp="#add00001"><note type="supplied">PFARRAMTSBUCH HARTKIRCHEN AM INN</note></head> 
         <div>
-          <ab><pb n="001r"/><note>Fünf Zeilen mit Nachträgen, schlecht lesbar</note></ab>
+          <ab><pb n="001r" xml:id="HART.001r"/><note>Fünf Zeilen mit Nachträgen, schlecht lesbar</note></ab>
           <ab>Item <seg xml:id="person.pawer.add00001.comment.1" ana="#person"><unclear/>pawer</seg> zu <seg xml:id="place.Pocking.add00001.comment.1" ana="#place">Pocking</seg>
             <unclear/>
             <unclear/>
@@ -1645,7 +339,7 @@
             <seg xml:id="place.Münster.08064000.comment.14" ana="#place">Münster</seg>, <note type="supplied">de</note>
             <seg xml:id="place.Cinthaim.08064000.comment.15" ana="#place">Cinthaim</seg>, <note type="supplied">de</note>
             <seg xml:id="place.Wirting.08064000.comment.16" ana="#place">Wirting</seg>, <note type="supplied">de</note>
-            <seg xml:id="place.Saverstetn.08064000.comment.17" ana="#place">Saverstetn</seg>. Et <seg xml:id="function.sacerdotes.08064000.comment.9" ana="#function">sacerdotes</seg> advenae celebrabunt divina. Et <pb n="001v"/><seg xml:id="function.unuscooperatorum.08064000.comment.10" ana="#function">unus cooperatorum</seg> debet cantare officium de vigilia ascensionis sive de letania iuxta placitum <seg xml:id="function.regentis.08064000.comment.11" ana="#function">regentis</seg> et facere sermonem. <seg xml:id="function.Alterverocooperator.08064000.comment.12" ana="#function">Alter vero cooperator</seg> celebrabat divinam ad <seg xml:id="place.sanctumIoanneminIntzing.08064000.comment.18" ana="#place">sanctum Ioannem in Intzing</seg> propter <seg xml:id="function.peregrinas.08064000.comment.13" ana="#function">peregrinas</seg>. Et eo die <seg xml:id="place.ecclesiaMitich.08064000.comment.19" ana="#place">ecclesia Mitich</seg> vacat. <seg xml:id="function.Populano.08064000.comment.14" ana="#function">Populano</seg> succedunt a <seg xml:id="function.vittricisecclesiae.08064000.comment.15" ana="#function">vittricis ecclesiae</seg> in <seg xml:id="place.Hartkirchn.08064000.comment.20" ana="#place">Hartkirchn</seg> 32 ova, <seg xml:id="function.cooperatores.08064000.comment.16" ana="#function">cooperatores</seg> 1 quartum vini. </ab>
+            <seg xml:id="place.Saverstetn.08064000.comment.17" ana="#place">Saverstetn</seg>. Et <seg xml:id="function.sacerdotes.08064000.comment.9" ana="#function">sacerdotes</seg> advenae celebrabunt divina. Et <pb n="001v" xml:id="HART.001v"/><seg xml:id="function.unuscooperatorum.08064000.comment.10" ana="#function">unus cooperatorum</seg> debet cantare officium de vigilia ascensionis sive de letania iuxta placitum <seg xml:id="function.regentis.08064000.comment.11" ana="#function">regentis</seg> et facere sermonem. <seg xml:id="function.Alterverocooperator.08064000.comment.12" ana="#function">Alter vero cooperator</seg> celebrabat divinam ad <seg xml:id="place.sanctumIoanneminIntzing.08064000.comment.18" ana="#place">sanctum Ioannem in Intzing</seg> propter <seg xml:id="function.peregrinas.08064000.comment.13" ana="#function">peregrinas</seg>. Et eo die <seg xml:id="place.ecclesiaMitich.08064000.comment.19" ana="#place">ecclesia Mitich</seg> vacat. <seg xml:id="function.Populano.08064000.comment.14" ana="#function">Populano</seg> succedunt a <seg xml:id="function.vittricisecclesiae.08064000.comment.15" ana="#function">vittricis ecclesiae</seg> in <seg xml:id="place.Hartkirchn.08064000.comment.20" ana="#place">Hartkirchn</seg> 32 ova, <seg xml:id="function.cooperatores.08064000.comment.16" ana="#function">cooperatores</seg> 1 quartum vini. </ab>
           <ab>Eodem die cantentur vesperae in <seg xml:id="place.Hartkirchn.08064000.comment.21" ana="#place">Hartkirchn</seg>. Et <seg xml:id="function.cooperatores.08064000.comment.17" ana="#function">cooperatores</seg> descendunt ad <seg xml:id="place.Mitich.08064000.comment.22" ana="#place">Mitich</seg> et cantent ibidem vesperas. </ab>
         </div>
       </div>
@@ -1692,7 +386,7 @@
       <div>
         <head xml:id="feast.08081000.13" corresp="#08081000">ITEM IN DIE PENTECOSTEN</head>
         <div>
-          <ab>expediantur omnia solemniter. Et celebratur hoc festum per quatuor dies. Et circa horam primam descendent <seg xml:id="function.cooperatores.08081000.comment.28" ana="#function">cooperatores</seg> ad <seg xml:id="place.Madaw.08081000.comment.36" ana="#place">Madaw</seg> et cantent <pb n="002r"/>ibidem vesperas in <seg xml:id="place.capellasanctispiritus.08081000.comment.37" ana="#place">capella sancti spiritus</seg> de dedicatione. </ab>
+          <ab>expediantur omnia solemniter. Et celebratur hoc festum per quatuor dies. Et circa horam primam descendent <seg xml:id="function.cooperatores.08081000.comment.28" ana="#function">cooperatores</seg> ad <seg xml:id="place.Madaw.08081000.comment.36" ana="#place">Madaw</seg> et cantent <pb n="002r" xml:id="HART.002r"/>ibidem vesperas in <seg xml:id="place.capellasanctispiritus.08081000.comment.37" ana="#place">capella sancti spiritus</seg> de dedicatione. </ab>
         </div>
       </div>
       <div>
@@ -1734,7 +428,7 @@
       <div>
         <head xml:id="feast.09011010.19" corresp="#09011010">ITEM DOMINICA IN OCTAVA PENTECOSTES</head>
         <div>
-          <ab>est dedicatio <seg xml:id="place.ecclesiaesanctiPetriinHartkirchn.09011010.comment.54" ana="#place">ecclesiae sancti Petri in Hartkirchn</seg>. Et de mane infra quintam et sextam horam cantetur officium de <seg xml:id="person.sanctospiritu.09011010.comment.7" ana="#person">sancto spiritu</seg> vel quomodo <seg xml:id="function.regenti.09011010.comment.46" ana="#function">regenti</seg> placet in <seg xml:id="place.arabeataevirginis.09011010.comment.55" ana="#place">ara beatae virginis</seg>. Exinde post septimam fiat circuitus solemnis et cantetur summum officium cum exhortatione solemni ut patet. <pb n="002v"/>Et <seg xml:id="function.plebisani.09011010.comment.47" ana="#function">plebisani</seg> ex <seg xml:id="place.Mitich.09011010.comment.56" ana="#place">Mitich</seg> ascendent ad solemnitatem et <seg xml:id="function.cooperator.09011010.comment.48" ana="#function">cooperator</seg> ipsis deputatus cantabit hoc primum officium. Et sic <seg xml:id="place.ecclesiainMitich.09011010.comment.57" ana="#place">ecclesia in Mitich</seg> eo die vacabit. <seg xml:id="function.Vittriciecclesiae.09011010.comment.49" ana="#function">Vittrici ecclesiae</seg> dabunt <seg xml:id="function.plebano.09011010.comment.50" ana="#function">plebano</seg> 32 d. <add>Sed <seg xml:id="function.unuscooperatorum.09011010.comment.51" ana="#function">unus cooperatorum</seg> ibit ad <seg xml:id="place.Pocking.09011010.comment.58" ana="#place">Pocking</seg> propter officium et curabit<unclear/></add></ab>
+          <ab>est dedicatio <seg xml:id="place.ecclesiaesanctiPetriinHartkirchn.09011010.comment.54" ana="#place">ecclesiae sancti Petri in Hartkirchn</seg>. Et de mane infra quintam et sextam horam cantetur officium de <seg xml:id="person.sanctospiritu.09011010.comment.7" ana="#person">sancto spiritu</seg> vel quomodo <seg xml:id="function.regenti.09011010.comment.46" ana="#function">regenti</seg> placet in <seg xml:id="place.arabeataevirginis.09011010.comment.55" ana="#place">ara beatae virginis</seg>. Exinde post septimam fiat circuitus solemnis et cantetur summum officium cum exhortatione solemni ut patet. <pb n="002v" xml:id="HART.002v"/>Et <seg xml:id="function.plebisani.09011010.comment.47" ana="#function">plebisani</seg> ex <seg xml:id="place.Mitich.09011010.comment.56" ana="#place">Mitich</seg> ascendent ad solemnitatem et <seg xml:id="function.cooperator.09011010.comment.48" ana="#function">cooperator</seg> ipsis deputatus cantabit hoc primum officium. Et sic <seg xml:id="place.ecclesiainMitich.09011010.comment.57" ana="#place">ecclesia in Mitich</seg> eo die vacabit. <seg xml:id="function.Vittriciecclesiae.09011010.comment.49" ana="#function">Vittrici ecclesiae</seg> dabunt <seg xml:id="function.plebano.09011010.comment.50" ana="#function">plebano</seg> 32 d. <add>Sed <seg xml:id="function.unuscooperatorum.09011010.comment.51" ana="#function">unus cooperatorum</seg> ibit ad <seg xml:id="place.Pocking.09011010.comment.58" ana="#place">Pocking</seg> propter officium et curabit<unclear/></add></ab>
           <ab>Eodem nocte pro secundis vesperis cantentur vigiliae pro instituto annversarius <seg xml:id="person.Kastner.09011010.comment.8" ana="#person">Kastner</seg> cum circuitu ut moris est. Similter fiet in aliis angariis. </ab>
         </div>
       </div>
@@ -1769,7 +463,7 @@
         <head xml:id="feast.09015000.24" corresp="#09015000">ITEM IN DIE CORPORIS CHRISTI</head>
         <div>
           <ab>celebratur et peragentur tali modo solemniter. De mane statim post quintam fit pulsus ad horas canonicas et dicantur horae canonicae secundum ordinem in <seg xml:id="place.ecclesia.09015000.comment.64" ana="#place">ecclesia</seg>. Similiter fiat aliis diebus per octavas. Horis completis ordinentur <seg xml:id="function.laici.09015000.comment.62" ana="#function">laici</seg> cum candelis et aliis ad solemnitatem spectantibus. Et itur cum corpore dominico ad <seg xml:id="place.Intzing.09015000.comment.65" ana="#place">Intzing</seg>. Ibidem in <seg xml:id="place.ecclesiasanctiIoannis.09015000.comment.66" ana="#place">ecclesia sancti Ioannis</seg>
-            <seg xml:id="function.cappelanus.09015000.comment.63" ana="#function">cappelanus</seg> leget missam. Qua completa et in ascensu fiat statio in <seg xml:id="place.campoquidiciturweraufderselach.09015000.comment.67" ana="#place">campo qui dicitur wer<unclear/> auf der selach</seg>. Et legatur evangelium <seg xml:id="person.Ioannis.09015000.comment.10" ana="#person">Ioannis</seg> videlicet <seg xml:id="incipit.09015000.comment.2" ana="#EV" subtype="supplied" type="incipit">In principio erat</seg>. Illo completo et processione, cantetur officium solemniter et fiat exhortatio de die in quantum tempus postulat. Secundae vesperae cantentur et completis <pb n="003r"/>dicatur in <seg xml:id="place.ecclesia.09015000.comment.68" ana="#place">ecclesia</seg>. Similiter omnes horae canonicae per octavas ut supra. Et <seg xml:id="function.cooperatores.09015000.comment.64" ana="#function">cooperatores</seg> ascendunt ambo ad <seg xml:id="place.Pocking.09015000.comment.69" ana="#place">Pocking</seg> et peragent solemnitates et processionem ibidem ut moris est. Et <seg xml:id="place.Mitich.09015000.comment.70" ana="#place">Mitich</seg> eodem die vacat. Et <seg xml:id="function.populuseiusdemecclesiae.09015000.comment.65" ana="#function">populus eiusdem ecclesiae</seg> ascendet ad <seg xml:id="place.Hartkirchn.09015000.comment.71" ana="#place">Hartkirchn</seg>. </ab>
+            <seg xml:id="function.cappelanus.09015000.comment.63" ana="#function">cappelanus</seg> leget missam. Qua completa et in ascensu fiat statio in <seg xml:id="place.campoquidiciturweraufderselach.09015000.comment.67" ana="#place">campo qui dicitur wer<unclear/> auf der selach</seg>. Et legatur evangelium <seg xml:id="person.Ioannis.09015000.comment.10" ana="#person">Ioannis</seg> videlicet <seg xml:id="incipit.09015000.comment.2" ana="#EV" subtype="supplied" type="incipit">In principio erat</seg>. Illo completo et processione, cantetur officium solemniter et fiat exhortatio de die in quantum tempus postulat. Secundae vesperae cantentur et completis <pb n="003r" xml:id="HART.003r"/>dicatur in <seg xml:id="place.ecclesia.09015000.comment.68" ana="#place">ecclesia</seg>. Similiter omnes horae canonicae per octavas ut supra. Et <seg xml:id="function.cooperatores.09015000.comment.64" ana="#function">cooperatores</seg> ascendunt ambo ad <seg xml:id="place.Pocking.09015000.comment.69" ana="#place">Pocking</seg> et peragent solemnitates et processionem ibidem ut moris est. Et <seg xml:id="place.Mitich.09015000.comment.70" ana="#place">Mitich</seg> eodem die vacat. Et <seg xml:id="function.populuseiusdemecclesiae.09015000.comment.65" ana="#function">populus eiusdem ecclesiae</seg> ascendet ad <seg xml:id="place.Hartkirchn.09015000.comment.71" ana="#place">Hartkirchn</seg>. </ab>
           <ab>In octava eiusdem festi cantentur vesperae et officium et fiat processio in <seg xml:id="place.Hartkirchn.09015000.comment.72" ana="#place">Hartkirchn</seg> eodem modo sicut in die. <add type="marginal"> Et quibus co<note type="supplied">mple</note>tis va<note type="supplied">dant</note> ad suam <seg xml:id="place.ecclesiam.09015000.comment.73" ana="#place">ecclesiam</seg>. </add> Et <seg xml:id="function.cooperatores.09015000.comment.66" ana="#function">cooperatores</seg> ambo descendunt ad <seg xml:id="place.Mitich.09015000.comment.74" ana="#place">Mitich</seg> et faciant processionem iuxta eorum consuetudine<note type="supplied">m</note>. Ita tamen quod <seg xml:id="function.altercooperatorum.09015000.comment.67" ana="#function">alter cooperatorum</seg> legat missam in <seg xml:id="place.Madaw.09015000.comment.75" ana="#place">Madaw</seg>, et secundus cantet officium in <seg xml:id="place.Mitich.09015000.comment.76" ana="#place">Mitich</seg>. Non tamen vesperas nec primas nec secundas. <add type="marginal">
               <seg xml:id="function.Canonicus.09015000.comment.68" ana="#function">Canonicus</seg> legat <unclear/>. </add></ab>
         </div>
@@ -1820,7 +514,7 @@
           <ab>habeatur anniversarius <seg xml:id="person.Gǎngl.add00006.comment.11" ana="#person">Gǎngl</seg> de <seg xml:id="place.Hardt.add00006.comment.81" ana="#place">Hardt</seg> cum 1 vigilia et cum uno officio de <seg xml:id="person.beataMariavirgine.add00006.comment.12" ana="#person"><choice>
                 <sic>beatae Mariae virginis</sic>
                 <corr>beata Maria virgine</corr>
-              </choice></seg>, 1 requiem et 2 missis, 6 candelis accensis. Habet <seg xml:id="function.plebanus.add00006.comment.73" ana="#function">plebanus</seg> a <seg xml:id="function.vittricis.add00006.comment.74" ana="#function">vittricis</seg> in <seg xml:id="place.Hartkirchn.add00006.comment.82" ana="#place">Hartkirchn</seg> 3 s. 20 d., <seg xml:id="function.socii.add00006.comment.75" ana="#function">socii</seg> 26 d., <seg xml:id="function.capellanus.add00006.comment.76" ana="#function">capellanus</seg> 8 d., <seg xml:id="function.camponator.add00006.comment.77" ana="#function">camponator</seg> 6 d. <pb n="003v"/></ab>
+              </choice></seg>, 1 requiem et 2 missis, 6 candelis accensis. Habet <seg xml:id="function.plebanus.add00006.comment.73" ana="#function">plebanus</seg> a <seg xml:id="function.vittricis.add00006.comment.74" ana="#function">vittricis</seg> in <seg xml:id="place.Hartkirchn.add00006.comment.82" ana="#place">Hartkirchn</seg> 3 s. 20 d., <seg xml:id="function.socii.add00006.comment.75" ana="#function">socii</seg> 26 d., <seg xml:id="function.capellanus.add00006.comment.76" ana="#function">capellanus</seg> 8 d., <seg xml:id="function.camponator.add00006.comment.77" ana="#function">camponator</seg> 6 d. <pb n="003v" xml:id="HART.003v"/></ab>
         </div>
       </div>
       <div>
@@ -1862,7 +556,7 @@
       <div>
         <head xml:id="feast.add00007.38" corresp="#add00007">ITEM DOMINICA POST <note type="supplied">FESTUM</note> IACOBI</head>
         <div>
-          <ab>celebratur dedicatio <seg xml:id="place.capellaesanctiFlorianiinunttling.add00007.comment.87" ana="#place">capellae sancti Floriani in Ŭnttling</seg>. Et <seg xml:id="function.cooperatores.add00007.comment.96" ana="#function">cooperatores</seg> primas cantant vesperas. De mane<add type="marginal"> De mane <unclear/></add> vero <seg xml:id="function.ebdomadariusvidelicetPockinger.add00007.comment.97" ana="#function">ebdomadarius videlicet Pockinger</seg> cantabit officium facie<note type="supplied">t</note>que sermonem et alias solemnitates compleat. <seg xml:id="function.Priusintercappelanos.add00007.comment.98" ana="#function">Prius inter cappelanos</seg> ascendet in <seg xml:id="place.Pocking.add00007.comment.88" ana="#place">Pocking</seg> et benedicat sal et aquam, circumeat, et intimat festa et celebrabit divina. Habent <seg xml:id="function.cooperatores.add00007.comment.99" ana="#function">cooperatores</seg> ibidem a <seg xml:id="function.vitricis.add00007.comment.100" ana="#function">vitricis</seg> 24 d. Et si cantent secundas vesperas iterum habent 12 d. <seg xml:id="function.Cappelanus.add00007.comment.101" ana="#function">Cappelanus</seg> habet 15 d. Et <seg xml:id="function.plebanus.add00007.comment.102" ana="#function">plebanus</seg> habet tertiam partem in pullis et pecunia ex eis. <pb n="004r"/></ab>
+          <ab>celebratur dedicatio <seg xml:id="place.capellaesanctiFlorianiinunttling.add00007.comment.87" ana="#place">capellae sancti Floriani in Ŭnttling</seg>. Et <seg xml:id="function.cooperatores.add00007.comment.96" ana="#function">cooperatores</seg> primas cantant vesperas. De mane<add type="marginal"> De mane <unclear/></add> vero <seg xml:id="function.ebdomadariusvidelicetPockinger.add00007.comment.97" ana="#function">ebdomadarius videlicet Pockinger</seg> cantabit officium facie<note type="supplied">t</note>que sermonem et alias solemnitates compleat. <seg xml:id="function.Priusintercappelanos.add00007.comment.98" ana="#function">Prius inter cappelanos</seg> ascendet in <seg xml:id="place.Pocking.add00007.comment.88" ana="#place">Pocking</seg> et benedicat sal et aquam, circumeat, et intimat festa et celebrabit divina. Habent <seg xml:id="function.cooperatores.add00007.comment.99" ana="#function">cooperatores</seg> ibidem a <seg xml:id="function.vitricis.add00007.comment.100" ana="#function">vitricis</seg> 24 d. Et si cantent secundas vesperas iterum habent 12 d. <seg xml:id="function.Cappelanus.add00007.comment.101" ana="#function">Cappelanus</seg> habet 15 d. Et <seg xml:id="function.plebanus.add00007.comment.102" ana="#function">plebanus</seg> habet tertiam partem in pullis et pecunia ex eis. <pb n="004r" xml:id="HART.004r"/></ab>
         </div>
       </div>
       <div>
@@ -1908,7 +602,7 @@
       <div>
         <head xml:id="feast.14090100.45" corresp="#14090100">IN DIE VERO <note type="supplied">AEGIDII</note></head>
         <div>
-          <ab><seg xml:id="function.unuscooperatorumPockinger.14090100.comment.118" ana="#function">unus cooperatorum Pockinger</seg> videlicet cantet officium et faciet exhortationem. Habent <seg xml:id="function.cooperatores.14090100.comment.119" ana="#function">cooperatores</seg> a <seg xml:id="function.vittricis.14090100.comment.120" ana="#function">vittricis</seg> ibidem 24 d. <pb n="004v"/></ab>
+          <ab><seg xml:id="function.unuscooperatorumPockinger.14090100.comment.118" ana="#function">unus cooperatorum Pockinger</seg> videlicet cantet officium et faciet exhortationem. Habent <seg xml:id="function.cooperatores.14090100.comment.119" ana="#function">cooperatores</seg> a <seg xml:id="function.vittricis.14090100.comment.120" ana="#function">vittricis</seg> ibidem 24 d. <pb n="004v" xml:id="HART.004v"/></ab>
         </div>
       </div>
       <div>
@@ -1949,7 +643,7 @@
         <head xml:id="feast.14091510.51" corresp="#14091510">ITEM IN OCTAVA NATIVITATIS MARIAE</head>
         <div>
           <ab>peragetur anniversarius <seg xml:id="function.fraternitatis.14091510.comment.138" ana="#function">fraternitatis</seg> in <seg xml:id="place.Pocking.14091510.comment.110" ana="#place">Pocking</seg><add type="marginal">
-              <seg xml:id="place.Pocking.14091510.comment.111" ana="#place">Pocking</seg></add>, eodem sicut in octava assumptionis. <pb n="005r"/></ab>
+              <seg xml:id="place.Pocking.14091510.comment.111" ana="#place">Pocking</seg></add>, eodem sicut in octava assumptionis. <pb n="005r" xml:id="HART.005r"/></ab>
         </div>
       </div>
       <div>
@@ -1988,7 +682,7 @@
           <ab>habeatur anniversarius <seg xml:id="person.Ottnperger.14101510.comment.27" ana="#person">Ottnperger</seg> de <seg xml:id="place.Intzing.14101510.comment.118" ana="#place">Intzing</seg> cum una tota vigilia in <seg xml:id="place.Hartkirchn.14101510.comment.119" ana="#place">Hartkirchn</seg>. De mane cum officio de <seg xml:id="person.beataMariavirgine.14101510.comment.28" ana="#person"><choice>
                 <sic>beatae Mariae virginis</sic>
                 <corr>beata Maria virgine</corr>
-              </choice></seg> cum 1 requiem et 4 missis. Et accendentur 8 candelae. Et qualibet sexta feria habeatur missa ebdomadalis in <seg xml:id="place.arasanctiAndreae.14101510.comment.120" ana="#place">ara sancti Andreae</seg>. Ibidem cum exhortatione finitur. De quibus <seg xml:id="function.vittriciecclesiae.14101510.comment.148" ana="#function">vittrici ecclesiae</seg> dabunt <seg xml:id="function.plebano.14101510.comment.149" ana="#function">plebano</seg>. <pb n="005v"/></ab>
+              </choice></seg> cum 1 requiem et 4 missis. Et accendentur 8 candelae. Et qualibet sexta feria habeatur missa ebdomadalis in <seg xml:id="place.arasanctiAndreae.14101510.comment.120" ana="#place">ara sancti Andreae</seg>. Ibidem cum exhortatione finitur. De quibus <seg xml:id="function.vittriciecclesiae.14101510.comment.148" ana="#function">vittrici ecclesiae</seg> dabunt <seg xml:id="function.plebano.14101510.comment.149" ana="#function">plebano</seg>. <pb n="005v" xml:id="HART.005v"/></ab>
         </div>
       </div>
       <div>
@@ -2018,7 +712,7 @@
         <head xml:id="feast.14110108.60" corresp="#14110108">ITEM IN EBDOMADA POST <note type="supplied">FESTUM</note> OMNIUM SANCTORUM</head>
         <div>
           <ab>habeatur anniversarius <seg xml:id="person.Pimismayr.14110108.comment.29" ana="#person">Pimismayr</seg> cum 1 vigilia, 1 requiem et 2 missis. Et accendantur 4 candelae. Dabunt <seg xml:id="function.vittrici.14110108.comment.160" ana="#function">vittrici</seg> in <seg xml:id="place.Hartkirchn.14110108.comment.131" ana="#place">Hartkirchn</seg>
-            <seg xml:id="function.plebano.14110108.comment.161" ana="#function">plebano</seg> 1 fl. d., <seg xml:id="function.sociis.14110108.comment.162" ana="#function">sociis</seg> 24 d., <seg xml:id="function.capellano.14110108.comment.163" ana="#function">capellano</seg> 8 d., <seg xml:id="function.camponatori.14110108.comment.164" ana="#function">camponatori</seg> 4 d. Et <seg xml:id="function.plebanus.14110108.comment.165" ana="#function">plebanus</seg> de sua parte vigiliarum 1 fl. <note type="supplied">d</note>. Expediat memoriam dominicis diebus. <pb n="006r"/></ab>
+            <seg xml:id="function.plebano.14110108.comment.161" ana="#function">plebano</seg> 1 fl. d., <seg xml:id="function.sociis.14110108.comment.162" ana="#function">sociis</seg> 24 d., <seg xml:id="function.capellano.14110108.comment.163" ana="#function">capellano</seg> 8 d., <seg xml:id="function.camponatori.14110108.comment.164" ana="#function">camponatori</seg> 4 d. Et <seg xml:id="function.plebanus.14110108.comment.165" ana="#function">plebanus</seg> de sua parte vigiliarum 1 fl. <note type="supplied">d</note>. Expediat memoriam dominicis diebus. <pb n="006r" xml:id="HART.006r"/></ab>
         </div>
       </div>
       <div>
@@ -2076,7 +770,7 @@
           <ab><add>Anniversarius ipsius<unclear/>
               <seg xml:id="person.HerlSchuster.14112710.comment.32" ana="#person">Herl<unclear/> Schuster</seg> peragitur in die Virgilii, aut circa festum Andreae cum vigilia, requiem et missa una in <seg xml:id="place.Mitich.14112710.comment.141" ana="#place">Mitich</seg>. Dabunt <seg xml:id="function.vittriciplebano.14112710.comment.177" ana="#function">vittrici plebano</seg> 60 d., sociis 30 d. </add></ab>
           <ab><add type="marginal"><seg xml:id="place.Mitich.14112710.comment.142" ana="#place">Mitich</seg></add>
-            <pb n="006v"/></ab>
+            <pb n="006v" xml:id="HART.006v"/></ab>
         </div>
       </div>
       <div>
@@ -2122,7 +816,7 @@
       <div>
         <head xml:id="feast.add00021.76" corresp="#add00021">ITEM SEMPER EBDOMADA SEQUENTI</head>
         <div>
-          <ab>quamlibet angariam peragetur anniversarius <seg xml:id="person.Caphaimer.add00021.comment.36" ana="#person">Caphaimer</seg> cum 1 vigilia, 1 requiem, 2 missis lectis in <seg xml:id="place.Hartkirchn.add00021.comment.150" ana="#place">Hartkirchn</seg>. <pb n="007r"/></ab>
+          <ab>quamlibet angariam peragetur anniversarius <seg xml:id="person.Caphaimer.add00021.comment.36" ana="#person">Caphaimer</seg> cum 1 vigilia, 1 requiem, 2 missis lectis in <seg xml:id="place.Hartkirchn.add00021.comment.150" ana="#place">Hartkirchn</seg>. <pb n="007r" xml:id="HART.007r"/></ab>
         </div>
       </div>
       <div>
@@ -2152,7 +846,7 @@
         <head xml:id="feast.02122700.80" corresp="#02122700">ITEM <note type="supplied">FESTUM</note> IOANNIS</head>
         <div>
           <ab>celebratur. Et legatur una missa in <seg xml:id="place.Intzing.02122700.comment.154" ana="#place">Intzing</seg>, mane, et reveniat <seg xml:id="function.cappelanus.02122700.comment.198" ana="#function">cappelanus</seg> ad officium quod cantari potest si placet <seg xml:id="function.regenti.02122700.comment.199" ana="#function">regenti</seg>, sed non fuit de consuetudine. Et post elevationem, <seg xml:id="function.cappelanus.02122700.comment.200" ana="#function">cappelanus</seg> benedicet vinum pro amore <seg xml:id="person.Ioannis.02122700.comment.37" ana="#person">Ioannis</seg> porrigendum. Completo officio sive missa <seg xml:id="function.regens.02122700.comment.201" ana="#function">regens</seg> porrigit <seg xml:id="function.laicis.02122700.comment.202" ana="#function">laicis</seg> vinum bibere ex calice ut moris est. Propterea <seg xml:id="function.vittrici.02122700.comment.203" ana="#function">vittrici</seg> dabunt <seg xml:id="function.regenti.02122700.comment.204" ana="#function">regenti</seg> pro uno cantero vini. Similiter <seg xml:id="function.vittriciecclesiarum.02122700.comment.205" ana="#function">vittrici ecclesiarum</seg>
-            <seg xml:id="place.Pocking.02122700.comment.155" ana="#place">Pocking</seg> et <seg xml:id="place.Mitich.02122700.comment.156" ana="#place">Mitich</seg> ubilibet 1 canterus vini. Hos tres bibunt <seg xml:id="function.sacerdotes.02122700.comment.206" ana="#function">sacerdotes</seg> in communitate quando placuerit. <pb n="007v"/></ab>
+            <seg xml:id="place.Pocking.02122700.comment.155" ana="#place">Pocking</seg> et <seg xml:id="place.Mitich.02122700.comment.156" ana="#place">Mitich</seg> ubilibet 1 canterus vini. Hos tres bibunt <seg xml:id="function.sacerdotes.02122700.comment.206" ana="#function">sacerdotes</seg> in communitate quando placuerit. <pb n="007v" xml:id="HART.007v"/></ab>
         </div>
       </div>
       <div>
@@ -2212,7 +906,7 @@
       <div>
         <head xml:id="feast.06034000.90" corresp="#06034000">ITEM IN DIE CINERUM</head>
         <div>
-          <ab>benedicentur cineres ut moris est etiam in <seg xml:id="place.Pocking.06034000.comment.168" ana="#place">Pocking</seg> et <seg xml:id="place.Mitich.06034000.comment.169" ana="#place">Mitich</seg>. <pb n="008r"/></ab>
+          <ab>benedicentur cineres ut moris est etiam in <seg xml:id="place.Pocking.06034000.comment.168" ana="#place">Pocking</seg> et <seg xml:id="place.Mitich.06034000.comment.169" ana="#place">Mitich</seg>. <pb n="008r" xml:id="HART.008r"/></ab>
         </div>
       </div>
       <div>
@@ -2246,7 +940,7 @@
       <div>
         <head xml:id="feast.07064000.95" corresp="#07064000">ITEM FERIA QUARTA ANTE CENAM DOMINI</head>
         <div>
-          <ab>de nocte hora. 12. fiat pulsus ad matutinas. Et ex consuetudine introducta cantetur tantum unus nocturnus cum lamentationibus. Quo finito cantetur Benedictus cum sua antiphona. Fiatque pulsus tabellarum et proccessio ut moris est. Eadem nocte non cantentur matutinae in <seg xml:id="place.Mitich.07064000.comment.178" ana="#place">Mitich</seg>. Sed <seg xml:id="function.cooperatores.07064000.comment.229" ana="#function">cooperatores</seg> existant in <seg xml:id="place.Pocking.07064000.comment.179" ana="#place">Pocking</seg> et communicent <seg xml:id="function.populum.07064000.comment.230" ana="#function">populum</seg> in die cenae et cantent matutinam ibidem. <pb n="008v"/></ab>
+          <ab>de nocte hora. 12. fiat pulsus ad matutinas. Et ex consuetudine introducta cantetur tantum unus nocturnus cum lamentationibus. Quo finito cantetur Benedictus cum sua antiphona. Fiatque pulsus tabellarum et proccessio ut moris est. Eadem nocte non cantentur matutinae in <seg xml:id="place.Mitich.07064000.comment.178" ana="#place">Mitich</seg>. Sed <seg xml:id="function.cooperatores.07064000.comment.229" ana="#function">cooperatores</seg> existant in <seg xml:id="place.Pocking.07064000.comment.179" ana="#place">Pocking</seg> et communicent <seg xml:id="function.populum.07064000.comment.230" ana="#function">populum</seg> in die cenae et cantent matutinam ibidem. <pb n="008v" xml:id="HART.008v"/></ab>
         </div>
       </div>
       <div>
@@ -2274,7 +968,7 @@
         <div>
           <ab>omnia peragentur solemnniter tam in <seg xml:id="place.Hartkirchn.08011000.comment.187" ana="#place">Hartkirchn</seg> quam circa <seg xml:id="place.filialesecclesias.08011000.comment.188" ana="#place">filiales ecclesias</seg>. Et post benedictionem summi officii exiat <seg xml:id="function.cappelanus.08011000.comment.239" ana="#function">cappelanus</seg> et benedicat carnes, ova et panes in <seg xml:id="place.cimiterio.08011000.comment.189" ana="#place">cimiterio</seg>. Et <seg xml:id="function.regens.08011000.comment.240" ana="#function">regens</seg> interim communicet <seg xml:id="function.populum.08011000.comment.241" ana="#function">populum</seg>. </ab>
           <ab>Prandio peracto ascendetur ad <seg xml:id="place.Pocking.08011000.comment.190" ana="#place">Pocking</seg>. Et fiat ibi sermo solemnis per <seg xml:id="function.ebdomadarum.08011000.comment.242" ana="#function">ebdomadarum</seg>
-            <pb n="009r"/>vel per <seg xml:id="function.regentem.08011000.comment.243" ana="#function">regentem</seg> si placet, quia multus ibi congregatur <seg xml:id="function.populus.08011000.comment.244" ana="#function">populus</seg>. Sermone completo cantentur secundae vesperae. Quibus peractis redeundum est iterum ad <seg xml:id="place.Hartkirchn.08011000.comment.191" ana="#place">Hartkirchn</seg> et ibi cantentur secundae vesperae secundum breviarium ut moris est. </ab>
+            <pb n="009r" xml:id="HART.009r"/>vel per <seg xml:id="function.regentem.08011000.comment.243" ana="#function">regentem</seg> si placet, quia multus ibi congregatur <seg xml:id="function.populus.08011000.comment.244" ana="#function">populus</seg>. Sermone completo cantentur secundae vesperae. Quibus peractis redeundum est iterum ad <seg xml:id="place.Hartkirchn.08011000.comment.191" ana="#place">Hartkirchn</seg> et ibi cantentur secundae vesperae secundum breviarium ut moris est. </ab>
           <ab>Aliis vero sequentibus diebus celebribus peragetur singula iuxta placitum. </ab>
         </div>
       </div>
@@ -2308,8 +1002,8 @@
         <div>
           <ab><add>anniversarius <seg xml:id="person.BeranerdeMitich.08072000.comment.46" ana="#person">Beraner de Mitich<unclear/></seg> semper habetur feria secunda ante pentecosten cum vigilia, officio <seg xml:id="person.virginis.08072000.comment.47" ana="#person">virginis</seg> et 1 missa. Habet <seg xml:id="function.plebanus.08072000.comment.254" ana="#function">plebanus</seg> 1 fl. 60 d. </add></ab>
           <ab><note>Fünf Zeilen mit Ergänzungen, kaum lesbar</note></ab>
-          <ab><pb n="009v"/><note>leer</note>
-            <pb n="010r"/></ab>
+          <ab><pb n="009v" xml:id="HART.009v"/><note>leer</note>
+            <pb n="010r" xml:id="HART.010r"/></ab>
         </div>
       </div>
       <div>
@@ -2321,7 +1015,7 @@
           <ab>Item cum haberetur officium <seg xml:id="person.beataevirginis.add00023.comment.48" ana="#person">beatae virginis</seg> vel officium alicuius sancti quod rarissime fit. Si canitur hoc <note type="supplied">in</note>
             <seg xml:id="place.Mitich.add00023.comment.200" ana="#place">Mitich</seg> media pars ceditur <seg xml:id="function.cooperatoribus.add00023.comment.262" ana="#function">cooperatoribus</seg>, mea pars <seg xml:id="function.plebano.add00023.comment.263" ana="#function">plebano</seg>. Si aut ad <seg xml:id="place.sanctumPetrum.add00023.comment.201" ana="#place">sanctum Petrum</seg> aut ad <seg xml:id="place.sanctumUdalricum.add00023.comment.202" ana="#place">sanctum Udalricum</seg> tertia pars cedit<note type="supplied">ur</note>
             <seg xml:id="function.sociis.add00023.comment.264" ana="#function">sociis</seg> reliqua pars <seg xml:id="function.plebano.add00023.comment.265" ana="#function">plebano</seg>. Sed de officiis ex nuptiis pariter proclamationes in <seg xml:id="place.cancellis.add00023.comment.203" ana="#place">cancellis</seg> debent simul poni et fideliter in mensa pro vino exponi. </ab><lb/>
-          <ab>Item cum hic habetur peractio et apud alias ecclesias, quod rarissime fit, cum <seg xml:id="function.tribusautquatuorsacerdotibussocii.add00023.comment.266" ana="#function">tribus aut quatuor sacerdotibus socii</seg> habent 32 d., superflua habetur <seg xml:id="function.plebanus.add00023.comment.267" ana="#function">plebanus</seg>. Dat <seg xml:id="function.plebanus.add00023.comment.268" ana="#function">plebanus</seg> ex honestate <seg xml:id="function.capellano.add00023.comment.269" ana="#function">capellano</seg> vinum aut 6 d. <pb n="010v"/></ab>
+          <ab>Item cum hic habetur peractio et apud alias ecclesias, quod rarissime fit, cum <seg xml:id="function.tribusautquatuorsacerdotibussocii.add00023.comment.266" ana="#function">tribus aut quatuor sacerdotibus socii</seg> habent 32 d., superflua habetur <seg xml:id="function.plebanus.add00023.comment.267" ana="#function">plebanus</seg>. Dat <seg xml:id="function.plebanus.add00023.comment.268" ana="#function">plebanus</seg> ex honestate <seg xml:id="function.capellano.add00023.comment.269" ana="#function">capellano</seg> vinum aut 6 d. <pb n="010v" xml:id="HART.010v"/></ab>
           <ab>Item numquam obligatur <seg xml:id="function.plebanus.add00023.comment.270" ana="#function">plebanus</seg> dare potum pro mensa. Ratio <seg xml:id="function.capellanus.add00023.comment.271" ana="#function">capellanus</seg> habetur festivis diebus iuxta officium 20 16 30 pro bibalibus. <seg xml:id="function.Cooperatores.add00023.comment.272" ana="#function">Cooperatores</seg> habent sua officia vel offertoria ex <seg xml:id="place.Mitich.add00023.comment.204" ana="#place">Mitich</seg>. Sed ego causa honestatis cum habetur communicantes<unclear/> assumptionis <note type="supplied">et</note> nativitatis Mariae virginis dedi tres medias vini aut duo quartalia. Pariter vigilia pascae, ubi omnes obligantur offerre <seg xml:id="function.sacerdotes.add00023.comment.273" ana="#function">sacerdotes</seg> ex laudabile consuetudine, dedi potum, quia in die scilicet non fuerunt praesentes socii, quia coguntur esse <seg xml:id="place.Pocking.add00023.comment.205" ana="#place">Pocking</seg>. </ab><lb/>
           <ab>Item de anniversariis <seg xml:id="function.fundationis.add00023.comment.274" ana="#function">fundationis</seg> circa omnes ecclesias quilibet recipit suam partem ut habetur in missali in <seg xml:id="place.ecclesia.add00023.comment.206" ana="#place">ecclesia</seg> iuxta kalendarium scriptam et cetera. </ab><lb/>
           <ab>Item <seg xml:id="incipit.add00023.comment.11" ana="#AS" subtype="supplied" type="incipit">Salve</seg> canitur sabbatinis noctibus ex <seg xml:id="function.fraternitatebeataevirginis.add00023.comment.275" ana="#function">fraternitate beatae virginis</seg>. Dant <seg xml:id="function.vitricii.add00023.comment.276" ana="#function">vitricii</seg> eiusdem <seg xml:id="function.fraternitatis.add00023.comment.277" ana="#function">fraternitatis</seg>
@@ -2329,11 +1023,11 @@
           <ab>Item in <seg xml:id="place.PockingadsanctumUdalricum.add00023.comment.207" ana="#place">Pocking ad sanctum Udalricum</seg> omnia pertinent <seg xml:id="function.plebano.add00023.comment.280" ana="#function">plebano</seg> officia petitionales, baptismales et de spuriis. In dedicatione in die sancti Udalrici omnia pertinent <seg xml:id="function.plebano.add00023.comment.281" ana="#function">plebano</seg>. Sed ex honestate dedi bibales. Sed in aliis videlicet offertoribus et redditibus, nil sibi usurpent praeter D::mediam partem tertiam de tr<unclear/>mediis quam habent per tres ecclesias et exolvant parti 393 in peractionibus. </ab><lb/>
           <ab>Item de anniversariis <seg xml:id="function.fundationis.add00023.comment.282" ana="#function">fundationis</seg> in <seg xml:id="place.Pocking.add00023.comment.208" ana="#place">Pocking</seg> vident hoc <note type="supplied">in</note> libro missali ut supra. </ab><lb/>
           <ab>Item in <seg xml:id="place.Mitichadbeatamvirginem.add00023.comment.209" ana="#place">Mitich ad beatam virginem</seg> nihil habet plebanus, nisi de spuriis et de anniversariis ut in libro missali. Sed ex missa cottidiana totum pertinet <seg xml:id="function.plebano.add00023.comment.283" ana="#function">plebano</seg>. </ab><lb/>
-          <ab>Item in dedicatione templi 36 d. habet <seg xml:id="function.plebanus.add00023.comment.284" ana="#function">plebanus</seg> a <seg xml:id="function.vittricis.add00023.comment.285" ana="#function">vittricis</seg>. <pb n="011r"/></ab>
+          <ab>Item in dedicatione templi 36 d. habet <seg xml:id="function.plebanus.add00023.comment.284" ana="#function">plebanus</seg> a <seg xml:id="function.vittricis.add00023.comment.285" ana="#function">vittricis</seg>. <pb n="011r" xml:id="HART.011r"/></ab>
           <ab>Item in <seg xml:id="place.Mitich.add00023.comment.210" ana="#place">Mitich</seg> pro refusione <seg xml:id="person.dominiSteffani.add00023.comment.49" ana="#person">domini Steffani</seg> semper habet <seg xml:id="function.plebanus.add00023.comment.286" ana="#function">plebanus</seg> per annum 6 s. d. </ab><lb/>
           <ab>Item ex missa cottidiana in <seg xml:id="place.Mitich.add00023.comment.211" ana="#place">Mitich</seg> dederunt mihi 12 lb. d. quos recepi ignoranter, quia numquam vidi litteram fundationis. Licet plurium pulsavi et impulsavi <seg xml:id="function.vitricosecclesiae.add00023.comment.287" ana="#function">vitricos ecclesiae</seg>, sed numquam potui obtinere mihi ostendere illam ex ordinatione ipsius <seg xml:id="person.WilhelmiRatawer.add00023.comment.50" ana="#person">Wilhelmi Ratawer</seg> speciali nostri fa<note type="supplied">c</note>toris per contrarium. Sed veritas non potest occultari: Ma<unclear/>res eamdem litteram annullarunt et in occulto, me nesciente, ad <seg xml:id="place.sanctumNicolaum.add00023.comment.212" ana="#place">sanctum Nicolaum</seg> ad <seg xml:id="function.dominumpraepositum.add00023.comment.288" ana="#function">dominum praepositum</seg> interveniunt. Pariter ad <seg xml:id="person.dominumdeCamer.add00023.comment.51" ana="#person">dominum de Camer</seg>
             <seg xml:id="function.praefectum.add00023.comment.289" ana="#function">praefectum</seg> in <seg xml:id="place.Griespach.add00023.comment.213" ana="#place">Griespach</seg> pulsaverunt. Videntes autem domini gravitatem litterae contra omne ius et prde<unclear/> ius conscriptum. Et id <seg xml:id="function.dominuspraepositus.add00023.comment.290" ana="#function">dominus praepositus</seg> ex magno labore rescripserunt litteram fundationis missae. In qua copia vidi dolosam invidiam rusticorum ubi fundaverunt missam, ad 16 lb. d. Wiennensium antiquorum, pro tunc dabatur florenos ungaricales pro 5 s. d. Et ex <seg xml:id="place.Mitich.add00023.comment.214" ana="#place">Mitich</seg> dederunt illo tempore 12 lb. d. Et hic ex <seg xml:id="place.Hartkirchen.add00023.comment.215" ana="#place">Hartkirchen</seg> 4 lb. d., quos hic numquam cepi. Quia hic in <seg xml:id="place.Hartkirchen.add00023.comment.216" ana="#place">Hartkirchen</seg> fundarunt propriam bonam missam. Et cum conscientia nihil possum recipere ab eis. Ex tunc habuimus duas diaetas pro innovationem litterae, et nihil fuit expeditum. Quia volui ut missa <seg xml:id="function.fundatorissacerdoti.add00023.comment.291" ana="#function">fundatoris sacerdoti</seg> detur <unclear/> dies ut communiter habetur circa omnes fundationes. Et <seg xml:id="function.plebano.add00023.comment.292" ana="#function">plebano</seg> cum
-            fuerit peractio quod utitur suo <seg xml:id="function.sacerdote.add00023.comment.293" ana="#function">sacerdote</seg> in <seg xml:id="place.Pocking.add00023.comment.217" ana="#place">Pocking</seg> aut in <seg xml:id="place.Mitich.add00023.comment.218" ana="#place">Mitich</seg> aut in <seg xml:id="place.Hartkirchen.add00023.comment.219" ana="#place">Hartkirchen</seg>. Et quod non gravatur <seg xml:id="function.plebanus.add00023.comment.294" ana="#function">plebanus</seg> cum tali pena inusitata contra omne ius et privilegia <seg xml:id="function.sacerdotis.add00023.comment.295" ana="#function">sacerdotis</seg>. Et amoneo omnes subsequentes mei ut laborant pro illa expeditione. Et si supervixero ad tempus non cessabo vero ex avaritia et in odium <seg xml:id="person.gloriosissimaevirginisMariae.add00023.comment.52" ana="#person">gloriosissimae virginis Mariae</seg>, sed in laudem eius ut fundatur missa aeternaliter stabilita, quia scio pecuniam <seg xml:id="person.beataevirginis.add00023.comment.53" ana="#person">beatae virginis</seg> per <seg xml:id="function.nobiles.add00023.comment.296" ana="#function">nobiles</seg> et <seg xml:id="function.rusticos.add00023.comment.297" ana="#function">rusticos</seg> non bene servari. Copiam fundationis invenies in registro, vel aliis privilegiis ecclesiae, non in vindictam, sed com<note type="supplied">m</note>odum et salutem animarum. Quia male venit pecuniis <seg xml:id="person.beataevirginis.add00023.comment.54" ana="#person">beatae virginis</seg>. <pb n="011v"/></ab>
+            fuerit peractio quod utitur suo <seg xml:id="function.sacerdote.add00023.comment.293" ana="#function">sacerdote</seg> in <seg xml:id="place.Pocking.add00023.comment.217" ana="#place">Pocking</seg> aut in <seg xml:id="place.Mitich.add00023.comment.218" ana="#place">Mitich</seg> aut in <seg xml:id="place.Hartkirchen.add00023.comment.219" ana="#place">Hartkirchen</seg>. Et quod non gravatur <seg xml:id="function.plebanus.add00023.comment.294" ana="#function">plebanus</seg> cum tali pena inusitata contra omne ius et privilegia <seg xml:id="function.sacerdotis.add00023.comment.295" ana="#function">sacerdotis</seg>. Et amoneo omnes subsequentes mei ut laborant pro illa expeditione. Et si supervixero ad tempus non cessabo vero ex avaritia et in odium <seg xml:id="person.gloriosissimaevirginisMariae.add00023.comment.52" ana="#person">gloriosissimae virginis Mariae</seg>, sed in laudem eius ut fundatur missa aeternaliter stabilita, quia scio pecuniam <seg xml:id="person.beataevirginis.add00023.comment.53" ana="#person">beatae virginis</seg> per <seg xml:id="function.nobiles.add00023.comment.296" ana="#function">nobiles</seg> et <seg xml:id="function.rusticos.add00023.comment.297" ana="#function">rusticos</seg> non bene servari. Copiam fundationis invenies in registro, vel aliis privilegiis ecclesiae, non in vindictam, sed com<note type="supplied">m</note>odum et salutem animarum. Quia male venit pecuniis <seg xml:id="person.beataevirginis.add00023.comment.54" ana="#person">beatae virginis</seg>. <pb n="011v" xml:id="HART.011v"/></ab>
         </div>
       </div>
       <div>
@@ -2345,12 +1039,12 @@
           <ab>Item semper in sexta feria <seg xml:id="function.ebdomadarius.add00024.comment.299" ana="#function">ebdomadarius</seg> legat missam in <seg xml:id="place.Ockershaim.add00024.comment.222" ana="#place">Ockershaim</seg>, de qua habent <seg xml:id="function.cooperatores.add00024.comment.300" ana="#function">cooperatores</seg> 11 s<note type="supplied">olidos</note> nigros<unclear/> ago<unclear/></ab><lb/>
           <ab>Item <seg xml:id="function.cooperatores.add00024.comment.301" ana="#function">cooperatores</seg> habent collecturam satis bonam de siligine 18 saccis. Item<unclear/> de avena suppedere volo de lino et pecunia. </ab><lb/>
           <ab>Item <seg xml:id="function.cooperatores.add00024.comment.302" ana="#function">cooperatores</seg> habent mediam partem in confessionibus, in comperationibus<unclear/>, similiter in missis ipsis datis. Ad missam partem mediam et vul<unclear/>atur <unclear/> quod <unclear/> alias usurpent. </ab><lb/>
-          <ab>Item omni die legat <seg xml:id="function.unuscooperatorum.add00024.comment.303" ana="#function">unus cooperatorum</seg> missam in <seg xml:id="place.Mitich.add00024.comment.223" ana="#place">Mitich</seg> de qua ipsi tabulam habent et omnia offertoria et cetera. <pb n="012r"/></ab>
+          <ab>Item omni die legat <seg xml:id="function.unuscooperatorum.add00024.comment.303" ana="#function">unus cooperatorum</seg> missam in <seg xml:id="place.Mitich.add00024.comment.223" ana="#place">Mitich</seg> de qua ipsi tabulam habent et omnia offertoria et cetera. <pb n="012r" xml:id="HART.012r"/></ab>
           <ab>Item <seg xml:id="function.cooperatores.add00024.comment.304" ana="#function">cooperatores</seg> habent hoc in <seg xml:id="place.Pocking.add00024.comment.224" ana="#place">Pocking</seg> et in <seg xml:id="place.Mitich.add00024.comment.225" ana="#place">Mitich</seg> de anniversariis et <unclear/>
             <seg xml:id="function.ebdomadalibus.add00024.comment.305" ana="#function">ebdomadalibus</seg> ac de <seg xml:id="function.fraternitate.add00024.comment.306" ana="#function">fraternitate</seg> habent 10 fl. </ab>
           <ab>Item quibus <seg xml:id="function.ebdomadarius.add00024.comment.307" ana="#function">ebdomadarius</seg> sedebit <seg xml:id="person.Mariae.add00024.comment.55" ana="#person">Mariae<unclear/></seg> mense<unclear/> et stabit in <seg xml:id="place.ecclesia.add00024.comment.226" ana="#place">ecclesia</seg> sero<unclear/> in sede proprie, idem et omnes <seg xml:id="function.presbyteri.add00024.comment.308" ana="#function">presbyteri<unclear/></seg> una cum domino quando sunt praesentes debent visitare <seg xml:id="place.ecclesiam.add00024.comment.227" ana="#place">ecclesiam</seg>. </ab>
           <ab><note>Zehn Zeilen mit Ergänzungen, kaum lesbar</note>
-            <pb n="012v"/></ab>
+            <pb n="012v" xml:id="HART.012v"/></ab>
           <ab>Item institutio <seg xml:id="function.plebani.add00024.comment.309" ana="#function">plebani</seg> magno. </ab><lb/>
           <ab>Item <seg xml:id="person.Winnier.add00024.comment.56" ana="#person">Winni<unclear/>er</seg> ex <seg xml:id="place.Pocking.add00024.comment.228" ana="#place">Pocking</seg> dat <unclear/></ab><lb/>
           <ab>Item conponatur ex <seg xml:id="place.Pocking.add00024.comment.229" ana="#place">Pocking</seg> gibt <unclear/> von ainem perontlem<unclear/></ab><lb/>
@@ -2368,7 +1062,7 @@
           <ab>Anno 15+83</ab><lb/>
           <ab>Crucem sequitur gloria. </ab><lb/>
           <ab><seg xml:id="person.LeonhardLienhartVicarius.add00025.comment.62" ana="#person">Leonhard Lienhart Vicarius</seg></ab><lb/>
-          <ab>Manu propria<pb n="HDS"/></ab>
+          <ab>Manu propria<pb n="HDS" xml:id="HART.HDS"/></ab>
         </div>
       </div>
           <div>
@@ -2378,5 +1072,5 @@
         </div>
       </div>
     </body>
-  </text>
+   </text>
 </TEI>
