@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:id="hartkirchen">
       <fileDesc>
          <titleStmt>
@@ -30,12 +29,10 @@
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <orgName ref="http://d-nb.info/gnd/1043809171"
-                        corresp="https://www.oeaw.ac.at/acdh/musikwissenschaft/">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage, Abteilung Musikwissenschaft</orgName>
+               <orgName ref="http://d-nb.info/gnd/1043809171" corresp="https://www.oeaw.ac.at/acdh/musikwissenschaft/">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage, Abteilung Musikwissenschaft</orgName>
             </publisher>
             <authority>
-               <orgName ref="http://d-nb.info/gnd/1137284463"
-                        corresp="https://informationsmodellierung.uni-graz.at">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+               <orgName ref="http://d-nb.info/gnd/1137284463" corresp="https://informationsmodellierung.uni-graz.at">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
             </authority>
             <distributor>
                <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
@@ -43,8 +40,8 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
             </availability>
-            <date when="2017">2017</date>
-            <idno type="PID">o:cantus.regensburg</idno>
+            <date when="2020">2020</date>
+            <idno type="PID">o:cantus.hartkirchen</idno>
          </publicationStmt>
          <seriesStmt>
             <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network - semantisch erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
@@ -92,9 +89,242 @@
                   </altIdentifier>
                </msIdentifier>
             </msDesc>
-            <list type="secondary_sources">
-               <item source="https://iiifp-mufo.oeaw.ac.at/mahss/A-SFxi480/manifest"/>
-            </list>
+           <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+             <item xml:id="Durandus">
+               <bibl>
+                 <title>Rationale Divinorum Officiorum</title>
+                 <author>Guillelmus Durandus</author>
+                 <editor>Anselme DAVRIL - Timothy M. THIBODEAU</editor>
+                 <placeName>Turnout</placeName>
+                 <date>195-2000</date>
+                 <series>CChr.CM 140,140A-B</series>
+               </bibl>
+             </item>
+             <item xml:id="Beleth">
+               <bibl>
+                 <title>Summa de ecclesiasticis officiis</title>
+                 <author>Iohannes Beleth</author>
+                 <editor>Heribertus DOUTEIL</editor>
+                 <placeName>Turnout</placeName>
+                 <date>1976</date>
+                 <series>CChr.CM 41-41A</series>
+               </bibl>
+             </item>
+             <item xml:id="Bernold">
+               <bibl>
+                 <title>Micrologus de ecclesiasticis observationibus</title>
+                 <author>Bernold von St. Blasien</author>
+                 <editor/>
+                 <placeName/>
+                 <date/>
+                 <series>PL 151, 973-1022</series>
+               </bibl>
+             </item>
+             <item xml:id="ChroniconVenetum">
+               <bibl>
+                 <title>Chronicon Venetum</title>
+                 <author>Ioannes Diaconus Venetus</author>
+                 <editor>PERTZ</editor>
+                 <placeName>Hannover</placeName>
+                 <date>1846</date>
+                 <series>MGH.SS VII, 4-38</series>
+               </bibl>
+             </item>
+             <item xml:id="LibQuare">
+               <bibl>
+                 <title>Liber Quare</title>
+                 <author/>
+                 <editor>Georg Polycarp GOETZ</editor>
+                 <placeName>Turnhout</placeName>
+                 <date>1983</date>
+                 <series>CChr.CM 60</series>
+               </bibl>
+             </item>
+             <item xml:id="Gregorius">
+               <bibl>
+                 <title>Registrum Epistolarum</title>
+                 <author>Gregorius I papa</author>
+                 <editor>Paul EWAN - Ludo M. HARTMANN</editor>
+                 <placeName>Berlin</placeName>
+                 <date>1891-99</date>
+                 <series>MGH.Ep I-II</series>
+               </bibl>
+             </item>
+             <item xml:id="Isidorus">
+               <bibl>
+                 <title>Sententiarum libri tres</title>
+                 <author>Isidorus von Sevilla</author>
+                 <editor>Pierre CAZIER</editor>
+                 <placeName>Turnhout</placeName>
+                 <date>1998</date>
+                 <series>CCHr.SL 111</series>
+               </bibl>
+             </item>
+             <item xml:id="LibConv">
+               <bibl>
+                 <title>Libellus de conversione Bogoariorum et Carantanorum</title>
+                 <author/>
+                 <editor>Georg Heinrich PERTZ</editor>
+                 <placeName>Hannover</placeName>
+                 <date>1854</date>
+                 <series>MGH.SS XI</series>
+               </bibl>
+             </item>
+             <item xml:id="Rupert">
+               <bibl>
+                 <title>Liber de divinis officiis</title>
+                 <author>Rupert von Deutz</author>
+                 <editor>Rhaban HAACKE</editor>
+                 <placeName>Turnhout</placeName>
+                 <date>1967</date>
+                 <series>CChr.CM 7</series>
+               </bibl>
+             </item>
+             <item xml:id="Amalarius">
+               <bibl>
+                 <title>De ecclesiasticis officiis</title>
+                 <author>Amalarius von Metz</author>
+                 <editor>Jean Michel HANNSENS</editor>
+                 <placeName>Città del Vaticano</placeName>
+                 <date>1948-50</date>
+                 <series>Studi e Testi 138-140</series>
+               </bibl>
+             </item>
+             <item xml:id="Beda">
+               <bibl>
+                 <title>Homiliarum libri tres</title>
+                 <author>Beda</author>
+                 <editor>David HURST - John FRAIPONT</editor>
+                 <placeName>Turnhout</placeName>
+                 <date>1955</date>
+                 <series>CChr.SL 122</series>
+               </bibl>
+             </item>
+             <item xml:id="Sichard">
+               <bibl>
+                 <title>Mitrale sive Summa de officiis</title>
+                 <author>Sichard von Cremona</author>
+                 <editor>Lorenz WEINRICH</editor>
+                 <placeName>Turnhout</placeName>
+                 <date>2008</date>
+                 <series>CChr.CM 228</series>
+               </bibl>
+             </item>
+             <item xml:id="ConcAgath">
+               <bibl>
+                 <title>Concilium Agathense</title>
+                 <author/>
+                 <editor>Charles MUNIER</editor>
+                 <placeName>Turnhout</placeName>
+                 <date>2008</date>
+                 <series>CChr.SL 228 (=Concilia Galliae 314-506)</series>
+               </bibl>
+             </item>
+             <item xml:id="ConcGerund">
+               <bibl>
+                 <title>Concilium Gerundense</title>
+                 <author/>
+                 <editor/>
+                 <placeName/>
+                 <date/>
+                 <series>PL 84,314-316</series>
+               </bibl>
+             </item>
+             <item xml:id="GregoriusVII">
+               <bibl>
+                 <title>Regula canonica</title>
+                 <author>Gregorius VII papa</author>
+                 <editor>Jean MORIN</editor>
+                 <placeName/>
+                 <date>1901</date>
+                 <series>Revue bénédictine 18, 177-183</series>
+               </bibl>
+             </item>
+             <item xml:id="Honorius">
+               <bibl>
+                 <title>Gemma animae</title>
+                 <author>Honorius Augustodunensis</author>
+                 <editor/>
+                 <placeName/>
+                 <date/>
+                 <series>PL 172, 541-738</series>
+               </bibl>
+             </item>
+             <item xml:id="Ivo">
+               <bibl>
+                 <title>Panormia</title>
+                 <author>Ivo von Chartres</author>
+                 <editor/>
+                 <placeName/>
+                 <date/>
+                 <series>PL 161, 1041-1344</series>
+               </bibl>
+             </item>
+             <item xml:id="AH">
+               <bibl>
+                 <title>Analecta hymnica medii aevi Vol. I-LV</title>
+                 <author/>
+                 <editor>Guido Maria DREVES e.a.</editor>
+                 <placeName>Leipzig</placeName>
+                 <date>1886-1926</date>
+                 <series/>
+               </bibl>
+             </item>
+             <item xml:id="CantusDBandIDX">
+               <bibl>
+                 <title>CANTUS Database und CANTUS Index</title>
+                 <author/>
+                 <editor>Debora LACOSTE, Jan KOLÁČEK e.a.</editor>
+                 <placeName>Waterloo</placeName>
+                 <date>2011ff</date>
+                 <series/>
+                 <ref target="http://cantus.uwaterloo.ca/home/"/>
+                 <ref target="http://cantusindex.org/"/>
+               </bibl>
+             </item>
+             <item xml:id="CorpOr">
+               <bibl>
+                 <title>Corpus orationum Vol. I-XIII</title>
+                 <author/>
+                 <editor>Edmond Eugene MOELLER, Jean-Marie CLÉMENT und Bertrandus COPPETIERS'T WALLANT</editor>
+                 <placeName>Turnhout</placeName>
+                 <date>1992ff</date>
+                 <series>Corpus Christianorum, series Latina CLX B</series>
+               </bibl>
+             </item>
+             <item xml:id="CT">
+               <bibl>
+                 <title>Corpus Troporum Vol. I-XII</title>
+                 <author/>
+                 <editor>Gunilla IVERSEN e.a</editor>
+                 <placeName>Stockholm</placeName>
+                 <date>1975-2014</date>
+                 <series>Studia Latina Stockholmiensia, Acta Universitatis Stockholmiensis</series>
+               </bibl>
+             </item>
+             <item xml:id="PL">
+               <bibl>
+                 <title>Patrologiae Cursus Completus. Series Latina, 217 Vol.</title>
+                 <author/>
+                 <editor>Jacques Paul MIGNE</editor>
+                 <placeName>Paris</placeName>
+                 <date>1844-1855</date>
+                 <series/>
+                 <ref target="http://mlat.uzh.ch/MLS/xanfang.php?corpus=2&amp;lang=0"/>
+               </bibl>
+             </item>
+             <item xml:id="HCM">
+               <bibl>
+                 <title>Homiliae de Sanctis et de tempore (Homiliarium Karls des Großen)</title>
+                 <author/>
+                 <editor>Paulus DIACONUS</editor>
+                 <placeName/>
+                 <date/>
+                 <series/>
+                 <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="/>
+               </bibl>
+             </item>
+           </list>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -157,152 +387,100 @@
    </teiHeader>
    <facsimile>
       <surface start="#HART.VDS">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-VDS.jpg"
-                  xml:id="IMG.VDS"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-VDS.jpg" xml:id="IMG.VDS"/>
       </surface>
       <surface start="#HART.001r">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-001r.jpg"
-                  xml:id="IMG.001r"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-001r.jpg" xml:id="IMG.001r"/>
       </surface>
       <surface start="#HART.001v">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-001v.jpg"
-                  xml:id="IMG.001v"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-001v.jpg" xml:id="IMG.001v"/>
       </surface>
       <surface start="#HART.002r">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-002r.jpg"
-                  xml:id="IMG.002r"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-002r.jpg" xml:id="IMG.002r"/>
       </surface>
       <surface start="#HART.002v">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-002v.jpg"
-                  xml:id="IMG.002v"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-002v.jpg" xml:id="IMG.002v"/>
       </surface>
       <surface start="#HART.003r">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-003r.jpg"
-                  xml:id="IMG.003r"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-003r.jpg" xml:id="IMG.003r"/>
       </surface>
       <surface start="#HART.003v">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-003v.jpg"
-                  xml:id="IMG.003v"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-003v.jpg" xml:id="IMG.003v"/>
       </surface>
       <surface start="#HART.004r">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-004r.jpg"
-                  xml:id="IMG.004r"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-004r.jpg" xml:id="IMG.004r"/>
       </surface>
       <surface start="#HART.004v">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-004v.jpg"
-                  xml:id="IMG.004v"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-004v.jpg" xml:id="IMG.004v"/>
       </surface>
       <surface start="#HART.005r">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-005r.jpg"
-                  xml:id="IMG.005r"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-005r.jpg" xml:id="IMG.005r"/>
       </surface>
       <surface start="#HART.005v">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-005v.jpg"
-                  xml:id="IMG.005v"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-005v.jpg" xml:id="IMG.005v"/>
       </surface>
       <surface start="#HART.006r">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-006r.jpg"
-                  xml:id="IMG.006r"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-006r.jpg" xml:id="IMG.006r"/>
       </surface>
       <surface start="#HART.006v">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-006v.jpg"
-                  xml:id="IMG.006v"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-006v.jpg" xml:id="IMG.006v"/>
       </surface>
       <surface start="#HART.007r">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-007r.jpg"
-                  xml:id="IMG.007r"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-007r.jpg" xml:id="IMG.007r"/>
       </surface>
       <surface start="#HART.007v">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-007v.jpg"
-                  xml:id="IMG.007v"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-007v.jpg" xml:id="IMG.007v"/>
       </surface>
       <surface start="#HART.008r">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-008r.jpg"
-                  xml:id="IMG.008r"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-008r.jpg" xml:id="IMG.008r"/>
       </surface>
       <surface start="#HART.008v">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-008v.jpg"
-                  xml:id="IMG.008v"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-008v.jpg" xml:id="IMG.008v"/>
       </surface>
       <surface start="#HART.009r">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-009r.jpg"
-                  xml:id="IMG.009r"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-009r.jpg" xml:id="IMG.009r"/>
       </surface>
       <surface start="#HART.009v">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-009v.jpg"
-                  xml:id="IMG.009v"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-009v.jpg" xml:id="IMG.009v"/>
       </surface>
       <surface start="#HART.010r">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-010r.jpg"
-                  xml:id="IMG.010r"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-010r.jpg" xml:id="IMG.010r"/>
       </surface>
       <surface start="#HART.010v">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-010v.jpg"
-                  xml:id="IMG.010v"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-010v.jpg" xml:id="IMG.010v"/>
       </surface>
       <surface start="#HART.011r">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-011r.jpg"
-                  xml:id="IMG.011r"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-011r.jpg" xml:id="IMG.011r"/>
       </surface>
       <surface start="#HART.011v">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-011v.jpg"
-                  xml:id="IMG.011v"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-011v.jpg" xml:id="IMG.011v"/>
       </surface>
       <surface start="#HART.012r">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-012r.jpg"
-                  xml:id="IMG.012r"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-012r.jpg" xml:id="IMG.012r"/>
       </surface>
       <surface start="#HART.012v">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-012v.jpg"
-                  xml:id="IMG.012v"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-012v.jpg" xml:id="IMG.012v"/>
       </surface>
       <surface start="#HART.HDS">
-         <graphic mimeType="image/jpeg"
-                  url="file:///D-Mhsa-62-HDS.jpg"
-                  xml:id="IMG.HDS"/>
+         <graphic mimeType="image/jpeg" url="file:///D-Mhsa-62-HDS.jpg" xml:id="IMG.HDS"/>
       </surface>
    </facsimile>
    <text>
       <body xml:space="preserve">    
       <div>
-        <head xml:id="add.1"> </head> 
+        <head xml:id="feast.nocdb.1"> </head> 
         <div>
           <ab><pb n="001r" xml:id="HART.001r"/><note>Fünf Zeilen mit Nachträgen, schlecht lesbar</note></ab>
-          <ab>Item <seg xml:id="person.pawer.add00001.comment.1" ana="#person"><unclear/>pawer</seg> zu <seg xml:id="place.Pocking.add00001.comment.1" ana="#place">Pocking</seg>
+          <ab>Item <seg xml:id="person.pawer.nocdb.comment.1" ana="#person"><unclear/>pawer</seg> zu <seg xml:id="place.Pocking.nocdb.comment.1" ana="#place">Pocking</seg>
             <unclear/>
             <unclear/>
-            <seg xml:id="person.PfarrerzwHartkirchnn.add00001.comment.2" ana="#person">Pfarrer zw Hartkirchnn</seg> all jar zw unser Frawentag geben <unclear/> zu korn sa<unclear/>d 1 lb. d., zwo Stifft hennen, 1 fiertl wein, zwen steck kornn, drey steck habernn. </ab>
+            <seg xml:id="person.PfarrerzwHartkirchnn.nocdb.comment.2" ana="#person">Pfarrer zw Hartkirchnn</seg> all jar zw unser Frawentag geben <unclear/> zu korn sa<unclear/>d 1 lb. d., zwo Stifft hennen, 1 fiertl wein, zwen steck kornn, drey steck habernn. </ab>
         </div>
       </div>
       <div>
         <head xml:id="feast.14042500.2" corresp="#14042500">ITEM IN DIE MARCI</head>
         <div>
-          <ab>itur cum reliquiis ad <seg xml:id="place.sanctumFlorianuminUnttling.14042500.comment.2" ana="#place">sanctum Florianum in Ŭnttling</seg> de omnibus ecclesiis. Et unus sociorum, <seg xml:id="function.ebdomadarius.14042500.comment.1" ana="#function">ebdomadarius</seg> videlicet, celebrabit ibidem missam et faciat exhortationem de letania maiori, et habent suam processionem. </ab>
+          <ab>itur cum reliquiis ad <seg xml:id="place.sanctumFlorianuminŬnttling.14042500.comment.2" ana="#place">sanctum Florianum in Ŭnttling</seg> de omnibus ecclesiis. Et unus sociorum, <seg xml:id="function.ebdomadarius.14042500.comment.1" ana="#function">ebdomadarius</seg> videlicet, celebrabit ibidem missam et faciat exhortationem de letania maiori, et habent suam processionem. </ab>
         </div>
       </div>
       <div>
@@ -362,7 +540,7 @@
       <div>
         <head xml:id="feast.14050300.10" corresp="#14050300">ITEM IN INVENTIONIS SANCTAE CRUCIS</head>
         <div>
-          <ab>festo celebratur. Et cantetur officium in <seg xml:id="place.Ogkershaim.14050300.comment.25" ana="#place">Ogkershaim</seg> in <seg xml:id="place.arasanctaecrucis.14050300.comment.26" ana="#place">ara sanctae crucis</seg>, et fiat ibidem exhortatio de festo. Et hec omnia fient per ebdomadam in <seg xml:id="place.Pocking.14050300.comment.27" ana="#place">Pocking</seg>. Et isti de <seg xml:id="place.Pocking.14050300.comment.28" ana="#place">Pocking</seg> eodem die sunt contenti in sua missa cottidiana per <seg xml:id="function.cappelanum.14050300.comment.20" ana="#function">cappelanum</seg> habita. Eodem die <seg xml:id="function.cooperatores.14050300.comment.21" ana="#function">cooperatores</seg> cantent vesperas in <seg xml:id="place.unttling.14050300.comment.29" ana="#place">Ŭnttling</seg> de <seg xml:id="person.sanctoFloriano.14050300.comment.3" ana="#person">sancto Floriano</seg>. Et <seg xml:id="function.plebanus.14050300.comment.22" ana="#function">plebanus</seg> mittat <seg xml:id="function.colonum.14050300.comment.23" ana="#function">colonum</seg> cum biga et sporta ad portandum panes cum sua additione, proprie Weysat, receptas in <seg xml:id="place.cimiterio.14050300.comment.30" ana="#place">cimiterio</seg>, vel ubi placet, a <seg xml:id="function.villanis.14050300.comment.24" ana="#function">villanis</seg> ibidem. </ab>
+          <ab>festo celebratur. Et cantetur officium in <seg xml:id="place.Ogkershaim.14050300.comment.25" ana="#place">Ogkershaim</seg> in <seg xml:id="place.arasanctaecrucis.14050300.comment.26" ana="#place">ara sanctae crucis</seg>, et fiat ibidem exhortatio de festo. Et hec omnia fient per ebdomadam in <seg xml:id="place.Pocking.14050300.comment.27" ana="#place">Pocking</seg>. Et isti de <seg xml:id="place.Pocking.14050300.comment.28" ana="#place">Pocking</seg> eodem die sunt contenti in sua missa cottidiana per <seg xml:id="function.cappelanum.14050300.comment.20" ana="#function">cappelanum</seg> habita. Eodem die <seg xml:id="function.cooperatores.14050300.comment.21" ana="#function">cooperatores</seg> cantent vesperas in <seg xml:id="place.Ŭnttling.14050300.comment.29" ana="#place">Ŭnttling</seg> de <seg xml:id="person.sanctoFloriano.14050300.comment.3" ana="#person">sancto Floriano</seg>. Et <seg xml:id="function.plebanus.14050300.comment.22" ana="#function">plebanus</seg> mittat <seg xml:id="function.colonum.14050300.comment.23" ana="#function">colonum</seg> cum biga et sporta ad portandum panes cum sua additione, proprie Weysat, receptas in <seg xml:id="place.cimiterio.14050300.comment.30" ana="#place">cimiterio</seg>, vel ubi placet, a <seg xml:id="function.villanis.14050300.comment.24" ana="#function">villanis</seg> ibidem. </ab>
         </div>
       </div>
       <div>
@@ -551,7 +729,7 @@
       <div>
         <head xml:id="feast.add00007.38" corresp="#add00007">ITEM DOMINICA POST <note type="supplied">FESTUM</note> IACOBI</head>
         <div>
-          <ab>celebratur dedicatio <seg xml:id="place.capellaesanctiFlorianiinunttling.add00007.comment.87" ana="#place">capellae sancti Floriani in Ŭnttling</seg>. Et <seg xml:id="function.cooperatores.add00007.comment.96" ana="#function">cooperatores</seg> primas cantant vesperas. De mane<add type="marginal"> De mane <unclear/></add> vero <seg xml:id="function.ebdomadariusvidelicetPockinger.add00007.comment.97" ana="#function">ebdomadarius videlicet Pockinger</seg> cantabit officium facie<note type="supplied">t</note>que sermonem et alias solemnitates compleat. <seg xml:id="function.Priusintercappelanos.add00007.comment.98" ana="#function">Prius inter cappelanos</seg> ascendet in <seg xml:id="place.Pocking.add00007.comment.88" ana="#place">Pocking</seg> et benedicat sal et aquam, circumeat, et intimat festa et celebrabit divina. Habent <seg xml:id="function.cooperatores.add00007.comment.99" ana="#function">cooperatores</seg> ibidem a <seg xml:id="function.vitricis.add00007.comment.100" ana="#function">vitricis</seg> 24 d. Et si cantent secundas vesperas iterum habent 12 d. <seg xml:id="function.Cappelanus.add00007.comment.101" ana="#function">Cappelanus</seg> habet 15 d. Et <seg xml:id="function.plebanus.add00007.comment.102" ana="#function">plebanus</seg> habet tertiam partem in pullis et pecunia ex eis. <pb n="004r" xml:id="HART.004r"/></ab>
+          <ab>celebratur dedicatio <seg xml:id="place.capellaesanctiFlorianiinŬnttling.add00007.comment.87" ana="#place">capellae sancti Floriani in Ŭnttling</seg>. Et <seg xml:id="function.cooperatores.add00007.comment.96" ana="#function">cooperatores</seg> primas cantant vesperas. De mane<add type="marginal"> De mane <unclear/></add> vero <seg xml:id="function.ebdomadariusvidelicetPockinger.add00007.comment.97" ana="#function">ebdomadarius videlicet Pockinger</seg> cantabit officium facie<note type="supplied">t</note>que sermonem et alias solemnitates compleat. <seg xml:id="function.Priusintercappelanos.add00007.comment.98" ana="#function">Prius inter cappelanos</seg> ascendet in <seg xml:id="place.Pocking.add00007.comment.88" ana="#place">Pocking</seg> et benedicat sal et aquam, circumeat, et intimat festa et celebrabit divina. Habent <seg xml:id="function.cooperatores.add00007.comment.99" ana="#function">cooperatores</seg> ibidem a <seg xml:id="function.vitricis.add00007.comment.100" ana="#function">vitricis</seg> 24 d. Et si cantent secundas vesperas iterum habent 12 d. <seg xml:id="function.Cappelanus.add00007.comment.101" ana="#function">Cappelanus</seg> habet 15 d. Et <seg xml:id="function.plebanus.add00007.comment.102" ana="#function">plebanus</seg> habet tertiam partem in pullis et pecunia ex eis. <pb n="004r" xml:id="HART.004r"/></ab>
         </div>
       </div>
       <div>
@@ -565,7 +743,7 @@
       <div>
         <head xml:id="feast.14081300.40" corresp="#14081300">ITEM IN DIE HIPPOLYTI</head>
         <div>
-          <ab>habeatur una missa ad <seg xml:id="place.sanctumFlorianuminunttling.14081300.comment.93" ana="#place">sanctum Florianum in Ŭnttling</seg> in <seg xml:id="place.arasanctiHippolyti.14081300.comment.94" ana="#place">ara sancti Hippolyti</seg> aut cantetur officium et fiat exhortatio. Si <seg xml:id="function.vittrici.14081300.comment.111" ana="#function">vittrici</seg> salutant, sic pactaverunt mecum, et satisfecerint pro laboribus videlicet 32 d. </ab>
+          <ab>habeatur una missa ad <seg xml:id="place.sanctumFlorianuminŬnttling.14081300.comment.93" ana="#place">sanctum Florianum in Ŭnttling</seg> in <seg xml:id="place.arasanctiHippolyti.14081300.comment.94" ana="#place">ara sancti Hippolyti</seg> aut cantetur officium et fiat exhortatio. Si <seg xml:id="function.vittrici.14081300.comment.111" ana="#function">vittrici</seg> salutant, sic pactaverunt mecum, et satisfecerint pro laboribus videlicet 32 d. </ab>
         </div>
       </div>
       <div>
@@ -631,7 +809,7 @@
       <div>
         <head xml:id="feast.add00011.50" corresp="#add00011">ITEM IN EBDOMADA ANTE VEL POST <note type="supplied">FESTUM</note> NATIVITATIS MARIAE VIRGINIS</head>
         <div>
-          <ab>peragetur anniversarius <seg xml:id="person.Kueppler.add00011.comment.19" ana="#person">Kŭeppler</seg> ab dem <seg xml:id="place.HawßzwRoting.add00011.comment.108" ana="#place">Hawß zw Rǒting</seg>. In <seg xml:id="place.Hartkirchn.add00011.comment.109" ana="#place">Hartkirchn</seg> cum 1 vigilia, 1 requiem et 4 missis. Accendentur 4 candelae. Dabunt <seg xml:id="function.vittriciplebano.add00011.comment.134" ana="#function">vittrici plebano</seg> 3 s. d., <seg xml:id="function.cooperatoribus.add00011.comment.135" ana="#function">cooperatoribus</seg> 20 d., <seg xml:id="function.cappelano.add00011.comment.136" ana="#function">cappelano</seg> 8 d., <seg xml:id="function.camponatori.add00011.comment.137" ana="#function">camponatori</seg> 4 d. </ab>
+          <ab>peragetur anniversarius <seg xml:id="person.Kŭeppler.add00011.comment.19" ana="#person">Kŭeppler</seg> ab dem <seg xml:id="place.HawßzwRǒting.add00011.comment.108" ana="#place">Hawß zw Rǒting</seg>. In <seg xml:id="place.Hartkirchn.add00011.comment.109" ana="#place">Hartkirchn</seg> cum 1 vigilia, 1 requiem et 4 missis. Accendentur 4 candelae. Dabunt <seg xml:id="function.vittriciplebano.add00011.comment.134" ana="#function">vittrici plebano</seg> 3 s. d., <seg xml:id="function.cooperatoribus.add00011.comment.135" ana="#function">cooperatoribus</seg> 20 d., <seg xml:id="function.cappelano.add00011.comment.136" ana="#function">cappelano</seg> 8 d., <seg xml:id="function.camponatori.add00011.comment.137" ana="#function">camponatori</seg> 4 d. </ab>
         </div>
       </div>
       <div>
@@ -689,7 +867,7 @@
       <div>
         <head xml:id="feast.14103120.58" corresp="#14103120">ITEM IN VIGILIA OMNIUM SANCTORUM</head>
         <div>
-          <ab>ascendet <seg xml:id="function.colonus.14103120.comment.150" ana="#function">colonus</seg> cum curru in <seg xml:id="place.Ogkershaim.14103120.comment.121" ana="#place">Ŏgkershaim</seg>. Et <seg xml:id="function.unussociorum.14103120.comment.151" ana="#function">unus sociorum</seg> celebrabit missam ibidem. Post missam vero cantabit vesperas de festo. Completis illis recipient panes et alia iura parochialia. Similter et triticum ibidem et in <seg xml:id="place.villiscircumiacentibus.14103120.comment.122" ana="#place">villis circumiacentibus</seg> ut continetur in registro reddituum. </ab><lb/>
+          <ab>ascendet <seg xml:id="function.colonus.14103120.comment.150" ana="#function">colonus</seg> cum curru in <seg xml:id="place.Ŏgkershaim.14103120.comment.121" ana="#place">Ŏgkershaim</seg>. Et <seg xml:id="function.unussociorum.14103120.comment.151" ana="#function">unus sociorum</seg> celebrabit missam ibidem. Post missam vero cantabit vesperas de festo. Completis illis recipient panes et alia iura parochialia. Similter et triticum ibidem et in <seg xml:id="place.villiscircumiacentibus.14103120.comment.122" ana="#place">villis circumiacentibus</seg> ut continetur in registro reddituum. </ab><lb/>
           <ab>Eodem die de sero cantentur vesperae in <seg xml:id="place.Hartkirchn.14103120.comment.123" ana="#place">Hartkirchn</seg>. Etiam iuxta novam consuetudinem <seg xml:id="function.cooperatores.14103120.comment.152" ana="#function">cooperatores</seg> cantent vesperas in <seg xml:id="place.Mitich.14103120.comment.124" ana="#place">Mitich</seg> et habent solacium suum a <seg xml:id="function.vittricis.14103120.comment.153" ana="#function">vittricis</seg> ibidem. </ab>
         </div>
       </div>
@@ -725,7 +903,7 @@
       <div>
         <head xml:id="feast.14111108.63" corresp="#14111108">ITEM IN EBDOMADA POST <note type="supplied">FESTUM</note> MARTINI</head>
         <div>
-          <ab>peragetur anniversarius <seg xml:id="person.Huffringerin.14111108.comment.30" ana="#person">Hŭffringerin</seg> in <seg xml:id="place.Hartkirchn.14111108.comment.133" ana="#place">Hartkirchn</seg> cum vigiliia, 1 requiem, 2 missis, et accendantur 3 candelae. <seg xml:id="function.Vittrici.14111108.comment.166" ana="#function">Vittrici</seg> in <seg xml:id="place.Hartkirchn.14111108.comment.134" ana="#place">Hartkirchn</seg> dabunt <seg xml:id="function.plebano.14111108.comment.167" ana="#function">plebano</seg> 3 s. d., <seg xml:id="function.sociis.14111108.comment.168" ana="#function">sociis</seg> 24 d., <seg xml:id="function.camponatori.14111108.comment.169" ana="#function">camponatori</seg> 4 d. </ab>
+          <ab>peragetur anniversarius <seg xml:id="person.Hŭffringerin.14111108.comment.30" ana="#person">Hŭffringerin</seg> in <seg xml:id="place.Hartkirchn.14111108.comment.133" ana="#place">Hartkirchn</seg> cum vigiliia, 1 requiem, 2 missis, et accendantur 3 candelae. <seg xml:id="function.Vittrici.14111108.comment.166" ana="#function">Vittrici</seg> in <seg xml:id="place.Hartkirchn.14111108.comment.134" ana="#place">Hartkirchn</seg> dabunt <seg xml:id="function.plebano.14111108.comment.167" ana="#function">plebano</seg> 3 s. d., <seg xml:id="function.sociis.14111108.comment.168" ana="#function">sociis</seg> 24 d., <seg xml:id="function.camponatori.14111108.comment.169" ana="#function">camponatori</seg> 4 d. </ab>
         </div>
       </div>
       <div>
@@ -988,7 +1166,7 @@
       <div>
         <head xml:id="feast.14051120.103" corresp="#14051120"><add>ITEM INFRA OCTAVAS FLORIANI</add></head>
         <div>
-          <ab><add>peragetur anniversarius <seg xml:id="person.Ioannisamordt.14051120.comment.44" ana="#person">Ioannis am ordt</seg> de <seg xml:id="place.Roting.14051120.comment.195" ana="#place">Rǒting</seg>. In <seg xml:id="place.Mitich.14051120.comment.196" ana="#place">Mitich</seg> 1 vigilia, 1 officium de <seg xml:id="person.beatavirgine.14051120.comment.45" ana="#person">beata virgine</seg>, 1 requiem et 1 missa lecta. De quibus dant <seg xml:id="function.vittrici.14051120.comment.251" ana="#function">vittrici</seg> in <seg xml:id="place.Mitich.14051120.comment.197" ana="#place">Mitich</seg>
+          <ab><add>peragetur anniversarius <seg xml:id="person.Ioannisamordt.14051120.comment.44" ana="#person">Ioannis am ordt</seg> de <seg xml:id="place.Rǒting.14051120.comment.195" ana="#place">Rǒting</seg>. In <seg xml:id="place.Mitich.14051120.comment.196" ana="#place">Mitich</seg> 1 vigilia, 1 officium de <seg xml:id="person.beatavirgine.14051120.comment.45" ana="#person">beata virgine</seg>, 1 requiem et 1 missa lecta. De quibus dant <seg xml:id="function.vittrici.14051120.comment.251" ana="#function">vittrici</seg> in <seg xml:id="place.Mitich.14051120.comment.197" ana="#place">Mitich</seg>
               <seg xml:id="function.plebano.14051120.comment.252" ana="#function">plebano</seg> 1 fl. d., <seg xml:id="function.cooperatoribus.14051120.comment.253" ana="#function">cooperatoribus</seg> 60 d. </add></ab>
         </div>
       </div>
@@ -1029,7 +1207,7 @@
         <head xml:id="feast.add00024.106" corresp="#add00024"><note type="supplied">Addendum</note></head>
         <div>
           <ab><note>Nachträge, schwer lesbar. </note></ab>
-          <ab>Item <seg xml:id="function.cooperatores.add00024.comment.298" ana="#function">cooperatores</seg> omni ebdomada persolvere debent unam missam zu <seg xml:id="place.untling.add00024.comment.220" ana="#place">Ŭntling</seg> de qua habent 1 fl. </ab><lb/>
+          <ab>Item <seg xml:id="function.cooperatores.add00024.comment.298" ana="#function">cooperatores</seg> omni ebdomada persolvere debent unam missam zu <seg xml:id="place.Ŭntling.add00024.comment.220" ana="#place">Ŭntling</seg> de qua habent 1 fl. </ab><lb/>
           <ab>Item omni ebdomada unam in <seg xml:id="place.Intzing.add00024.comment.221" ana="#place">Intzing</seg> et quando occupati non sunt cum per <unclear/>bus legant dilax<unclear/> de quibus habent 1 fl. </ab><lb/>
           <ab>Item semper in sexta feria <seg xml:id="function.ebdomadarius.add00024.comment.299" ana="#function">ebdomadarius</seg> legat missam in <seg xml:id="place.Ockershaim.add00024.comment.222" ana="#place">Ockershaim</seg>, de qua habent <seg xml:id="function.cooperatores.add00024.comment.300" ana="#function">cooperatores</seg> 11 s<note type="supplied">olidos</note> nigros<unclear/> ago<unclear/></ab><lb/>
           <ab>Item <seg xml:id="function.cooperatores.add00024.comment.301" ana="#function">cooperatores</seg> habent collecturam satis bonam de siligine 18 saccis. Item<unclear/> de avena suppedere volo de lino et pecunia. </ab><lb/>
