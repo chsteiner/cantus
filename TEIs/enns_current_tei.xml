@@ -1,0 +1,536 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:id="enns">
+    <fileDesc>
+      <titleStmt>
+        <title>
+          Pro sacrosancta festivitate <gap></gap> <note type="supplied">d</note>edicationis ecclesiae sancti Lauren<note type="supplied">tii et</note> patrocinii cum suffragiis <note type="supplied">universal</note>is ordinatio sequitur, prout <note type="supplied">ex sub</note>scriptis patebit etc. 
+        </title>
+        <title type="short">Enns</title>
+        <title type="citation">Eine Dienstordnung für das Patroziniums- und Kirchweihfest an der Pfarrkirche in Enns aus dem Jahre 1500</title>
+        <respStmt>
+          <resp>editor</resp>
+          <persName>
+            <forename>Robert</forename>
+            <surname>Klugseder</surname>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>transcription</resp>
+          <persName>
+            <forename>Robert</forename>
+            <surname>Klugseder</surname>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>digital processing, text-modelling</resp>
+          <persName>
+            <forename>Christian</forename>
+            <surname>Steiner</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName corresp="https://www.oeaw.ac.at/ikm/home/" ref="http://d-nb.info/gnd/1043809171">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage, Abteilung Musikwissenschaft</orgName>
+        </publisher>
+        <authority>
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+            Informationsmodellierung - Austrian Centre for Digital Humanities,
+            Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor>
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management
+            System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC
+            4.0</licence>
+        </availability>
+        <date when="2020">2020</date>
+        <idno type="PID">o:cantus.enns</idno>
+      </publicationStmt>
+      
+      <seriesStmt>
+        <title ref="http://gams.uni-graz.at/cantus" xml:lang="de">Cantus Network - semantisch
+          erweiterte Digitale Edition der Libri ordinarii der Metropole Salzburg</title>
+        <title ref="http://gams.uni-graz.at/cantus" xml:lang="en">Cantus Network - a semantically
+          enriched digital edition of Libri ordinarii of the Salzburg metropolitan province.</title>
+        <respStmt>
+          <resp>Projektleitung</resp>
+          <persName>
+            <forename>Franz</forename>
+            <forename>Karl</forename>
+            <surname>Praßl</surname>
+          </persName>
+          <persName>
+            <forename>Robert</forename>
+            <surname>Klugseder</surname>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>Mitarbeiter</resp>
+          <persName>
+            <forename>Gionata</forename>
+            <surname>Brusa</surname>
+          </persName>
+          <persName>
+            <forename>Christian</forename>
+            <surname>Steiner</surname>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>Kooperationspartner</resp>
+          <orgName>Universität für Musik- und darstellende Kunst Graz (KUG)</orgName>
+          <orgName>Music Encoding Initiative (MEI)</orgName>
+        </respStmt>
+        <respStmt>
+          <resp>Finanzierung</resp>
+          <orgName>Österreichische Akademie der Wissenschaften: Digital Humanities. Langzeitprojekte
+            zum kulturellen Erbe</orgName>
+        </respStmt>
+      </seriesStmt>
+      
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <altIdentifier>
+              <placeName>Pfarrkirche Enns<date from="1500" to="1501">1500-1501</date>
+              </placeName>
+              <idno n="A-LIda_Urkunden_Passau_Akten_13">Diözesanarchiv Linz, Urkunden, Passau, Akten 13</idno>
+            </altIdentifier>
+          </msIdentifier>
+        </msDesc>
+        <list type="secondary_sources">
+          <item></item>
+        </list>
+        <list type="traktate" xml:base="https://raw.githubusercontent.com/chsteiner/cantus/master/TEIs/AuthorsTract.xml">
+          <item xml:id="Durandus">
+            <bibl>
+              <title>Rationale Divinorum Officiorum</title>
+              <author>Guillelmus Durandus</author>
+              <editor>Anselme DAVRIL - Timothy M. THIBODEAU</editor>
+              <placeName>Turnout</placeName>
+              <date>195-2000</date>
+              <series>CChr.CM 140,140A-B</series>
+            </bibl>
+          </item>
+          <item xml:id="Beleth">
+            <bibl>
+              <title>Summa de ecclesiasticis officiis</title>
+              <author>Iohannes Beleth</author>
+              <editor>Heribertus DOUTEIL</editor>
+              <placeName>Turnout</placeName>
+              <date>1976</date>
+              <series>CChr.CM 41-41A</series>
+            </bibl>
+          </item>
+          <item xml:id="Bernold">
+            <bibl>
+              <title>Micrologus de ecclesiasticis observationibus</title>
+              <author>Bernold von St. Blasien</author>
+              <editor></editor>
+              <placeName></placeName>
+              <date></date>
+              <series>PL 151, 973-1022</series>
+            </bibl>
+          </item>
+          <item xml:id="ChroniconVenetum">
+            <bibl>
+              <title>Chronicon Venetum</title>
+              <author>Ioannes Diaconus Venetus</author>
+              <editor>PERTZ</editor>
+              <placeName>Hannover</placeName>
+              <date>1846</date>
+              <series>MGH.SS VII, 4-38</series>
+            </bibl>
+          </item>
+          <item xml:id="LibQuare">
+            <bibl>
+              <title>Liber Quare</title>
+              <author></author>
+              <editor>Georg Polycarp GOETZ</editor>
+              <placeName>Turnhout</placeName>
+              <date>1983</date>
+              <series>CChr.CM 60</series>
+            </bibl>
+          </item>
+          <item xml:id="Gregorius">
+            <bibl>
+              <title>Registrum Epistolarum</title>
+              <author>Gregorius I papa</author>
+              <editor>Paul EWAN - Ludo M. HARTMANN</editor>
+              <placeName>Berlin</placeName>
+              <date>1891-99</date>
+              <series>MGH.Ep I-II</series>
+            </bibl>
+          </item>
+          <item xml:id="Isidorus">
+            <bibl>
+              <title>Sententiarum libri tres</title>
+              <author>Isidorus von Sevilla</author>
+              <editor>Pierre CAZIER</editor>
+              <placeName>Turnhout</placeName>
+              <date>1998</date>
+              <series>CCHr.SL 111</series>
+            </bibl>
+          </item>
+          <item xml:id="LibConv">
+            <bibl>
+              <title>Libellus de conversione Bogoariorum et Carantanorum</title>
+              <author></author>
+              <editor>Georg Heinrich PERTZ</editor>
+              <placeName>Hannover</placeName>
+              <date>1854</date>
+              <series>MGH.SS XI</series>
+            </bibl>
+          </item>
+          <item xml:id="Rupert">
+            <bibl>
+              <title>Liber de divinis officiis</title>
+              <author>Rupert von Deutz</author>
+              <editor>Rhaban HAACKE</editor>
+              <placeName>Turnhout</placeName>
+              <date>1967</date>
+              <series>CChr.CM 7</series>
+            </bibl>
+          </item>
+          <item xml:id="Amalarius">
+            <bibl>
+              <title>De ecclesiasticis officiis</title>
+              <author>Amalarius von Metz</author>
+              <editor>Jean Michel HANNSENS</editor>
+              <placeName>Città del Vaticano</placeName>
+              <date>1948-50</date>
+              <series>Studi e Testi 138-140</series>
+            </bibl>
+          </item>
+          <item xml:id="Beda">
+            <bibl>
+              <title>Homiliarum libri tres</title>
+              <author>Beda</author>
+              <editor>David HURST - John FRAIPONT</editor>
+              <placeName>Turnhout</placeName>         
+     <date>1955</date>
+              <series>CChr.SL 122</series>
+            </bibl>
+          </item>
+          <item xml:id="Sichard">
+            <bibl>
+              <title>Mitrale sive Summa de officiis</title>
+              <author>Sichard von Cremona</author>
+              <editor>Lorenz WEINRICH</editor>
+              <placeName>Turnhout</placeName>
+              <date>2008</date>
+              <series>CChr.CM 228</series>
+            </bibl>
+          </item>
+          <item xml:id="ConcAgath">
+            <bibl>
+              <title>Concilium Agathense</title>
+              <author></author>
+              <editor>Charles MUNIER</editor>
+              <placeName>Turnhout</placeName>
+              <date>2008</date>
+              <series>CChr.SL 228 (=Concilia Galliae 314-506)</series>
+            </bibl>
+          </item>
+          <item xml:id="ConcGerund">
+            <bibl>
+              <title>Concilium Gerundense</title>
+              <author></author>
+              <editor></editor>
+              <placeName></placeName>
+              <date></date>
+              <series>PL 84,314-316</series>
+            </bibl>
+          </item>
+          <item xml:id="GregoriusVII">
+            <bibl>
+              <title>Regula canonica</title>
+              <author>Gregorius VII papa</author>
+              <editor>Jean MORIN</editor>
+              <placeName></placeName>
+              <date>1901</date>
+              <series>Revue bénédictine 18, 177-183</series>
+            </bibl>
+          </item>
+          <item xml:id="Honorius">
+            <bibl>
+              <title>Gemma animae</title>
+              <author>Honorius Augustodunensis</author>
+              <editor></editor>
+              <placeName></placeName>
+              <date></date>
+              <series>PL 172, 541-738</series>
+            </bibl>
+          </item>
+          <item xml:id="Ivo">
+            <bibl>
+              <title>Panormia</title>
+              <author>Ivo von Chartres</author>
+              <editor></editor>
+              <placeName></placeName>
+              <date></date>
+              <series>PL 161, 1041-1344</series>
+            </bibl>
+          </item>
+          <item xml:id="AH">
+            <bibl>
+              <title>Analecta hymnica medii aevi Vol. I-LV</title>
+              <author></author>
+              <editor>Guido Maria DREVES e.a.</editor>
+              <placeName>Leipzig</placeName>
+              <date>1886-1926</date>
+              <series></series>
+            </bibl>
+          </item>
+          <item xml:id="CantusDBandIDX">
+            <bibl>
+              <title>CANTUS Database und CANTUS Index</title>
+              <author></author>
+              <editor>Debora LACOSTE, Jan KOLÁČEK e.a.</editor>
+              <placeName>Waterloo</placeName>
+              <date>2011ff</date>
+              <series></series>
+              <ref target="http://cantus.uwaterloo.ca/home/"></ref>
+              <ref target="http://cantusindex.org/"></ref>
+            </bibl>
+          </item>
+          <item xml:id="CorpOr">
+            <bibl>
+              <title>Corpus orationum Vol. I-XIII</title>
+              <author></author>
+              <editor>Edmond Eugene MOELLER, Jean-Marie CLÉMENT und Bertrandus COPPETIERS&apos;T
+                WALLANT</editor>
+              <placeName>Turnhout</placeName>
+              <date>1992ff</date>
+              <series>Corpus Christianorum, series Latina CLX B</series>
+            </bibl>
+          </item>
+          <item xml:id="CT">
+            <bibl>
+              <title>Corpus Troporum Vol. I-XII</title>
+              <author></author>
+              <editor>Gunilla IVERSEN e.a</editor>
+              <placeName>Stockholm</placeName>
+              <date>1975-2014</date>
+              <series>Studia Latina Stockholmiensia, Acta Universitatis Stockholmiensis</series>
+            </bibl>
+          </item>
+          <item xml:id="PL">
+            <bibl>
+              <title>Patrologiae Cursus Completus. Series Latina, 217 Vol.</title>
+              <author></author>
+              <editor>Jacques Paul MIGNE</editor>
+              <placeName>Paris</placeName>
+              <date>1844-1855</date>
+              <series></series>
+              <ref target="http://mlat.uzh.ch/MLS/xanfang.php?corpus=2&amp;lang=0"></ref>
+            </bibl>
+          </item>
+          <item xml:id="HCM">
+            <bibl>
+              <title>Homiliae de Sanctis et de tempore (Homiliarium Karls des Großen)</title>
+              <author></author>
+              <editor>Paulus DIACONUS</editor>
+              <placeName></placeName>
+              <date></date>
+              <series></series>
+              <ref target="http://www.mlat.uzh.ch/MLS/xanfang.php?tabelle=Auctores_varii_095_cps2&amp;corpus=2&amp;lang=0&amp;allow_download="></ref>
+            </bibl>
+          </item>
+        </list>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application ident="TEI_fromDOCX" version="2.15.0" xml:id="doxtotei">
+          <label>DOCX to TEI</label>
+        </application>
+      </appInfo>
+      <projectDesc xml:lang="de">
+        <p rend="head">Liturgie und Musik in der mittelalterlichen Kirchenprovinz Salzburg.</p>
+        <p>Die Kirchenprovinz Salzburg mit ihren Suffraganbistümern Brixen, Freising, Passau,
+          Regensburg und Salzburg war über viele Jahrhunderte hinweg maßgeblich an der
+          kulturgeschichtlichen Entwicklung Österreichs und Bayerns beteiligt. Umso wichtiger ist
+          es, die zahlreich erhaltenen liturgisch-musikalischen Quellen, die ein wichtiger
+          Bestandteil dieses kulturgeschichtlichen Erbes sind, in digitaler Form zu erschließen und
+          wissenschaftlich auszuwerten.</p>
+        <p>Bei der wissenschaftlichen Auseinandersetzung mit <emph>Libri Ordinarii</emph> muss der
+          kritischen Übertragung der lateinischen Texte eine fundierte Analyse der Ursprünge der
+          Liturgie und der Kommentare folgen. Primäre Aufgabe des Projekts wird es sein, die
+          Ordinarii nach TEI zu transformieren. In einem zweiten Schwerpunkt sollen die
+          Sekundärquellen, also die liturgisch und liturgisch-musikalischen Quellen wie Graduale,
+          Missale, Sequentiare, Antiphonare usw. erschlossen und für die Implementation in die
+          Webplattform aufbereitet werden, um hinter den Incipits der Libri ordinarii auch die
+          konkreten Gestalten z.B. eines Gesanges in vollständiger Form und mit musikalischer
+          Notation vor sich zu haben.</p>
+      </projectDesc>
+      <projectDesc xml:lang="en">
+        <p rend="head">Liturgy and music in the medieval ecclesiastical province of Salzburg</p>
+        <p>For many centuries, the ecclesiastical province of Salzburg, along with its suffragan
+          dioceses of Brixen, Freising, Regensburg and Salzburg, played a key role in the cultural
+          history of Austria and Bavaria. It is thus all the more important that the many surviving
+          liturgical musical sources that constitute an important part of this cultural heritage are
+          made digitally accessible and subjected to scholarly analysis.</p>
+        <p>In scholarly studies of <emph>libri ordinarii</emph>, critical transcriptions of the
+          Latin texts need to be followed up with an in-depth analysis of the origins of the liturgy
+          and the commentaries. This project’s main aim will be to translate the <emph>libri
+            ordinarii</emph> into TEI. As part of a second point of focus, the secondary sources –
+          that is the liturgical and musical sources, such as graduals, missals, sequentiaries,
+          antiphonars and so on – will be analysed and edited for uploading onto the online
+          platform. The concrete shape of a chant, for example, will appear in its complete form
+          (and with musical notation, if applicable) behind the incipits of the <emph>libri
+            ordinarii</emph>.</p>
+      </projectDesc>
+    </encodingDesc>
+    
+    <profileDesc>
+      <abstract facs="#STARTPAGE_IMG" xml:lang="de">
+        <ab type="image_title">Beginn der Dienstordnung der Pfarrkirche Enns (A-LIda_Urkunden_Passau_Akten_13)</ab>
+        <ab type="head">Dienstordnung für das Patroziniums- und Kirchweihfest der Pfarrkirche Enns (ca. 1500-1501)</ab>
+        <p style="primary">Ein gütiges Geschick hat uns ein liturgisches Denkmal gespart, das ob seiner Seltenheit und seines Alters einen großen Wert besitzt. Es ist eine Dienstordnung - zur Feier des Patroziniums- und Kirchweihfestes an der Pfarrkirche zum hl. Laurentius in Lorch-Enns (Diözesanarchiv Linz, Urkunden, Passauer Akten, Nr. 13 (Standortsignatur: Tresor Nr. 24).</p>
+        <p>Über die kirchlichen Verhältnisse in Enns bis zum Erscheinen des Reformdekretes des Königs Ferdinand im Jahre 1553 hat schon im Jahre 1871 der bestverdiente damalige Stiftsarchivar von Lambach, Dr. P. Pius Schmieder, gehandelt (30. Jahresbericht des Museums Francisco-Carolinum in Linz). Hat nun Schmieder die Zahl der Ennser Kirchen, Kapellen, Bruderschaften und Zechen, die Dotation und Besetzungsweise der Pfründen, den Personalstatus usw. auf Grund der archivalischen Zeugen festgestellt, so erfährt das kirchliche Leben der Stadt im Mittelalter durch das hier veröffentlichte Denkmal nach einer anderen Seite eine hochinteressante Beleuchtung. Es gestattet uns einen Blick in die Art und Weise, wie an diesem uralten kirchlichen Sitze die Feier des Patroziniums- und des Kirchweihfestes in der damaligen Pfarrkirche zu Lorch und den übrigen Kirchen, bzw. Kapellen von Enns vor sich ging. Bei dem Konservativismus des Mittelalters ist anzunehmen, dass die hier veröffentlichte Dienstordnung schon seit Menschenaltern bestehende Gebräuche schriftlich festlegte. Die Zeit der Abfassung lässt sich mit ziemlicher Sicherheit ermitteln. Zunächst der terminus post quem: Die Dienstordnung – drei Blätter in der Größe von 40 x 30 cm – erwähnt mehrmals einen Benefiziaten Johannes Ernreiter (ein drittes Blatt gibt die gleiche Dienstordnung wieder, aber mit teilweiser Änderung in den Namen der Offizianten). Ernreiter wird nun in einer Urkunde aus dem Jahre 1510 als schon verstorben erwähnt (Schmieder, 41). Also muss unsere Dienstordnung vor diesem Jahre niedergeschrieben worden sein. Ferner begegnet in unserem Denkmal ein Petrus, substitutus s. Egidii, also ein provisorischer Benefiziat des dem hl. Egidius in der St. Lorenz-Pfarrkirche geweihten Altares. Es war somit zur Zeit der Abfassung der Dienstordnung dieses Benefizium unbesetzt. Da nun aber diese durch den Rücktritt des Erasmus Fierlwek erledigte Pfründe im Jahre 1501 dem in unserem Denkmal nicht genannten Veit Ferringer verliehen wurde, der sie noch 1527 besaß (Schmieder, 30), und nicht anzunehmen ist, dass sie vorher jahrelang unbesetzt gewesen sei, so ergibt sich der Schluss, dass die Dienstordnung im Jahre 1500 oder 1501 niedergeschrieben worden ist. Der in ihr wiederholt genannte Dominus Udalricus, welcher nach dem Zusammenhange nur der Pfarrer sein kann, ist daher der Stadtpfarrer Dr. Ulrich von Alm, welcher im Jahre 1503 gestorben ist. Dieser Mann scheint ein Freund der Ordnung gewesen zu sein, weil er z.B. auch die Verpflichtungen des Schulmeisters in der Scheiblingkirche – einem romanischen Rundbau zu Unserer Lieben Frau auf dem Stadtplatze – in einem „Register, das in der Kapellen der h. dreyer Kunig in ainem psalter mit ainer Keten verhaftet ist“, genau hat bestimmen lassen (Schmieder, 47). Diesem seinem Ordnungssinne ist also wohl auch unser Denkmal entsprungen.</p>
+        <p>An Kirchen und Kapellen werden in der Dienstordnung folgende genannt:<lb/>
+          1. Die St. Lorenz-Pfarrkirche zu Lorch. Erst im Jahre 1553 wurde die Kirche der Minderbrüder zur Pfarrkirche erhoben. In der alten Pfarrkirche verblieb seit diesem Jahre nur mehr die Sepultur und eine tägliche hl. Messe.<lb/>
+          2. Die Scheiblingkirche (rotunda) auf dem Stadtplatze. Im Jahre 1565 wurde sie abgetragen, ihre Steine verwendete man zum Bau des Stadtturmes.<lb/>
+          3. Ecclesia BMV. Da die ebenfalls Unserer Lieben Frau geweihte Scheiblingkirche in der Dienstordnung rotunda genannt wird, so ist unter der ecclesia BMV. die Kirche Maria am Anger gemeint, die 1788 abgebrochen worden ist. In der Dienstordnung wird sie auch einmal capella genannt. Dieses zweitälteste kirchliche Gebäude stand vor der Stadt (in campo, auf dem Anger).<lb/>
+          4. Hospitale. Gemeint ist die St. Elisabeth-Kirche im Bürgerspitale.<lb/>
+          5. Mons s. Georgii. Es ist die uralte Kapelle auf dem Georgenberg.<lb/>
+        </p>
+        <p>Als Altäre der Pfarrkirche werden genannt:<lb/>
+          1. Marienaltar.<lb/>
+          2. Laurentius-Altar.<lb/>
+          3. Corporis-Christi-Altar.<lb/>
+          4. Altar zum hl. Johannes Bapt.<lb/>
+          5. Altar zum hl. Egidius.<lb/>
+          6. Maria Magdalena-Altar.<lb/>
+          7. Altar zum hl. Coloman.<lb/>
+          8. Apostelaltar.<lb/>
+          9. Altar, gestiftet von einem gewissen Stadler (altare Stadlerin).<lb/>
+          Auch in der Kirche zu Unserer Lieben Frau auf dem Anger scheinen mehrere Altäre bestanden zu haben, weil ein altare primum erwähnt wird. Es wäre allerdings auch denkbar, dass der Ausdruck altare primum als Terminus für Hochaltar zu fassen ist, sonach das Vorhandensein anderer Altäre nicht notwendigerweise voraussetzt.
+        </p>
+        <p>Als Geistliche von Enns scheinen folgende auf:<lb/>
+          1. Dominus Udalricus: Dechant und Stadtpfarrer Dr. Ulrich von Alm.<lb/>
+          2. Petrus, substitutus s. Egidii.<lb/>
+          3. Joh. Schauer. Wird in einer Stiftung vom Jahre 1495 Messpfründner des Apostelaltars in der Kirche Maria im Anger genannt.<lb/>
+          4. Thomas Handl. Wird in einer Stiftung vom Jahre 1495 als Kaplan des von den Kellnern gestifteten Altars zur heiligsten Dreifaltigkeit in der Spitalkirche genannt.<lb/>
+          5. Alexander, capellanus BMV.<lb/>
+          6. Petrus Kransdorfer.<lb/>
+          7. Joh. Ernreiter.<lb/>
+          8. Stephan Englkrieg. Wird in einer Stiftung vom Jahre 1495 als Kaplan an der Spitalkirche genannt.<lb/>
+          9. Stephan Schalichs.<lb/>
+          10. Agapitus Kransdorfer.<lb/>
+          11. Udalricus, capellanus Khelmer ex hospitali.<lb/>
+          12. Wolfg. Part. Erscheint 1511 als Benefiziat des Marienaltares in der Pfarrkirche, 1518 auch als Zechmeister der Peterszeche und bis 1524 als Verwalter der Dorothea-Stiftung. Das Benefizium des Marienaltares hat 1521 ein anderer Priester inne.<lb/>
+          13. Andreas, capellanus BMV.<lb/>
+          14. Michael Raydel.<lb/>
+          15. Martinus. Wird in einer Stiftung vom Jahre 1495 als Kaplan Mertten zu Maria im Anger genannt.<lb/>
+          16. P. Pancratius. Wahrscheinlich der 1485 urkundlich erwähnte Minderbruder.<lb/>
+          17. Johannes, plebanus in Tragein.<lb/>
+          18. P. Wolfgang 0. S. B. Da er im Spital zelebriert, dürfte es wohl ein Konventual der Abtei Gleink gewesen sein, welche zu den Wohltätern des Spitals zählte.<lb/>
+          19. Wolfg. Ernreiter. Errichtete 1510 eine Stiftung in Maria in campo.<lb/>
+          20. Georgius de monte Georgii. Erscheint urkundlich 1497 als Kaplan Jörg vom Georgenberg.<lb/>
+          21. Thomas, capellanus altaris Domini Staric  (auch altaris Starchin).<lb/>
+          22. Thomas ex rotunda capellanus s. Spiritus. <lb/>
+          23. Thomas, substitutus s. Spiritus.<lb/>
+          Die drei letztgenannten Namen dürften wohl identisch sein.<lb/>
+          24. Sebastianus. Minderbruder?<lb/>
+          25. Christophorus, capellanus substitutus.<lb/>
+          Also eine ansehnliche Zahl von Geistlichen in dem kleinen Enns! Aus der Dienstordnung geht hervor, dass der Pfarrer drei Kooperatoren hatte. Ob dieselben unter den mit Namen genannten Priestern zu suchen sind oder zu den 23 Klerikern noch dazu kommen, lässt sich nicht sagen.
+        </p>
+        <p>Nach unseren heutigen Begriffen nimmt sich der fürsorgliche und wiederholte Hinweis auf die verschiedenen Magenstärkungen, die teils im Hause des Glöckners (in domo campanatoris), teils in der Sakristei, teils im Pfarrhofe (in dote) eingenommen wurden, in Verbindung mit den liturgischen Anordnungen recht sonderbar aus, aber das Mittelalter dachte eben über solche Dinge anders und die ganze Feier dauerte auch sehr lang. Und so wollen wir den Herren Kooperatoren, Kaplänen (Benefiziaten) und Gästen Jause und Festmahl auch heute noch gönnen.<lb/>
+          Es fand sich, aus dem Texte zu schließen, zur Feier des Patroziniums und des Kirchweihfestes immer eine Anzahl auswärtiger Geistlicher ein, darunter auch der Pfarrer von Tragwein. Wieso letzterer dazu Veranlassung hatte, ist mir nicht klargeworden.
+          Für die Geschichte der Liturgik in unserem Lande ist die Dienstordnung jedenfalls ein wertvoller Beitrag; ihre kulturhistorische Bedeutung steht außer Zweifel.
+        </p>
+        <p>
+          <hi rend="italic">von Konrad Schifmann (in: Archiv für die Geschichte der Diözese Linz VI+VII (1904), 145-153</hi>
+        </p>
+      </abstract>
+      <abstract facs="#STARTPAGE_IMG" xml:lang="en">
+        <ab type="image_title">Beginning of the order of service of the parish church of Enns (A-LIda_Urkunden_Passau_Akten_13)</ab>
+        <ab type="head">Order of service for the patronage and dedication of the parish church of Enns (ca. 1500-1501)</ab>
+        <p style="primary">Ein gütiges Geschick hat uns ein liturgisches Denkmal gespart, das ob seiner Seltenheit und seines Alters einen großen Wert besitzt. Es ist eine Dienstordnung - zur Feier des Patroziniums- und Kirchweihfestes an der Pfarrkirche zum hl. Laurentius in Lorch-Enns (Diözesanarchiv Linz, Urkunden, Passauer Akten, Nr. 13 (Standortsignatur: Tresor Nr. 24).</p>
+        <p>Über die kirchlichen Verhältnisse in Enns bis zum Erscheinen des Reformdekretes des Königs Ferdinand im Jahre 1553 hat schon im Jahre 1871 der bestverdiente damalige Stiftsarchivar von Lambach, Dr. P. Pius Schmieder, gehandelt (30. Jahresbericht des Museums Francisco-Carolinum in Linz). Hat nun Schmieder die Zahl der Ennser Kirchen, Kapellen, Bruderschaften und Zechen, die Dotation und Besetzungsweise der Pfründen, den Personalstatus usw. auf Grund der archivalischen Zeugen festgestellt, so erfährt das kirchliche Leben der Stadt im Mittelalter durch das hier veröffentlichte Denkmal nach einer anderen Seite eine hochinteressante Beleuchtung. Es gestattet uns einen Blick in die Art und Weise, wie an diesem uralten kirchlichen Sitze die Feier des Patroziniums- und des Kirchweihfestes in der damaligen Pfarrkirche zu Lorch und den übrigen Kirchen, bzw. Kapellen von Enns vor sich ging. Bei dem Konservativismus des Mittelalters ist anzunehmen, dass die hier veröffentlichte Dienstordnung schon seit Menschenaltern bestehende Gebräuche schriftlich festlegte. Die Zeit der Abfassung lässt sich mit ziemlicher Sicherheit ermitteln. Zunächst der terminus post quem: Die Dienstordnung – drei Blätter in der Größe von 40 x 30 cm – erwähnt mehrmals einen Benefiziaten Johannes Ernreiter (ein drittes Blatt gibt die gleiche Dienstordnung wieder, aber mit teilweiser Änderung in den Namen der Offizianten). Ernreiter wird nun in einer Urkunde aus dem Jahre 1510 als schon verstorben erwähnt (Schmieder, 41). Also muss unsere Dienstordnung vor diesem Jahre niedergeschrieben worden sein. Ferner begegnet in unserem Denkmal ein Petrus, substitutus s. Egidii, also ein provisorischer Benefiziat des dem hl. Egidius in der St. Lorenz-Pfarrkirche geweihten Altares. Es war somit zur Zeit der Abfassung der Dienstordnung dieses Benefizium unbesetzt. Da nun aber diese durch den Rücktritt des Erasmus Fierlwek erledigte Pfründe im Jahre 1501 dem in unserem Denkmal nicht genannten Veit Ferringer verliehen wurde, der sie noch 1527 besaß (Schmieder, 30), und nicht anzunehmen ist, dass sie vorher jahrelang unbesetzt gewesen sei, so ergibt sich der Schluss, dass die Dienstordnung im Jahre 1500 oder 1501 niedergeschrieben worden ist. Der in ihr wiederholt genannte Dominus Udalricus, welcher nach dem Zusammenhange nur der Pfarrer sein kann, ist daher der Stadtpfarrer Dr. Ulrich von Alm, welcher im Jahre 1503 gestorben ist. Dieser Mann scheint ein Freund der Ordnung gewesen zu sein, weil er z.B. auch die Verpflichtungen des Schulmeisters in der Scheiblingkirche – einem romanischen Rundbau zu Unserer Lieben Frau auf dem Stadtplatze – in einem „Register, das in der Kapellen der h. dreyer Kunig in ainem psalter mit ainer Keten verhaftet ist“, genau hat bestimmen lassen (Schmieder, 47). Diesem seinem Ordnungssinne ist also wohl auch unser Denkmal entsprungen.</p>
+        <p>An Kirchen und Kapellen werden in der Dienstordnung folgende genannt:<lb/>
+          1. Die St. Lorenz-Pfarrkirche zu Lorch. Erst im Jahre 1553 wurde die Kirche der Minderbrüder zur Pfarrkirche erhoben. In der alten Pfarrkirche verblieb seit diesem Jahre nur mehr die Sepultur und eine tägliche hl. Messe.<lb/>
+          2. Die Scheiblingkirche (rotunda) auf dem Stadtplatze. Im Jahre 1565 wurde sie abgetragen, ihre Steine verwendete man zum Bau des Stadtturmes.<lb/>
+          3. Ecclesia BMV. Da die ebenfalls Unserer Lieben Frau geweihte Scheiblingkirche in der Dienstordnung rotunda genannt wird, so ist unter der ecclesia BMV. die Kirche Maria am Anger gemeint, die 1788 abgebrochen worden ist. In der Dienstordnung wird sie auch einmal capella genannt. Dieses zweitälteste kirchliche Gebäude stand vor der Stadt (in campo, auf dem Anger).<lb/>
+          4. Hospitale. Gemeint ist die St. Elisabeth-Kirche im Bürgerspitale.<lb/>
+          5. Mons s. Georgii. Es ist die uralte Kapelle auf dem Georgenberg.<lb/>
+        </p>
+        <p>Als Altäre der Pfarrkirche werden genannt:<lb/>
+          1. Marienaltar.<lb/>
+          2. Laurentius-Altar.<lb/>
+          3. Corporis-Christi-Altar.<lb/>
+          4. Altar zum hl. Johannes Bapt.<lb/>
+          5. Altar zum hl. Egidius.<lb/>
+          6. Maria Magdalena-Altar.<lb/>
+          7. Altar zum hl. Coloman.<lb/>
+          8. Apostelaltar.<lb/>
+          9. Altar, gestiftet von einem gewissen Stadler (altare Stadlerin).<lb/>
+          Auch in der Kirche zu Unserer Lieben Frau auf dem Anger scheinen mehrere Altäre bestanden zu haben, weil ein altare primum erwähnt wird. Es wäre allerdings auch denkbar, dass der Ausdruck altare primum als Terminus für Hochaltar zu fassen ist, sonach das Vorhandensein anderer Altäre nicht notwendigerweise voraussetzt.
+        </p>
+        <p>Als Geistliche von Enns scheinen folgende auf:<lb/>
+          1. Dominus Udalricus: Dechant und Stadtpfarrer Dr. Ulrich von Alm.<lb/>
+          2. Petrus, substitutus s. Egidii.<lb/>
+          3. Joh. Schauer. Wird in einer Stiftung vom Jahre 1495 Messpfründner des Apostelaltars in der Kirche Maria im Anger genannt.<lb/>
+          4. Thomas Handl. Wird in einer Stiftung vom Jahre 1495 als Kaplan des von den Kellnern gestifteten Altars zur heiligsten Dreifaltigkeit in der Spitalkirche genannt.<lb/>
+          5. Alexander, capellanus BMV.<lb/>
+          6. Petrus Kransdorfer.<lb/>
+          7. Joh. Ernreiter.<lb/>
+          8. Stephan Englkrieg. Wird in einer Stiftung vom Jahre 1495 als Kaplan an der Spitalkirche genannt.<lb/>
+          9. Stephan Schalichs.<lb/>
+          10. Agapitus Kransdorfer.<lb/>
+          11. Udalricus, capellanus Khelmer ex hospitali.<lb/>
+          12. Wolfg. Part. Erscheint 1511 als Benefiziat des Marienaltares in der Pfarrkirche, 1518 auch als Zechmeister der Peterszeche und bis 1524 als Verwalter der Dorothea-Stiftung. Das Benefizium des Marienaltares hat 1521 ein anderer Priester inne.<lb/>
+          13. Andreas, capellanus BMV.<lb/>
+          14. Michael Raydel.<lb/>
+          15. Martinus. Wird in einer Stiftung vom Jahre 1495 als Kaplan Mertten zu Maria im Anger genannt.<lb/>
+          16. P. Pancratius. Wahrscheinlich der 1485 urkundlich erwähnte Minderbruder.<lb/>
+          17. Johannes, plebanus in Tragein.<lb/>
+          18. P. Wolfgang 0. S. B. Da er im Spital zelebriert, dürfte es wohl ein Konventual der Abtei Gleink gewesen sein, welche zu den Wohltätern des Spitals zählte.<lb/>
+          19. Wolfg. Ernreiter. Errichtete 1510 eine Stiftung in Maria in campo.<lb/>
+          20. Georgius de monte Georgii. Erscheint urkundlich 1497 als Kaplan Jörg vom Georgenberg.<lb/>
+          21. Thomas, capellanus altaris Domini Staric  (auch altaris Starchin).<lb/>
+          22. Thomas ex rotunda capellanus s. Spiritus. <lb/>
+          23. Thomas, substitutus s. Spiritus.<lb/>
+          Die drei letztgenannten Namen dürften wohl identisch sein.<lb/>
+          24. Sebastianus. Minderbruder?<lb/>
+          25. Christophorus, capellanus substitutus.<lb/>
+          Also eine ansehnliche Zahl von Geistlichen in dem kleinen Enns! Aus der Dienstordnung geht hervor, dass der Pfarrer drei Kooperatoren hatte. Ob dieselben unter den mit Namen genannten Priestern zu suchen sind oder zu den 23 Klerikern noch dazu kommen, lässt sich nicht sagen.
+        </p>
+        <p>Nach unseren heutigen Begriffen nimmt sich der fürsorgliche und wiederholte Hinweis auf die verschiedenen Magenstärkungen, die teils im Hause des Glöckners (in domo campanatoris), teils in der Sakristei, teils im Pfarrhofe (in dote) eingenommen wurden, in Verbindung mit den liturgischen Anordnungen recht sonderbar aus, aber das Mittelalter dachte eben über solche Dinge anders und die ganze Feier dauerte auch sehr lang. Und so wollen wir den Herren Kooperatoren, Kaplänen (Benefiziaten) und Gästen Jause und Festmahl auch heute noch gönnen.<lb/>
+          Es fand sich, aus dem Texte zu schließen, zur Feier des Patroziniums und des Kirchweihfestes immer eine Anzahl auswärtiger Geistlicher ein, darunter auch der Pfarrer von Tragwein. Wieso letzterer dazu Veranlassung hatte, ist mir nicht klargeworden.
+          Für die Geschichte der Liturgik in unserem Lande ist die Dienstordnung jedenfalls ein wertvoller Beitrag; ihre kulturhistorische Bedeutung steht außer Zweifel.
+        </p>
+        <p>
+        <hi rend="italic">von Konrad Schifmann (in: Archiv für die Geschichte der Diözese Linz VI+VII (1904), 145-153</hi>
+        </p>
+      </abstract>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <date when="2020-12-23">23.12.2020</date>
+          <name>Christian Steiner</name>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <surface start="#ENN.001r">
+      <graphic mimeType="image/jpeg" url="file:///A-LIda_Urkunden_Passau_Akten_13-1r.jpg" xml:id="IMG.001r"/>
+    </surface>
+    <surface start="#ENN.002r">
+      <graphic mimeType="image/jpeg" url="file:///A-LIda_Urkunden_Passau_Akten_13-2r.jpg" xml:id="IMG.002r"/>
+    </surface>
+    <surface start="#ENN.003r">
+      <graphic mimeType="image/jpeg" url="file:///A-LIda_Urkunden_Passau_Akten_13-3r.jpg" xml:id="IMG.003r"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body xml:space="preserve"><div><head><note type="supplied">In festo patrocinii et dedicationis</note></head><div type="time:1"><ab ana="#head"><label><note type="supplied">Ad vesperas</note></label></ab> <ab> In <seg ana="#place">Rotunda</seg> pro vesperis fit compulsus post duod<note type="supplied">eci</note>mam. Quo facto unus ex <seg ana="#function">dominis cooperatoribus</seg> sit officians. <seg ana="#function">Dominus scholasticus</seg> cantet de sancta Afra. Vesperis finitis in <seg ana="#place">Rotunda</seg> <note type="supplied">in</note> vigilia dedicationis exeat <seg ana="#function">dominus scholasticus</seg> cum suis ad <seg ana="#place">parochiam</seg> pro vesperis cantandis. </ab> <ab>Sic pariter <seg ana="#function">domini cooperatores</seg> et <seg ana="#function">domini capellani</seg> in <seg ana="#place">parochia</seg> sint <note type="supplied">con</note>gregati. Duo ex <seg ana="#function">dominis cooperatoribus</seg> associant <seg ana="#function">dominum</seg> in vesperis pro thurificatione facienda, tertius vero ex <seg ana="#function">dominis cooperatoribus</seg> di<note type="supplied">spon</note>at se pro sermocinatione verbi dei. Post capitulum erit responsorium in vesperis <seg ana="#RP" subtype="supplied" type="incipit">Visita quaesumus domine</seg>. Suffragium primum de sancta Afra, secundum <seg ana="#AC" type="incipit">Beatus vir</seg> de sancto Donato, tandem de dominica, de historia Sapientia, videlicet secundam <seg ana="#AC" type="incipit">Sapientia aedificat sibi domum</seg>. <note type="supplied">V</note>esperis finitis <seg ana="#function">dominus scholasticus</seg> cum suis ingrediatur <seg ana="#place">domum campanatoris parochiae</seg> et ibidem faciat collationem ac recreetur, quousque fiat compulsus ad matutinas cantandas et tunc sine mora revertetur. </ab></div><div type="time:1"><ab ana="#head"><label>Completorium</label></ab> <ab> cantetur cum organo absque tamen <seg ana="#AS" type="incipit">Salve regina</seg> et <seg ana="#AS" subtype="supplied" type="incipit">Ave regina caelorum</seg>, quae reserventur post officium matutinale cantandae. Sicque <seg ana="#function">organista</seg> faciat in <seg ana="#place">sacristia</seg> suam collationem <note type="supplied">c</note>um <seg ana="#function">dominis</seg>. Completorio finito absque intervallo sit unus ex <seg ana="#function">dominis cooperatoribus</seg> in <seg ana="#place">ambone</seg> verbum dei sermocinando. Interim <seg ana="#function">dominus</seg> et <seg ana="#function">domini cooperatores</seg>, pariter <seg ana="#function">capellani</seg> et <seg ana="#function">organista</seg> ingrediantur <seg ana="#place">sacristiam</seg> pro refrigerio et ibidem collationem faciendam. Sermone <note type="supplied">fin</note>ito ac publica confessione inchoata pro officio matutinali fiat compulsus campanarum. </ab></div><div type="time:1"><ab ana="#head"><label><note type="supplied">In matutinis</note></label></ab> <ab> Quo peracto pro <seg ana="#PS" type="incipit">Venite exultemus domino</seg><note type="supplied">can</note>tent duo ex <seg ana="#function">dominis cooperatoribus</seg> alte et solemni voce. Tertium responsorium tam in primo nocturno quam in secundo et tertio cantet <seg ana="#function">organista</seg> in organis, pariter omnes antiphonae pro repetitione in laudibus. <seg ana="#function">Domini</seg> legentes lectiones in matutinis. Ad primam lectionem <seg ana="#person">dominus Petrus</seg>, <seg ana="#function">substitutus sancti Aegidii</seg>. Ad secundam lectionem <seg ana="#person">dominus Ioannes Schaur</seg>. Ad tertiam lectionem <seg ana="#person">dominus Thomas Händl</seg>. Ad quartam lectionem <seg ana="#person">dominus Alexander</seg>. Ad quintam lectionum <seg ana="#person">dominus Petrus Kransdorffer</seg>. Ad sextam lectionem unus ex <seg ana="#function">dominis cooperatoribus</seg>. Ad septimam lectionem alter ex <seg ana="#function">dominis cooperatoribus</seg> sit indutus more levitico. Quem ex <seg ana="#place">sacristia</seg> <seg ana="#function">duo pueri</seg> praecedant incensis candelis. Ad octavam lectionem tertius ex <seg ana="#function">dominis cooperatoribus</seg>. Ad nonam lectionem <seg ana="#function">dominus</seg> per se. <seg ana="#TD" subtype="supplied" type="incipit">Te deum laudamus</seg> in figuratis. </ab></div><div type="time:1"><ab ana="#head"><label>In laudibus</label></ab> <ab> antiphonae duplicentur. <seg ana="#PS" type="incipit">Benedictus</seg> in figuratis et in organis cantetur, sub quo fiat thurificatio. Ad thurificationem <seg ana="#person">dominus Ioannes Ernreytter</seg>, <seg ana="#person">dominus Stephanus Englkrieg</seg> assistant <seg ana="#function">domino</seg> pro thurificatione. Suffragium de sancta Martha, demum de santo Donato <seg ana="#AC" type="incipit">Hic vir despiciens mundum</seg>. Post <seg ana="#BD" subtype="supplied" type="incipit">Benedicamus</seg> in matutinis et eius repetitionem <seg ana="#function">organista</seg> incipiat et prosequatur eandem <seg ana="#AS" type="incipit">Ave regina caelorum mater regis angelorum</seg>, <seg ana="#function">scholasticus</seg> cum <seg ana="#function">choro</seg> prosequatur eandem, scilicet <seg ana="#AS" subtype="supplied" type="incipit">O Maria flos virginum</seg> usque ad finem. Demum absque intervallo inchoet <seg ana="#function">organista</seg> <seg ana="#AS" subtype="supplied" type="incipit">Salve regina</seg> et cum <seg ana="#function">scholastico</seg> et <seg ana="#function">choro</seg> finiat eandem more solito. Sub antiphona incepta super <seg ana="#PS" type="incipit">Benedictus dominus deus Israel</seg> de <seg ana="#place">parochia</seg> exeant: unus ex <seg ana="#function">dominis cooperatoribus</seg>, <seg ana="#person">dominus Thomas Haendl</seg>, <seg ana="#person">dominus Stephanus Schalichs</seg> et <seg ana="#person">dominus Alexander</seg>, <seg ana="#function">capellanus beatae Mariae virginis</seg>. Qui cantent in <seg ana="#place">Rotunda</seg> pro <seg ana="#function">domino scholastico</seg> <seg ana="#AS" subtype="supplied" type="incipit">Salve regina</seg> et <seg ana="#AS" type="incipit">Ave regina caelorum</seg> sine sequentia. Et veniant ad caenam in dote. </ab> <ab>I:Folgender kurzer Abschnitt wurde doppelt eingetragen: </ab></div><div type="time:1"><ab ana="#head"><label><note type="supplied">Officium</note></label></ab> <ab> In <seg ana="#place">parochia</seg> de mane officians <seg ana="#person">dominus Petrus <unclear></unclear> Kransdorffer</seg> indutus sit sacris vestibus, desuper pluviali ministrantes eum praecedant ex <seg ana="#place">sacristia</seg>: <seg ana="#person">Dominus Udalricus</seg>, <seg ana="#person">capellanus Kelmer</seg> ex <seg ana="#place">hospitali</seg>, et <seg ana="#person">dominus Wolfgangus Part</seg> et <pb n="2r" xml:id="ENN.002r"></pb></ab></div><div type="time:1"><ab ana="#head"><label><note type="supplied">Officium</note></label></ab> <ab> In <seg ana="#place">parochia</seg> de mane officians <seg ana="#person">dominus Agapitus Kransdorffer</seg> indutus sit sacris vestibus, desuper pluviali ministrantes eum praecedant ex <seg ana="#place">sacristia</seg>: <seg ana="#person">Dominus Udalricus</seg>, <seg ana="#person">capellanus Khelmer</seg> ex <seg ana="#place">hospitali</seg>, et <seg ana="#person">dominus Wolfgangus Part</seg> et <seg ana="#function">domini cantores</seg>. Unus ex <seg ana="#function">dominis cooperatoribus</seg>, <seg ana="#person">dominus Andreas</seg> <note type="supplied">Enns2: <seg ana="#person">dominus Alexander</seg></note>, <seg ana="#function">capellanus beatae virginis</seg>, <seg ana="#person">dominus Stephanus Schalichs</seg> et <seg ana="#person">dominus Petrus sancti Aegidii</seg> incipiant canere <seg ana="#AN" subtype="supplied" type="incipit">Asperges</seg> et <seg ana="#person">Kransdorffer</seg> det aspersorium more solito in <seg ana="#place">choro</seg> et desuper cum versiculis consuetis cantet collectam. Demum deponat pluviale in <seg ana="#place">sacristia</seg> et induatur casula <note type="supplied">aurea</note> caelestis coloris. Recipiat in casula reliquias praecedentibus <seg ana="#function">duobus pueris</seg> cum candelis incensis, transeant ad <seg ana="#place">aram sanctae Mariae Magdalenae</seg> et ibidem perficiat officium de sancta trinitate. Secunda collecta erit de dedicatione <note type="supplied">sub una conclusione</note>, tertia de sancto Cyriaco <note type="supplied">Enns2: tertia erit de sancta Afra, quarta de sancto martyre Donato, etiam sub una conclusione</note>. Sed in patrocinio <seg ana="#person">dominus Kransdorffer</seg> in praedicta <seg ana="#place">ara sanctae Mariae Magdalenae</seg> perficiat officium de sancto Laurentio. Collecta sola de sancto Laurentio. Legentes vero missas et post epistolam exeuntes: <seg ana="#person">Dominus Michael Raydel</seg> in <seg ana="#place">ara sancti Laurentii</seg>. Ad <seg ana="#place">altare beatae virginis</seg> <seg ana="#person">dominus Martinus</seg>. Ad <seg ana="#place">aram corporis Christi</seg> <seg ana="#person">dominus Ioannes Ernreytter</seg>. Ad <seg ana="#place">altare sancti Ioannis</seg> <seg ana="#person">dominus Petrus</seg>, <seg ana="#function">substitutus in ara sancti Aegidii</seg>. <seg ana="#function">Domini alieni</seg> quando et ubi volunt legant. </ab> <ab>Officio finito <seg ana="#person">dominus Andreas</seg> <note type="supplied">Enns2: <seg ana="#person">dominus Alexander</seg></note> <seg ana="#function">capellanus beatae virginis</seg> vadat ad <seg ana="#place">ecclesiam beatae virginis</seg> et ibidem legat in <seg ana="#place">primo altari chori</seg>. Interim unus ex <seg ana="#function">dominis cooperatoribus</seg> legat in <seg ana="#place">parochia</seg> in <seg ana="#place">ara sancti Laurentii</seg>. Missa in <seg ana="#place">ecclesia beatae virginis</seg> finita <seg ana="#function">populoque</seg> revertente ad <seg ana="#place">parochiam</seg> unus ex <seg ana="#function">dominis alienis plebanis</seg> sit rogatus esse officians pro aureo officio cantando. Absente <seg ana="#function">domino alieno</seg> <seg ana="#person">dominus Pangratius</seg> <note type="supplied">Enns2: <seg ana="#person">dominus Sebastianus</seg></note>, si vult, alias unus ex <seg ana="#function">dominis cooperatoribus</seg>, indutus vestibus aureis viridis coloris cum cruce de gemmis, ministrantes <seg ana="#person">dominus Ioannes Ernreytter</seg> et <seg ana="#person">dominus Stephanus Schalichs</seg>, officium aureum in figuratis cantet in <seg ana="#place">ara sancti Laurentii</seg>. <note type="supplied">Prima collecta de beata virgine, secunda de dedicatione sub una conclusione, tertia de sancta Afra, quarta de sancto Donato, etiam sub una conclusione. Secus in patrocinio, ubi sola collecta servatur hoc anno in <seg ana="#place">ara sancti Laurentii</seg>. </note> <seg ana="#function">Domini</seg> missas <note type="supplied">legentes</note> et post epistolam exeuntes: Ad <seg ana="#place">aram sancti Kolomani</seg> <seg ana="#person">dominus Ioannes</seg>, <seg ana="#function">plebanus in Tragein</seg>. Ad <seg ana="#place">aram beatae virginis</seg> <seg ana="#person">dominus Thomas Händl</seg>. Unus ex <seg ana="#function">dominis alienis</seg> ad <seg ana="#place">aram sancti Aegidii</seg>. Ad <seg ana="#place">aram corporis Christi</seg> <seg ana="#person">dominus Stephanus Englkrieg</seg>. Ad <seg ana="#place">aram sancti Ioannis</seg> <seg ana="#person">dominus Ioannes Schaur</seg>. Ad <seg ana="#place">aram sanctorum apostolorum</seg> <seg ana="#person">dominus Stephanus Schalichs</seg>. Ad <seg ana="#place">aram sanctae Mariae Magdalenae</seg> <seg ana="#person">dominus Wolfgangus Part</seg> <note type="supplied">Enns2: Ad <seg ana="#place">aram sanctae Mariae Magdalenae</seg> <seg ana="#person">dominus Thomas Händl</seg>. Ad <seg ana="#place">aram beatae virginis</seg> <seg ana="#person">dominus Ioannes</seg>, <seg ana="#function">plebanus in Tragein</seg>. Ad <seg ana="#place">aram sancti Aegidii</seg> <seg ana="#person">dominus Udalricus Kelner</seg> ex <seg ana="#place">hospitali</seg>. Ad <seg ana="#place">aram corporis Christi</seg> <seg ana="#person">dominus Wolfgangus Part</seg>. Ad <seg ana="#place">aram sancti Ioannis</seg> <seg ana="#person">dominus Ioannes Schaur</seg>. Ad <seg ana="#place">aram Stadlerin</seg> sit rogatus unus ex <seg ana="#function">dominis alienis</seg>. Ad <seg ana="#place">aram sanctorum apostolorum</seg> <seg ana="#person">dominus Stephus Englkrieg</seg>. Ad <seg ana="#place">altare sancti Kolomani</seg> <seg ana="#person">dominus Stephanus Schalichs</seg></note>. Elevatione aurei officii finita absque intervallo fiat sermo per unum ex <seg ana="#function">dominis cooperatoribus</seg>. <note type="supplied">Sub sermone sit rogatus legere unus ex <seg ana="#function">dominis alienis</seg> in <seg ana="#place">ara sancti Laurentii</seg>. Interim <seg ana="#function">dominus scholasticus</seg> vadat cum suis ad <seg ana="#place">domum campanatoris</seg> pro refectione sumenda. </note> Ante missam in <seg ana="#place">capella beatae virginis</seg> sit rogatus venerabilis <seg ana="#person">pater Wolfgangus ordinis sancti Benedicti</seg> legere missam in <seg ana="#place">hospitali</seg> et venire ad refectionem prandii in <seg ana="#place">dote</seg> sumendam. Sermone finito <seg ana="#function">dominus</seg> per se cum ministrantibus indutus exeat <seg ana="#place">sacristia</seg> et <seg ana="#function">dominus</seg> in cappis praecedentibus ministrantibus dando aspersorium <note type="supplied">Enns2: ad processionem et ministrantes commenda praecedentibus dando aspersorium</note>. Demum post collectam fiat </ab> <ab type="time:2"><label>processio</label> circumeundo <seg ana="#place">ecclesiam</seg>. Qua peracta iterum sine mora fiat sermocinatio verbi de aliqua materia convenienti cum diligenti promotione <seg ana="#place">ecclesiae sancti Laurentii</seg> <note type="supplied">ab abundatissimis indulgentiis more religiosorum pronuntiandis</note>. Finito sermone ultimo sequitur officium de dedicatione. <seg ana="#function">Officians</seg>: <seg ana="#function">Dominus</seg> per se. <seg ana="#function">Ministrantes</seg>: <seg ana="#person">Dominus Thomas Haendl</seg> et <seg ana="#person">dominus Ioannes Schaur</seg>. <note type="supplied">Collecta prima de dedicatione, secunda de sancta Afra sub una conclusione, tertia de sancto Donato martyre, quarta de sancta trinitate etiam sub una conclusione. </note> <seg ana="#function">Domini</seg> legentes missas et post epistolam sacristiam exeuntes: Ad <seg ana="#place">aram beatae virginis</seg> <seg ana="#person">dominus Wolfgangus Peronsreytter</seg> <note type="supplied">Enns2: <seg ana="#person">Ernreiter</seg></note>. Ad <seg ana="#place">altare sancti Aegidii</seg> <seg ana="#person">dominus Udalricus</seg>, <seg ana="#function">capellanus fundatoris</seg> <seg ana="#person">Wolfgangi Kelmer</seg> <note type="supplied">Enns2: <seg ana="#person">dominus Thomas</seg>, <seg ana="#function">substitutus sancti Spiritus</seg></note>. Ad <seg ana="#place">aram corporis Christi</seg> <seg ana="#person">dominus Christophorus</seg>, <seg ana="#function">capellanus substitutus</seg> ibidem. Ad <seg ana="#place">altare Stadlerin</seg> sit rogatus legere unus ex <seg ana="#function">dominis alienis</seg>. Ad <seg ana="#place">altare sancti Ioannis</seg> <seg ana="#person">dominus Georgius de monte Georgii</seg>. Ad <seg ana="#place">altare sanctorum apostolorum</seg> <seg ana="#person">dominus Thomas</seg>, <seg ana="#function">capellanus altaris domini Starich</seg> <note type="supplied">Enns2: <seg ana="#function">capellanus Starchin</seg></note>. Ad <seg ana="#place">altare sanctae Mariae Magdalenae</seg> <seg ana="#person">dominus Wolfgangus Ernreytter</seg>. Ad <seg ana="#place">altare sancti Kolomani</seg> <seg ana="#person">dominus Thomas ex Rotunda</seg>, <seg ana="#function">capellanus sancti spiritus</seg>. <note type="supplied">Enns2: Ad <seg ana="#place">aram sancti Kolomani</seg> sit rogatus unus ex <seg ana="#function">dominis alienis</seg></note>. <seg ana="#function">Domini religiosi</seg>, pariter <seg ana="#function">domini presbyteri alieni</seg> necnon <seg ana="#function">domini</seg> suprascripti <note type="supplied">Enns2: <seg ana="#function">domini plebani</seg> ac <seg ana="#function">presbyteri alieni</seg> cum <seg ana="#function">dominis capellanis</seg> hic moram trahentibus</note> sint rogati, venire ad prandium in <seg ana="#place">dote</seg> recipiendum. </ab></div><div type="time:1"><ab ana="#head"><label><note type="supplied">In secunda vespera</note></label></ab> <ab> <seg ana="#function">Domini</seg> hic moram trahentes <note type="supplied">Enns2: <seg ana="#function">Domini capellani</seg> hic existentes</note> rogati sint, venire ad secundas vesperas in die sancti Laurentii et dedicationis sancti Laurentii. <seg ana="#function">Scholasticus</seg> cum suis, pariter <seg ana="#function">organista</seg> sint provisi offa et potu. <note type="supplied">Enns2: tam in die dedicationis quam in die patrocinii sancti Laurentii martyris gloriosi. </note></ab></div></div></body>
+  </text>
+</TEI>
